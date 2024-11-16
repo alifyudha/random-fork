@@ -125,6 +125,7 @@
 		"0" "4"
 		"1" "23"
 		"2" "2"
+		"3" "70"
 	}
 	"category"
 	{
@@ -162,7 +163,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1723100363"
+	"steam_release_date" "1723100340"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2649800"
@@ -217,9 +218,9 @@
 		{
 			"public"
 			{
-				"gid" "366297135152468994"
-				"size" "5047565435"
-				"download" "865729504"
+				"gid" "3912430878470980449"
+				"size" "5047599397"
+				"download" "865674304"
 			}
 		}
 		"encryptedmanifests"
@@ -237,8 +238,8 @@
 	{
 		"public"
 		{
-			"buildid" "16207184"
-			"timeupdated" "1730126319"
+			"buildid" "16356425"
+			"timeupdated" "1731673562"
 		}
 		"testdev"
 		{
@@ -269,6 +270,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25932762"
-"_sha" "865c940ef2fbe8e16c0cdfdb896857b53f10f7b4"
-"_size" "4555"
+"_change_number" "26211597"
+"_sha" "754b8d4e9eb4c080b1f80e7487c764ab7153afc4"
+"_size" "4569"
