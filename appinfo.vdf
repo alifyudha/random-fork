@@ -191,7 +191,7 @@
 {
 	"developer" "珠海金山数字网络科技有限公司"
 	"publisher" "海南西山居互动娱乐科技有限公司"
-	"listofdlc" "3298900"
+	"listofdlc" "3298900,3332130"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -224,18 +224,18 @@
 		{
 			"public"
 			{
-				"gid" "699673442446434361"
-				"size" "39432079820"
-				"download" "32500573728"
+				"gid" "5241142734183678906"
+				"size" "39432085492"
+				"download" "32500558656"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internaltest"
 			{
-				"gid" "5C97F14E3A2A8E63C98A4566CAC6BCEC"
-				"size" "E1C0C0EFE292ABC3B57E302DB2FD37C6"
-				"download" "EBCC3F0D05EE418CFA216DFDA5A304EF"
+				"gid" "E89D64997F676C81D3B99FF45DD4484B"
+				"size" "60082DE30DB3B84746E1129DA1F057CF"
+				"download" "A4EA720101AAEA9D93B42C4C55082048"
 			}
 			"steam_china_only"
 			{
@@ -258,14 +258,14 @@
 	{
 		"public"
 		{
-			"buildid" "16419232"
-			"timeupdated" "1731675175"
+			"buildid" "16428640"
+			"timeupdated" "1731741327"
 		}
 		"internaltest"
 		{
-			"buildid" "16423775"
+			"buildid" "16428640"
 			"pwdrequired" "1"
-			"timeupdated" "1731692887"
+			"timeupdated" "1731732941"
 		}
 		"steam_china_only"
 		{
@@ -294,6 +294,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26216893"
-"_sha" "660d9bdb54477ca7c64e3f8278fa03fa6d276f31"
-"_size" "5866"
+"_change_number" "26224313"
+"_sha" "5901e32d1fe21966e688803ce9613d854e8d0665"
+"_size" "5875"
