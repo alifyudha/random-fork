@@ -213,15 +213,15 @@
 		{
 			"public"
 			{
-				"gid" "8474642801847688958"
-				"size" "1032300168"
-				"download" "267394208"
+				"gid" "1127322115573443418"
+				"size" "1032280571"
+				"download" "267373952"
 			}
 			"battle"
 			{
-				"gid" "8474642801847688958"
-				"size" "1032300168"
-				"download" "267394208"
+				"gid" "1127322115573443418"
+				"size" "1032280571"
+				"download" "267373952"
 			}
 		}
 		"encryptedmanifests"
@@ -238,14 +238,14 @@
 	{
 		"public"
 		{
-			"buildid" "16433976"
-			"timeupdated" "1731822114"
+			"buildid" "16441582"
+			"timeupdated" "1731921305"
 		}
 		"battle"
 		{
-			"buildid" "16433976"
+			"buildid" "16441582"
 			"description" "New Battle"
-			"timeupdated" "1731811515"
+			"timeupdated" "1731919475"
 		}
 		"test"
 		{
@@ -274,6 +274,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26234506"
-"_sha" "f2c85103eabb1e728cf6919d56e4ecc65e058794"
+"_change_number" "26241375"
+"_sha" "0fddb13f68e98da50f23a13ade22c77a35c14022"
 "_size" "5144"
