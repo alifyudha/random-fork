@@ -110,6 +110,7 @@
 	{
 		"library_capsule" "zh-cn,en,zh-tw,ja"
 		"library_hero" "zh-cn,en"
+		"library_hero_blur" "zh-cn,en"
 		"library_logo" "en,zh-cn,ja,zh-tw"
 		"library_header" "zh-cn,en,zh-tw,ja"
 		"logo_position"
@@ -149,6 +150,14 @@
 			{
 				"schinese" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_schinese_2x.jpg"
 				"english" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"schinese" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_blur_schinese.jpg"
+				"english" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -269,22 +278,22 @@
 		"1" "122"
 		"2" "4885"
 		"3" "3959"
-		"4" "5125"
-		"5" "32322"
-		"6" "7432"
-		"7" "4791"
-		"8" "4182"
-		"9" "21"
-		"10" "492"
-		"11" "4057"
-		"12" "19"
-		"13" "1702"
-		"14" "353880"
-		"15" "1685"
-		"16" "4190"
-		"17" "3859"
-		"18" "493"
-		"19" "12095"
+		"4" "454187"
+		"5" "5125"
+		"6" "32322"
+		"7" "7432"
+		"8" "4791"
+		"9" "492"
+		"10" "4182"
+		"11" "21"
+		"12" "4057"
+		"13" "19"
+		"14" "1702"
+		"15" "353880"
+		"16" "493"
+		"17" "4190"
+		"18" "1685"
+		"19" "3859"
 	}
 	"review_score" "8"
 	"review_percentage" "89"
@@ -320,9 +329,9 @@
 		{
 			"public"
 			{
-				"gid" "1337529861352887170"
-				"size" "2420203741"
-				"download" "424370096"
+				"gid" "7046156492812536971"
+				"size" "2481634540"
+				"download" "437183888"
 			}
 		}
 		"encryptedmanifests"
@@ -335,9 +344,9 @@
 			}
 			"bilibiliqatesting"
 			{
-				"gid" "1B4A24094C26CD39A5AA08C85A36F180"
-				"size" "3D90331890D52A40A2E6838B289B7194"
-				"download" "C9DB7D7F6D53A5C96E30C468199DCC46"
+				"gid" "F717DC170460A84D0D1512DF41868141"
+				"size" "589F90679A1198561852E2C7FF705DC4"
+				"download" "A57AFD27D3227F81711A8BF192487455"
 			}
 			"eaearlyv"
 			{
@@ -365,9 +374,9 @@
 			}
 			"usersplaytesting"
 			{
-				"gid" "075AD21DD51236F1390A2EB17D0100D0"
-				"size" "CAFABCED027C9A7954B2A341311CEF20"
-				"download" "753A0FD673A0C2BBD00D26B0E3776D0E"
+				"gid" "85F46DE3EE785627C61AEB970AB25EF9"
+				"size" "1B330CF273610A82805F74B314D7ED8B"
+				"download" "8C21761B385634643D4AAA26BD7CDC4F"
 			}
 			"maidiantest"
 			{
@@ -383,9 +392,9 @@
 			}
 			"banbenyanshou"
 			{
-				"gid" "3FB4BD46DC369178F287C07641C99A50"
-				"size" "EF3B34DBB765B38441EE36E9F905B2C6"
-				"download" "93AA75F6A93B3944EF8B0DA9B260E750"
+				"gid" "2F1E0AC5CE5DEC9DF4A029A293E38A22"
+				"size" "BE641765D1EDC75AA7FB30B91927D3F9"
+				"download" "F61DAB2CBC7A7149009086D467E96287"
 			}
 			"eauptesting"
 			{
@@ -395,15 +404,15 @@
 			}
 			"fullcontenttest"
 			{
-				"gid" "CFD87E837F296E4DFEA9F28038D63BE8"
-				"size" "F9B4DF7AE03EADB5308101B0DFFE80DD"
-				"download" "40A4447D74AE700526B90FC7F5293318"
+				"gid" "6992202666092775F0659CF5D1F04B8C"
+				"size" "44AB021A8DD2DC42F17FD20BDD1C8415"
+				"download" "420804A37D1BAE9EC050AF6EEE0460B5"
 			}
 			"shantuiceshi"
 			{
-				"gid" "BA570529D2DF22FF451012BEEC4D4D3E"
-				"size" "59ED9F453611B28E088ECC1593EFCCB6"
-				"download" "26EEF9E457AA2F7E983B4285F5C1C0E4"
+				"gid" "811E898896E86D3D9B4BDB6858123BF1"
+				"size" "72416074A183E1ADAE9A3AAD0214180C"
+				"download" "7864F378D313114CC0E87602CF1B5B4D"
 			}
 			"suibian"
 			{
@@ -417,8 +426,8 @@
 	{
 		"public"
 		{
-			"buildid" "16386429"
-			"timeupdated" "1731469965"
+			"buildid" "16439814"
+			"timeupdated" "1731931014"
 		}
 		"uptesting"
 		{
@@ -428,9 +437,9 @@
 		}
 		"bilibiliqatesting"
 		{
-			"buildid" "16362392"
+			"buildid" "16439945"
 			"pwdrequired" "1"
-			"timeupdated" "1731308707"
+			"timeupdated" "1731909578"
 		}
 		"eaearlyv"
 		{
@@ -458,9 +467,9 @@
 		}
 		"usersplaytesting"
 		{
-			"buildid" "16377333"
+			"buildid" "16439814"
 			"pwdrequired" "1"
-			"timeupdated" "1731409661"
+			"timeupdated" "1731909592"
 		}
 		"maidiantest"
 		{
@@ -476,9 +485,9 @@
 		}
 		"banbenyanshou"
 		{
-			"buildid" "16377364"
+			"buildid" "16439945"
 			"pwdrequired" "1"
-			"timeupdated" "1731409702"
+			"timeupdated" "1731909622"
 		}
 		"eauptesting"
 		{
@@ -488,15 +497,15 @@
 		}
 		"fullcontenttest"
 		{
-			"buildid" "16386535"
+			"buildid" "16439945"
 			"pwdrequired" "1"
-			"timeupdated" "1731465773"
+			"timeupdated" "1731903100"
 		}
 		"shantuiceshi"
 		{
-			"buildid" "12780721"
+			"buildid" "16443051"
 			"pwdrequired" "1"
-			"timeupdated" "1700742792"
+			"timeupdated" "1731927268"
 		}
 		"suibian"
 		{
@@ -526,6 +535,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26168545"
-"_sha" "307eb4601335e26ac5f88fa5a2c217a7701e6d7b"
-"_size" "12392"
+"_change_number" "26243593"
+"_sha" "a9b5b19b7ac94d8af983bd3aa82ec100c9d0511f"
+"_size" "12657"
