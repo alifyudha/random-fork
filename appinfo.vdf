@@ -16,6 +16,7 @@
 	{
 		"schinese" "装甲纷争:决定版"
 	}
+	"restricted_countries" "DE"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -198,7 +199,7 @@
 		"8" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -315,9 +316,9 @@
 		{
 			"public"
 			{
-				"gid" "566376694377142133"
-				"size" "7701166331"
-				"download" "5216660560"
+				"gid" "4962089637946972096"
+				"size" "7812266988"
+				"download" "5316246608"
 			}
 			"old_frag_replay"
 			{
@@ -333,18 +334,18 @@
 			}
 			"supertest"
 			{
-				"gid" "566376694377142133"
-				"size" "7701166331"
-				"download" "5216660560"
+				"gid" "4962089637946972096"
+				"size" "7812266988"
+				"download" "5316246608"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal-test"
 			{
-				"gid" "FF4E3C2D16844A71ED672ACA7548D136"
-				"size" "6DEE182495D76F6111C475197E9C47C0"
-				"download" "DA1F8A8D6705AD8D1BF1D10867A332F3"
+				"gid" "FCB180A77A3221166B47182236FEEC51"
+				"size" "F1074D02E9A1504A69CC458353B755CC"
+				"download" "CB3653BB99AECBE4BB1C752DDDC13078"
 			}
 		}
 	}
@@ -404,14 +405,14 @@
 	{
 		"public"
 		{
-			"buildid" "16381205"
-			"timeupdated" "1731429651"
+			"buildid" "16455008"
+			"timeupdated" "1732001552"
 		}
 		"internal-test"
 		{
-			"buildid" "16381205"
+			"buildid" "16455008"
 			"pwdrequired" "1"
-			"timeupdated" "1731429580"
+			"timeupdated" "1732001329"
 		}
 		"old_frag_replay"
 		{
@@ -427,9 +428,9 @@
 		}
 		"supertest"
 		{
-			"buildid" "16381205"
+			"buildid" "16455008"
 			"description" "Super Test"
-			"timeupdated" "1731429592"
+			"timeupdated" "1732001490"
 		}
 	}
 }
@@ -465,6 +466,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26160822"
-"_sha" "ac2ca695bab7a93016c847869588de2a25bc89e8"
-"_size" "8205"
+"_change_number" "26257189"
+"_sha" "74febed829474605a2a0885e48e8df0b6f147f2b"
+"_size" "8238"
