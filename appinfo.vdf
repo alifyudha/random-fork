@@ -1,0 +1,649 @@
+"appid" "2211170"
+"common"
+{
+	"name" "Unrailed 2: Back on Track"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"clienticon" "acb3ac128ccab5b801bc3275d6eb85d5b4d51480"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"icon" "b1eea80c219787aa6bf7e6bbda8e1a039c145cd8"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "一起开火车2：汽笛重鸣"
+		"japanese" "Unrailed 2:バック・オン・トラック"
+		"koreana" "Unrailed 2: Back on Track (언레일드 2: 백 온 트랙)"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1729209600"
+		"tested_build_id" "15929347"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DisplayOutputNotCorrectlyScaled"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "c2e6deb1c94585a6a250ef953f9ad0f1af29ae0e/capsule_231x87.jpg"
+		"japanese" "d0cc91721b09f3b40ce8b782823b3791900f80bc/capsule_231x87_japanese.jpg"
+		"schinese" "201b998a4b4ee00120ae69e174bb2524fbc877bb/capsule_231x87_schinese.jpg"
+		"koreana" "7632be35da0bb06be6fb3345cfb24689606b7e6e/capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,ko,ja"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,ja,ko"
+		"library_header" "zh-cn,en,ja,ko"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "85.76565838047628"
+			"height_pct" "83.53492126056419"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"japanese" "logo_japanese.png"
+				"koreana" "logo_koreana.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"koreana" "logo_koreana_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "85.76565838047628"
+				"height_pct" "83.53492126056419"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "library_header_schinese.jpg"
+				"english" "library_header.jpg"
+				"japanese" "library_header_japanese.jpg"
+				"koreana" "library_header_koreana.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+				"koreana" "library_header_koreana_2x.jpg"
+				"japanese" "library_header_japanese_2x.jpg"
+				"schinese" "library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730980927"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Indoor Astronaut"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Indoor Astronaut"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Kepler Ghost"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Indoor Astronaut"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+		"4" "2"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_37" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1730980542"
+	"community_hub_visible" "1"
+	"gameid" "2211170"
+	"store_tags"
+	{
+		"0" "1616"
+		"1" "3843"
+		"2" "3859"
+		"3" "4791"
+		"4" "19"
+		"5" "7368"
+		"6" "42804"
+		"7" "1716"
+		"8" "5125"
+		"9" "1662"
+		"10" "597"
+		"11" "1685"
+		"12" "7948"
+		"13" "4305"
+		"14" "8122"
+		"15" "5350"
+		"16" "9"
+		"17" "4726"
+		"18" "7481"
+		"19" "3841"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Indoor Astronaut"
+	"publisher" "Indoor Astronaut"
+	"homepage" "https://unrailed.gg"
+}
+"config"
+{
+	"installdir" "Unrailed! 2 Back on Track"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Unrailed2.command"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "Unrailed2.command"
+			"arguments" "--rendering-driver opengl3 --resolution 1280x720 -f ++ --safe"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Safe Mode (Minimum graphics settings)"
+			}
+			"description" "Safe Mode (Minimum graphics settings)"
+		}
+		"4"
+		{
+			"executable" "data_UnrailedGodot_windows_x86_64\\Bootstrap.exe"
+			"workingdir" "data_UnrailedGodot_windows_x86_64"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"5"
+		{
+			"executable" "data_UnrailedGodot_windows_x86_64\\Bootstrap.exe"
+			"arguments" "--rendering-driver opengl3_angle --resolution 1280x720 -f ++ --safe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Safe Mode (Minimum graphics settings)"
+			}
+			"description" "Safe Mode (Minimum graphics settings)"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2211171"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2866914890144571925"
+				"size" "459804588"
+				"download" "313286112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "DA190CB49DBB265EEF984E8B60E336D6"
+				"size" "2336046870AEF382D986E2E050C35F5B"
+				"download" "A0C17D1D5CC6FAC27423A2E6A7ABA5FC"
+			}
+			"develper-testing"
+			{
+				"gid" "F2683C15A3561F14AEE246D8108ECEC9"
+				"size" "C26CC30328F20A1312C0CCD032DFB62B"
+				"download" "B2830B3355FD11166D2CD5902EC5E66D"
+			}
+			"ioi-testing"
+			{
+				"gid" "BAE8C17BE757225F35AB1583B1D5192F"
+				"size" "0525E910395D48FF344EE0E42FEEB35E"
+				"download" "580428BE71E4E7BEAFF3A03B6A1A12C9"
+			}
+			"japan-expo-paris"
+			{
+				"gid" "5D0921D6237E5970E379F2AC78E160BA"
+				"size" "9C4115D67B62EAD311556C7022ADFBA2"
+				"download" "97A91E20FC3D36F355DEEF752803A69C"
+			}
+			"loca"
+			{
+				"gid" "EF067C07C8A3A2F55211DF1B29B30A00"
+				"size" "C339ADAB9446987E526C5F122583272E"
+				"download" "3827B8161D50233064EB9BBB6D2BB803"
+			}
+			"musiker-testing"
+			{
+				"gid" "0602C642786BDA0F48843EC830D11E14"
+				"size" "7B7ED4D6EF62B65F3F086ED70D5EB248"
+				"download" "6F867849ECB8CD4939030B8816F486C3"
+			}
+			"rollback"
+			{
+				"gid" "686B832F30E8F98616960FE04EC82215"
+				"size" "DB3C19D687DF6897DB39CAFF2D39613B"
+				"download" "19B28E54A4B9D881BEF3AC7D578C4BE1"
+			}
+			"steamdeckreview"
+			{
+				"gid" "E47CE0CE21D71800EBC286EEA8F64184"
+				"size" "D992AEB5CA2FAB922456E46020253258"
+				"download" "7D2C11C6E07ED09D1AE6D28CEDFF323F"
+			}
+			"steamreview"
+			{
+				"gid" "BEC9CD1F1CA92F811AF889F09C3A3A4C"
+				"size" "63A2F010208E8AF135101922D03705BE"
+				"download" "E39CCC7FED2850D2B8E5AA6A11C0907A"
+			}
+			"uu-testing"
+			{
+				"gid" "964E34084344E57613964C69FCEE3CC6"
+				"size" "5350551E909023CF056F93511EA3B167"
+				"download" "118146FF74FFC2F4374EBC173989C992"
+			}
+		}
+	}
+	"2211172"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2713483894739773132"
+				"size" "465631948"
+				"download" "270187104"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "76FA6E5EAE2409BB7907ACF464820754"
+				"size" "626F9B21B4FAF6F05A3416830E2DC028"
+				"download" "BA0D2DF19E9DE6A9C0B491BA26409424"
+			}
+			"develper-testing"
+			{
+				"gid" "2BBFBD56804E62FBB86956E1DEB557A6"
+				"size" "22C1484580186A3ECCE5FE0E98B94EA6"
+				"download" "562517E3FE763CEFA28BA6FB47346984"
+			}
+			"ioi-testing"
+			{
+				"gid" "5EACF5A91BA45A6498F8C8B0FC95D1E8"
+				"size" "EE2C98FEEF5EE453119A1DDB95162CE3"
+				"download" "76B61EEC144AB41EC35A978BC1C86AD9"
+			}
+			"japan-expo-paris"
+			{
+				"gid" "11540765AE62412024C38A511E62817A"
+				"size" "F7F2A530E469CE0D2517230B6DDA7EBA"
+				"download" "EA7C36E0BA196A30DD1AF06BAF523E86"
+			}
+			"loca"
+			{
+				"gid" "903ABEE6AE40CF0AF5BBF0210B90972A"
+				"size" "9680AC609C7484A5D7623A5FC582109B"
+				"download" "738358A645D2D15B16D81875B7CB0BFD"
+			}
+			"musiker-testing"
+			{
+				"gid" "04C0B824D1DF665F3F23FC6AC90F07AD"
+				"size" "24B9DE8575C32CBE84542B6334ADAE8C"
+				"download" "168B9795366D3145141A637D19B0D153"
+			}
+			"rollback"
+			{
+				"gid" "9A55ED9C33E36B867C5F1C7D17727FCC"
+				"size" "C867468C36D5D1C937FDC38CF34A4044"
+				"download" "6FA5C6A5F5A5C8804C33E410DC82FAD1"
+			}
+			"steamdeckreview"
+			{
+				"gid" "F7BB63478479ACE7C16A9B8883629F64"
+				"size" "91CE490C1A278974D807275462A27938"
+				"download" "A6F7D0FDB3C508C4A474AFD8AA89BF9F"
+			}
+			"steamreview"
+			{
+				"gid" "C15D04A127055F3CDD43E20360B18D68"
+				"size" "878ECD6311B9673077C85D5068847ABC"
+				"download" "EB8A918B8175B383021865AF7FE650B3"
+			}
+			"uu-testing"
+			{
+				"gid" "B91E5AFB26C39670A6DFA91AE6B2D4A0"
+				"size" "68B79359C68DDF3E828DFB2AC4641E42"
+				"download" "8F1D809A8EC85706835F0E120B1F7F20"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16445921"
+			"timeupdated" "1731945053"
+		}
+		"debug"
+		{
+			"buildid" "16445921"
+			"pwdrequired" "1"
+			"timeupdated" "1731943731"
+		}
+		"develper-testing"
+		{
+			"buildid" "16445921"
+			"pwdrequired" "1"
+			"timeupdated" "1731943722"
+		}
+		"ioi-testing"
+		{
+			"buildid" "16347481"
+			"pwdrequired" "1"
+			"timeupdated" "1731103377"
+		}
+		"japan-expo-paris"
+		{
+			"buildid" "14978043"
+			"pwdrequired" "1"
+			"timeupdated" "1720536122"
+		}
+		"loca"
+		{
+			"buildid" "16360753"
+			"pwdrequired" "1"
+			"timeupdated" "1731291127"
+		}
+		"musiker-testing"
+		{
+			"buildid" "14861348"
+			"pwdrequired" "1"
+			"timeupdated" "1719596719"
+		}
+		"rollback"
+		{
+			"buildid" "16378481"
+			"pwdrequired" "1"
+			"timeupdated" "1731462130"
+		}
+		"steamdeckreview"
+		{
+			"buildid" "16360753"
+			"pwdrequired" "1"
+			"timeupdated" "1731291991"
+		}
+		"steamreview"
+		{
+			"buildid" "16307300"
+			"pwdrequired" "1"
+			"timeupdated" "1730890620"
+		}
+		"uu-testing"
+		{
+			"buildid" "16347481"
+			"pwdrequired" "1"
+			"timeupdated" "1731103363"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "700000000"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot\\app_userdata\\Unrailed2"
+			"pattern" "progress_*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot\\app_userdata\\Unrailed2\\savegames"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot\\app_userdata\\Unrailed2\\CustomMap"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26247044"
+"_sha" "e7b5c87ef15e190037c6b7b7327ad55e75bec6de"
+"_size" "13727"
