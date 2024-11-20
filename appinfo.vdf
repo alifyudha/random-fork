@@ -26,7 +26,7 @@
 		"schinese" "传染病"
 		"tchinese" "傳染病"
 	}
-	"timeline_marker_updated" "1731701805"
+	"timeline_marker_updated" "1732033435"
 	"timeline_marker_svg" "99b2b85f734ca1946149b367f1f645eed62ad169/markers.svg"
 	"steam_deck_compatibility"
 	{
@@ -399,9 +399,9 @@
 		{
 			"public"
 			{
-				"gid" "171234662989386714"
-				"size" "150880810"
-				"download" "56127264"
+				"gid" "2907641399724826544"
+				"size" "150886333"
+				"download" "56130144"
 			}
 		}
 		"encryptedmanifests"
@@ -432,9 +432,9 @@
 			}
 			"quality_assurance"
 			{
-				"gid" "B138ED1BD5D3B51D758204415E1CB274"
-				"size" "1C62A911F088C9B32DC62A6FEF76D24A"
-				"download" "D3223285D909A3A42D83603C123B386B"
+				"gid" "F6CFE95D25C78A54D17CA66F582C4514"
+				"size" "E1F8AF7ADE8EEF46CC20FEEAA359C837"
+				"download" "F36296F2B2FD319AB58995CA048F08C2"
 			}
 		}
 	}
@@ -444,9 +444,9 @@
 		{
 			"public"
 			{
-				"gid" "2413339799667697510"
-				"size" "14905199284"
-				"download" "4828204256"
+				"gid" "8848594106963895549"
+				"size" "14905966800"
+				"download" "4828605456"
 			}
 		}
 		"encryptedmanifests"
@@ -459,9 +459,9 @@
 			}
 			"quality_assurance"
 			{
-				"gid" "81C3C84998D74F2A02C560829CCA4861"
-				"size" "297322184407F353786CF498E5B0B404"
-				"download" "C9EECBFA04AC3872BB817C8868AA3822"
+				"gid" "A0264FAAC5E89D2C522B45722E1DD026"
+				"size" "38AB2EEFDE85E5B08F9C033C75E5FAAE"
+				"download" "BC470CCF36718340E6AD60459B350EC3"
 			}
 		}
 	}
@@ -491,8 +491,8 @@
 	{
 		"public"
 		{
-			"buildid" "16420428"
-			"timeupdated" "1731675415"
+			"buildid" "16460754"
+			"timeupdated" "1732032841"
 		}
 		"2013-build"
 		{
@@ -520,9 +520,9 @@
 		}
 		"quality_assurance"
 		{
-			"buildid" "16420428"
+			"buildid" "16463576"
 			"pwdrequired" "1"
-			"timeupdated" "1731675329"
+			"timeupdated" "1732048005"
 		}
 	}
 }
@@ -532,6 +532,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26218893"
-"_sha" "7e8332a7790f8f54c5d86014dc5f6dc4cb13ea45"
-"_size" "11346"
+"_change_number" "26268283"
+"_sha" "6e9497b47473ed6379b11e6d308eacb3c8ba7c24"
+"_size" "11347"
