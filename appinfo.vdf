@@ -52,17 +52,17 @@
 	"metacritic_name" "Synth Riders"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "3703b8676c4361eee97d80cc5ae695701950b6c4/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
 		"koreana" "header_koreana.jpg"
 		"japanese" "header_japanese.jpg"
+		"english" "header.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en,ko,ja"
+		"library_capsule" "ko,ja,en"
 		"library_hero" "en"
 		"library_logo" "en"
 		"library_header" "en"
@@ -73,7 +73,64 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1714136998"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+			}
+			"image"
+			{
+				"koreana" "library_600x900_koreana.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "54.194007532521084"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730448068"
 	"associations"
 	{
 		"0"
@@ -211,6 +268,18 @@
 		{
 			"public"
 			{
+				"gid" "4780571129564194518"
+				"size" "9588383785"
+				"download" "3361909344"
+			}
+			"open-beta"
+			{
+				"gid" "4780571129564194518"
+				"size" "9588383785"
+				"download" "3361909344"
+			}
+			"previous"
+			{
 				"gid" "2241211775523479467"
 				"size" "8636301651"
 				"download" "3066394192"
@@ -218,6 +287,48 @@
 		}
 		"encryptedmanifests"
 		{
+			"datatest"
+			{
+				"gid" "3C5E8F6900E446ED7694BB6548B811A5"
+				"size" "8BCF182199F5F3577DA9C7660674730C"
+				"download" "63D215875DE65267AEDF93DBB79C06A0"
+			}
+			"kluge-collective"
+			{
+				"gid" "F51E35931F1CF2D3931AD01A8F2853C1"
+				"size" "9055A1A9E7D9EA672EFA892C74B02EC8"
+				"download" "315F998ECAA5B9FC5B347FD5C2E3E396"
+			}
+			"wirrel-only"
+			{
+				"gid" "EEC86C319FAC687F38E4CB63E51DC683"
+				"size" "8A4A4F7FC2BAE6BDF61AAF7D2589EA1F"
+				"download" "55254D1B2BDB237EC7EBA90DDA3DD0E7"
+			}
+			"closed-beta"
+			{
+				"gid" "094C2B76EA80AAFE2C7CE104CB4A1D40"
+				"size" "38877430946DBA4C3F79CE46A45111C3"
+				"download" "59578811B47B2BA8F739EB5F662D2772"
+			}
+			"capture-branch-1"
+			{
+				"gid" "687BB18AEF4603D5FB259FEF86FBB5C9"
+				"size" "EB9531DFBE071E67DB56B8E271C57754"
+				"download" "C18B5A05A4E85817CCDB9872BFE9C101"
+			}
+			"capture-branch-2"
+			{
+				"gid" "29E0EB8B4D4FA41E88FFE54224526B37"
+				"size" "C898E0C38B0C9C63D7437B39082C53A5"
+				"download" "614B40EBE56C5774F3EA4FA25C21CA7D"
+			}
+			"capture-branch-3"
+			{
+				"gid" "56CA808459E5DB56E35B1C54BC05F0A6"
+				"size" "0317D0D7CE4B7002AA3C6E85B489F057"
+				"download" "FF19C42F546B9A6BAAAB80F4B373520D"
+			}
 			"nosferatu"
 			{
 				"gid" "499A04BBCA12BC28BB2552EA8DCD6D78"
@@ -229,6 +340,12 @@
 				"gid" "C951895D88D9DD36FCC053B9A76556F7"
 				"size" "86AA610AF734A802630422C63F5630D6"
 				"download" "3522D48DC21D7CDC217CEF2B8B3CD4E5"
+			}
+			"vrs-live"
+			{
+				"gid" "1E1AF68238584D776812BEBF7336CBAC"
+				"size" "F1ABB155DC628B4E510365E119CD7390"
+				"download" "C7361624FA0F9182273C39E2962B2833"
 			}
 			"vrs-builds-qa"
 			{
@@ -242,41 +359,11 @@
 				"size" "179A1255D61164D462C9C3B1461222A1"
 				"download" "689076CE2AE76C7FF7D13BBB5A182F20"
 			}
-			"vrs-live"
-			{
-				"gid" "1E1AF68238584D776812BEBF7336CBAC"
-				"size" "F1ABB155DC628B4E510365E119CD7390"
-				"download" "C7361624FA0F9182273C39E2962B2833"
-			}
 			"vrs-test"
 			{
 				"gid" "C594CA02B998E4A9FCFE7388A192B5CB"
 				"size" "5BAE7A6C2F73A426EFD3F4A3B9037DBF"
 				"download" "882148216E219B74DCEAE25B6803C915"
-			}
-			"alpha"
-			{
-				"gid" "6DF0B5DC098F45AAAEC1B90AB7A151BF"
-				"size" "628C57EE6C29ED43DA11F6EB8C6F291D"
-				"download" "8698DBEA7EA8AAE533D74D2C12A1924B"
-			}
-			"beta"
-			{
-				"gid" "B4F7CD95025D15E231831314DE28FD2E"
-				"size" "ECD7D2C697F04C8876E85BD018B1C237"
-				"download" "E8DAC5E0B154EE3A179DC13AC1C8CFCB"
-			}
-			"builds-qa"
-			{
-				"gid" "E9313227C93694671C6F30F3F9D6B608"
-				"size" "22F5405B53F611BB642BAABA0E9BD315"
-				"download" "0F2B3DFFE0E90A766232C6EDF5A35FBE"
-			}
-			"wirrel-only"
-			{
-				"gid" "EDF0180681CADE52D6E1AD25FE929210"
-				"size" "5ACAF7BEB4B3F63C6D83808F61F9D6EE"
-				"download" "F201AA79397F3FA40769FBEADBDFA795"
 			}
 		}
 	}
@@ -284,8 +371,62 @@
 	{
 		"public"
 		{
+			"buildid" "16468796"
+			"timeupdated" "1732125565"
+		}
+		"datatest"
+		{
+			"buildid" "16477826"
+			"pwdrequired" "1"
+			"timeupdated" "1732137798"
+		}
+		"kluge-collective"
+		{
+			"buildid" "16468796"
+			"pwdrequired" "1"
+			"timeupdated" "1732086286"
+		}
+		"wirrel-only"
+		{
+			"buildid" "16477826"
+			"pwdrequired" "1"
+			"timeupdated" "1732137765"
+		}
+		"closed-beta"
+		{
+			"buildid" "16468796"
+			"pwdrequired" "1"
+			"timeupdated" "1732086298"
+		}
+		"capture-branch-1"
+		{
+			"buildid" "16143589"
+			"pwdrequired" "1"
+			"timeupdated" "1731631986"
+		}
+		"capture-branch-2"
+		{
+			"buildid" "16412946"
+			"pwdrequired" "1"
+			"timeupdated" "1731632027"
+		}
+		"capture-branch-3"
+		{
+			"buildid" "16428960"
+			"pwdrequired" "1"
+			"timeupdated" "1731737897"
+		}
+		"open-beta"
+		{
+			"buildid" "16468796"
+			"description" "OPEN BETA Testing (v3.X)"
+			"timeupdated" "1732125666"
+		}
+		"previous"
+		{
 			"buildid" "14144154"
-			"timeupdated" "1716215975"
+			"description" "PREVIOUS Legacy Version (v2.X)"
+			"timeupdated" "1731578284"
 		}
 		"nosferatu"
 		{
@@ -299,6 +440,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1687558097"
 		}
+		"vrs-live"
+		{
+			"buildid" "9874403"
+			"pwdrequired" "1"
+			"timeupdated" "1671247792"
+		}
 		"vrs-builds-qa"
 		{
 			"buildid" "10179859"
@@ -311,41 +458,11 @@
 			"pwdrequired" "1"
 			"timeupdated" "1667608203"
 		}
-		"vrs-live"
-		{
-			"buildid" "9874403"
-			"pwdrequired" "1"
-			"timeupdated" "1671247792"
-		}
 		"vrs-test"
 		{
 			"buildid" "9874403"
 			"pwdrequired" "1"
 			"timeupdated" "1671248599"
-		}
-		"alpha"
-		{
-			"buildid" "14429498"
-			"pwdrequired" "1"
-			"timeupdated" "1716216208"
-		}
-		"beta"
-		{
-			"buildid" "14273142"
-			"pwdrequired" "1"
-			"timeupdated" "1714948415"
-		}
-		"builds-qa"
-		{
-			"buildid" "14429498"
-			"pwdrequired" "1"
-			"timeupdated" "1716216235"
-		}
-		"wirrel-only"
-		{
-			"buildid" "14429498"
-			"pwdrequired" "1"
-			"timeupdated" "1716216225"
 		}
 	}
 }
@@ -367,21 +484,21 @@
 			"path" "Avatars"
 			"pattern" "*.bin"
 		}
-		"2"
-		{
-			"root" "gameinstall"
-			"path" "CustomProfiles"
-			"pattern" "*.synthprofile"
-		}
 		"3"
 		{
 			"root" "gameinstall"
 			"path" "Playlist"
 			"pattern" "*.playlist"
 		}
+		"4"
+		{
+			"root" "gameinstall"
+			"path" "SynthRIdersUC/CustomPlaylists"
+			"pattern" "*.playlist"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "23613940"
-"_sha" "fe16e4880d8e9256a75be460d05e17cceff1c269"
-"_size" "7868"
+"_change_number" "26287055"
+"_sha" "a8bd8467c3ac2c42e61871ad5f2fd14e854a0593"
+"_size" "10301"
