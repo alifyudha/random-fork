@@ -332,9 +332,9 @@
 		{
 			"public"
 			{
-				"gid" "8239980751954725384"
-				"size" "79788588165"
-				"download" "76204724848"
+				"gid" "4436106903390965935"
+				"size" "79788766005"
+				"download" "76204889200"
 			}
 		}
 		"encryptedmanifests"
@@ -347,9 +347,9 @@
 			}
 			"pa_beta"
 			{
-				"gid" "B4BC4FBCAD6360B4C1AC740C18729B7A"
-				"size" "D89DC64AD479EE53709634F87942B268"
-				"download" "D90391E7D16FF2640B57B0CD927A4B43"
+				"gid" "67F7D12206A3D5A1D92E7E4274826E79"
+				"size" "9348143A3B2C5DE9ABFD5D847AF0FADA"
+				"download" "9EE9EE3D9154AD0895E9CA9698D98934"
 			}
 		}
 	}
@@ -359,9 +359,9 @@
 		{
 			"public"
 			{
-				"gid" "7921282690696079433"
-				"size" "73191597613"
-				"download" "70248458608"
+				"gid" "6867960638536997730"
+				"size" "73191779901"
+				"download" "70248622448"
 			}
 		}
 		"encryptedmanifests"
@@ -374,9 +374,9 @@
 			}
 			"pa_beta"
 			{
-				"gid" "43B6C86129AD43DA428DFF9D8995F34A"
-				"size" "D873CB79A11D634D14B2946EBF70C0FC"
-				"download" "13D3796DC2C22D8B7D545B10B4E4577C"
+				"gid" "9EE94B63D889BBA4FAACB366616C7E3D"
+				"size" "CC81C20991DD9F4A0CB873C1BCDAA4F2"
+				"download" "049780228F088A63629975EC7972F340"
 			}
 		}
 	}
@@ -440,9 +440,9 @@
 		{
 			"public"
 			{
-				"gid" "6558958542670044453"
-				"size" "74102817515"
-				"download" "71017105360"
+				"gid" "882683434685498715"
+				"size" "74103001739"
+				"download" "71017270048"
 			}
 		}
 		"encryptedmanifests"
@@ -455,9 +455,9 @@
 			}
 			"pa_beta"
 			{
-				"gid" "DFAE72D9D940460F4C4682D4C60F4357"
-				"size" "196030EBFFA02F8E80A5ECA616928845"
-				"download" "A81D531BA135E7DF86D40AD4640114F7"
+				"gid" "0FE757EDC062E64825DCD187BCC6113C"
+				"size" "9682EB57A786114C190EDB9348F43937"
+				"download" "337F50BAB455E1C5972DBB6F59A0DB41"
 			}
 		}
 	}
@@ -467,9 +467,9 @@
 		{
 			"public"
 			{
-				"gid" "8403837651545380629"
-				"size" "77856882972"
-				"download" "74639362480"
+				"gid" "1881669004857799873"
+				"size" "77856878828"
+				"download" "74639357744"
 			}
 		}
 		"encryptedmanifests"
@@ -482,9 +482,9 @@
 			}
 			"pa_beta"
 			{
-				"gid" "C79AA9133AC7968A793964462FE9D599"
-				"size" "4DE9D48C94D8E9E42C6F6C5C1F203A7B"
-				"download" "6F78CA68696F0C0F7F264DA08E9F1FF9"
+				"gid" "BD4F34F94A81A9B5A07B7B40E28AEB32"
+				"size" "3F55CAC6EAF152B449A868E6201D4988"
+				"download" "47AB8FAD23B79E05E88E9866E860EE48"
 			}
 		}
 	}
@@ -521,18 +521,18 @@
 		{
 			"public"
 			{
-				"gid" "5389565552768988319"
-				"size" "73898606380"
-				"download" "70809666128"
+				"gid" "8494603229372932598"
+				"size" "73898787844"
+				"download" "70809832560"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"pa_beta"
 			{
-				"gid" "30AEB3ED5C6E04B8199A437F9604EFA4"
-				"size" "7B03A79025B15F2F5DF713A46FCA2194"
-				"download" "C8F365D10DF709E4BA63CF025C84D811"
+				"gid" "A3666645FA667116AC6C7644A81DFA8B"
+				"size" "BC2824C98E4456CF3CE3D03E2EA3ADDA"
+				"download" "51D7F405E2232DB2229CB3806444CBE4"
 			}
 		}
 	}
@@ -542,9 +542,9 @@
 		{
 			"public"
 			{
-				"gid" "4264797793997143163"
-				"size" "74725625428"
-				"download" "71149496448"
+				"gid" "5175355094098568952"
+				"size" "74725629163"
+				"download" "71149500912"
 			}
 		}
 		"encryptedmanifests"
@@ -557,9 +557,9 @@
 			}
 			"pa_beta"
 			{
-				"gid" "EB60A8B36B018D6E6A1FE507686A9FAE"
-				"size" "E22E85D9F06FEE434A184AB28347120A"
-				"download" "8DC83BE9030306591A157FD5C48DA480"
+				"gid" "6CAB4C6D8AAD7D5C0C0EDF4EC5B127EB"
+				"size" "DD9F1EA1DFDDABD081E1B3FEC9618478"
+				"download" "2383985BB553B2AA20FB8DB4A1C25A2B"
 			}
 		}
 	}
@@ -568,8 +568,8 @@
 	{
 		"public"
 		{
-			"buildid" "16494200"
-			"timeupdated" "1732239107"
+			"buildid" "16495525"
+			"timeupdated" "1732250712"
 		}
 		"eac_test"
 		{
@@ -579,9 +579,9 @@
 		}
 		"pa_beta"
 		{
-			"buildid" "16494200"
+			"buildid" "16495525"
 			"pwdrequired" "1"
-			"timeupdated" "1732238682"
+			"timeupdated" "1732249286"
 		}
 	}
 }
@@ -591,6 +591,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "26308931"
-"_sha" "a8005cfd635cedcee3f476c7a850f552f2c244d1"
-"_size" "11679"
+"_change_number" "26310819"
+"_sha" "e42d4c537b3cf02bacdfb73dfe613790300db594"
+"_size" "11678"
