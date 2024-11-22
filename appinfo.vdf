@@ -15,7 +15,7 @@
 	{
 		"schinese" "完蛋！我被美女包围了！前传"
 		"tchinese" "完蛋！我被美女包圍了！前传"
-		"english" "Love Is All Around Prequel"
+		"english" "Love is All Around: Echoes of Yesterday"
 		"koreana" "젠장! 미녀들한테 포위당했어! 프리퀄"
 		"japanese" "しまった！美人に囲まれた！プリクエル"
 		"vietnamese" "Thôi Xong! Tui Bị Người Đẹp Bao Vây Rồi! Phim Tiền Truyện"
@@ -160,8 +160,8 @@
 	"store_tags"
 	{
 		"0" "21"
-		"1" "599"
-		"2" "122"
+		"1" "122"
+		"2" "599"
 		"3" "11014"
 		"4" "9551"
 		"5" "9204"
@@ -248,18 +248,9 @@
 		{
 			"public"
 			{
-				"gid" "4416766603679147824"
-				"size" "24271775247"
-				"download" "23052105552"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "CF39ECC79AFDB3E9C47FB3E42C6745CD"
-				"size" "3E08C5454646B7DB96A6DFCD92D7DFD7"
-				"download" "7C44726AAFEEB46F56D0D7B8DCB54BE3"
+				"gid" "7582779343958030482"
+				"size" "24546546014"
+				"download" "23310015344"
 			}
 		}
 	}
@@ -273,18 +264,9 @@
 		{
 			"public"
 			{
-				"gid" "648566191761177420"
-				"size" "24412589647"
-				"download" "23083080912"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "1E9336B06E9FE3794D938C35C20E6E8F"
-				"size" "B9A956B666469F5D10A467FC49C05486"
-				"download" "7DEB45F18C4BC7B938812E673A09499E"
+				"gid" "7148659512844544308"
+				"size" "24687163251"
+				"download" "23340926784"
 			}
 		}
 	}
@@ -292,16 +274,11 @@
 	{
 		"public"
 		{
-			"buildid" "16387314"
-			"timeupdated" "1731477012"
-		}
-		"development"
-		{
-			"buildid" "16387314"
-			"pwdrequired" "1"
-			"timeupdated" "1731472660"
+			"buildid" "16496470"
+			"timeupdated" "1732257892"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -352,6 +329,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26169500"
-"_sha" "25c81c7e958814dedf66ae3b59cf23837f3c1669"
-"_size" "6710"
+"_change_number" "26311985"
+"_sha" "d1b9fe4f8d5f0a9f0de9bd0130876600d5f1831b"
+"_size" "6219"
