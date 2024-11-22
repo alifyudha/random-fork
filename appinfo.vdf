@@ -294,9 +294,9 @@
 		{
 			"public"
 			{
-				"gid" "2980706969374068366"
-				"size" "2362916108"
-				"download" "1600038816"
+				"gid" "9145016988560264229"
+				"size" "2362844836"
+				"download" "1600039472"
 			}
 			"laststable"
 			{
@@ -375,9 +375,9 @@
 			}
 			"nightly"
 			{
-				"gid" "DE18321FC43B449071118C1F9C5FB056"
-				"size" "E04624A1421B47ADEE58529393AB310F"
-				"download" "F58B6A57D8B5E11BB9BA483CC0AF8974"
+				"gid" "291B9DE8D0CE40E465F20B7D459ADF10"
+				"size" "78DD6B878049E7B45E1714507244EB1E"
+				"download" "45E18CF3290043301116CD187041F61E"
 			}
 			"nightly-debuggable"
 			{
@@ -405,21 +405,21 @@
 			}
 			"qa-rc"
 			{
-				"gid" "964624637B11E01961774B34A5129E5A"
-				"size" "B77E2827BAD8CCD5CEFAE5AC43BF9D48"
-				"download" "3E0163C2F7D27A1028C2EC25E5B14512"
+				"gid" "481045345577D83377704E02BD8B8EC4"
+				"size" "388D2B3FE904821D91A606AEA3BE3D92"
+				"download" "9AB0731A080711C23A7303F3C0B027A1"
 			}
 			"release-candidate"
 			{
-				"gid" "2BB647EC00DBD676D06D340335108237"
-				"size" "2DA96E88EF5AC45DE2234627801E66B1"
-				"download" "D8A0EA0A42173E191414F6C9F9089836"
+				"gid" "413C3363DF067AE2986DFBFF88FF9AFE"
+				"size" "84445D55E9F2D6E4AF733FFB3135A4E3"
+				"download" "97CB3B0861B247C1E0423BDB94C02218"
 			}
 			"staging"
 			{
-				"gid" "FAC72A086425F3632EF45907E5413227"
-				"size" "5C4D5DFE85DDCB40FE2E7F5F33BDAF1B"
-				"download" "697C73B0B6B3A21EE2DFBF949B11430B"
+				"gid" "F1A9A1B1EED1EECC7A46E0D6480964E6"
+				"size" "B9D74D695592449ED10A8E85CA521C6E"
+				"download" "E22111470D1F1C7D5E22ABFC415A90CF"
 			}
 			"time4vr"
 			{
@@ -439,8 +439,8 @@
 	{
 		"public"
 		{
-			"buildid" "16451391"
-			"timeupdated" "1732012015"
+			"buildid" "16147785"
+			"timeupdated" "1732093278"
 		}
 		"ci-cd-test"
 		{
@@ -510,9 +510,9 @@
 		}
 		"nightly"
 		{
-			"buildid" "16453175"
+			"buildid" "16480844"
 			"pwdrequired" "1"
-			"timeupdated" "1731985658"
+			"timeupdated" "1732158303"
 		}
 		"nightly-debuggable"
 		{
@@ -540,15 +540,15 @@
 		}
 		"qa-rc"
 		{
-			"buildid" "16452055"
+			"buildid" "16488573"
 			"pwdrequired" "1"
-			"timeupdated" "1731976973"
+			"timeupdated" "1732203938"
 		}
 		"release-candidate"
 		{
-			"buildid" "16451391"
+			"buildid" "16487544"
 			"pwdrequired" "1"
-			"timeupdated" "1731971988"
+			"timeupdated" "1732198992"
 		}
 		"sandboxxer"
 		{
@@ -558,9 +558,9 @@
 		}
 		"staging"
 		{
-			"buildid" "16450696"
+			"buildid" "16487023"
 			"pwdrequired" "1"
-			"timeupdated" "1731967088"
+			"timeupdated" "1732196576"
 		}
 		"time4vr"
 		{
@@ -577,6 +577,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26259434"
-"_sha" "2ac44e88512d583c556bdc05b73d1a4c9d61015c"
+"_change_number" "26300989"
+"_sha" "e310c70d645a2c6ef4b75a9e040d193c8a9af450"
 "_size" "11791"
