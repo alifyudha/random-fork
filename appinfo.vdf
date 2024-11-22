@@ -12,6 +12,16 @@
 	"clienttga" "834ef971e259b0e303992ed4652c624be72514f5"
 	"icon" "debf65da510a0a555c36da4f69c73f603e28b37b"
 	"osextended" "macos64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "573090_eula_0"
+			"name" "Stormworks: Build and Rescue EULA"
+			"url" "https://store.steampowered.com//eula/573090_eula_0"
+			"version" "1"
+		}
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -127,7 +137,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1723629229"
+	"store_asset_mtime" "1732200671"
 	"associations"
 	{
 		"0"
@@ -295,30 +305,24 @@
 		{
 			"public"
 			{
-				"gid" "2976197206723170585"
-				"size" "1394596351"
-				"download" "303243520"
-			}
-			"experimental"
-			{
-				"gid" "4748264365971006386"
-				"size" "2245958616"
-				"download" "389923104"
+				"gid" "1747624073881465103"
+				"size" "2249748091"
+				"download" "390796064"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"major-testing"
 			{
-				"gid" "3B3ACB6319BDED3B56D55A6DECAA2741"
-				"size" "316B57D5BCDADF96C83AC63DDC5A598F"
-				"download" "B95B477B15E0E44435AA9C373F5A9DE8"
+				"gid" "CF0D6EEA543A9EA60C3945F20843C289"
+				"size" "02E7AC43DE693299F0F1C18CD020CB46"
+				"download" "9EE6B88E9811D0632DEA11A4B95475C9"
 			}
 			"minor-testing"
 			{
-				"gid" "05DCD58D5F4376B6EB8C2654CCC9855F"
-				"size" "B28C229BE3C5D041F3530BDFC16C1030"
-				"download" "A4C767B4807F32026513261463B004A5"
+				"gid" "38B535C61FCD03F3C8CABB22FB5F4DA0"
+				"size" "43908FF42EB2DE69F8E6EE088AEF9686"
+				"download" "39E0B773730DA1080855576E059047E6"
 			}
 		}
 	}
@@ -332,30 +336,24 @@
 		{
 			"public"
 			{
-				"gid" "9147203694504114597"
-				"size" "1316126042"
-				"download" "278482432"
-			}
-			"experimental"
-			{
-				"gid" "8372754269381247685"
-				"size" "1312460791"
-				"download" "277651584"
+				"gid" "4851636694279525286"
+				"size" "1316213534"
+				"download" "278511584"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"major-testing"
 			{
-				"gid" "17399C8926D1626D43F94F3E1C43B8A0"
-				"size" "442DE10DDA4EA829781FB94382C3C5CF"
-				"download" "E2E45DC203A6478AFC3C96D01625639F"
+				"gid" "CA92FC21AF6AE2FEC8FA854E431BE718"
+				"size" "5DEF6A6641CDC810B0A23C8028AC3058"
+				"download" "1CE719556404B807412D18DE47AEECC1"
 			}
 			"minor-testing"
 			{
-				"gid" "BA6A92DE64F7693F78BB6C9880FE4D98"
-				"size" "8AC1D525D34A6CD274DDCCA3D58C534D"
-				"download" "ECEC35D80E416BB51CED23DB721BB8B5"
+				"gid" "9971840CC3D4C97B18885D5AD5932AA7"
+				"size" "4DB8DB938B379A4D1A6A2086C6DB4224"
+				"download" "49442DC3F3232E220EC9DD4C96F364A4"
 			}
 		}
 	}
@@ -363,26 +361,20 @@
 	{
 		"public"
 		{
-			"buildid" "16312978"
-			"timeupdated" "1730912305"
-		}
-		"experimental"
-		{
-			"buildid" "16240754"
-			"description" "Experimental Branch for Testing"
-			"timeupdated" "1730310126"
+			"buildid" "16462583"
+			"timeupdated" "1732118520"
 		}
 		"major-testing"
 		{
-			"buildid" "15953336"
+			"buildid" "16388159"
 			"pwdrequired" "1"
-			"timeupdated" "1728365380"
+			"timeupdated" "1732192682"
 		}
 		"minor-testing"
 		{
-			"buildid" "16324944"
+			"buildid" "16487586"
 			"pwdrequired" "1"
-			"timeupdated" "1730969779"
+			"timeupdated" "1732199274"
 		}
 	}
 }
@@ -394,6 +386,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26086061"
-"_sha" "dbcfdabe0cc355f035bb4396bb8b318fe0f8a50b"
-"_size" "7197"
+"_change_number" "26301102"
+"_sha" "a63f95618cf5badab4c4e564dbc6dffaf895bb18"
+"_size" "7010"
