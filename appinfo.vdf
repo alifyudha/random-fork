@@ -27,6 +27,7 @@
 		"0" "1"
 		"1" "5"
 	}
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -269,18 +270,18 @@
 		{
 			"public"
 			{
-				"gid" "1967780345071386588"
-				"size" "22380123551"
-				"download" "16082750672"
+				"gid" "6261643577098951348"
+				"size" "22380124575"
+				"download" "16082753952"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"aws_master"
 			{
-				"gid" "2C841FE9E0731B1ED89D02108BDCB6EC"
-				"size" "9F500D82A417DD6356088F9CD4708848"
-				"download" "0749B5D047AC6FD9BE6D4F1E0AE5A4AB"
+				"gid" "90ABEC89A4242626D67CFBFDFBA5DCD6"
+				"size" "8C64CDC02168F21234B4649DD565A10B"
+				"download" "54EE0DCC12334AF1E232064401567BE3"
 			}
 			"private_dev"
 			{
@@ -290,9 +291,9 @@
 			}
 			"private_sb"
 			{
-				"gid" "B3267CA3EE8E9D4E10976C4EC9F669B3"
-				"size" "9FCFBFFFC063EA1CCD2B58B75F807E0E"
-				"download" "25F61DB5D6223B717F4603FC8FD7D4EA"
+				"gid" "FC7EC74FFA9D8FEC16B9B37EC2946DD6"
+				"size" "9FCF3EB1DCA0B9F30D4893EC5360C1C7"
+				"download" "0C92ECAF4DC6C6D2875B37B96CF60038"
 			}
 			"private_sb2"
 			{
@@ -302,9 +303,9 @@
 			}
 			"sandbox"
 			{
-				"gid" "187005A75429BEF1E12BE733F553773B"
-				"size" "546EE9AA58E34EA3BC6A5631F210329D"
-				"download" "420FFB4DF796B9FC672F03EE2857C1A7"
+				"gid" "4218F5603A38D4CB99348FCB7A813095"
+				"size" "02518608A0CCFDD2C6B3673F606E4036"
+				"download" "01CBF8BAE09557400D6BD9331F977008"
 			}
 			"sandbox2_1"
 			{
@@ -314,9 +315,9 @@
 			}
 			"staging"
 			{
-				"gid" "9BBA532CD9A261E4322A76942DEACE76"
-				"size" "7BCDB16779D551AD88A2068C36BED4E9"
-				"download" "DEE0AC2E514742A3EA5EB820EEAA70D4"
+				"gid" "2FBBE1EA98EBA1741A09CA9AC033BCC6"
+				"size" "75EDD5D1463D722C4B549C7B53A6589A"
+				"download" "BED7938D21A8A0014D5567858B11A7FE"
 			}
 		}
 	}
@@ -325,14 +326,14 @@
 	{
 		"public"
 		{
-			"buildid" "16439643"
-			"timeupdated" "1731910535"
+			"buildid" "16466488"
+			"timeupdated" "1732090380"
 		}
 		"aws_master"
 		{
-			"buildid" "16439643"
+			"buildid" "16466488"
 			"pwdrequired" "1"
-			"timeupdated" "1731900838"
+			"timeupdated" "1732089716"
 		}
 		"private_dev"
 		{
@@ -342,9 +343,9 @@
 		}
 		"private_sb"
 		{
-			"buildid" "16400517"
+			"buildid" "16479676"
 			"pwdrequired" "1"
-			"timeupdated" "1731552225"
+			"timeupdated" "1732150525"
 		}
 		"private_sb2"
 		{
@@ -354,9 +355,9 @@
 		}
 		"sandbox"
 		{
-			"buildid" "16441908"
+			"buildid" "16477447"
 			"pwdrequired" "1"
-			"timeupdated" "1731924082"
+			"timeupdated" "1732149367"
 		}
 		"sandbox2_1"
 		{
@@ -366,13 +367,13 @@
 		}
 		"staging"
 		{
-			"buildid" "16400517"
+			"buildid" "16479676"
 			"pwdrequired" "1"
-			"timeupdated" "1731552213"
+			"timeupdated" "1732150538"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26242057"
-"_sha" "97b5576d132becb5e9a3bd2b551709e41fd4530e"
-"_size" "7095"
+"_change_number" "26289438"
+"_sha" "4b6701bb7f5d056c04d07d65908ab27d7b653339"
+"_size" "7126"
