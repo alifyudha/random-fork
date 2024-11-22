@@ -89,35 +89,24 @@
 	"metacritic_name" "Conqueror\'s Blade: Frontier"
 	"small_capsule"
 	{
-		"english" "510451495f96741929371063ecc19c372e04bec5/capsule_231x87.jpg"
-		"schinese" "462e7a61d08fa83b8ed483bef1c1dcbf874c884f/capsule_231x87_schinese.jpg"
-		"tchinese" "73c8e203c78ea5c7bc290c62fb383ebb566ec889/capsule_231x87_tchinese.jpg"
-		"koreana" "34995fb55c518bd3fbfdd57edbca9b71b3ce3b52/capsule_231x87_koreana.jpg"
-		"japanese" "b299e5b218c8a485e76b4381a990d904647965bb/capsule_231x87_japanese.jpg"
+		"english" "5eeae3ffd8475c1e6b7f26fb0ef14529f818be37/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
-		"german" "header_german.jpg"
-		"spanish" "header_spanish.jpg"
-		"french" "header_french.jpg"
-		"japanese" "header_japanese.jpg"
-		"koreana" "header_koreana.jpg"
-		"schinese" "header_schinese.jpg"
-		"tchinese" "header_tchinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "tr,de,fr,ja,ko,en,ru,zh-tw,zh-cn"
+		"library_capsule" "en"
 		"library_hero" "en"
 		"library_hero_blur" "en"
-		"library_logo" "en,zh-cn,zh-tw"
-		"library_header" "tr,de,en,fr,ja,ko,ru,zh-cn,zh-tw"
+		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "48.74032637961554"
-			"height_pct" "60.06912115481591"
+			"width_pct" "37.03898882564664"
+			"height_pct" "79.86111111111111"
 		}
 	}
 	"library_assets_full"
@@ -126,79 +115,61 @@
 		{
 			"image"
 			{
-				"turkish" "0981586fd0e634b53cf4c42e15a10fc32b71af75/library_600x900_turkish.jpg"
-				"german" "e7b199f6616b68d9a0c326015b1f2d04d80c70ff/library_600x900_german.jpg"
-				"french" "487aceacea1669c2f98dbaf5d59d727b70eae94b/library_600x900_french.jpg"
-				"japanese" "6fa824feb2571663b9720d23fb95428167b993c3/library_600x900_japanese.jpg"
-				"koreana" "f00ea8d772e424e47d2440e17c499649208529a3/library_600x900_koreana.jpg"
-				"english" "d48008d952bd4a4c3f86f05e983ff981dc4603e7/library_600x900.jpg"
-				"russian" "f56781a1fbf526df699060d739288021b8945d69/library_600x900_russian.jpg"
-				"tchinese" "46f336940b58f0f1127126432b54afcf90897b48/library_600x900_tchinese.jpg"
-				"schinese" "4341c14dde23ddf56ed77c7021a9f1e296524962/library_600x900_schinese.jpg"
+				"english" "80c15b0b8b2ccda358b61ea176ff0a74735dda2c/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"turkish" "0981586fd0e634b53cf4c42e15a10fc32b71af75/library_600x900_turkish_2x.jpg"
-				"german" "e7b199f6616b68d9a0c326015b1f2d04d80c70ff/library_600x900_german_2x.jpg"
-				"french" "487aceacea1669c2f98dbaf5d59d727b70eae94b/library_600x900_french_2x.jpg"
-				"japanese" "6fa824feb2571663b9720d23fb95428167b993c3/library_600x900_japanese_2x.jpg"
-				"koreana" "f00ea8d772e424e47d2440e17c499649208529a3/library_600x900_koreana_2x.jpg"
-				"english" "d48008d952bd4a4c3f86f05e983ff981dc4603e7/library_600x900_2x.jpg"
-				"russian" "f56781a1fbf526df699060d739288021b8945d69/library_600x900_russian_2x.jpg"
-				"tchinese" "46f336940b58f0f1127126432b54afcf90897b48/library_600x900_tchinese_2x.jpg"
-				"schinese" "4341c14dde23ddf56ed77c7021a9f1e296524962/library_600x900_schinese_2x.jpg"
+				"english" "80c15b0b8b2ccda358b61ea176ff0a74735dda2c/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image2x"
 			{
-				"english" "80824755ad82f5bccd270a991178df767e8ef1a3/library_hero_2x.jpg"
+				"english" "09ec7765843b340c3647d4f4f3fa2b8039afbe22/library_hero_2x.jpg"
 			}
 			"image"
 			{
-				"english" "80824755ad82f5bccd270a991178df767e8ef1a3/library_hero.jpg"
+				"english" "09ec7765843b340c3647d4f4f3fa2b8039afbe22/library_hero.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "80824755ad82f5bccd270a991178df767e8ef1a3/library_hero_blur.jpg"
+				"english" "09ec7765843b340c3647d4f4f3fa2b8039afbe22/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"image"
 			{
-				"english" "2118b3c43a8ada58a8752bdbe2c1ef7247a3b3bc/logo.png"
-				"schinese" "49573c71a34b4bbf1d1efd87f8a9295e2a4801c2/logo_schinese.png"
-				"tchinese" "6964abbf2bb1e7d6f96b117df8523a79fdcfd874/logo_tchinese.png"
+				"english" "4e3f70518a23faafa8ee7c751cd8fe54e683ccfa/logo.png"
+			}
+			"image2x"
+			{
+				"english" "4e3f70518a23faafa8ee7c751cd8fe54e683ccfa/logo_2x.png"
 			}
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "48.74032637961554"
-				"height_pct" "60.06912115481591"
+				"width_pct" "37.03898882564664"
+				"height_pct" "79.86111111111111"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"turkish" "aca686e83b38825a5ca421ae5f12fc1323774208/library_header_turkish.jpg"
-				"german" "d847ee2a2243468bd544c2e5c54d4f146b8da917/library_header_german.jpg"
-				"english" "ca3c8e0ad2f8898148c233ba8549b92fc1a24eca/library_header.jpg"
-				"french" "73ee0bdcd2ae3e207b4054938d1edf48d202f87e/library_header_french.jpg"
-				"japanese" "19bcc036235f86e3313bb410c2b4d208ef9cecec/library_header_japanese.jpg"
-				"koreana" "64c4ebb85d69b5cf077b8e0da3566d6623cfd36e/library_header_koreana.jpg"
-				"russian" "be7a2fe173ceefa493be9d7593ca2243e35d5254/library_header_russian.jpg"
-				"schinese" "329d27a726a460f62b4b0746c36f50685fa88920/library_header_schinese.jpg"
-				"tchinese" "00a8dc85e3b120f8796874ed816abacb9fc5ba15/library_header_tchinese.jpg"
+				"english" "a44ff7199980d47ce82773e12742e761aa16f2ee/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "a44ff7199980d47ce82773e12742e761aa16f2ee/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1728898205"
+	"store_asset_mtime" "1732175214"
 	"associations"
 	{
 		"0"
@@ -438,18 +409,18 @@
 		{
 			"public"
 			{
-				"gid" "4216449688214533290"
-				"size" "60422146410"
-				"download" "44005966944"
+				"gid" "2399030163919971911"
+				"size" "60900802220"
+				"download" "44368648608"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"cb_beta"
 			{
-				"gid" "AC8BAD535C7E57EF654729B8437A5F5D"
-				"size" "A1F912F4B963B892001C354C350E4B2A"
-				"download" "11FF50B4A69A9475B8C1576E7363FF3E"
+				"gid" "4046A83B8BC96E2D499904587B3C5FC9"
+				"size" "D9F82AB2B41D94AA510707267CF7A808"
+				"download" "2A83B4910EF7D591B2D3DB5E09D6A441"
 			}
 			"cbs_test"
 			{
@@ -502,14 +473,14 @@
 	{
 		"public"
 		{
-			"buildid" "16454211"
-			"timeupdated" "1731995705"
+			"buildid" "16482352"
+			"timeupdated" "1732171402"
 		}
 		"cb_beta"
 		{
-			"buildid" "16414294"
+			"buildid" "16455520"
 			"pwdrequired" "1"
-			"timeupdated" "1731638156"
+			"timeupdated" "1732005725"
 		}
 		"cbs_test"
 		{
@@ -526,6 +497,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26257092"
-"_sha" "3ee9a40c479603e3d7a5f6de90d98ac8688a12d3"
-"_size" "12191"
+"_change_number" "26293675"
+"_sha" "03aabca172dc93ef8f330ab738cd06625a3e5ee8"
+"_size" "9468"
