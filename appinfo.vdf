@@ -196,7 +196,7 @@
 		"19" "4486"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -221,7 +221,7 @@
 			}
 		}
 	}
-	"steamcontrollertemplateindex" "2"
+	"steamcontrollertemplateindex" "3"
 	"steamcontrollertouchtemplateindex" "8"
 	"steamdecktouchscreen" "1"
 }
@@ -235,9 +235,9 @@
 		{
 			"public"
 			{
-				"gid" "1617313882289500943"
-				"size" "1997017992"
-				"download" "212028112"
+				"gid" "5096042180557559037"
+				"size" "1996341312"
+				"download" "212200400"
 			}
 			"test"
 			{
@@ -274,8 +274,8 @@
 	{
 		"public"
 		{
-			"buildid" "16266286"
-			"timeupdated" "1730475188"
+			"buildid" "16429962"
+			"timeupdated" "1731750844"
 		}
 		"test"
 		{
@@ -305,6 +305,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26008594"
-"_sha" "e57ada1a5063b377b9dc80a89b350536d9abc512"
+"_change_number" "26240258"
+"_sha" "3f174fdf208c33cf396520d91089fecf5f51f951"
 "_size" "5385"
