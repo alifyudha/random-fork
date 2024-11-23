@@ -218,18 +218,18 @@
 		{
 			"public"
 			{
-				"gid" "6041597063878957501"
-				"size" "16813334338"
-				"download" "14098605744"
+				"gid" "4379047305743165042"
+				"size" "16816256889"
+				"download" "14100474384"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"playertest"
 			{
-				"gid" "A031EA6FF02DA38C7E6D3C02513B5873"
-				"size" "CB4AB70DBAC6BEB6305D2B56942F680B"
-				"download" "7D9E6EAAA2C27355EAD811E5D8D660C7"
+				"gid" "C09EE27A9867EBDBAE53F6D8A2AFB7A9"
+				"size" "2EF2238DFEDD1FFF69F909BDE37DA732"
+				"download" "5D9C3005DEF2A0B70DBAB5C940A19986"
 			}
 			"qianjinxian"
 			{
@@ -245,9 +245,9 @@
 			}
 			"test"
 			{
-				"gid" "610C3559824B7C904DB526B730DE38E5"
-				"size" "CE8552399082941BC2F19377B8F7DC9A"
-				"download" "F3D5CFA38E57884F4B9C51958A08E7CC"
+				"gid" "A1291068D5182062EE4E786EE8BD70DA"
+				"size" "A1E7CBF9A3D312736159FE264D637B08"
+				"download" "AE0C7B42139DDBC20FF77F4383074C16"
 			}
 		}
 	}
@@ -291,23 +291,24 @@
 			}
 		}
 	}
+	"workshopdepot" "1606180"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16487449"
-			"timeupdated" "1732208224"
+			"buildid" "16502018"
+			"timeupdated" "1732289492"
 		}
 		"playertest"
 		{
-			"sc_schinese" "对外测试"
-			"buildid" "16313648"
+			"sc_schinese" "对外测试卡顿"
+			"buildid" "16502018"
 			"pwdrequired" "1"
-			"timeupdated" "1730893371"
+			"timeupdated" "1732289017"
 		}
 		"qianjinxian"
 		{
-			"sc_schinese" "千金线测试"
+			"sc_schinese" "提审"
 			"buildid" "16361484"
 			"pwdrequired" "1"
 			"timeupdated" "1731297335"
@@ -322,13 +323,13 @@
 		"test"
 		{
 			"sc_schinese" "Steam China test"
-			"buildid" "16487449"
+			"buildid" "16502018"
 			"pwdrequired" "1"
-			"timeupdated" "1732198591"
+			"timeupdated" "1732288965"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26302216"
-"_sha" "1bc7726612009900a38d43e2e2580d9d0419ea0d"
-"_size" "6853"
+"_change_number" "26319367"
+"_sha" "69088e01e4ab2cf92fc4261cfedfb5481483ea82"
+"_size" "6879"
