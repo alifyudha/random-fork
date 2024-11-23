@@ -199,6 +199,8 @@
 }
 "extended"
 {
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "deploy"
 	"developer" "Stratagem Blue"
 	"publisher" "Stratagem Blue"
 }
@@ -221,24 +223,30 @@
 		{
 			"public"
 			{
-				"gid" "9217570211260755563"
-				"size" "417503392"
-				"download" "185333632"
+				"gid" "4665737766461904714"
+				"size" "392104903"
+				"download" "152402720"
 			}
 			"testing"
 			{
-				"gid" "9217570211260755563"
-				"size" "417503392"
-				"download" "185333632"
+				"gid" "4665737766461904714"
+				"size" "392104903"
+				"download" "152402720"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"debugging"
+			{
+				"gid" "D09FA309CBCD4C1ABAFB6182207FF512"
+				"size" "FADE06B3DB15D411D87F639B64EE4FAE"
+				"download" "3CB2A7E2BFEA026980D74DEFB613DF0A"
+			}
 			"deploy"
 			{
-				"gid" "10882ECC53A79E686BEDAE17E782BA5C"
-				"size" "B0D0D407960A81E2A1A7A007F2592BA8"
-				"download" "A2D2D26DAB6D0102533A7D500A104FD2"
+				"gid" "027A691425983F35CF6FE506E367FCF7"
+				"size" "B52BDE438801B5F60068F497D521A0E4"
+				"download" "FE4CB23F438D857BF14F2587A0789E92"
 			}
 		}
 	}
@@ -247,20 +255,26 @@
 	{
 		"public"
 		{
+			"buildid" "16506707"
+			"timeupdated" "1732320633"
+		}
+		"debugging"
+		{
 			"buildid" "16157380"
-			"timeupdated" "1729834842"
+			"pwdrequired" "1"
+			"timeupdated" "1732265819"
 		}
 		"testing"
 		{
-			"buildid" "16157380"
+			"buildid" "16506707"
 			"description" "Beta Branch"
-			"timeupdated" "1729722606"
+			"timeupdated" "1732320209"
 		}
 		"deploy"
 		{
-			"buildid" "15952848"
+			"buildid" "16506707"
 			"pwdrequired" "1"
-			"timeupdated" "1728441270"
+			"timeupdated" "1732320191"
 		}
 	}
 }
@@ -293,6 +307,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25890116"
-"_sha" "200baccf040ff17cce97ea0f800059f6a790403e"
-"_size" "5157"
+"_change_number" "26325519"
+"_sha" "78f0933008102c51bcb4027a09d29c7e661222f2"
+"_size" "5520"
