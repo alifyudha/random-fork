@@ -157,6 +157,8 @@
 		"category_22" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_30" "1"
+		"category_17" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -223,15 +225,15 @@
 		{
 			"public"
 			{
-				"gid" "4665737766461904714"
-				"size" "392104903"
-				"download" "152402720"
+				"gid" "8300364800982398818"
+				"size" "392113187"
+				"download" "152409760"
 			}
 			"testing"
 			{
-				"gid" "4665737766461904714"
-				"size" "392104903"
-				"download" "152402720"
+				"gid" "8300364800982398818"
+				"size" "392113187"
+				"download" "152409760"
 			}
 		}
 		"encryptedmanifests"
@@ -255,8 +257,8 @@
 	{
 		"public"
 		{
-			"buildid" "16506707"
-			"timeupdated" "1732320633"
+			"buildid" "16512732"
+			"timeupdated" "1732398697"
 		}
 		"debugging"
 		{
@@ -266,9 +268,9 @@
 		}
 		"testing"
 		{
-			"buildid" "16506707"
+			"buildid" "16512732"
 			"description" "Beta Branch"
-			"timeupdated" "1732320209"
+			"timeupdated" "1732398350"
 		}
 		"deploy"
 		{
@@ -307,6 +309,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26325519"
-"_sha" "78f0933008102c51bcb4027a09d29c7e661222f2"
-"_size" "5520"
+"_change_number" "26337366"
+"_sha" "09330b5c48f13afff2fd27a0ae6cd9105373127a"
+"_size" "5564"
