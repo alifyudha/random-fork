@@ -26,7 +26,7 @@
 		"schinese" "传染病"
 		"tchinese" "傳染病"
 	}
-	"timeline_marker_updated" "1732033435"
+	"timeline_marker_updated" "1732378887"
 	"timeline_marker_svg" "99b2b85f734ca1946149b367f1f645eed62ad169/markers.svg"
 	"steam_deck_compatibility"
 	{
@@ -399,9 +399,9 @@
 		{
 			"public"
 			{
-				"gid" "2907641399724826544"
-				"size" "150886333"
-				"download" "56130144"
+				"gid" "3006442653997081959"
+				"size" "150889432"
+				"download" "56115440"
 			}
 		}
 		"encryptedmanifests"
@@ -424,17 +424,11 @@
 				"size" "CA581F443B662493080CDC3235859581"
 				"download" "445BF3D2F2E84E30DBE8552BD49B721D"
 			}
-			"developer"
-			{
-				"gid" "850C082D010FA9004C6C8F6EFEA651CC"
-				"size" "43ACD66FED25C090A556E6777099EF1E"
-				"download" "CE76B81FA4F84D0B4CDC85760C4C3BCA"
-			}
 			"quality_assurance"
 			{
-				"gid" "F6CFE95D25C78A54D17CA66F582C4514"
-				"size" "E1F8AF7ADE8EEF46CC20FEEAA359C837"
-				"download" "F36296F2B2FD319AB58995CA048F08C2"
+				"gid" "78E1FF0AA90AE86F1CB30AEECC956091"
+				"size" "709FD9520D8C6E0807E640F0C889DDF2"
+				"download" "5BC67F43609FE11819F53EC35D9C7682"
 			}
 		}
 	}
@@ -444,24 +438,18 @@
 		{
 			"public"
 			{
-				"gid" "8848594106963895549"
-				"size" "14905966800"
-				"download" "4828605456"
+				"gid" "3640788259253416988"
+				"size" "14881628184"
+				"download" "4814537984"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"developer"
-			{
-				"gid" "F64511A5979B3B873A57165B980D1C21"
-				"size" "D464FB5DC44D5A1EEB191A2BF741D0B7"
-				"download" "C9430B4F7098664A077BDB4BA2FB59FE"
-			}
 			"quality_assurance"
 			{
-				"gid" "A0264FAAC5E89D2C522B45722E1DD026"
-				"size" "38AB2EEFDE85E5B08F9C033C75E5FAAE"
-				"download" "BC470CCF36718340E6AD60459B350EC3"
+				"gid" "2C40E2C9BCEC12F9330C74520AFB726F"
+				"size" "954B96730A12B10C06D47C7DEEDF8C15"
+				"download" "92A4698367F9DBB04C0DCBD638938E47"
 			}
 		}
 	}
@@ -481,7 +469,7 @@
 		{
 			"quality_assurance"
 			{
-				"gid" "EDA465696CBD3AC37F5A98D2357FA9B2"
+				"gid" "C61D93611D952B2399B4BABB95A15528"
 				"size" "409F54A84F9345A8502565B44F6FFB6F"
 				"download" "73169DDE1A607F4803C1801D268AED3A"
 			}
@@ -491,8 +479,8 @@
 	{
 		"public"
 		{
-			"buildid" "16460754"
-			"timeupdated" "1732032841"
+			"buildid" "16510689"
+			"timeupdated" "1732378799"
 		}
 		"2013-build"
 		{
@@ -512,17 +500,11 @@
 			"pwdrequired" "1"
 			"timeupdated" "1577723437"
 		}
-		"developer"
-		{
-			"buildid" "10858792"
-			"pwdrequired" "1"
-			"timeupdated" "1679840178"
-		}
 		"quality_assurance"
 		{
-			"buildid" "16463576"
+			"buildid" "16511775"
 			"pwdrequired" "1"
-			"timeupdated" "1732048005"
+			"timeupdated" "1732382847"
 		}
 	}
 }
@@ -532,6 +514,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26268283"
-"_sha" "6e9497b47473ed6379b11e6d308eacb3c8ba7c24"
-"_size" "11347"
+"_change_number" "26331732"
+"_sha" "d1b27e84c3f532ab83a110d97712a1c3432fc742"
+"_size" "10891"
