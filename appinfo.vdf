@@ -96,9 +96,8 @@
 	"primary_genre" "23"
 	"genres"
 	{
-		"0" "37"
-		"1" "23"
-		"2" "2"
+		"0" "23"
+		"1" "2"
 	}
 	"category"
 	{
@@ -112,34 +111,45 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
 	}
 	"original_release_date" "1609401600"
 	"steam_release_date" "1617716987"
 	"community_hub_visible" "1"
 	"gameid" "1494960"
-	"exfgls" "3"
 	"store_tags"
 	{
 		"0" "9"
 		"1" "1676"
 		"2" "6310"
-		"3" "17305"
-		"4" "13782"
-		"5" "1670"
-		"6" "3813"
-		"7" "4364"
-		"8" "4684"
-		"9" "26921"
-		"10" "4191"
-		"11" "5851"
-		"12" "4168"
-		"13" "3987"
-		"14" "1678"
-		"15" "1708"
-		"16" "12472"
-		"17" "7332"
-		"18" "3993"
-		"19" "113"
+		"3" "1670"
+		"4" "3813"
+		"5" "4364"
+		"6" "4684"
+		"7" "26921"
+		"8" "4191"
+		"9" "4168"
+		"10" "3987"
+		"11" "1678"
+		"12" "1708"
+		"13" "12472"
+		"14" "7332"
+		"15" "3993"
+		"16" "599"
+		"17" "3834"
+		"18" "113"
+		"19" "4172"
 	}
 	"review_score" "5"
 	"review_percentage" "66"
@@ -148,7 +158,7 @@
 {
 	"developer" "Yiming"
 	"publisher" "Yiming"
-	"isfreeapp" "1"
+	"homepage" "https://yiming.site/"
 }
 "config"
 {
@@ -202,9 +212,9 @@
 		{
 			"public"
 			{
-				"gid" "928602084762332825"
-				"size" "815727656"
-				"download" "286506896"
+				"gid" "2125490663315722520"
+				"size" "784192633"
+				"download" "268567328"
 			}
 		}
 	}
@@ -213,8 +223,12 @@
 	{
 		"public"
 		{
-			"buildid" "6426494"
-			"timeupdated" "1616513450"
+			"buildid" "16509162"
+			"timeupdated" "1732348309"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26328467"
+"_sha" "c83a569bbccbb9001944766f8834d6a98e85e191"
+"_size" "3714"
