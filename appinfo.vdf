@@ -4,7 +4,7 @@
 	"name" "100% Orange Juice"
 	"type" "Game"
 	"releasestate" "released"
-	"oslist" "windows,linux"
+	"oslist" "windows,macos,linux"
 	"icon" "baaf4be38deeb8a631567ee6c651ca23b65c834a"
 	"clienticon" "134fd07f20b8c919f572f28d9283635ff05a59e0"
 	"clienttga" "70c698f2a18860a195759eac6068d2a4e74cb0f3"
@@ -26,8 +26,8 @@
 	{
 		"japanese" "100％おれんじじゅ～すっ！"
 	}
-	"osarch" ""
-	"osextended" ""
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -340,6 +340,19 @@
 			}
 			"description" "Launch"
 		}
+		"3"
+		{
+			"executable" "100OrangeJuice.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
 	}
 	"usemms" "1"
 	"steamcontrollertemplateindex" "13"
@@ -397,15 +410,15 @@
 		{
 			"public"
 			{
-				"gid" "1404488458413730498"
-				"size" "1803530534"
-				"download" "1715322064"
+				"gid" "6193773710039353369"
+				"size" "38964048"
+				"download" "12617696"
 			}
-			"beta"
+			"directx_backup"
 			{
-				"gid" "3092735691300334007"
-				"size" "1673371541"
-				"download" "1636807760"
+				"gid" "8605762250267904039"
+				"size" "1809094229"
+				"download" "1726878080"
 			}
 		}
 		"encryptedmanifests"
@@ -430,9 +443,9 @@
 			}
 			"beta_release_candidate"
 			{
-				"gid" "38D13E52BBBA76FF9DA561A95183B432"
-				"size" "4CB6A2C6EB1624E6E19629501629BE03"
-				"download" "3BCE70296DB8E6EED67E7D6F002A22F8"
+				"gid" "514B834D801C8DCB6A5A53F2E3D12407"
+				"size" "DA791C6F31125649BF1EC476716F86D8"
+				"download" "10B3051CCF3A245ED64945E7EA58B045"
 			}
 			"gameshow"
 			{
@@ -440,17 +453,29 @@
 				"size" "56861E296F4CAC6EF99415BB0A79A66C"
 				"download" "A118F135794C93F4042CA3598A95BEC0"
 			}
+			"legacy_3.23.1"
+			{
+				"gid" "E6D92CD4FDBF93E081ACF1FBF4C85343"
+				"size" "C0D02C3F1C81754E5ED58775CB8669E4"
+				"download" "6B510DE668D9A2281D9588EABA489D2B"
+			}
 			"linux_dev_test"
 			{
 				"gid" "F07F7CCC9BBEE90818D0364845B394D6"
 				"size" "A836850206B858193499351D2FC54541"
 				"download" "0BAD3843F4A965D162062F56F8895612"
 			}
+			"osx_test"
+			{
+				"gid" "748955B076C1CD05343E707B4E7C7DBA"
+				"size" "06B559680EC51396ED331314FB4FBF8B"
+				"download" "232EB30F1E15C9D82BA16D66F999F956"
+			}
 			"release_candidate"
 			{
-				"gid" "09E9488476C6B65D2832DEF672922E8D"
-				"size" "27A8FAA1D74CCBBEE5888CBAE66AF7F4"
-				"download" "26F042780CD7196FABED543EE38676DD"
+				"gid" "1D643E462439AD1903D185392A6067CC"
+				"size" "6E8E12A9F9047B4AF6D3EC6B6E1CD8E9"
+				"download" "89070CF4BCC7F2FB6246B6DC21E49FF2"
 			}
 			"videos"
 			{
@@ -470,24 +495,30 @@
 		{
 			"public"
 			{
-				"gid" "230338898967177283"
-				"size" "25443224"
-				"download" "8009072"
+				"gid" "7939159164195772541"
+				"size" "45993780"
+				"download" "14059648"
 			}
-			"beta"
+			"directx_backup"
 			{
-				"gid" "230338898967177283"
-				"size" "25443224"
-				"download" "8009072"
+				"gid" "7939159164195772541"
+				"size" "45993780"
+				"download" "14059648"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta_release_candidate"
 			{
-				"gid" "8849259720E6787C467633B74DB3E596"
-				"size" "A600C1DB7CE5C0EC473AA97F99D6EAE4"
-				"download" "094C463384DB44B52FDEEFD990ADA00F"
+				"gid" "9EF6BCA804B28FAED48B91D574419370"
+				"size" "5E3A6A1401959AD90D7BADDDDEF66200"
+				"download" "1BC9398918C1627A88A6A9943B18A390"
+			}
+			"legacy_3.23.1"
+			{
+				"gid" "7DBBB5628238EEB0F123F198CF78EF4D"
+				"size" "B9B7AB3F6799F98937D877F17B27D45E"
+				"download" "0544F153D993E6CBD41E7600BD2CBDD9"
 			}
 			"linux_dev_test"
 			{
@@ -495,11 +526,17 @@
 				"size" "6F38A3506A755E223EC1A412D6838D19"
 				"download" "E4635E38B594B6BE27C99117887B15D2"
 			}
+			"osx_test"
+			{
+				"gid" "421120A11F3EEFF9BE7054FED7DEFEC8"
+				"size" "852D6BE2A4548897B6590266EB15A732"
+				"download" "D2F0349FFC8D8C1A7C527CA5D82E83FE"
+			}
 			"release_candidate"
 			{
-				"gid" "D3E0D56939A45948C38EA69A362164ED"
-				"size" "18759974113E55461DB2C201290C8C11"
-				"download" "41144495CCB6C074F10CF7AE809599F2"
+				"gid" "5F71EDBCEB1B6913FC90AB35FED15ED4"
+				"size" "68ED6CCCD5264C9778D195439E4549F9"
+				"download" "F56FE4782DAD306168876F04D9377983"
 			}
 		}
 	}
@@ -507,30 +544,36 @@
 	{
 		"config"
 		{
-			"oslist" "linux"
+			"oslist" "windows,linux"
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "7640951944759810439"
-				"size" "1645831861"
-				"download" "1627398672"
+				"gid" "7872482528357293144"
+				"size" "1594284225"
+				"download" "1601699216"
 			}
-			"beta"
+			"directx_backup"
 			{
-				"gid" "7640951944759810439"
-				"size" "1645831861"
-				"download" "1627398672"
+				"gid" "7872482528357293144"
+				"size" "1594284225"
+				"download" "1601699216"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta_release_candidate"
 			{
-				"gid" "65AF9079B6A45CF9156493A513B83A50"
-				"size" "8D909ACD94CA4F0956194B7A53E72954"
-				"download" "7ADE554059A87B70FF23BB9E9755301C"
+				"gid" "009E0263DE90CC9355527858E52E0D8F"
+				"size" "C9D5C78E9A120E83188A22BADBDD74F3"
+				"download" "98C6EDAEDC2BC4624DCF8B1B3D297145"
+			}
+			"legacy_3.23.1"
+			{
+				"gid" "74539907CDC5EE76B8BD644858D6B67E"
+				"size" "5ADF40E373A069E24A7D739679B7536C"
+				"download" "074315E21D4BCE64DE6BDF9FB424F0B0"
 			}
 			"linux_dev_test"
 			{
@@ -538,11 +581,60 @@
 				"size" "C3F4096CDE68F107DB9597EBB71FCCA8"
 				"download" "4DE0930CC83A6086B6EEFF00EEE4AF50"
 			}
+			"osx_test"
+			{
+				"gid" "D6A3DB6A5E2ABB74596B59027BE029AB"
+				"size" "43A2CF09736C37A09AE2CD78FEE73236"
+				"download" "20B7236866C10E976EB8ADA033E4DBD6"
+			}
 			"release_candidate"
 			{
-				"gid" "6DA3D10C83FB27D3C4A49E00893D027C"
-				"size" "C7D8A2AB66DBDE6996CAB86007EE173B"
-				"download" "A36CBC8008B1FBF77BAFD95FF8919300"
+				"gid" "187E0A01AA4980F6B21462DAE0548F83"
+				"size" "9E3D769CFD7650644EEA607AD1D46179"
+				"download" "6FA6455F49C243F00CDFAA9EE999E64D"
+			}
+		}
+	}
+	"282804"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7720726231133716117"
+				"size" "1656873093"
+				"download" "1613999024"
+			}
+			"directx_backup"
+			{
+				"gid" "5322556982177759135"
+				"size" "1656873093"
+				"download" "1613999024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_release_candidate"
+			{
+				"gid" "259DBC436A897F6DC1B3DBE1C039C97E"
+				"size" "119E88DD82203C4CA1FABF73C541B16C"
+				"download" "4E9DBBEC99B14ACCDD24560A9DF1CB2D"
+			}
+			"osx_test"
+			{
+				"gid" "A9CC60EDAEFA3A2814A74DBD4D537077"
+				"size" "64DD3FA98A33CEB749A546F8A63B80B9"
+				"download" "0A7F913B480A2EAAB46FEDA5D6CBE09E"
+			}
+			"release_candidate"
+			{
+				"gid" "4B72C24790C7340F49A882375B5D3C6F"
+				"size" "4CD1F29DE23FD2D27D24D5E8177AA718"
+				"download" "E969D34381939D23318084A0B3D3081D"
 			}
 		}
 	}
@@ -550,8 +642,8 @@
 	{
 		"public"
 		{
-			"buildid" "16098648"
-			"timeupdated" "1729357523"
+			"buildid" "16517817"
+			"timeupdated" "1732492633"
 		}
 		"devs"
 		{
@@ -571,17 +663,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1712921041"
 		}
-		"beta"
-		{
-			"buildid" "16098699"
-			"description" "Public OpenGL Beta"
-			"timeupdated" "1729357478"
-		}
 		"beta_release_candidate"
 		{
-			"buildid" "16098699"
+			"buildid" "16518265"
 			"pwdrequired" "1"
-			"timeupdated" "1729268041"
+			"timeupdated" "1732487761"
+		}
+		"directx_backup"
+		{
+			"buildid" "16518265"
+			"description" "DirectX version for any that is experiencing major issues with the OpenGL build"
+			"timeupdated" "1732492242"
 		}
 		"gameshow"
 		{
@@ -589,17 +681,29 @@
 			"pwdrequired" "1"
 			"timeupdated" "1727271055"
 		}
+		"legacy_3.23.1"
+		{
+			"buildid" "16098648"
+			"pwdrequired" "1"
+			"timeupdated" "1732140636"
+		}
 		"linux_dev_test"
 		{
 			"buildid" "15783528"
 			"pwdrequired" "1"
 			"timeupdated" "1726961010"
 		}
+		"osx_test"
+		{
+			"buildid" "16504775"
+			"pwdrequired" "1"
+			"timeupdated" "1732306433"
+		}
 		"release_candidate"
 		{
-			"buildid" "16098648"
+			"buildid" "16517817"
 			"pwdrequired" "1"
-			"timeupdated" "1729267814"
+			"timeupdated" "1732481777"
 		}
 		"videos"
 		{
@@ -615,22 +719,62 @@
 	"maxnumfiles" "2000"
 	"savefiles"
 	{
-		"0"
+		"2"
+		{
+			"root" "MacAppSupport"
+			"path" "FBF/100OrangeJuice/save/{64BitSteamID}/."
+			"pattern" "*.ojs"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+		"3"
 		{
 			"root" "gameinstall"
 			"path" "."
 			"pattern" "user.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
 		}
-		"1"
+		"4"
 		{
 			"root" "gameinstall"
 			"path" "save/{64BitSteamID}/."
 			"pattern" "*.ojs"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"5"
+		{
+			"root" "gameinstall"
+			"path" "."
+			"pattern" "user.dat"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"6"
+		{
+			"root" "gameinstall"
+			"path" "save/{64BitSteamID}/."
+			"pattern" "*.ojs"
+			"platforms"
+			{
+				"1" "Linux"
+			}
 			"recursive" "1"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25801420"
-"_sha" "aacc83f556ab9bb5a2a885dc0d21bf1ba95ad876"
-"_size" "12445"
+"_change_number" "26341755"
+"_sha" "fb675ec30fb374c249a8b285473695019b0971db"
+"_size" "15543"
