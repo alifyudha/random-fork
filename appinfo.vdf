@@ -73,6 +73,7 @@
 		}
 	}
 	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -143,7 +144,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730363733"
+	"store_asset_mtime" "1732519183"
 	"associations"
 	{
 		"0"
@@ -181,6 +182,8 @@
 		"category_46" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_18" "1"
+		"category_30" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -246,8 +249,8 @@
 		"0" "1662"
 		"1" "3859"
 		"2" "1100689"
-		"3" "3810"
-		"4" "1643"
+		"3" "1643"
+		"4" "3810"
 		"5" "1695"
 		"6" "7332"
 		"7" "1702"
@@ -272,6 +275,8 @@
 	"developer" "CampFire Studio"
 	"publisher" "Qooland Games"
 	"homepage" "https://mask.qoolandgames.com/"
+	"listofdlc" "3336600"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -342,6 +347,9 @@
 }
 "depots"
 {
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese"
+	"workshopdepot" "2646460"
+	"hasdepotsindlc" "0"
 	"228989"
 	{
 		"config"
@@ -384,18 +392,18 @@
 		{
 			"public"
 			{
-				"gid" "323482300277472616"
-				"size" "11860872927"
-				"download" "11621171696"
+				"gid" "7003311988617276923"
+				"size" "12270605298"
+				"download" "12007660400"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"pioneer"
 			{
-				"gid" "6AA6C47547AD7540B56AFF79DD1ECE0F"
-				"size" "433A5A826DF506607C33A93AC6FA332B"
-				"download" "A6CF25F2FDB549756669173B26B0F461"
+				"gid" "3F1C5D6E0B7ED9D53BAE250F028473D5"
+				"size" "E559A53576E2FDCDD295A1E304192F4A"
+				"download" "1B3ACF22DE1D94E0137A42FEE634A5BB"
 			}
 			"test"
 			{
@@ -405,20 +413,22 @@
 			}
 		}
 	}
-	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese"
-	"workshopdepot" "2646460"
+	"3336600"
+	{
+		"dlcappid" "3336600"
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16327447"
-			"timeupdated" "1730982669"
+			"buildid" "16522425"
+			"timeupdated" "1732529355"
 		}
 		"pioneer"
 		{
-			"buildid" "16251563"
+			"buildid" "16522425"
 			"pwdrequired" "1"
-			"timeupdated" "1730378551"
+			"timeupdated" "1732529364"
 		}
 		"test"
 		{
@@ -449,6 +459,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26089140"
-"_sha" "b292c32863e42b9c1a4b8413199b833ffef8231e"
-"_size" "7806"
+"_change_number" "26346490"
+"_sha" "1e40147c75516e7d31682ffdb35b95ec52ad7ff0"
+"_size" "8008"
