@@ -224,18 +224,18 @@
 		{
 			"public"
 			{
-				"gid" "8520087034164175305"
-				"size" "39506271959"
-				"download" "32570596048"
+				"gid" "7001875570971541269"
+				"size" "39506267607"
+				"download" "32570572080"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internaltest"
 			{
-				"gid" "272F6F9282238799ACF4C2B1B5A56094"
-				"size" "4800FB51447C473052E677235D38224D"
-				"download" "50BB10FEA6AB36A1D2E23CA024F7B9A7"
+				"gid" "76F815C42A1B02835A86815BCF1A3D9F"
+				"size" "C25FFAB8C8284CD2014F37DBED3E11FA"
+				"download" "74C1BA49210A0259111ED823874F0EC2"
 			}
 			"steam_china_only"
 			{
@@ -258,14 +258,14 @@
 	{
 		"public"
 		{
-			"buildid" "16511373"
-			"timeupdated" "1732379144"
+			"buildid" "16521987"
+			"timeupdated" "1732536791"
 		}
 		"internaltest"
 		{
-			"buildid" "16511373"
+			"buildid" "16521987"
 			"pwdrequired" "1"
-			"timeupdated" "1732376915"
+			"timeupdated" "1732526544"
 		}
 		"steam_china_only"
 		{
@@ -278,7 +278,7 @@
 }
 "ufs"
 {
-	"quota" "1024000000"
+	"quota" "5368709120"
 	"maxnumfiles" "10000"
 	"savefiles"
 	{
@@ -286,14 +286,19 @@
 		{
 			"root" "gameinstall"
 			"path" "storage"
-			"pattern" "*"
+			"pattern" "*.boh"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "storage"
+			"pattern" "index.json"
 			"recursive" "1"
 		}
 	}
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26331341"
-"_sha" "06081252af37e9b169b7ffcba1a4e0ee04d65075"
-"_size" "5875"
+"_change_number" "26349927"
+"_sha" "64debcb4406865a56ae4d3e868bb7df060c541d6"
+"_size" "5943"
