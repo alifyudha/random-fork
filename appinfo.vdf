@@ -232,7 +232,7 @@
 		"19" "4252"
 	}
 	"review_score" "5"
-	"review_percentage" "64"
+	"review_percentage" "65"
 }
 "extended"
 {
@@ -269,24 +269,24 @@
 		{
 			"public"
 			{
-				"gid" "3214348657373686246"
-				"size" "326284923"
-				"download" "143128160"
+				"gid" "74478349833456557"
+				"size" "1358174916"
+				"download" "348502768"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta-test"
 			{
-				"gid" "2BD4E17CCDECAD04933FBA44077AA50F"
-				"size" "300AD0B99E8D3622DD8F41DB34AEA7DB"
-				"download" "B215E11ACC9E67EDF663827D33948E5D"
+				"gid" "4F2CD7FBAE9A5DF1AC79E14F857FBEEB"
+				"size" "71F9C22DECA090D08CC5FAF02F252584"
+				"download" "D7BB08E28DCB45C1448027B7A61867E1"
 			}
 			"test"
 			{
-				"gid" "441AA48395CA9E7C8F543096E5D0F914"
-				"size" "4AD1402B7E0EC15981C6D9CFCCFFD41A"
-				"download" "01185ED5E1A86520FF28FAF9C8C95F8C"
+				"gid" "A0F7CA34CBFDB32D048008842D6D955B"
+				"size" "E4A5E76AF91DF469D104F8E6D3C56F45"
+				"download" "3135E9ED997CCD7D9C88E4F856EB4A4B"
 			}
 		}
 	}
@@ -296,20 +296,20 @@
 	{
 		"public"
 		{
-			"buildid" "16467207"
-			"timeupdated" "1732074752"
+			"buildid" "16518756"
+			"timeupdated" "1732503275"
 		}
 		"beta-test"
 		{
-			"buildid" "16454002"
+			"buildid" "16504889"
 			"pwdrequired" "1"
-			"timeupdated" "1731993041"
+			"timeupdated" "1732307180"
 		}
 		"test"
 		{
-			"buildid" "16467207"
+			"buildid" "16518756"
 			"pwdrequired" "1"
-			"timeupdated" "1732073793"
+			"timeupdated" "1732494267"
 		}
 	}
 }
@@ -332,6 +332,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26273076"
-"_sha" "3e06ac526b4c56a909f333fc458688c3cd3d2585"
-"_size" "6410"
+"_change_number" "26342355"
+"_sha" "11ca37035c2b169d3e749daee358b44fe539dd5e"
+"_size" "6409"
