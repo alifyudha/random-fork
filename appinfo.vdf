@@ -291,8 +291,8 @@
 		"7" "6650"
 		"8" "4182"
 		"9" "1697"
-		"10" "3814"
-		"11" "4345"
+		"10" "4345"
+		"11" "3814"
 		"12" "6052"
 		"13" "1774"
 		"14" "4166"
@@ -303,13 +303,13 @@
 		"19" "5708"
 	}
 	"review_score" "6"
-	"review_percentage" "71"
+	"review_percentage" "72"
 }
 "extended"
 {
 	"developer" "Hangar 13"
 	"publisher" "2K"
-	"homepage" "https://www.mafiagame.com/"
+	"homepage" "https://mafia.2k.com/"
 }
 "config"
 {
@@ -318,23 +318,6 @@
 	{
 		"0"
 		{
-			"executable" "pc\\Mafia2Launcher\\Launcher.exe"
-			"workingdir" "pc\\Mafia2Launcher"
-			"type" "option2"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-				"betakey" "old,newtest"
-			}
-			"description_loc"
-			{
-				"english" "Mafia II Definitive Edition Launcher"
-			}
-			"description" "Mafia II Definitive Edition Launcher"
-		}
-		"1"
-		{
 			"executable" "pc/Mafia II Definitive Edition.exe"
 			"workingdir" "pc"
 			"type" "default"
@@ -342,8 +325,23 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "capture_tools,newtest"
 			}
+		}
+		"1"
+		{
+			"executable" "pc\\Mafia2Launcher\\Launcher.exe"
+			"workingdir" "pc\\Mafia2Launcher"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Mafia II Definitive Edition Launcher"
+			}
+			"description" "Mafia II Definitive Edition Launcher"
 		}
 		"2"
 		{
@@ -354,6 +352,7 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
+				"betakey" "newtest"
 			}
 			"description_loc"
 			{
@@ -517,9 +516,9 @@
 		{
 			"public"
 			{
-				"gid" "1298223493515886904"
-				"size" "139408274"
-				"download" "135668816"
+				"gid" "5488617169383930545"
+				"size" "80"
+				"download" "128"
 			}
 		}
 		"encryptedmanifests"
@@ -562,9 +561,9 @@
 			}
 			"newtest"
 			{
-				"gid" "C721BDBFD1584469A60EC4DB9AFEA606"
-				"size" "A5039B46CB3D667228C66F3EEFFB0ACE"
-				"download" "A5039B46CB3D667228C66F3EEFFB0ACE"
+				"gid" "91B3E64797BBEDB807335F0BE6255E3C"
+				"size" "E1889D5ADE40281D22D268C80AFA0429"
+				"download" "AA8A176A339F19E256074D1361252BE7"
 			}
 		}
 		"depotfromapp" "1523210"
@@ -740,3 +739,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26355951"
+"_sha" "a37ef98cb449a50c0523f19a1b0caab106a158f4"
+"_size" "15300"
