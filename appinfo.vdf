@@ -410,15 +410,21 @@
 		{
 			"public"
 			{
-				"gid" "6193773710039353369"
-				"size" "38964048"
-				"download" "12617696"
+				"gid" "3381337818581183190"
+				"size" "39010128"
+				"download" "12628016"
 			}
 			"directx_backup"
 			{
-				"gid" "8605762250267904039"
-				"size" "1809094229"
-				"download" "1726878080"
+				"gid" "7255480369654092438"
+				"size" "1809134677"
+				"download" "1727981888"
+			}
+			"legacy_3.23.1"
+			{
+				"gid" "1404488458413730498"
+				"size" "1803530534"
+				"download" "1715322064"
 			}
 		}
 		"encryptedmanifests"
@@ -443,21 +449,15 @@
 			}
 			"beta_release_candidate"
 			{
-				"gid" "514B834D801C8DCB6A5A53F2E3D12407"
-				"size" "DA791C6F31125649BF1EC476716F86D8"
-				"download" "10B3051CCF3A245ED64945E7EA58B045"
+				"gid" "2D085A24EE6A53186450E9DE48A95DD3"
+				"size" "06472AD1620482480BC49215B554936E"
+				"download" "198E91F78C6A765494ACDB203A5733E1"
 			}
 			"gameshow"
 			{
 				"gid" "E7755214B93A439BE3EF2E2F15DFED92"
 				"size" "56861E296F4CAC6EF99415BB0A79A66C"
 				"download" "A118F135794C93F4042CA3598A95BEC0"
-			}
-			"legacy_3.23.1"
-			{
-				"gid" "E6D92CD4FDBF93E081ACF1FBF4C85343"
-				"size" "C0D02C3F1C81754E5ED58775CB8669E4"
-				"download" "6B510DE668D9A2281D9588EABA489D2B"
 			}
 			"linux_dev_test"
 			{
@@ -473,9 +473,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "1D643E462439AD1903D185392A6067CC"
-				"size" "6E8E12A9F9047B4AF6D3EC6B6E1CD8E9"
-				"download" "89070CF4BCC7F2FB6246B6DC21E49FF2"
+				"gid" "E7FF33819711F4163712A4811F27C8F5"
+				"size" "374852EF8F4274ADE5F30686D26BE8BB"
+				"download" "FEE05A0F6357CB85A82356253E730BAA"
 			}
 			"videos"
 			{
@@ -495,30 +495,30 @@
 		{
 			"public"
 			{
-				"gid" "7939159164195772541"
-				"size" "45993780"
-				"download" "14059648"
+				"gid" "5337552404180885729"
+				"size" "46047028"
+				"download" "14067312"
 			}
 			"directx_backup"
 			{
-				"gid" "7939159164195772541"
-				"size" "45993780"
-				"download" "14059648"
+				"gid" "5337552404180885729"
+				"size" "46047028"
+				"download" "14067312"
+			}
+			"legacy_3.23.1"
+			{
+				"gid" "230338898967177283"
+				"size" "25443224"
+				"download" "8009072"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta_release_candidate"
 			{
-				"gid" "9EF6BCA804B28FAED48B91D574419370"
-				"size" "5E3A6A1401959AD90D7BADDDDEF66200"
-				"download" "1BC9398918C1627A88A6A9943B18A390"
-			}
-			"legacy_3.23.1"
-			{
-				"gid" "7DBBB5628238EEB0F123F198CF78EF4D"
-				"size" "B9B7AB3F6799F98937D877F17B27D45E"
-				"download" "0544F153D993E6CBD41E7600BD2CBDD9"
+				"gid" "47AEFC19AC440881C1A98D3C1026440D"
+				"size" "A3A22D995E9976D3C389E45A66117E39"
+				"download" "F615F79384B1AD54D9BA1EF2D211A0E3"
 			}
 			"linux_dev_test"
 			{
@@ -534,9 +534,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "5F71EDBCEB1B6913FC90AB35FED15ED4"
-				"size" "68ED6CCCD5264C9778D195439E4549F9"
-				"download" "F56FE4782DAD306168876F04D9377983"
+				"gid" "5006B6668EF253B372373B64BBC7D366"
+				"size" "D90D551B7B2622325F251BB3F85BC053"
+				"download" "85B3BEC4B48353E839DA801A852252EA"
 			}
 		}
 	}
@@ -560,6 +560,12 @@
 				"size" "1594284225"
 				"download" "1601699216"
 			}
+			"legacy_3.23.1"
+			{
+				"gid" "7640951944759810439"
+				"size" "1645831861"
+				"download" "1627398672"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -568,12 +574,6 @@
 				"gid" "009E0263DE90CC9355527858E52E0D8F"
 				"size" "C9D5C78E9A120E83188A22BADBDD74F3"
 				"download" "98C6EDAEDC2BC4624DCF8B1B3D297145"
-			}
-			"legacy_3.23.1"
-			{
-				"gid" "74539907CDC5EE76B8BD644858D6B67E"
-				"size" "5ADF40E373A069E24A7D739679B7536C"
-				"download" "074315E21D4BCE64DE6BDF9FB424F0B0"
 			}
 			"linux_dev_test"
 			{
@@ -605,24 +605,24 @@
 		{
 			"public"
 			{
-				"gid" "7720726231133716117"
-				"size" "1656873093"
-				"download" "1613999024"
+				"gid" "2573142117440355423"
+				"size" "1656948949"
+				"download" "1614021728"
 			}
 			"directx_backup"
 			{
-				"gid" "5322556982177759135"
-				"size" "1656873093"
-				"download" "1613999024"
+				"gid" "2573142117440355423"
+				"size" "1656948949"
+				"download" "1614021728"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta_release_candidate"
 			{
-				"gid" "259DBC436A897F6DC1B3DBE1C039C97E"
-				"size" "119E88DD82203C4CA1FABF73C541B16C"
-				"download" "4E9DBBEC99B14ACCDD24560A9DF1CB2D"
+				"gid" "C3ED409448A341085E59D4259324103A"
+				"size" "C0D4FB9804B2D9D6CEFC012F62D3BCEF"
+				"download" "5CFB61AADFB7E3EB61728B7017402154"
 			}
 			"osx_test"
 			{
@@ -632,9 +632,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "4B72C24790C7340F49A882375B5D3C6F"
-				"size" "4CD1F29DE23FD2D27D24D5E8177AA718"
-				"download" "E969D34381939D23318084A0B3D3081D"
+				"gid" "3F186CBC59EF5DE87A1185C2DA1093AE"
+				"size" "AFFEF861BE16D95FA5BB5526CA1E805F"
+				"download" "359871E852AA6C39FAEED8C68A483F37"
 			}
 		}
 	}
@@ -642,8 +642,8 @@
 	{
 		"public"
 		{
-			"buildid" "16517817"
-			"timeupdated" "1732492633"
+			"buildid" "16538577"
+			"timeupdated" "1732633207"
 		}
 		"devs"
 		{
@@ -665,15 +665,15 @@
 		}
 		"beta_release_candidate"
 		{
-			"buildid" "16518265"
+			"buildid" "16538537"
 			"pwdrequired" "1"
-			"timeupdated" "1732487761"
+			"timeupdated" "1732628320"
 		}
 		"directx_backup"
 		{
-			"buildid" "16518265"
+			"buildid" "16538537"
 			"description" "DirectX version for any that is experiencing major issues with the OpenGL build"
-			"timeupdated" "1732492242"
+			"timeupdated" "1732633177"
 		}
 		"gameshow"
 		{
@@ -684,7 +684,7 @@
 		"legacy_3.23.1"
 		{
 			"buildid" "16098648"
-			"pwdrequired" "1"
+			"description" "Legacy version 3.23.1 on DirectX9."
 			"timeupdated" "1732140636"
 		}
 		"linux_dev_test"
@@ -701,9 +701,9 @@
 		}
 		"release_candidate"
 		{
-			"buildid" "16517817"
+			"buildid" "16538577"
 			"pwdrequired" "1"
-			"timeupdated" "1732481777"
+			"timeupdated" "1732628565"
 		}
 		"videos"
 		{
@@ -775,6 +775,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26341755"
-"_sha" "fb675ec30fb374c249a8b285473695019b0971db"
-"_size" "15543"
+"_change_number" "26368714"
+"_sha" "0ae1426b4f86b20fa68ce47bba2f0c223ada4ce5"
+"_size" "15399"
