@@ -268,15 +268,15 @@
 		{
 			"public"
 			{
-				"gid" "4780571129564194518"
-				"size" "9588383785"
-				"download" "3361909344"
+				"gid" "6221185816426364195"
+				"size" "9588340529"
+				"download" "3361871312"
 			}
 			"open-beta"
 			{
-				"gid" "4780571129564194518"
-				"size" "9588383785"
-				"download" "3361909344"
+				"gid" "6221185816426364195"
+				"size" "9588340529"
+				"download" "3361871312"
 			}
 			"previous"
 			{
@@ -287,29 +287,23 @@
 		}
 		"encryptedmanifests"
 		{
-			"datatest"
-			{
-				"gid" "3C5E8F6900E446ED7694BB6548B811A5"
-				"size" "8BCF182199F5F3577DA9C7660674730C"
-				"download" "63D215875DE65267AEDF93DBB79C06A0"
-			}
 			"kluge-collective"
 			{
-				"gid" "F51E35931F1CF2D3931AD01A8F2853C1"
-				"size" "9055A1A9E7D9EA672EFA892C74B02EC8"
-				"download" "315F998ECAA5B9FC5B347FD5C2E3E396"
+				"gid" "268FA4A0743D5DD7FD595347C207F166"
+				"size" "8D5B4FEC07A156068271D0F5E9DCD2DC"
+				"download" "9E5F569683F9235CDE9BA1E18D92B1F2"
 			}
 			"wirrel-only"
 			{
-				"gid" "EEC86C319FAC687F38E4CB63E51DC683"
-				"size" "8A4A4F7FC2BAE6BDF61AAF7D2589EA1F"
-				"download" "55254D1B2BDB237EC7EBA90DDA3DD0E7"
+				"gid" "C9510307CADFCD4FDB70E4F6A5B63BA7"
+				"size" "94DD8B3F11E7E1773B7804D682665C7B"
+				"download" "7355E86F9170EBE05FA11452FE39CB6E"
 			}
 			"closed-beta"
 			{
-				"gid" "094C2B76EA80AAFE2C7CE104CB4A1D40"
-				"size" "38877430946DBA4C3F79CE46A45111C3"
-				"download" "59578811B47B2BA8F739EB5F662D2772"
+				"gid" "B449DE3131144A34609736BEFCDA4BEC"
+				"size" "E05AEDD724471DC5F34DCFCA75F6C8F9"
+				"download" "80886AB2323240784AD414CE0593C064"
 			}
 			"capture-branch-1"
 			{
@@ -371,32 +365,26 @@
 	{
 		"public"
 		{
-			"buildid" "16468796"
-			"timeupdated" "1732125565"
-		}
-		"datatest"
-		{
-			"buildid" "16477826"
-			"pwdrequired" "1"
-			"timeupdated" "1732137798"
+			"buildid" "16517704"
+			"timeupdated" "1732567939"
 		}
 		"kluge-collective"
 		{
-			"buildid" "16468796"
+			"buildid" "16517704"
 			"pwdrequired" "1"
-			"timeupdated" "1732086286"
+			"timeupdated" "1732506234"
 		}
 		"wirrel-only"
 		{
-			"buildid" "16477826"
+			"buildid" "16517704"
 			"pwdrequired" "1"
-			"timeupdated" "1732137765"
+			"timeupdated" "1732481779"
 		}
 		"closed-beta"
 		{
-			"buildid" "16468796"
+			"buildid" "16517704"
 			"pwdrequired" "1"
-			"timeupdated" "1732086298"
+			"timeupdated" "1732506267"
 		}
 		"capture-branch-1"
 		{
@@ -418,9 +406,9 @@
 		}
 		"open-beta"
 		{
-			"buildid" "16468796"
+			"buildid" "16517704"
 			"description" "OPEN BETA Testing (v3.X)"
-			"timeupdated" "1732125666"
+			"timeupdated" "1732506247"
 		}
 		"previous"
 		{
@@ -499,6 +487,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26287055"
-"_sha" "a8bd8467c3ac2c42e61871ad5f2fd14e854a0593"
-"_size" "10301"
+"_change_number" "26355777"
+"_sha" "2680c4b3ce4dd69dc61e74dc294414d6e64a2f34"
+"_size" "10022"
