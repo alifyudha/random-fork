@@ -82,6 +82,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -97,11 +98,11 @@
 		{
 			"image"
 			{
-				"english" "73144eb197706511eb83e49dfcfb464b7a826348/library_600x900.jpg"
+				"english" "b874cce52ad93bc7a7484ad71a94e89d66072f64/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "73144eb197706511eb83e49dfcfb464b7a826348/library_600x900_2x.jpg"
+				"english" "b874cce52ad93bc7a7484ad71a94e89d66072f64/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -113,6 +114,13 @@
 			"image"
 			{
 				"english" "205dd6db4c0a2432f2a23c436e1226d418df752e/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "205dd6db4c0a2432f2a23c436e1226d418df752e/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -132,15 +140,15 @@
 		{
 			"image"
 			{
-				"english" "9484a236e7952493a950bf199dc51f097bcdff71/library_header.jpg"
+				"english" "a4b4ba83b07ae2141b26c8cb80c4d96a0f5f287d/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "9484a236e7952493a950bf199dc51f097bcdff71/library_header_2x.jpg"
+				"english" "a4b4ba83b07ae2141b26c8cb80c4d96a0f5f287d/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1727702437"
+	"store_asset_mtime" "1732289228"
 	"associations"
 	{
 		"0"
@@ -187,29 +195,29 @@
 	"gameid" "1138640"
 	"store_tags"
 	{
-		"0" "10235"
-		"1" "84"
-		"2" "4328"
-		"3" "1643"
-		"4" "9204"
-		"5" "3810"
-		"6" "12472"
-		"7" "1702"
-		"8" "7332"
-		"9" "4191"
-		"10" "5300"
-		"11" "1654"
-		"12" "3839"
-		"13" "7208"
-		"14" "1697"
-		"15" "1695"
-		"16" "597"
-		"17" "599"
+		"0" "1643"
+		"1" "3810"
+		"2" "84"
+		"3" "4328"
+		"4" "599"
+		"5" "1702"
+		"6" "9204"
+		"7" "1654"
+		"8" "4191"
+		"9" "12472"
+		"10" "7332"
+		"11" "10235"
+		"12" "5300"
+		"13" "3839"
+		"14" "7208"
+		"15" "1697"
+		"16" "1695"
+		"17" "597"
 		"18" "4305"
 		"19" "4175"
 	}
 	"review_score" "5"
-	"review_percentage" "61"
+	"review_percentage" "62"
 }
 "extended"
 {
@@ -257,9 +265,9 @@
 		{
 			"public"
 			{
-				"gid" "1654390147758399043"
-				"size" "6400067937"
-				"download" "4257540576"
+				"gid" "1547834475646215756"
+				"size" "8093880298"
+				"download" "5648913136"
 			}
 			"hometopia-old-career-mode"
 			{
@@ -278,15 +286,21 @@
 		{
 			"feature-qa"
 			{
-				"gid" "A3744D63C8C34B414A602FA538163166"
-				"size" "934AE1F2E9A88DBC12A9F0737C6623A4"
-				"download" "D123939A4659B507ED89068E7CD32E0D"
+				"gid" "E27136E96CE5C68CB39E82160CCB845D"
+				"size" "0D7EA41A60E0E527A79FE89D8D239A2F"
+				"download" "EF711F87D37CC2D412A471BB683A0E56"
 			}
 			"feature-qa-2"
 			{
-				"gid" "A62074325578F241D3CF25093A89BFA6"
-				"size" "E7E2A26AD26C3F68C2BC96AFB145B3BC"
-				"download" "37FB97EF6D2FEC4CEDC4D1C340A99695"
+				"gid" "5ED45A7221ED9F973D87A808727ABF03"
+				"size" "9236DE4162F680C6E7B8379C5608937E"
+				"download" "DDA2199FFC57731465229A79A51D3485"
+			}
+			"feature-qa-3"
+			{
+				"gid" "9F492947020E4229A96004E459C60B54"
+				"size" "79C8F38D9DAA740E8280C885A7E0717E"
+				"download" "6B0A833D12344BDC349D73D173CB28FF"
 			}
 			"update-0"
 			{
@@ -366,26 +380,38 @@
 				"size" "021C49C4FEFC4B2FED36AEEBFD59FF75"
 				"download" "5DA3FE6645ECCDE3A4B8D1AAA8D928D6"
 			}
+			"update-8.0"
+			{
+				"gid" "43E7258474BA140444CEDC60B12F620A"
+				"size" "DECCFEECC92BB910C188FA2935691097"
+				"download" "3BA0D0E3DC6C1AC37BD9543659C8D929"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16137640"
-			"timeupdated" "1729616742"
+			"buildid" "16507527"
+			"timeupdated" "1732331473"
 		}
 		"feature-qa"
 		{
-			"buildid" "16099433"
+			"buildid" "16185048"
 			"pwdrequired" "1"
-			"timeupdated" "1729272346"
+			"timeupdated" "1729884690"
 		}
 		"feature-qa-2"
 		{
-			"buildid" "16138137"
+			"buildid" "16220224"
 			"pwdrequired" "1"
-			"timeupdated" "1729609374"
+			"timeupdated" "1730201981"
+		}
+		"feature-qa-3"
+		{
+			"buildid" "16379387"
+			"pwdrequired" "1"
+			"timeupdated" "1731420458"
 		}
 		"hometopia-old-career-mode"
 		{
@@ -477,6 +503,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1729607001"
 		}
+		"update-8.0"
+		{
+			"buildid" "16507527"
+			"pwdrequired" "1"
+			"timeupdated" "1732327915"
+		}
 	}
 }
 "ufs"
@@ -531,6 +563,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25842947"
-"_sha" "14669d05b36ddab7e573be19781658e7b690c16f"
-"_size" "10927"
+"_change_number" "26334689"
+"_sha" "ea7f7c904fda16b588209ad3a64549b0a818cd78"
+"_size" "11664"
