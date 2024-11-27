@@ -495,15 +495,15 @@
 		{
 			"public"
 			{
-				"gid" "5337552404180885729"
-				"size" "46047028"
-				"download" "14067312"
+				"gid" "7220642576370913560"
+				"size" "46047018"
+				"download" "14067296"
 			}
 			"directx_backup"
 			{
-				"gid" "5337552404180885729"
-				"size" "46047028"
-				"download" "14067312"
+				"gid" "7220642576370913560"
+				"size" "46047018"
+				"download" "14067296"
 			}
 			"legacy_3.23.1"
 			{
@@ -642,8 +642,8 @@
 	{
 		"public"
 		{
-			"buildid" "16538577"
-			"timeupdated" "1732633207"
+			"buildid" "16551502"
+			"timeupdated" "1732707113"
 		}
 		"devs"
 		{
@@ -671,9 +671,9 @@
 		}
 		"directx_backup"
 		{
-			"buildid" "16538537"
+			"buildid" "16551519"
 			"description" "DirectX version for any that is experiencing major issues with the OpenGL build"
-			"timeupdated" "1732633177"
+			"timeupdated" "1732707219"
 		}
 		"gameshow"
 		{
@@ -775,6 +775,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26368714"
-"_sha" "0ae1426b4f86b20fa68ce47bba2f0c223ada4ce5"
+"_change_number" "26384425"
+"_sha" "4be9be9a2694e329cb9f469fab8e171319c9728c"
 "_size" "15399"
