@@ -308,15 +308,15 @@
 		"2" "3843"
 		"3" "3920"
 		"4" "1684"
-		"5" "19"
-		"6" "3839"
+		"5" "3839"
+		"6" "19"
 		"7" "12472"
 		"8" "1685"
 		"9" "3810"
 		"10" "4191"
 		"11" "4695"
-		"12" "597"
-		"13" "1643"
+		"12" "1643"
+		"13" "597"
 		"14" "492"
 		"15" "3834"
 		"16" "5350"
@@ -325,7 +325,7 @@
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -372,11 +372,17 @@
 		{
 			"public"
 			{
-				"gid" "6242871733148941910"
-				"size" "6557543324"
-				"download" "1833423696"
+				"gid" "2921434295742135260"
+				"size" "3408742649"
+				"download" "1158729200"
 			}
 			"prev"
+			{
+				"gid" "743880286488965122"
+				"size" "6399444042"
+				"download" "1786679936"
+			}
+			"prv0"
 			{
 				"gid" "4863587015494523526"
 				"size" "6407016177"
@@ -384,18 +390,18 @@
 			}
 			"test"
 			{
-				"gid" "7068574905148282569"
-				"size" "6578468787"
-				"download" "1838131344"
+				"gid" "8044169514659597551"
+				"size" "3429675792"
+				"download" "1163439952"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devtest"
 			{
-				"gid" "0E5159BED36FB3045A69A8E27955B6E4"
-				"size" "2129AD9C702B5CB0E0B485E64EA7AD8F"
-				"download" "A0A20F6A1205C585CA2F432A4A47F868"
+				"gid" "E1D6E56EADAFA94CCD2730026D318989"
+				"size" "0C0047069BC357A20B03D4E85D7B5053"
+				"download" "9AE71ACD8B3078E37905A851AA7C6506"
 			}
 		}
 	}
@@ -403,26 +409,32 @@
 	{
 		"public"
 		{
-			"buildid" "16124448"
-			"timeupdated" "1729525532"
+			"buildid" "16552102"
+			"timeupdated" "1732719420"
 		}
 		"devtest"
 		{
-			"buildid" "16123664"
+			"buildid" "16551164"
 			"pwdrequired" "1"
-			"timeupdated" "1729521606"
+			"timeupdated" "1732705988"
 		}
 		"prev"
 		{
-			"buildid" "15780304"
+			"buildid" "15839663"
 			"description" "Previous version"
-			"timeupdated" "1727626566"
+			"timeupdated" "1729964153"
+		}
+		"prv0"
+		{
+			"buildid" "15780304"
+			"description" "1.0.31"
+			"timeupdated" "1729964139"
 		}
 		"test"
 		{
-			"buildid" "16124443"
+			"buildid" "16552058"
 			"description" "Public"
-			"timeupdated" "1729525472"
+			"timeupdated" "1732719393"
 		}
 	}
 }
@@ -447,6 +459,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25822915"
-"_sha" "ca68291d23395d3cbf56af733a19a00f857358a0"
-"_size" "7906"
+"_change_number" "26387645"
+"_sha" "693036f421d248285f826b8388058acc228ac97f"
+"_size" "8124"
