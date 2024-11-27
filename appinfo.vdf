@@ -171,6 +171,7 @@
 	}
 	"steam_release_date" "1712041211"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "2607060"
 	"store_tags"
@@ -225,30 +226,30 @@
 		{
 			"public"
 			{
-				"gid" "8300364800982398818"
-				"size" "392113187"
-				"download" "152409760"
+				"gid" "5181041948963805056"
+				"size" "392057756"
+				"download" "152342832"
 			}
 			"testing"
 			{
-				"gid" "8300364800982398818"
-				"size" "392113187"
-				"download" "152409760"
+				"gid" "7356599859390459743"
+				"size" "392067004"
+				"download" "152351088"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"debugging"
 			{
-				"gid" "D09FA309CBCD4C1ABAFB6182207FF512"
-				"size" "FADE06B3DB15D411D87F639B64EE4FAE"
-				"download" "3CB2A7E2BFEA026980D74DEFB613DF0A"
+				"gid" "325AE1A8D84E3047A2092B21FBA8B706"
+				"size" "AB62B549B582AD05F3E5773F0C6D5E88"
+				"download" "63B4E12598B10E01299A934C032DAAB9"
 			}
 			"deploy"
 			{
-				"gid" "027A691425983F35CF6FE506E367FCF7"
-				"size" "B52BDE438801B5F60068F497D521A0E4"
-				"download" "FE4CB23F438D857BF14F2587A0789E92"
+				"gid" "48DB8FE45FBC95751F7530411F170FFD"
+				"size" "59A5151B4AC8F173257FE7A6C47900E2"
+				"download" "2F72B65E839AF5FA00F9071EE2601401"
 			}
 		}
 	}
@@ -257,26 +258,26 @@
 	{
 		"public"
 		{
-			"buildid" "16512732"
-			"timeupdated" "1732398697"
+			"buildid" "16531770"
+			"timeupdated" "1732612065"
 		}
 		"debugging"
 		{
-			"buildid" "16157380"
+			"buildid" "16512732"
 			"pwdrequired" "1"
-			"timeupdated" "1732265819"
+			"timeupdated" "1732609218"
 		}
 		"testing"
 		{
-			"buildid" "16512732"
+			"buildid" "16549175"
 			"description" "Beta Branch"
-			"timeupdated" "1732398350"
+			"timeupdated" "1732696108"
 		}
 		"deploy"
 		{
-			"buildid" "16506707"
+			"buildid" "16531770"
 			"pwdrequired" "1"
-			"timeupdated" "1732320191"
+			"timeupdated" "1732609204"
 		}
 	}
 }
@@ -309,6 +310,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26337366"
-"_sha" "09330b5c48f13afff2fd27a0ae6cd9105373127a"
-"_size" "5564"
+"_change_number" "26381536"
+"_sha" "f664f43b1c1935229f12d499ad703bc13c7f9c5e"
+"_size" "5590"
