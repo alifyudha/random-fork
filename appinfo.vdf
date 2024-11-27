@@ -182,7 +182,7 @@
 		"19" "5652"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -224,15 +224,15 @@
 		{
 			"public"
 			{
-				"gid" "2138441677302635185"
-				"size" "2835896520"
-				"download" "1005686144"
+				"gid" "3450860899980326357"
+				"size" "2835655018"
+				"download" "1005576208"
 			}
 			"nightly"
 			{
-				"gid" "2138441677302635185"
-				"size" "2835896520"
-				"download" "1005686144"
+				"gid" "3450860899980326357"
+				"size" "2835655018"
+				"download" "1005576208"
 			}
 		}
 	}
@@ -240,14 +240,14 @@
 	{
 		"public"
 		{
-			"buildid" "16535243"
-			"timeupdated" "1732612338"
+			"buildid" "16555734"
+			"timeupdated" "1732728619"
 		}
 		"nightly"
 		{
-			"buildid" "16535243"
+			"buildid" "16555734"
 			"description" "Unstable Nightly Version"
-			"timeupdated" "1732612315"
+			"timeupdated" "1732728588"
 		}
 	}
 }
@@ -273,6 +273,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26363549"
-"_sha" "9ed0c29d631c3433660b2e4cfb166b25272fa625"
+"_change_number" "26392647"
+"_sha" "7352bb5dd4c8c3ba3fad200739089a813331804d"
 "_size" "4369"
