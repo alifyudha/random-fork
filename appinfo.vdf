@@ -15,6 +15,7 @@
 	"linuxclienticon" "6a25b59d3b19dc9670dbaf51c9d8308cf3c10470"
 	"clienticns" "e69fa502c025473ac473d60b315943e46ee5f476"
 	"releasestate" "released"
+	"freetodownload" "1"
 	"associations"
 	{
 	}
@@ -321,9 +322,9 @@
 		{
 			"public"
 			{
-				"gid" "771455630158560778"
-				"size" "163203798"
-				"download" "57262096"
+				"gid" "1218159607471068252"
+				"size" "163378565"
+				"download" "57318464"
 			}
 			"v0.21.23"
 			{
@@ -462,9 +463,9 @@
 			}
 			"buildtest"
 			{
-				"gid" "0C700FE142D94B53477A2A94E288232C"
-				"size" "0ACF9E6B5543C6FC41DFB89C1B4159EA"
-				"download" "4CAC5CEE5BA349B65CB46ACB458BF179"
+				"gid" "0442757076EF23E5C3DE600170E8A8D1"
+				"size" "5AE6B552F8E7B17E5E8200AF425BD527"
+				"download" "088C484F6CF7F055BF328A154CED07A1"
 			}
 		}
 	}
@@ -478,9 +479,9 @@
 		{
 			"public"
 			{
-				"gid" "1688865924998376689"
-				"size" "169338551"
-				"download" "57567040"
+				"gid" "7655179987566606078"
+				"size" "169513318"
+				"download" "57623408"
 			}
 			"v0.21.23"
 			{
@@ -619,9 +620,9 @@
 			}
 			"buildtest"
 			{
-				"gid" "5CCD0DB51698CD89E9EA9334C8175205"
-				"size" "6EE549A9D87FF61BF5157C77EFBBB309"
-				"download" "F5D692A61B5EA74349BFC9D97C540E5F"
+				"gid" "C0F162D73AADB1078F0478AA1DBE120E"
+				"size" "8FFEF1DD25B94FE10BA85BE227AE99B1"
+				"download" "43A8334F54835FB26CA6C8A37205605C"
 			}
 		}
 	}
@@ -635,9 +636,9 @@
 		{
 			"public"
 			{
-				"gid" "2912796054156739268"
-				"size" "174076373"
-				"download" "59154560"
+				"gid" "919247281788692108"
+				"size" "174251140"
+				"download" "59210928"
 			}
 			"v0.21.23"
 			{
@@ -776,9 +777,9 @@
 			}
 			"buildtest"
 			{
-				"gid" "B3A438C72F178D5A7E24D4F57C1C3B27"
-				"size" "1E5781488494CF40BCF3C230E850D6C3"
-				"download" "684382F35D06440FE09D974FE814B3E7"
+				"gid" "CBE5377DDDF9AC85C2B4FEBABC0FDE6F"
+				"size" "AB2ACAD819D9C0B0DFF2A7429575553F"
+				"download" "8A3A4A8AD120C49AEBF476651D19156F"
 			}
 		}
 	}
@@ -786,8 +787,8 @@
 	{
 		"public"
 		{
-			"buildid" "16290600"
-			"timeupdated" "1730742993"
+			"buildid" "16550826"
+			"timeupdated" "1732704699"
 		}
 		"expo"
 		{
@@ -881,9 +882,9 @@
 		}
 		"buildtest"
 		{
-			"buildid" "16290600"
+			"buildid" "16550826"
 			"pwdrequired" "1"
-			"timeupdated" "1730742942"
+			"timeupdated" "1732703962"
 		}
 		"v0.24.2"
 		{
@@ -930,6 +931,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26041583"
-"_sha" "6a53554f88ea50588890b475de3d7c0066df5169"
-"_size" "17660"
+"_change_number" "26383790"
+"_sha" "44d6e45adf763370d14d1b01b1917d958794fee5"
+"_size" "17684"
