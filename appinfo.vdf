@@ -372,15 +372,15 @@
 		{
 			"public"
 			{
-				"gid" "2921434295742135260"
-				"size" "3408742649"
-				"download" "1158729200"
+				"gid" "3750006725620664457"
+				"size" "3408750465"
+				"download" "1158731088"
 			}
 			"prev"
 			{
-				"gid" "743880286488965122"
-				"size" "6399444042"
-				"download" "1786679936"
+				"gid" "6242871733148941910"
+				"size" "6557543324"
+				"download" "1833423696"
 			}
 			"prv0"
 			{
@@ -390,18 +390,18 @@
 			}
 			"test"
 			{
-				"gid" "8044169514659597551"
-				"size" "3429675792"
-				"download" "1163439952"
+				"gid" "8440100078745907383"
+				"size" "3429683608"
+				"download" "1163442144"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devtest"
 			{
-				"gid" "E1D6E56EADAFA94CCD2730026D318989"
-				"size" "0C0047069BC357A20B03D4E85D7B5053"
-				"download" "9AE71ACD8B3078E37905A851AA7C6506"
+				"gid" "E6F5A635F8A497F795BBF793C22A437E"
+				"size" "954FC3CC91A376B7663A0E620043FEBA"
+				"download" "BA825784B8A68770C251925FA0F0F8CB"
 			}
 		}
 	}
@@ -409,20 +409,20 @@
 	{
 		"public"
 		{
-			"buildid" "16552102"
-			"timeupdated" "1732719420"
+			"buildid" "16558681"
+			"timeupdated" "1732747791"
 		}
 		"devtest"
 		{
-			"buildid" "16551164"
+			"buildid" "16558690"
 			"pwdrequired" "1"
-			"timeupdated" "1732705988"
+			"timeupdated" "1732750082"
 		}
 		"prev"
 		{
-			"buildid" "15839663"
-			"description" "Previous version"
-			"timeupdated" "1729964153"
+			"buildid" "16124448"
+			"description" "Previous major version"
+			"timeupdated" "1732747101"
 		}
 		"prv0"
 		{
@@ -432,9 +432,9 @@
 		}
 		"test"
 		{
-			"buildid" "16552058"
+			"buildid" "16558690"
 			"description" "Public"
-			"timeupdated" "1732719393"
+			"timeupdated" "1732746378"
 		}
 	}
 }
@@ -459,6 +459,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26387645"
-"_sha" "693036f421d248285f826b8388058acc228ac97f"
-"_size" "8124"
+"_change_number" "26395945"
+"_sha" "d8ba119dcd275cd656954b7ddfffaededdd4c65f"
+"_size" "8131"
