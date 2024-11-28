@@ -38,7 +38,7 @@
 		"greek" "1"
 		"ukrainian" "1"
 	}
-	"oslist" "macos,windows,linux"
+	"oslist" "windows,macos,linux"
 	"linuxclienticon" "90fa0364a0a9f4974c12936eb14765d350eaf206"
 	"type" "Game"
 	"metacritic_name" "Day of Defeat: Source"
@@ -47,6 +47,13 @@
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/day-of-defeat-source\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"gameid" "300"
+	"osarch" ""
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -115,6 +122,40 @@
 			"height_pct" "38"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "39"
+				"height_pct" "38"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1570136992"
 	"associations"
 	{
@@ -144,6 +185,7 @@
 		"category_22" "1"
 		"category_27" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -163,8 +205,8 @@
 		"3" "19"
 		"4" "1774"
 		"5" "4168"
-		"6" "5711"
-		"7" "1678"
+		"6" "1678"
+		"7" "5711"
 		"8" "3839"
 		"9" "3987"
 		"10" "4155"
@@ -176,7 +218,7 @@
 		"16" "9"
 		"17" "128"
 		"18" "599"
-		"19" "1719"
+		"19" "4667"
 	}
 	"review_score" "8"
 	"review_percentage" "91"
@@ -406,44 +448,7 @@
 	"quota" "1048576"
 	"maxnumfiles" "100"
 }
-"sysreqs"
-{
-	"macos"
-	{
-		"supported" "1"
-		"wants_fast_gpu" "1"
-		"intel900" "warn"
-		"intelx3100" "warn"
-		"8086"
-		{
-			"27a6" "warn"
-			"2a02" "warn"
-		}
-		"10de"
-		{
-			"009d" "deny"
-			"0391" "deny"
-			"0393" "deny"
-			"0395" "deny"
-		}
-	}
-	"macos104"
-	{
-		"supported" "0"
-		"os_min" "macos1058"
-	}
-	"macos105"
-	{
-		"supported" "0"
-		"os_min" "macos1058"
-	}
-	"macos106"
-	{
-		"supported" "0"
-		"os_min" "macos1063"
-	}
-}
 "_missing_token" "False"
-"_change_number" "20962877"
-"_sha" "f005b8b6b0d1e4dbcac4862d5fc3e1ff7b31be35"
-"_size" "9919"
+"_change_number" "25719026"
+"_sha" "99aad5498fffad52b9d578afe9df95d37acc7d12"
+"_size" "10027"
