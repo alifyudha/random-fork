@@ -269,9 +269,9 @@
 		{
 			"public"
 			{
-				"gid" "4445807576788500987"
-				"size" "326730000"
-				"download" "143834240"
+				"gid" "2594824277002965817"
+				"size" "327562497"
+				"download" "144594784"
 			}
 		}
 		"encryptedmanifests"
@@ -284,9 +284,9 @@
 			}
 			"test"
 			{
-				"gid" "F0D91AAFD8475D392B0215E65D4742D8"
-				"size" "F875A7ACDFDF6A253FA144A71AF2C7F2"
-				"download" "F76A80A17E71E3A5F4410BAD465C3C73"
+				"gid" "7AA2C578BC1E5DB110896D30F689D854"
+				"size" "CD24AF802C3D3D95338ADA8446091204"
+				"download" "3E26548AED6116E92CDC8CEC57B82DF3"
 			}
 		}
 	}
@@ -296,8 +296,8 @@
 	{
 		"public"
 		{
-			"buildid" "16550152"
-			"timeupdated" "1732701156"
+			"buildid" "16560798"
+			"timeupdated" "1732763427"
 		}
 		"beta-test"
 		{
@@ -307,9 +307,9 @@
 		}
 		"test"
 		{
-			"buildid" "16550152"
+			"buildid" "16560798"
 			"pwdrequired" "1"
-			"timeupdated" "1732700542"
+			"timeupdated" "1732762129"
 		}
 	}
 }
@@ -332,6 +332,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26382854"
-"_sha" "1f38e3d2f24f4bb406a999f7c16017be0f27dafb"
+"_change_number" "26398493"
+"_sha" "64ec414a429341b25f4c4f5cb16e229803f438eb"
 "_size" "6410"
