@@ -39,8 +39,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1666224000"
-		"tested_build_id" "9118898"
+		"test_timestamp" "1720051200"
+		"tested_build_id" "14757390"
 		"tests"
 		{
 			"0"
@@ -71,7 +71,7 @@
 		}
 		"configuration"
 		{
-			"supported_input" "other"
+			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "1"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
@@ -79,9 +79,10 @@
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-7.0-4"
+			"recommended_runtime" "proton-9.0-2RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Rising Lords"
@@ -108,6 +109,42 @@
 			"pinned_position" "CenterCenter"
 			"width_pct" "39.78867977411426"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "39.78867977411426"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1705660128"
@@ -244,8 +281,8 @@
 	{
 		"0" "4172"
 		"1" "14139"
-		"2" "1741"
-		"3" "9"
+		"2" "9"
+		"3" "1741"
 		"4" "492"
 		"5" "3859"
 		"6" "1708"
@@ -264,7 +301,7 @@
 		"19" "4711"
 	}
 	"review_score" "6"
-	"review_percentage" "73"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -329,15 +366,15 @@
 		{
 			"public"
 			{
-				"gid" "6813702698463508167"
-				"size" "632375184"
-				"download" "582376624"
+				"gid" "8520726438189412805"
+				"size" "629401352"
+				"download" "579172096"
 			}
 			"beta"
 			{
-				"gid" "6813702698463508167"
-				"size" "632375184"
-				"download" "582376624"
+				"gid" "8520726438189412805"
+				"size" "629401352"
+				"download" "579172096"
 			}
 			"previous"
 			{
@@ -386,21 +423,21 @@
 			}
 			"devtest"
 			{
-				"gid" "5781EB82581E034C2B1BB009014BBA5E"
-				"size" "5166ABD2A7AFA8671AAD2B9B39707CC9"
-				"download" "B5F3EC5A4FFC1F04689465B923DB0404"
+				"gid" "8CD3345FFAC84B7694E585BD852648ED"
+				"size" "0D50A90AA0D69ADC1DBFFD2310EC6D67"
+				"download" "E1A0C9B036D2C1EFA8BD10508D5356EB"
 			}
 			"ratman"
 			{
-				"gid" "996A8D93A486E6DDB6F6CFF4195680F7"
-				"size" "249F770A19A99B1D988A14224CB7A3B4"
-				"download" "62283314F006FDC0FE32E0E966034739"
+				"gid" "2A795E13AE540319AEC5020D96484336"
+				"size" "F84A26A99D2E95A243C8898EA09CAAFF"
+				"download" "80C5E2231E63353DE928CEAEF855089D"
 			}
 			"ratman2"
 			{
-				"gid" "603758262EB8E228C572CFF42E76D12D"
-				"size" "45E0B9CCE03B60E7F96C4A0AED147EF3"
-				"download" "E6C526FD5B6AA03E04A815EBDD710CAA"
+				"gid" "DD95DF83CE52027162E94814EF0D9FB8"
+				"size" "E3F8354AB2E794E4C99DFFE15A82206F"
+				"download" "26201301DDFF4685151E68F1716242F6"
 			}
 		}
 	}
@@ -493,8 +530,8 @@
 	{
 		"public"
 		{
-			"buildid" "14798731"
-			"timeupdated" "1719000050"
+			"buildid" "16556788"
+			"timeupdated" "1732791740"
 		}
 		"argontest"
 		{
@@ -534,15 +571,15 @@
 		}
 		"beta"
 		{
-			"buildid" "14798731"
+			"buildid" "16556788"
 			"description" "unstable"
-			"timeupdated" "1718999941"
+			"timeupdated" "1732791717"
 		}
 		"devtest"
 		{
-			"buildid" "14757390"
+			"buildid" "16484216"
 			"pwdrequired" "1"
-			"timeupdated" "1718784093"
+			"timeupdated" "1732265938"
 		}
 		"previous"
 		{
@@ -551,15 +588,15 @@
 		}
 		"ratman"
 		{
-			"buildid" "14625500"
+			"buildid" "16534763"
 			"pwdrequired" "1"
-			"timeupdated" "1717675803"
+			"timeupdated" "1732609561"
 		}
 		"ratman2"
 		{
-			"buildid" "14757390"
+			"buildid" "16556788"
 			"pwdrequired" "1"
-			"timeupdated" "1718728010"
+			"timeupdated" "1732734126"
 		}
 	}
 }
@@ -569,6 +606,6 @@
 	"maxnumfiles" "500"
 }
 "_missing_token" "False"
-"_change_number" "24071569"
-"_sha" "b019bb5c551d32140da1d4843657ee23975d8d8a"
-"_size" "11196"
+"_change_number" "26404180"
+"_sha" "e4bdfa4f976b01712626fa217447a3038d9fb9ec"
+"_size" "11790"
