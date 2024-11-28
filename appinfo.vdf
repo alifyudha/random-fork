@@ -250,13 +250,13 @@
 		"1" "3859"
 		"2" "1100689"
 		"3" "1643"
-		"4" "3810"
-		"5" "1695"
+		"4" "1695"
+		"5" "3810"
 		"6" "7332"
 		"7" "1702"
 		"8" "1697"
-		"9" "4106"
-		"10" "3834"
+		"9" "3834"
+		"10" "4106"
 		"11" "122"
 		"12" "599"
 		"13" "4182"
@@ -268,7 +268,7 @@
 		"19" "1645"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -286,7 +286,7 @@
 		"0"
 		{
 			"executable" "WS.exe"
-			"arguments" "StartMenu -game -StableNullID -online=Steam -d3d12 "
+			"arguments" "StartMenu -game -StableNullID -online=Steam -d3d12 -nosoulmasksession"
 			"type" "option1"
 			"config"
 			{
@@ -301,7 +301,7 @@
 		"1"
 		{
 			"executable" "WS.exe"
-			"arguments" "StartMenu -game -StableNullID -online=Steam -d3d11 "
+			"arguments" "StartMenu -game -StableNullID -online=Steam -d3d11 -nosoulmasksession"
 			"type" "option2"
 			"config"
 			{
@@ -316,7 +316,7 @@
 		"2"
 		{
 			"executable" "WS.exe"
-			"arguments" "StartMenu -game -SaveToUserDir -SCALABILITY=0 -ngxdisable -WINDOWED -ResX=1280 -ResY=800"
+			"arguments" "StartMenu -game -SaveToUserDir -SCALABILITY=0 -ngxdisable -WINDOWED -ResX=1280 -ResY=800 -nosoulmasksession"
 			"type" "option3"
 			"config"
 			{
@@ -392,9 +392,9 @@
 		{
 			"public"
 			{
-				"gid" "7003311988617276923"
-				"size" "12270605298"
-				"download" "12007660400"
+				"gid" "3298671645383550066"
+				"size" "12273142994"
+				"download" "12010156736"
 			}
 		}
 		"encryptedmanifests"
@@ -421,8 +421,8 @@
 	{
 		"public"
 		{
-			"buildid" "16522425"
-			"timeupdated" "1732529355"
+			"buildid" "16562129"
+			"timeupdated" "1732777270"
 		}
 		"pioneer"
 		{
@@ -459,6 +459,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26346490"
-"_sha" "1e40147c75516e7d31682ffdb35b95ec52ad7ff0"
-"_size" "8008"
+"_change_number" "26400818"
+"_sha" "e65ec538ba2fdf5d971239432eb7f1e532288610"
+"_size" "8063"
