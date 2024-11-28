@@ -159,6 +159,9 @@
 		"category_28" "1"
 		"category_23" "1"
 		"category_22" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_17" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -178,6 +181,7 @@
 	}
 	"steam_release_date" "1695394827"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "2248430"
 	"store_tags"
@@ -194,8 +198,8 @@
 		"9" "3834"
 		"10" "3964"
 		"11" "3871"
-		"12" "6691"
-		"13" "180368"
+		"12" "180368"
+		"13" "6691"
 		"14" "1684"
 		"15" "3916"
 		"16" "492"
@@ -231,18 +235,18 @@
 		{
 			"public"
 			{
-				"gid" "3534885243241258820"
-				"size" "134744395"
-				"download" "118734176"
+				"gid" "7552840205080313420"
+				"size" "136411922"
+				"download" "119268992"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testing"
 			{
-				"gid" "3BD2F49E86F891108BCB4423D726E7D7"
-				"size" "9D3E9724E58E53DBE9C3D84969D679A6"
-				"download" "A6FBABEB3C2C5630025C687CE0764E5D"
+				"gid" "F34FB2C0A6099F2057B3F04E70AF8373"
+				"size" "A388CFBC8AA4DFC5F4BBD25F8A54EE84"
+				"download" "13358A47A0315166B9A42E97AADB6399"
 			}
 		}
 	}
@@ -258,25 +262,26 @@
 			}
 		}
 	}
+	"workshopdepot" "2248430"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15290823"
-			"timeupdated" "1723036935"
+			"buildid" "16562490"
+			"timeupdated" "1732777019"
 		}
 		"testing"
 		{
-			"buildid" "15290474"
+			"buildid" "16562486"
 			"pwdrequired" "1"
-			"timeupdated" "1723034828"
+			"timeupdated" "1732776976"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "1000000"
-	"maxnumfiles" "6"
+	"quota" "100000000"
+	"maxnumfiles" "1000"
 	"savefiles"
 	{
 		"0"
@@ -293,3 +298,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26400552"
+"_sha" "b0f61c09026b32a26cd5d82243d71b838ed1acbe"
+"_size" "5431"
