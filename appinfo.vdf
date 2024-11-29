@@ -21,6 +21,60 @@
 		"1" "2"
 		"2" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1732233600"
+		"tested_build_id" "16338996"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -224,15 +278,15 @@
 		{
 			"public"
 			{
-				"gid" "295743574343379548"
-				"size" "2836193865"
-				"download" "1006044704"
+				"gid" "6845337505719646992"
+				"size" "2836189353"
+				"download" "1006047696"
 			}
 			"nightly"
 			{
-				"gid" "295743574343379548"
-				"size" "2836193865"
-				"download" "1006044704"
+				"gid" "6845337505719646992"
+				"size" "2836189353"
+				"download" "1006047696"
 			}
 		}
 	}
@@ -240,14 +294,14 @@
 	{
 		"public"
 		{
-			"buildid" "16564776"
-			"timeupdated" "1732790695"
+			"buildid" "16577927"
+			"timeupdated" "1732879744"
 		}
 		"nightly"
 		{
-			"buildid" "16564776"
+			"buildid" "16577927"
 			"description" "Unstable Nightly Version"
-			"timeupdated" "1732790702"
+			"timeupdated" "1732879722"
 		}
 	}
 }
@@ -273,6 +327,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26403938"
-"_sha" "c5c4253ce3b1532c2b842dd4652539006492d6e9"
-"_size" "4367"
+"_change_number" "26421238"
+"_sha" "80f61b7bf123df123819a538275bf8463b8305e5"
+"_size" "5716"
