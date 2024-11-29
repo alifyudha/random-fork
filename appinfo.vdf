@@ -131,26 +131,26 @@
 	"gameid" "1328990"
 	"store_tags"
 	{
-		"0" "4191"
-		"1" "3854"
-		"2" "1676"
+		"0" "1742"
+		"1" "122"
+		"2" "3854"
 		"3" "16094"
-		"4" "4161"
-		"5" "4182"
-		"6" "1685"
-		"7" "6730"
-		"8" "1723"
-		"9" "3859"
-		"10" "11634"
-		"11" "1775"
-		"12" "7332"
-		"13" "1684"
-		"14" "4172"
-		"15" "4252"
-		"16" "9"
-		"17" "4791"
-		"18" "3987"
-		"19" "4166"
+		"4" "1685"
+		"5" "4191"
+		"6" "4684"
+		"7" "1676"
+		"8" "11634"
+		"9" "4161"
+		"10" "7332"
+		"11" "1684"
+		"12" "6730"
+		"13" "1723"
+		"14" "4182"
+		"15" "3859"
+		"16" "1775"
+		"17" "4172"
+		"18" "4252"
+		"19" "9"
 	}
 	"review_score" "8"
 	"review_percentage" "92"
@@ -195,30 +195,30 @@
 		{
 			"public"
 			{
-				"gid" "7956465455101784717"
-				"size" "4324574693"
-				"download" "2211759760"
+				"gid" "3564934341829247757"
+				"size" "4414227818"
+				"download" "2245201984"
 			}
 			"unstable"
 			{
-				"gid" "1055341929449874811"
-				"size" "4309883073"
-				"download" "2200036320"
+				"gid" "3564934341829247757"
+				"size" "4414227818"
+				"download" "2245201984"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"special"
 			{
-				"gid" "4AA3E51250E8DA990175023D7F4F3AA0"
-				"size" "D288E9D01558BDE53B7191F4ED826941"
-				"download" "40ED116C9F0EB075C7C2E94FA50B3F13"
+				"gid" "340B99D421AA1126ED2C4AC25EEE142F"
+				"size" "EE855AA67D7509D0B44E0FB8AA96CB6A"
+				"download" "1D14E4A7015F302316D83891A91F1D48"
 			}
 			"testbranch"
 			{
-				"gid" "BD82D0C8292B1AAA49185416AC859478"
-				"size" "B7BC69161EB7598D1A61DF3D7ED1B835"
-				"download" "3850853ADE4C94D3BE80EBA41F253373"
+				"gid" "5E8E40AE136D63DB9F8E3BF54738AD8B"
+				"size" "9A7FB7B2166DD2D6BB2477B46A37EADF"
+				"download" "70E2FCA6F535388EC5E352BE49FD52E7"
 			}
 		}
 	}
@@ -226,26 +226,26 @@
 	{
 		"public"
 		{
-			"buildid" "16041606"
-			"timeupdated" "1728936906"
+			"buildid" "16554321"
+			"timeupdated" "1732722399"
 		}
 		"special"
 		{
-			"buildid" "16038508"
+			"buildid" "16127655"
 			"pwdrequired" "1"
-			"timeupdated" "1728919522"
+			"timeupdated" "1729543992"
 		}
 		"testbranch"
 		{
-			"buildid" "16041606"
+			"buildid" "16554321"
 			"pwdrequired" "1"
-			"timeupdated" "1728935781"
+			"timeupdated" "1732721074"
 		}
 		"unstable"
 		{
-			"buildid" "16038508"
+			"buildid" "16554321"
 			"description" "for community testing"
-			"timeupdated" "1728919530"
+			"timeupdated" "1732721582"
 		}
 	}
 }
@@ -297,6 +297,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25715925"
-"_sha" "d6793c0311a72ee605842d3a225a0b9345a87ee1"
-"_size" "5064"
+"_change_number" "26388570"
+"_sha" "20f6440ec97c622740ff9c778a01abee0c1282f6"
+"_size" "5063"
