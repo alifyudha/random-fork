@@ -152,6 +152,8 @@
 		"category_55" "1"
 		"category_57" "1"
 		"category_59" "1"
+		"category_45" "1"
+		"category_46" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -193,7 +195,7 @@
 	"publisher" "East Japan Railway Company"
 	"homepage" "https://www.jreast.co.jp/simulator/"
 	"gamemanualurl" "https://store.steampowered.com/manual/2111630/"
-	"listofdlc" "2210720,2216300,2219200,2260870,2433290,2476590,2514660,2553940,2602460,2646190,2696300,2735590,2788350,2844540,2889350,2942990,2998930,3166710,3280130"
+	"listofdlc" "2210720,2216300,2219200,2260870,2433290,2476590,2514660,2553940,2602460,2646190,2696300,2735590,2788350,2844540,2889350,2942990,2998930,3166710,3280130,3349810"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -234,18 +236,18 @@
 		{
 			"public"
 			{
-				"gid" "5723132711102773459"
-				"size" "7352456683"
-				"download" "4927138048"
+				"gid" "4893921651544976762"
+				"size" "7940465275"
+				"download" "5110870848"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testplay"
 			{
-				"gid" "E80C4CD6841EB99CFCFD5FABF303DF4A"
-				"size" "5742D9E815C5FB1C23A71DF5AA92E5FC"
-				"download" "17172B79635076BF2E18363E113718E3"
+				"gid" "DED30827F006C2F0112F1DC9106EBF09"
+				"size" "DDCD0F79840ADC817CE7C011D34F1495"
+				"download" "9C19F1C4ACDCB763835CE20D5BF7DF9B"
 			}
 		}
 	}
@@ -295,14 +297,14 @@
 	{
 		"public"
 		{
-			"buildid" "16216478"
-			"timeupdated" "1730183360"
+			"buildid" "16561089"
+			"timeupdated" "1732779993"
 		}
 		"testplay"
 		{
-			"buildid" "16216478"
+			"buildid" "16561089"
 			"pwdrequired" "1"
-			"timeupdated" "1730179864"
+			"timeupdated" "1732764099"
 		}
 	}
 }
@@ -312,6 +314,6 @@
 	"maxnumfiles" "5"
 }
 "_missing_token" "False"
-"_change_number" "25945973"
-"_sha" "e7722e4aee3a353981a29e46e3605f0539b9e0ca"
-"_size" "5788"
+"_change_number" "26401184"
+"_sha" "340356dde89ae90ac1f2126c03d9734f8212f89f"
+"_size" "5840"
