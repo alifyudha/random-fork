@@ -184,7 +184,7 @@
 	"developer" "白玉京工作室"
 	"publisher" "白玉京工作室"
 	"homepage" "http://jh.inmotiongame.com/"
-	"listofdlc" "2905470,2998780,3007440,3099590,3137140,3169410,3255940,3323010"
+	"listofdlc" "2905470,2998780,3007440,3099590,3137140,3169410,3255940,3323010,3349590"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -218,18 +218,18 @@
 		{
 			"public"
 			{
-				"gid" "4379047305743165042"
-				"size" "16816256889"
-				"download" "14100474384"
+				"gid" "328855036040819288"
+				"size" "16823997384"
+				"download" "14105423440"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"playertest"
 			{
-				"gid" "C09EE27A9867EBDBAE53F6D8A2AFB7A9"
-				"size" "2EF2238DFEDD1FFF69F909BDE37DA732"
-				"download" "5D9C3005DEF2A0B70DBAB5C940A19986"
+				"gid" "55984FA0CE04D49106E920C598B6C3CA"
+				"size" "E3062BF06966D3CC739ABF42C4858C61"
+				"download" "4EEF941F66D75EBAACF643930F34DF3B"
 			}
 			"qianjinxian"
 			{
@@ -239,15 +239,15 @@
 			}
 			"steam_china_only"
 			{
-				"gid" "885F695F03550030627412ED2E40F0A1"
-				"size" "12B3FBC4875A616D82C916317F05C2B7"
-				"download" "EFA3A3826D87480246C3BBA26B67BDA1"
+				"gid" "9E1E44AF4E75803AE4F931D688710336"
+				"size" "7D671003AAA48B3D5136164C3CC8B2CB"
+				"download" "0A1E0FA8906E85C2396A9CA01E3F4ECD"
 			}
 			"test"
 			{
-				"gid" "A1291068D5182062EE4E786EE8BD70DA"
-				"size" "A1E7CBF9A3D312736159FE264D637B08"
-				"download" "AE0C7B42139DDBC20FF77F4383074C16"
+				"gid" "CE28D3498945D03F15C1C2370145456E"
+				"size" "94D4AC8F7D1C64004E201243D5029635"
+				"download" "81CE5EAA9720BC785DB4BFC612BDCE83"
 			}
 		}
 	}
@@ -296,15 +296,15 @@
 	{
 		"public"
 		{
-			"buildid" "16502018"
-			"timeupdated" "1732289492"
+			"buildid" "16564618"
+			"timeupdated" "1732805714"
 		}
 		"playertest"
 		{
 			"sc_schinese" "对外测试卡顿"
-			"buildid" "16502018"
+			"buildid" "16575629"
 			"pwdrequired" "1"
-			"timeupdated" "1732289017"
+			"timeupdated" "1732868586"
 		}
 		"qianjinxian"
 		{
@@ -316,20 +316,36 @@
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "16487449"
+			"buildid" "16564618"
 			"pwdrequired" "1"
-			"timeupdated" "1732208195"
+			"timeupdated" "1732805668"
 		}
 		"test"
 		{
 			"sc_schinese" "Steam China test"
-			"buildid" "16502018"
+			"buildid" "16564618"
 			"pwdrequired" "1"
-			"timeupdated" "1732288965"
+			"timeupdated" "1732789945"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26319367"
-"_sha" "69088e01e4ab2cf92fc4261cfedfb5481483ea82"
-"_size" "6879"
+"_change_number" "26418569"
+"_sha" "596ff309892f66a21a88869ac6dc0c84c3016a94"
+"_size" "7110"
