@@ -48,6 +48,7 @@
 		"1" "5"
 	}
 	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "c98cf02a7814e5e30055f8213afaa466ce19cf0f/capsule_231x87.jpg"
@@ -151,6 +152,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_28" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -260,7 +262,7 @@
 		"19" "5613"
 	}
 	"review_score" "5"
-	"review_percentage" "56"
+	"review_percentage" "57"
 }
 "extended"
 {
@@ -285,6 +287,17 @@
 		}
 	}
 	"steamdecktouchscreen" "5"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3373442599"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,steamdeck"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "3"
 }
 "depots"
 {
@@ -312,9 +325,9 @@
 		{
 			"public"
 			{
-				"gid" "4637393454801687009"
-				"size" "7327622957"
-				"download" "6978878048"
+				"gid" "5280000576816477304"
+				"size" "7403819358"
+				"download" "7069370272"
 			}
 		}
 		"encryptedmanifests"
@@ -333,9 +346,9 @@
 			}
 			"playtest4"
 			{
-				"gid" "AFCAA91773A5E170F9B4FEF2A17CE7BE"
-				"size" "D951C53BECA551CC1808DE04EB32C922"
-				"download" "A511219798C629ADD25A34F628503260"
+				"gid" "1BC2296647E047532DAD5B05EAA64BF5"
+				"size" "FF89435D12230CCA5A032069E8A72E98"
+				"download" "4F1BEB5C2646A457E6A4143FBE587DF8"
 			}
 			"playtestbossfight"
 			{
@@ -351,9 +364,15 @@
 			}
 			"steamdeck"
 			{
-				"gid" "42AB001E40F271C5748269195CD2C98B"
-				"size" "781C1D5DCA105D555C63188EF1C734F5"
-				"download" "C5C28B9E203EDE41EF1D74FA7E2015A8"
+				"gid" "A8ABCA6BAC8A37D1DBE0998B7CC461F7"
+				"size" "8937081F4049C5B038C4F6192CF842EC"
+				"download" "EE8D2C93757BEF3D109398BC747B9B1D"
+			}
+			"testbranch"
+			{
+				"gid" "48B32B2D97B54817C12B8F40ACF1BA35"
+				"size" "454279C186A668FC288EA26AC9F1401E"
+				"download" "85DCE8A495699EA227E4DB74B8325A1B"
 			}
 		}
 	}
@@ -361,8 +380,8 @@
 	{
 		"public"
 		{
-			"buildid" "16345213"
-			"timeupdated" "1731095331"
+			"buildid" "16571182"
+			"timeupdated" "1732830237"
 		}
 		"demo"
 		{
@@ -378,9 +397,9 @@
 		}
 		"playtest4"
 		{
-			"buildid" "16345213"
+			"buildid" "16548945"
 			"pwdrequired" "1"
-			"timeupdated" "1731087894"
+			"timeupdated" "1732693300"
 		}
 		"playtestbossfight"
 		{
@@ -396,13 +415,19 @@
 		}
 		"steamdeck"
 		{
-			"buildid" "16180979"
+			"buildid" "16571182"
 			"pwdrequired" "1"
-			"timeupdated" "1729862281"
+			"timeupdated" "1732826093"
+		}
+		"testbranch"
+		{
+			"buildid" "16580028"
+			"pwdrequired" "1"
+			"timeupdated" "1732890231"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26114142"
-"_sha" "0d0897bc6ee38f5a6356547e6bb1137db03d21c6"
-"_size" "6808"
+"_change_number" "26423756"
+"_sha" "c8b0f76d26e2ee7c556d03faa6e93e391f5a2660"
+"_size" "7410"
