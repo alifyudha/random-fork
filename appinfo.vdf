@@ -104,7 +104,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1731738308"
+	"store_asset_mtime" "1732247680"
 	"associations"
 	{
 		"0"
@@ -193,7 +193,7 @@
 		"16" "1684"
 	}
 	"review_score" "6"
-	"review_percentage" "79"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -225,9 +225,9 @@
 		{
 			"public"
 			{
-				"gid" "1410332607207248999"
-				"size" "544025601"
-				"download" "271645616"
+				"gid" "1985640448271200575"
+				"size" "527591978"
+				"download" "271506352"
 			}
 		}
 		"encryptedmanifests"
@@ -240,18 +240,19 @@
 			}
 			"test"
 			{
-				"gid" "4EB8AC827300A93E8EAC238DECDA54A9"
-				"size" "7D5B5391D45337789D60E957EC6BB18E"
-				"download" "B8991E0ABEBA5D1C1540FDCC738F5F97"
+				"gid" "4B93C97AE76CEF11F8A417AA01AD1706"
+				"size" "904AE460D4944CBFE5A0767D64B3992E"
+				"download" "6399E8C5DADCA813F4828CBB7777EB9F"
 			}
 		}
 	}
+	"workshopdepot" "2666230"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16472115"
-			"timeupdated" "1732109387"
+			"buildid" "16567667"
+			"timeupdated" "1732850913"
 		}
 		"prtest"
 		{
@@ -261,9 +262,9 @@
 		}
 		"test"
 		{
-			"buildid" "16472115"
+			"buildid" "16567667"
 			"pwdrequired" "1"
-			"timeupdated" "1732105010"
+			"timeupdated" "1732804846"
 		}
 	}
 }
@@ -315,6 +316,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26306643"
-"_sha" "e55038d4294f0b0160cde8bb276af128116ee8f6"
-"_size" "5723"
+"_change_number" "26415844"
+"_sha" "dd1d5e616cf32977a08eb77da61da272763cd107"
+"_size" "5752"
