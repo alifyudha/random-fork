@@ -203,7 +203,7 @@
 		"19" "4094"
 	}
 	"review_score" "6"
-	"review_percentage" "71"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -234,9 +234,9 @@
 		{
 			"public"
 			{
-				"gid" "589392055487487932"
-				"size" "4071528372"
-				"download" "398006320"
+				"gid" "4446164425084429918"
+				"size" "4112210211"
+				"download" "399042688"
 			}
 		}
 		"encryptedmanifests"
@@ -253,8 +253,8 @@
 	{
 		"public"
 		{
-			"buildid" "16295590"
-			"timeupdated" "1730776022"
+			"buildid" "16569515"
+			"timeupdated" "1732814495"
 		}
 		"beta"
 		{
@@ -272,6 +272,6 @@
 	"hidecloudui" "1"
 }
 "_missing_token" "False"
-"_change_number" "26047696"
-"_sha" "16d0ba7874cc80976dbca38432d73bed399bcc21"
-"_size" "4827"
+"_change_number" "26413757"
+"_sha" "529d61c553f64155d29064fd0d1d8cd57f6400bf"
+"_size" "4828"
