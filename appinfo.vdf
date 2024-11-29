@@ -282,30 +282,30 @@
 		{
 			"public"
 			{
-				"gid" "1702117974309903790"
-				"size" "925378996"
-				"download" "745540224"
+				"gid" "808515871449809841"
+				"size" "931913533"
+				"download" "751947648"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"development"
 			{
-				"gid" "FA3DCB65B349AB9C8EC998BD1E5372B4"
-				"size" "FFB72870A9F2C5BB86EF8E3DB9D7430E"
-				"download" "B2B7C78CBF3754D736A9890B60B98D9B"
+				"gid" "12843611617F3A14BCEF9F1340CDCD31"
+				"size" "5FA7B6BBD373B96EFA20B4375E23FE27"
+				"download" "45DEFD63FC412877F1B283911C7C5664"
 			}
 			"polish"
 			{
-				"gid" "A942FDC93A9B18B1480AB38A0684D161"
-				"size" "F8651A26D5536C1FEBA96B41B8385F94"
-				"download" "E2D33267B6F5489FFEB2625E22D83249"
+				"gid" "ADC0981BAEFA784B8C1423B016582060"
+				"size" "02E45B17FFE1C7AC71B6284CAA930CD2"
+				"download" "A6D6CB574371C8653D52F72BD5AB5D86"
 			}
 			"portuguese"
 			{
-				"gid" "D94CC4D6F90C3087A03BA9823FC96658"
-				"size" "F1F8A3E3705F9335454D611EE2F98019"
-				"download" "B94E8BEB3B98807951C3C7DC3472A82C"
+				"gid" "4C9E1151F1A7F27621FB09C18FCC1739"
+				"size" "E359B10569448DCFBC98002BD6538EEE"
+				"download" "56D7D181DF81372EA9BEB40AA7821276"
 			}
 		}
 	}
@@ -314,30 +314,30 @@
 	{
 		"public"
 		{
-			"buildid" "16470126"
-			"timeupdated" "1732097410"
+			"buildid" "16565060"
+			"timeupdated" "1732792840"
 		}
 		"development"
 		{
-			"buildid" "16470126"
+			"buildid" "16565060"
 			"pwdrequired" "1"
-			"timeupdated" "1732094973"
+			"timeupdated" "1732791930"
 		}
 		"polish"
 		{
-			"buildid" "16275101"
+			"buildid" "16503566"
 			"pwdrequired" "1"
-			"timeupdated" "1730561962"
+			"timeupdated" "1732297574"
 		}
 		"portuguese"
 		{
-			"buildid" "16470126"
+			"buildid" "16565060"
 			"pwdrequired" "1"
-			"timeupdated" "1732097431"
+			"timeupdated" "1732792607"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26287670"
-"_sha" "83bba2544cef3b7bf56a3c8bd7dd5946c8aaf7d7"
-"_size" "5695"
+"_change_number" "26404450"
+"_sha" "05548090587f735cb1bdb3730b6deaf6dbcbffd4"
+"_size" "5694"
