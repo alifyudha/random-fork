@@ -295,7 +295,7 @@
 		"19" "3841"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -360,7 +360,15 @@
 }
 "depots"
 {
-	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"228990"
 	{
 		"config"
@@ -370,6 +378,7 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
 	"2211171"
 	{
 		"config"
@@ -380,24 +389,24 @@
 		{
 			"public"
 			{
-				"gid" "7681290353171562034"
-				"size" "460120743"
-				"download" "313473424"
+				"gid" "1288165573951606627"
+				"size" "460187872"
+				"download" "313545760"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"debug"
 			{
-				"gid" "700A8B61F49F666C66C1619AAC429A61"
-				"size" "2BD9C6F4DABCE87BC3C78B8AA57172D2"
-				"download" "042E86777334B60A64DA3BB761EC947E"
+				"gid" "32909EDB92BE7EC2199DF982B118C0F5"
+				"size" "CDE105C230E69D089B19C450D71619D8"
+				"download" "D3C9D87D07D88E855FE58755C4D4CEA6"
 			}
 			"develper-testing"
 			{
-				"gid" "19DBE76672066630DCE59CD53D2F7849"
-				"size" "6055A2DD43F2F6634A331FA2C82E1881"
-				"download" "08510C7D1414CBDB9535183C3E888DD6"
+				"gid" "C3A03ACC19D50B1D1476FAD227FE6B1F"
+				"size" "80B62FC6E1A4DE8A5568611814F9DAD3"
+				"download" "DDCE2514124AC04CF118B351D4B22D68"
 			}
 			"ioi-testing"
 			{
@@ -425,9 +434,9 @@
 			}
 			"rollback"
 			{
-				"gid" "C7595CA1D485DD7AA7EB60386D8F5F13"
-				"size" "A5D642D657AA891070319C463A561CAD"
-				"download" "A503998264F5570026B5F7012150C6B2"
+				"gid" "92533D10DC5472AF67CE04D737331505"
+				"size" "3FA927210285A62FF0EE2F018C0B3A81"
+				"download" "7B202713EB62F56B498B2648A89D194A"
 			}
 			"steamdeckreview"
 			{
@@ -460,24 +469,24 @@
 		{
 			"public"
 			{
-				"gid" "6183028868130883010"
-				"size" "466014124"
-				"download" "270266880"
+				"gid" "7378968915179941318"
+				"size" "466041404"
+				"download" "270270448"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"debug"
 			{
-				"gid" "CB6F5F5687FF9B22D80693DD86527B36"
-				"size" "5217EC2F1CE4B8232DF6A64C987B8664"
-				"download" "D920433633B8471CB2640C289ABC02CB"
+				"gid" "E31694F8B172DB94F915D032FB9AFD3C"
+				"size" "1F3A8497E6332EC4D1B8F30B51543C59"
+				"download" "9F303C4F32293286A933DA7A7576B942"
 			}
 			"develper-testing"
 			{
-				"gid" "F5DC6D18864CF80ACF4DD9D27694F55C"
-				"size" "A727FA17FB469A5C095C3BE01C51D3D1"
-				"download" "8C05FCFDF4F6160C28D386ECAF349CEA"
+				"gid" "5514C6D3A61ED482BEA82E98AFFEE03B"
+				"size" "5D0FEC7188D4F7D0CFF9C071C2EFB819"
+				"download" "248AC1F440907C31C87B4C92B27FA610"
 			}
 			"ioi-testing"
 			{
@@ -505,9 +514,9 @@
 			}
 			"rollback"
 			{
-				"gid" "7FD67F860ECDE6896472EE69409DF05A"
-				"size" "0951888D05B53EA46C91B0834D50D865"
-				"download" "C7A509774F667C9B10E2B7F8ADF274BE"
+				"gid" "F839037FD0D8CB917D379BA5427BA805"
+				"size" "36A8AAE88FDA027BBD5CDA47E4980DF7"
+				"download" "4DEA682C520148A7EEFD8D98FA8E3E13"
 			}
 			"steamdeckreview"
 			{
@@ -533,20 +542,20 @@
 	{
 		"public"
 		{
-			"buildid" "16527762"
-			"timeupdated" "1732559482"
+			"buildid" "16583362"
+			"timeupdated" "1732914405"
 		}
 		"debug"
 		{
-			"buildid" "16527762"
+			"buildid" "16583362"
 			"pwdrequired" "1"
-			"timeupdated" "1732559047"
+			"timeupdated" "1732913882"
 		}
 		"develper-testing"
 		{
-			"buildid" "16527762"
+			"buildid" "16583362"
 			"pwdrequired" "1"
-			"timeupdated" "1732559054"
+			"timeupdated" "1732912043"
 		}
 		"ioi-testing"
 		{
@@ -574,9 +583,9 @@
 		}
 		"rollback"
 		{
-			"buildid" "16502489"
+			"buildid" "16527762"
 			"pwdrequired" "1"
-			"timeupdated" "1732543579"
+			"timeupdated" "1732910288"
 		}
 		"steamdeckreview"
 		{
@@ -639,6 +648,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26353995"
-"_sha" "17cc30ac9c6ea45bd1337ca6f067643bf6983a22"
-"_size" "13603"
+"_change_number" "26428665"
+"_sha" "5e35e7ac24e65a241beb00dabffd98062e468087"
+"_size" "13720"
