@@ -218,9 +218,9 @@
 		{
 			"public"
 			{
-				"gid" "328855036040819288"
-				"size" "16823997384"
-				"download" "14105423440"
+				"gid" "1086409296564688924"
+				"size" "16824070203"
+				"download" "14105444352"
 			}
 		}
 		"encryptedmanifests"
@@ -239,15 +239,15 @@
 			}
 			"steam_china_only"
 			{
-				"gid" "9E1E44AF4E75803AE4F931D688710336"
-				"size" "7D671003AAA48B3D5136164C3CC8B2CB"
-				"download" "0A1E0FA8906E85C2396A9CA01E3F4ECD"
+				"gid" "6AAF4D3462DCFECA8ADA59B6C9D135CA"
+				"size" "9D70631234A46DF371F5340BBACE0384"
+				"download" "69F78D090A534E628BEDB6D199E53668"
 			}
 			"test"
 			{
-				"gid" "CE28D3498945D03F15C1C2370145456E"
-				"size" "94D4AC8F7D1C64004E201243D5029635"
-				"download" "81CE5EAA9720BC785DB4BFC612BDCE83"
+				"gid" "8F776BDCBD28F5728BAD24AB7A86B964"
+				"size" "1C0BD1EE452E20352764D7AC336BD0C5"
+				"download" "C1C19C02F3A232D3EBE977B2F1C39408"
 			}
 		}
 	}
@@ -296,8 +296,8 @@
 	{
 		"public"
 		{
-			"buildid" "16564618"
-			"timeupdated" "1732805714"
+			"buildid" "16586116"
+			"timeupdated" "1732958104"
 		}
 		"playertest"
 		{
@@ -316,16 +316,16 @@
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "16564618"
+			"buildid" "16586116"
 			"pwdrequired" "1"
-			"timeupdated" "1732805668"
+			"timeupdated" "1732958082"
 		}
 		"test"
 		{
 			"sc_schinese" "Steam China test"
-			"buildid" "16564618"
+			"buildid" "16586116"
 			"pwdrequired" "1"
-			"timeupdated" "1732789945"
+			"timeupdated" "1732947440"
 		}
 	}
 }
@@ -346,6 +346,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26418569"
-"_sha" "596ff309892f66a21a88869ac6dc0c84c3016a94"
-"_size" "7110"
+"_change_number" "26433331"
+"_sha" "6df614d5b2fe7deba9fb4bdd0a3e3b43154192da"
+"_size" "7111"
