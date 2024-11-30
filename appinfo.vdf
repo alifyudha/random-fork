@@ -149,6 +149,7 @@
 		"category_30" "1"
 		"category_23" "1"
 		"category_22" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -156,14 +157,17 @@
 		"schinese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"english"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"japanese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1730426402"
@@ -195,7 +199,7 @@
 		"19" "599"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -223,9 +227,9 @@
 		{
 			"public"
 			{
-				"gid" "5545194467880899622"
-				"size" "3117377467"
-				"download" "2743946240"
+				"gid" "497544135785864298"
+				"size" "3131563849"
+				"download" "2754600832"
 			}
 		}
 	}
@@ -235,8 +239,8 @@
 	{
 		"public"
 		{
-			"buildid" "16510427"
-			"timeupdated" "1732363330"
+			"buildid" "16581587"
+			"timeupdated" "1732898708"
 		}
 	}
 }
@@ -255,6 +259,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26329807"
-"_sha" "d27ca14ba39df2fef159ba9e871aa7aa791fa805"
-"_size" "4462"
+"_change_number" "26426650"
+"_sha" "baf20bc311c7d6de764aea4082dfab32ed1b5db9"
+"_size" "4555"
