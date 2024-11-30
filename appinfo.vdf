@@ -225,6 +225,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1699541980"
 	"community_visible_stats" "1"
@@ -306,9 +311,9 @@
 		{
 			"public"
 			{
-				"gid" "2648647903051159315"
-				"size" "248240144"
-				"download" "145771792"
+				"gid" "3564645416849574073"
+				"size" "246902064"
+				"download" "144302624"
 			}
 			"beta"
 			{
@@ -327,9 +332,9 @@
 			}
 			"localization"
 			{
-				"gid" "DBADC5BD4749F685A6C34BE08008073A"
-				"size" "2787C7F23002D796BB71BD6953FFD517"
-				"download" "AD0E09A7F0E0E3E8729533F554984FCE"
+				"gid" "F306F37171176030DA2FEB21875AE4B9"
+				"size" "35CF8CE3DBE1474237709C6BF9869C3F"
+				"download" "F01DAF15C385455BFF4C8B50D3B93130"
 			}
 			"test"
 			{
@@ -349,9 +354,9 @@
 		{
 			"public"
 			{
-				"gid" "2477874759705215108"
-				"size" "260439269"
-				"download" "149606992"
+				"gid" "1875279411984343367"
+				"size" "259110725"
+				"download" "148188112"
 			}
 			"beta"
 			{
@@ -370,9 +375,9 @@
 			}
 			"localization"
 			{
-				"gid" "5FAC0B9EF677F98A1271DAFFAAA2AEE6"
-				"size" "9527981E210C5B0993ADB01FA3C1BAD8"
-				"download" "36FA5D168F0E2351975A5D14D7391589"
+				"gid" "1271EF7B2575972276B7901A13E118B8"
+				"size" "3570D7BF51C23513538315BD38DAA113"
+				"download" "F97C4B62A54ECFEFF3A3520102F900C8"
 			}
 			"test"
 			{
@@ -393,9 +398,9 @@
 		{
 			"public"
 			{
-				"gid" "2541660340718580372"
-				"size" "296037286"
-				"download" "158742800"
+				"gid" "7880398024897517161"
+				"size" "294721389"
+				"download" "157326576"
 			}
 			"beta"
 			{
@@ -414,9 +419,9 @@
 			}
 			"localization"
 			{
-				"gid" "205662F5EB1EB2E5CE4C7707FC90D67E"
-				"size" "9FB092BD9DC5C9FDE8A17E8375D88D0F"
-				"download" "2919A52EFEF882239A152BA8F757FC28"
+				"gid" "3A4BBCC17996E69B110A55DA9C00D0E9"
+				"size" "F7CB58C54DFA8291DCB2E84EBD4B14B8"
+				"download" "C7FE37FAA09B3F2E679E0DA52AF326DE"
 			}
 			"test"
 			{
@@ -430,8 +435,8 @@
 	{
 		"public"
 		{
-			"buildid" "15365261"
-			"timeupdated" "1723650361"
+			"buildid" "16582342"
+			"timeupdated" "1732903992"
 		}
 		"beta"
 		{
@@ -447,9 +452,9 @@
 		}
 		"localization"
 		{
-			"buildid" "15840030"
+			"buildid" "16582342"
 			"pwdrequired" "1"
-			"timeupdated" "1727370656"
+			"timeupdated" "1732903817"
 		}
 		"test"
 		{
@@ -499,3 +504,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26427090"
+"_sha" "61edaac206ffe9aa07f2807e903e0f8c7bb778e3"
+"_size" "9149"
