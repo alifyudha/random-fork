@@ -235,18 +235,24 @@
 		{
 			"public"
 			{
-				"gid" "7552840205080313420"
-				"size" "136411922"
-				"download" "119268992"
+				"gid" "4758786832742273181"
+				"size" "136413676"
+				"download" "119263184"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"loc_test"
+			{
+				"gid" "F7A53531BE36EF0EC437A2BF17BDF90D"
+				"size" "A96D460E99EE003E23EA703F53A6ED3E"
+				"download" "20D188584008BCEBCE74C5B1012CE8BC"
+			}
 			"testing"
 			{
-				"gid" "F34FB2C0A6099F2057B3F04E70AF8373"
-				"size" "A388CFBC8AA4DFC5F4BBD25F8A54EE84"
-				"download" "13358A47A0315166B9A42E97AADB6399"
+				"gid" "E456F47403E2A8F632495877F214E30D"
+				"size" "84BE777743C7F098C807A7FF71C41CCA"
+				"download" "678967BD20119A6A5271C76629F3E740"
 			}
 		}
 	}
@@ -261,20 +267,35 @@
 				"download" "34336688"
 			}
 		}
+		"encryptedmanifests"
+		{
+			"loc_test"
+			{
+				"gid" "AABF1D26EB641A1753EDBDE4C162839B"
+				"size" "23B14895ADA3DB614A75115132FF5E33"
+				"download" "EF0ECB696347A7B26C2795C38EF3525B"
+			}
+		}
 	}
 	"workshopdepot" "2248430"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16562490"
-			"timeupdated" "1732777019"
+			"buildid" "16587400"
+			"timeupdated" "1732964482"
+		}
+		"loc_test"
+		{
+			"buildid" "16587345"
+			"pwdrequired" "1"
+			"timeupdated" "1732963797"
 		}
 		"testing"
 		{
-			"buildid" "16562486"
+			"buildid" "16587385"
 			"pwdrequired" "1"
-			"timeupdated" "1732776976"
+			"timeupdated" "1732964153"
 		}
 	}
 }
@@ -299,6 +320,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26400552"
-"_sha" "b0f61c09026b32a26cd5d82243d71b838ed1acbe"
-"_size" "5431"
+"_change_number" "26433923"
+"_sha" "9c4cbfbbb189f9224e7feb299e1685afc02db2a8"
+"_size" "5918"
