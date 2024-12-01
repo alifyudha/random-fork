@@ -173,6 +173,16 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1711741491"
 	"community_hub_visible" "1"
@@ -181,9 +191,9 @@
 	{
 		"0" "122"
 		"1" "4172"
-		"2" "4434"
-		"3" "4604"
-		"4" "3871"
+		"2" "4604"
+		"3" "3871"
+		"4" "4434"
 		"5" "3964"
 		"6" "6815"
 		"7" "4166"
@@ -227,9 +237,18 @@
 		{
 			"public"
 			{
-				"gid" "8337384859098046587"
-				"size" "671086749"
-				"download" "535419040"
+				"gid" "5199215275907165339"
+				"size" "689961843"
+				"download" "540815776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"tsting"
+			{
+				"gid" "47859C8A9E7EC17DB197CA75EE33449B"
+				"size" "3D5DF1EDEFEE475057A97FAD879DFF67"
+				"download" "5A145BC017D0E230DAD9CF26B4C0EABC"
 			}
 		}
 	}
@@ -237,12 +256,18 @@
 	{
 		"public"
 		{
-			"buildid" "16041465"
-			"timeupdated" "1728935157"
+			"buildid" "16579586"
+			"timeupdated" "1732888034"
+		}
+		"tsting"
+		{
+			"buildid" "16579586"
+			"pwdrequired" "1"
+			"timeupdated" "1732887894"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25715563"
-"_sha" "20f233d5840e2618fc93857e09c95636b77cd9f7"
-"_size" "4258"
+"_change_number" "26423444"
+"_sha" "fcd6dfe08544eacfba74f32e6b6405087d7ea145"
+"_size" "4709"
