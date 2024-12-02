@@ -27,8 +27,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1730246400"
-		"tested_build_id" "16104441"
+		"test_timestamp" "1732147200"
+		"tested_build_id" "16324218"
 		"tests"
 		{
 			"0"
@@ -290,9 +290,9 @@
 		{
 			"public"
 			{
-				"gid" "1575335941071575289"
-				"size" "25555118659"
-				"download" "5574267024"
+				"gid" "4443354555709099627"
+				"size" "25790701515"
+				"download" "5595259776"
 			}
 		}
 		"encryptedmanifests"
@@ -345,17 +345,29 @@
 				"size" "BD6ECE96EA55BEDA8B4C83A7DA67763A"
 				"download" "38084CAB95D936C0600D67DE3420746A"
 			}
+			"dev_test"
+			{
+				"gid" "A05E4C5C8304959B134E00C080C04EE6"
+				"size" "10812E73D738B6488ED2EB63D6006045"
+				"download" "B65E64923D93C8B635F9714D0F43CDA1"
+			}
 			"inside"
 			{
-				"gid" "6D81ACC9350FACEE6C1B7CC248408858"
-				"size" "8AA8B1208D8A048D88FE83E327B2C5D1"
-				"download" "71991210FF0842712775EB10F7F1EDE6"
+				"gid" "21653EE460829BBE2A28F974ADE118AD"
+				"size" "9511EB7DE1A2B38979B19352AB34EB25"
+				"download" "4F946DE33DE4D75D3B3295EC49662726"
 			}
 			"jinhua_dlctest"
 			{
 				"gid" "4CA8C19CA233685EF439B32A01BE69E3"
 				"size" "4D733B91F4611E5EE0242F7E323B84B5"
 				"download" "F0FD13B220677E6AF58247C328C02694"
+			}
+			"steam_test_12_20"
+			{
+				"gid" "0C6B3C3291F0FF015CE3355634AF998A"
+				"size" "6642B61F0946BDB3917AFCA81E3F0A74"
+				"download" "D7E7DC99B4CBCDE6B8522A9D454D2701"
 			}
 		}
 	}
@@ -368,8 +380,8 @@
 	{
 		"public"
 		{
-			"buildid" "13381268"
-			"timeupdated" "1707289205"
+			"buildid" "16547431"
+			"timeupdated" "1732682436"
 		}
 		"inside_debug"
 		{
@@ -419,17 +431,29 @@
 			"pwdrequired" "1"
 			"timeupdated" "1730965294"
 		}
+		"dev_test"
+		{
+			"buildid" "13324096"
+			"pwdrequired" "1"
+			"timeupdated" "1732503717"
+		}
 		"inside"
 		{
-			"buildid" "16486853"
+			"buildid" "16547431"
 			"pwdrequired" "1"
-			"timeupdated" "1732195707"
+			"timeupdated" "1732680996"
 		}
 		"jinhua_dlctest"
 		{
 			"buildid" "16467917"
 			"pwdrequired" "1"
 			"timeupdated" "1732082900"
+		}
+		"steam_test_12_20"
+		{
+			"buildid" "16587640"
+			"pwdrequired" "1"
+			"timeupdated" "1732968587"
 		}
 	}
 }
@@ -448,3 +472,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26434332"
+"_sha" "abbbd386c2337265e67376e5b399b6284d0cfe1e"
+"_size" "9495"
