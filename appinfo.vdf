@@ -366,9 +366,9 @@
 		{
 			"public"
 			{
-				"gid" "5836282997838863675"
-				"size" "629765896"
-				"download" "579318240"
+				"gid" "3987347604743476443"
+				"size" "635617469"
+				"download" "585892704"
 			}
 			"beta"
 			{
@@ -378,9 +378,9 @@
 			}
 			"previous"
 			{
-				"gid" "5641963867564305459"
-				"size" "584399129"
-				"download" "531919712"
+				"gid" "3987347604743476443"
+				"size" "635617469"
+				"download" "585892704"
 			}
 		}
 		"encryptedmanifests"
@@ -530,8 +530,8 @@
 	{
 		"public"
 		{
-			"buildid" "16595073"
-			"timeupdated" "1733092182"
+			"buildid" "15563891"
+			"timeupdated" "1733129791"
 		}
 		"argontest"
 		{
@@ -583,8 +583,8 @@
 		}
 		"previous"
 		{
-			"buildid" "13968294"
-			"timeupdated" "1718175686"
+			"buildid" "15563891"
+			"timeupdated" "1733126134"
 		}
 		"ratman"
 		{
@@ -606,6 +606,6 @@
 	"maxnumfiles" "500"
 }
 "_missing_token" "False"
-"_change_number" "26445153"
-"_sha" "5c63f3db2d2e8d7cf618c254371fcbab70feccf7"
+"_change_number" "26449604"
+"_sha" "a1fde6260da71df40ebcf55e85e3f79418f12abf"
 "_size" "11790"
