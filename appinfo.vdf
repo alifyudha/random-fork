@@ -3,7 +3,7 @@
 {
 	"name" "Doll Impostor"
 	"type" "Game"
-	"icon" "cdca35b1c5c16e551d24e3ca3ceeedd0e24b818b"
+	"icon" "12884d58bf4e77e9d3b726a687dae1494c2b98b8"
 	"clienticon" "459d0721465128c89f8ca308304514f07fe2aaa3"
 	"clienttga" "5c4b27c1d28003299f9bc6161f14ced3c1c37b34"
 	"oslist" "windows"
@@ -59,7 +59,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "483cbffd58ac23d9e13c347ce3530cc8f71c912b/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -127,7 +127,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728304566"
+	"store_asset_mtime" "1731696089"
 	"associations"
 	{
 		"0"
@@ -138,6 +138,11 @@
 		"1"
 		{
 			"type" "publisher"
+			"name" "HeadArrow"
+		}
+		"2"
+		{
+			"type" "franchise"
 			"name" "HeadArrow"
 		}
 	}
@@ -160,6 +165,11 @@
 		"category_23" "1"
 		"category_55" "1"
 		"category_56" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -361,9 +371,9 @@
 		"7" "4191"
 		"8" "4145"
 		"9" "3839"
-		"10" "492"
-		"11" "4175"
-		"12" "4182"
+		"10" "4182"
+		"11" "492"
+		"12" "4175"
 	}
 	"review_score" "9"
 	"review_percentage" "96"
@@ -420,9 +430,9 @@
 		{
 			"public"
 			{
-				"gid" "6358540428246361484"
-				"size" "7877041185"
-				"download" "7626735952"
+				"gid" "7773215502747129335"
+				"size" "10685493477"
+				"download" "9920906368"
 			}
 			"original"
 			{
@@ -436,8 +446,8 @@
 	{
 		"public"
 		{
-			"buildid" "15993028"
-			"timeupdated" "1728557259"
+			"buildid" "16593942"
+			"timeupdated" "1733075568"
 		}
 		"original"
 		{
@@ -453,3 +463,7 @@
 	"maxnumfiles" "5"
 	"appidredirect" "2882870"
 }
+"_missing_token" "False"
+"_change_number" "26443585"
+"_sha" "cbfba8488625af6a73bdae0cf1afa81b8e713592"
+"_size" "7956"
