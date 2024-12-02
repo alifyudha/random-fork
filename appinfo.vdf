@@ -23,6 +23,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_8cf9077d2157ad41287ee1f098762bca502826a4.jpg"
 	"store_asset_mtime" "1724986877"
 	"associations"
 	{
@@ -118,9 +119,9 @@
 		{
 			"public"
 			{
-				"gid" "2715628468921635892"
-				"size" "1477201"
-				"download" "67824"
+				"gid" "7919894187099068500"
+				"size" "1661504"
+				"download" "85632"
 			}
 		}
 		"dlcappid" "3171550"
@@ -129,9 +130,13 @@
 	{
 		"public"
 		{
-			"buildid" "15802695"
-			"timeupdated" "1727159288"
+			"buildid" "16534086"
+			"timeupdated" "1732757606"
 		}
 	}
 	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26397300"
+"_sha" "78144b16f5aae6621a22fc31a8cc18a9a6e17897"
+"_size" "2235"
