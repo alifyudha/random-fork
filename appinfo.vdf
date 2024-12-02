@@ -209,8 +209,8 @@
 	"gameid" "2015240"
 	"store_tags"
 	{
-		"0" "4231"
-		"1" "1646"
+		"0" "1646"
+		"1" "4231"
 		"2" "7918"
 		"3" "42804"
 		"4" "6730"
@@ -286,18 +286,18 @@
 		{
 			"public"
 			{
-				"gid" "2115814801213206531"
-				"size" "16101686315"
-				"download" "15743844656"
+				"gid" "571581841746709014"
+				"size" "16100952551"
+				"download" "15742891008"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "EA578778C6645B9C1A4B9F2C4CAB5621"
-				"size" "45524A5AFE9164D0590AF94D7493F881"
-				"download" "8CEE3B845165FA1D90D7798A55D1B2D7"
+				"gid" "704265FFBAACE1F2075D2C669823619D"
+				"size" "B52A9DB9A8F93601C8CB7A62BACCE3DC"
+				"download" "48E916E16C26B03A8B6ACFB387F94483"
 			}
 		}
 	}
@@ -313,14 +313,14 @@
 	{
 		"public"
 		{
-			"buildid" "16588291"
-			"timeupdated" "1732979276"
+			"buildid" "16595186"
+			"timeupdated" "1733094164"
 		}
 		"beta"
 		{
-			"buildid" "16588291"
+			"buildid" "16595186"
 			"pwdrequired" "1"
-			"timeupdated" "1732978696"
+			"timeupdated" "1733093583"
 		}
 	}
 }
@@ -343,6 +343,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26435416"
-"_sha" "312a616dd9f1887b3acfffacb988bfbec89b4026"
-"_size" "5911"
+"_change_number" "26448125"
+"_sha" "436177047527f7f221b06c57309d43b2b8450fce"
+"_size" "5910"
