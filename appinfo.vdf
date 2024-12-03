@@ -13,6 +13,7 @@
 	"clienttga" "9ceacf0e7471c8727b3fe186a6585e7357ec5ebb"
 	"clienticon" "da2efa45135aa1923b0f003b850ffe10ee7a10a4"
 	"releasestate" "released"
+	"freetodownload" "1"
 	"associations"
 	{
 	}
@@ -112,9 +113,9 @@
 		{
 			"public"
 			{
-				"gid" "7935167309203780290"
-				"size" "933229476"
-				"download" "265630160"
+				"gid" "7219538885592049496"
+				"size" "933703818"
+				"download" "265626912"
 			}
 			"1.10b"
 			{
@@ -162,9 +163,9 @@
 		{
 			"public"
 			{
-				"gid" "6888257883109124065"
-				"size" "874760028"
-				"download" "213060992"
+				"gid" "339591031938853433"
+				"size" "875234696"
+				"download" "213062272"
 			}
 			"1.10b"
 			{
@@ -206,8 +207,8 @@
 	{
 		"public"
 		{
-			"buildid" "16454754"
-			"timeupdated" "1732000327"
+			"buildid" "16614644"
+			"timeupdated" "1733230247"
 		}
 		"1.10b"
 		{
@@ -237,11 +238,11 @@
 		{
 			"buildid" "15927281"
 			"description" "For testing"
-			"timeupdated" "1731999461"
+			"timeupdated" "1733229960"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26256985"
-"_sha" "3bd1afa1df8168f9ebcbbd9ad402fb54c933ce9b"
-"_size" "4247"
+"_change_number" "26470180"
+"_sha" "52f44b3bcec9909dde60d627a1415b9af290136a"
+"_size" "4270"
