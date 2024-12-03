@@ -137,6 +137,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -174,8 +175,8 @@
 		"18" "21"
 		"19" "1662"
 	}
-	"review_score" "7"
-	"review_percentage" "87"
+	"review_score" "8"
+	"review_percentage" "88"
 }
 "extended"
 {
@@ -224,9 +225,9 @@
 		{
 			"public"
 			{
-				"gid" "4728780463957541913"
-				"size" "4603805901"
-				"download" "4444775712"
+				"gid" "3714791423194026677"
+				"size" "4605268410"
+				"download" "4446085792"
 			}
 		}
 	}
@@ -234,8 +235,8 @@
 	{
 		"public"
 		{
-			"buildid" "16593412"
-			"timeupdated" "1733067135"
+			"buildid" "16615347"
+			"timeupdated" "1733233583"
 		}
 	}
 }
@@ -247,7 +248,7 @@
 	{
 		"0"
 		{
-			"root" "WinAppDataLocalLow"
+			"root" "WinAppDataLocal"
 			"path" "LHZJ"
 			"pattern" "*.sav"
 			"recursive" "1"
@@ -255,6 +256,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26442769"
-"_sha" "7340923bb83823de987845a1406a007067b3ac93"
-"_size" "4785"
+"_change_number" "26472343"
+"_sha" "4a41e553a6e461f1f03d2e46c6b0738894a8bad1"
+"_size" "4804"
