@@ -269,15 +269,15 @@
 		{
 			"public"
 			{
-				"gid" "4797819309654188155"
-				"size" "5831531166"
-				"download" "3046836080"
+				"gid" "1440742305909422047"
+				"size" "5834470797"
+				"download" "3046994768"
 			}
 			"prerelease"
 			{
-				"gid" "4797819309654188155"
-				"size" "5831531166"
-				"download" "3046836080"
+				"gid" "1440742305909422047"
+				"size" "5834470797"
+				"download" "3046994768"
 			}
 		}
 		"encryptedmanifests"
@@ -326,15 +326,21 @@
 			}
 			"internal_test"
 			{
-				"gid" "C6B7B1E85C09D7EBD6005F896CB2D5AF"
-				"size" "2E23518ACB42C67CDBE4614F13342D63"
-				"download" "B662E05A79F547CBFEAA82CBE99156B0"
+				"gid" "21A4D6EA9FA6DC2E16B7E72BD1313F53"
+				"size" "1692BD50E929D2A65B1971F9307CB563"
+				"download" "B5C1CD7D4CF1A6BADF1AF9E55E87686D"
+			}
+			"macfogtest"
+			{
+				"gid" "8B6B86863315418BAF75FB2CAF233E53"
+				"size" "23E590BFC9816BBEC6C1211936AB20FD"
+				"download" "037C83F1EEFAEF5B5D8C88C5F6559650"
 			}
 			"openbeta"
 			{
-				"gid" "D322DFA669D9B3C0A4EEEA9FE2BF40DC"
-				"size" "11A54F0F540EEE64E891348D1A1B2DB3"
-				"download" "CC0AD2788D273BC7DDC1A0B7C7D6CDAE"
+				"gid" "1D60EF2681C3F006F1E3350401E3D7C8"
+				"size" "C5265E79211646216FFF477236CFD75A"
+				"download" "106F7D2911311EDB5F67B7B8CDB54BB0"
 			}
 			"streamer_test"
 			{
@@ -349,8 +355,8 @@
 	{
 		"public"
 		{
-			"buildid" "16558090"
-			"timeupdated" "1732743065"
+			"buildid" "16606538"
+			"timeupdated" "1733178909"
 		}
 		"beta"
 		{
@@ -396,21 +402,27 @@
 		}
 		"internal_test"
 		{
-			"buildid" "16558090"
+			"buildid" "16606538"
 			"pwdrequired" "1"
-			"timeupdated" "1732742380"
+			"timeupdated" "1733177097"
+		}
+		"macfogtest"
+		{
+			"buildid" "16458952"
+			"pwdrequired" "1"
+			"timeupdated" "1733157541"
 		}
 		"openbeta"
 		{
-			"buildid" "16558090"
+			"buildid" "16606538"
 			"pwdrequired" "1"
-			"timeupdated" "1732743001"
+			"timeupdated" "1733178865"
 		}
 		"prerelease"
 		{
-			"buildid" "16558090"
+			"buildid" "16606538"
 			"description" "Pre-release of updates for preview testing"
-			"timeupdated" "1732743035"
+			"timeupdated" "1733178883"
 		}
 		"streamer_test"
 		{
@@ -469,6 +481,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26394397"
-"_sha" "3153d0fecd8cc84fd9646e7765745afa1386848c"
-"_size" "9246"
+"_change_number" "26460388"
+"_sha" "203b5fc2cb1fd861626120aac1eae397ad710614"
+"_size" "9529"
