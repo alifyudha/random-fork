@@ -165,6 +165,7 @@
 	{
 		"category_2" "1"
 		"category_23" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -175,6 +176,7 @@
 		}
 	}
 	"steam_release_date" "1703170707"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1768650"
 	"store_tags"
@@ -201,7 +203,7 @@
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "94"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -247,18 +249,18 @@
 		{
 			"public"
 			{
-				"gid" "5535184983597380589"
-				"size" "1403870331"
-				"download" "1077074800"
+				"gid" "6581551185722497999"
+				"size" "1403874659"
+				"download" "1077083792"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "E66411E784CE4D826BFCCAA693DD002F"
-				"size" "F7DE9AF752E9BD3E4FFCC10B4127DD32"
-				"download" "160AE5E109BF0657E1A632CB735C6E68"
+				"gid" "0B027C2DC655E02C1772DE5B62B3FCAE"
+				"size" "40AF408CBCB112AA19C2CB5F9F99C286"
+				"download" "27C33278A98414F2D5ADE8F0100F0FDE"
 			}
 		}
 	}
@@ -266,14 +268,14 @@
 	{
 		"public"
 		{
-			"buildid" "16378477"
-			"timeupdated" "1731415599"
+			"buildid" "16615111"
+			"timeupdated" "1733232742"
 		}
 		"beta"
 		{
-			"buildid" "15939593"
+			"buildid" "16615111"
 			"pwdrequired" "1"
-			"timeupdated" "1728132455"
+			"timeupdated" "1733232271"
 		}
 	}
 }
@@ -296,6 +298,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26157177"
-"_sha" "213bb7dc9a7a8998fcb72599f8b5a513e1eff44b"
-"_size" "5263"
+"_change_number" "26470823"
+"_sha" "8c887920092e5069ae32dbfb384fb471a582f1c9"
+"_size" "5318"
