@@ -266,7 +266,7 @@
 		"19" "1662"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -301,30 +301,30 @@
 		{
 			"public"
 			{
-				"gid" "3532696769676828417"
-				"size" "1521128098"
-				"download" "257524240"
+				"gid" "1416630409522146688"
+				"size" "1521437506"
+				"download" "257301648"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "FEEA94B7D532F016E88900D646C27613"
-				"size" "E3D0DE5EEE56349403893980A87BC941"
-				"download" "616E812CB453F207D141991832B7C008"
+				"gid" "E66B3A9FBA546BD1D5EC8B94C994F401"
+				"size" "9DF166563DB07F2D970B3096F246F1F6"
+				"download" "82D33122D6F0F4110070FBCCB28BC89E"
 			}
 			"beta_private"
 			{
-				"gid" "5D8D0DA8A11BA5E60C9F84437E91A099"
-				"size" "E9FD6A315ACA6EC655A7FB224850E058"
-				"download" "340DA2586A6412799F55079964CC90A7"
+				"gid" "B31EF341C30F8D1E68F8422A47A69758"
+				"size" "F18D4CE72D9B2A6E106F1C3FBAC1195F"
+				"download" "B5502C33A62167D39151C32E7ED13E07"
 			}
 			"privatetest"
 			{
-				"gid" "98361C35A9AACB7CD16DCD00C6BF86F7"
-				"size" "DAA8BB58D9C16E8E13EC1F2007F8E933"
-				"download" "7541E85FC9C9FB6BC861D740B843CE8B"
+				"gid" "88D753A3B1BB947D6BE4CFCBB4B7BC38"
+				"size" "84573C41D66B82CDA5290849EFBE1C3A"
+				"download" "7C2BB0C43EC03AC5C6B128DF535C5C53"
 			}
 		}
 	}
@@ -332,26 +332,26 @@
 	{
 		"public"
 		{
-			"buildid" "16426520"
-			"timeupdated" "1731717185"
+			"buildid" "16604058"
+			"timeupdated" "1733162224"
 		}
 		"beta"
 		{
-			"buildid" "16426520"
+			"buildid" "16604058"
 			"pwdrequired" "1"
-			"timeupdated" "1731717164"
+			"timeupdated" "1733162199"
 		}
 		"beta_private"
 		{
-			"buildid" "16423704"
+			"buildid" "16604058"
 			"pwdrequired" "1"
-			"timeupdated" "1731692530"
+			"timeupdated" "1733161473"
 		}
 		"privatetest"
 		{
-			"buildid" "16426520"
+			"buildid" "16604058"
 			"pwdrequired" "1"
-			"timeupdated" "1731711772"
+			"timeupdated" "1733161482"
 		}
 	}
 }
@@ -370,6 +370,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26221664"
-"_sha" "bf9ea650c9f159e65fc8323ec1a987f945856128"
+"_change_number" "26456875"
+"_sha" "94e667f2e8e6854e3209676944ecec3938fbd8e0"
 "_size" "6741"
