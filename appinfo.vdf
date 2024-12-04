@@ -195,29 +195,29 @@
 	"gameid" "1138640"
 	"store_tags"
 	{
-		"0" "1643"
-		"1" "3810"
+		"0" "9204"
+		"1" "4328"
 		"2" "84"
-		"3" "4328"
-		"4" "599"
-		"5" "1702"
-		"6" "9204"
-		"7" "1654"
-		"8" "4191"
-		"9" "12472"
-		"10" "7332"
-		"11" "10235"
-		"12" "5300"
-		"13" "3839"
-		"14" "7208"
-		"15" "1697"
-		"16" "1695"
+		"3" "3810"
+		"4" "1643"
+		"5" "1036"
+		"6" "7332"
+		"7" "30358"
+		"8" "5350"
+		"9" "12057"
+		"10" "8122"
+		"11" "1685"
+		"12" "4191"
+		"13" "5673"
+		"14" "3859"
+		"15" "3839"
+		"16" "1654"
 		"17" "597"
-		"18" "4305"
-		"19" "4175"
+		"18" "4182"
+		"19" "599"
 	}
 	"review_score" "5"
-	"review_percentage" "62"
+	"review_percentage" "63"
 }
 "extended"
 {
@@ -265,9 +265,9 @@
 		{
 			"public"
 			{
-				"gid" "1547834475646215756"
-				"size" "8093880298"
-				"download" "5648913136"
+				"gid" "6259425521533785962"
+				"size" "8093966355"
+				"download" "5648998944"
 			}
 			"hometopia-old-career-mode"
 			{
@@ -286,9 +286,9 @@
 		{
 			"feature-qa"
 			{
-				"gid" "E27136E96CE5C68CB39E82160CCB845D"
-				"size" "0D7EA41A60E0E527A79FE89D8D239A2F"
-				"download" "EF711F87D37CC2D412A471BB683A0E56"
+				"gid" "351FDABDAB9DE739DAD87CCA20A16190"
+				"size" "31C0ACFAD96D16C4E582B6D2DFDD1FA7"
+				"download" "E0BBF5E9708C7368DD352BD224968E2C"
 			}
 			"feature-qa-2"
 			{
@@ -386,20 +386,26 @@
 				"size" "DECCFEECC92BB910C188FA2935691097"
 				"download" "3BA0D0E3DC6C1AC37BD9543659C8D929"
 			}
+			"update-8.1"
+			{
+				"gid" "3F7583C0DB2BA7CF974761DC01E7424C"
+				"size" "19C56D1B224D8F9632059A3C3363C3C8"
+				"download" "7136EBE92A57B7DA1C9E9EA5D5DBBB01"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16507527"
-			"timeupdated" "1732331473"
+			"buildid" "16617130"
+			"timeupdated" "1733248646"
 		}
 		"feature-qa"
 		{
-			"buildid" "16185048"
+			"buildid" "16601946"
 			"pwdrequired" "1"
-			"timeupdated" "1729884690"
+			"timeupdated" "1733150392"
 		}
 		"feature-qa-2"
 		{
@@ -509,6 +515,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1732327915"
 		}
+		"update-8.1"
+		{
+			"buildid" "16617130"
+			"pwdrequired" "1"
+			"timeupdated" "1733242918"
+		}
 	}
 }
 "ufs"
@@ -563,6 +575,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26334689"
-"_sha" "ea7f7c904fda16b588209ad3a64549b0a818cd78"
-"_size" "11664"
+"_change_number" "26474904"
+"_sha" "11713a49a2cf7a0aef649afa985c25930bebe281"
+"_size" "11947"
