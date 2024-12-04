@@ -139,8 +139,8 @@
 		"0" "599"
 		"1" "493"
 		"2" "492"
-		"3" "3810"
-		"4" "3968"
+		"3" "3968"
+		"4" "3810"
 		"5" "113"
 		"6" "7926"
 		"7" "3871"
@@ -155,8 +155,8 @@
 		"16" "6691"
 		"17" "1643"
 	}
-	"review_score" "8"
-	"review_percentage" "80"
+	"review_score" "6"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -219,9 +219,9 @@
 		{
 			"public"
 			{
-				"gid" "4338155806166960886"
-				"size" "245832663"
-				"download" "50731632"
+				"gid" "1797092658271889968"
+				"size" "247927732"
+				"download" "51302448"
 			}
 			"v0.2.5.2_2020-09-27_old_ui"
 			{
@@ -319,6 +319,18 @@
 				"size" "215506009"
 				"download" "49912720"
 			}
+			"v0.7.7.3_icebreaker_2024-06-09"
+			{
+				"gid" "4338155806166960886"
+				"size" "245832663"
+				"download" "50731632"
+			}
+			"v7.7.7_windows11"
+			{
+				"gid" "5943594754608492310"
+				"size" "209114449"
+				"download" "50821360"
+			}
 		}
 	}
 	"workshopdepot" "1196080"
@@ -326,8 +338,8 @@
 	{
 		"public"
 		{
-			"buildid" "14655642"
-			"timeupdated" "1717934591"
+			"buildid" "16109448"
+			"timeupdated" "1729372199"
 		}
 		"v0.2.5.2_2020-09-27_old_ui"
 		{
@@ -425,6 +437,18 @@
 			"description" "backward version"
 			"timeupdated" "1717289701"
 		}
+		"v0.7.7.3_icebreaker_2024-06-09"
+		{
+			"buildid" "14655642"
+			"description" "backward version"
+			"timeupdated" "1728857517"
+		}
+		"v7.7.7_windows11"
+		{
+			"buildid" "16512781"
+			"description" "windows 11"
+			"timeupdated" "1732399316"
+		}
 	}
 }
 "ufs"
@@ -432,3 +456,7 @@
 	"quota" "10000000000"
 	"maxnumfiles" "10000"
 }
+"_missing_token" "False"
+"_change_number" "26370137"
+"_sha" "14aaff89bf6a6a337fb59fdd939ccbeaa8d13b99"
+"_size" "8815"
