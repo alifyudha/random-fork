@@ -16,7 +16,6 @@
 	{
 		"schinese" "装甲纷争:决定版"
 	}
-	"restricted_countries" "DE"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -316,9 +315,9 @@
 		{
 			"public"
 			{
-				"gid" "7611797237706899648"
-				"size" "7899883127"
-				"download" "5393549504"
+				"gid" "7749051234301586479"
+				"size" "7902576019"
+				"download" "5395409360"
 			}
 			"old_frag_replay"
 			{
@@ -334,18 +333,18 @@
 			}
 			"supertest"
 			{
-				"gid" "7611797237706899648"
-				"size" "7899883127"
-				"download" "5393549504"
+				"gid" "7749051234301586479"
+				"size" "7902576019"
+				"download" "5395409360"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal-test"
 			{
-				"gid" "193D4F5CFE3D3B25624FB8BAEE156C91"
-				"size" "46FE4A7AD66E7276A7D712720B7C3F1A"
-				"download" "C43E3BB0BD1AD1C584A8F91E7140E319"
+				"gid" "D4F7939D574387C8B0B325DAC12DA4A2"
+				"size" "D9BDFFF1BE3A1374A579A1C4650AD859"
+				"download" "1ECC468E52E51185A695521F4F41E38A"
 			}
 		}
 	}
@@ -405,14 +404,14 @@
 	{
 		"public"
 		{
-			"buildid" "16568113"
-			"timeupdated" "1732807040"
+			"buildid" "16610007"
+			"timeupdated" "1733298655"
 		}
 		"internal-test"
 		{
-			"buildid" "16568113"
+			"buildid" "16610007"
 			"pwdrequired" "1"
-			"timeupdated" "1732807007"
+			"timeupdated" "1733202453"
 		}
 		"old_frag_replay"
 		{
@@ -428,9 +427,9 @@
 		}
 		"supertest"
 		{
-			"buildid" "16568113"
+			"buildid" "16610007"
 			"description" "Super Test"
-			"timeupdated" "1732807014"
+			"timeupdated" "1733202463"
 		}
 	}
 }
@@ -466,6 +465,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26408157"
-"_sha" "075851d5965e6efe4a396859bc85ded8374704c7"
-"_size" "8238"
+"_change_number" "26483892"
+"_sha" "605240bfbbeeb5b684a15394b95993624408be97"
+"_size" "8207"
