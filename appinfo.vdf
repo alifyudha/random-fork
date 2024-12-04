@@ -78,6 +78,8 @@
 			"hdr_support" "0"
 		}
 	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"schinese" "capsule_231x87_schinese.jpg"
@@ -184,6 +186,7 @@
 		"category_46" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_18" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -273,9 +276,9 @@
 		{
 			"public"
 			{
-				"gid" "1530711739774115026"
-				"size" "1639073516"
-				"download" "727477600"
+				"gid" "3741288586703740415"
+				"size" "1639072004"
+				"download" "727475632"
 			}
 		}
 		"encryptedmanifests"
@@ -288,9 +291,9 @@
 			}
 			"test"
 			{
-				"gid" "3E6A9E2D39BD751C7BF50C7BFE290BA4"
-				"size" "19244D12A6ADC2FD147C88131683BDE7"
-				"download" "5F40F837E6BACB054543EB2AA11817E3"
+				"gid" "17A226CC0DA819E619E8F8E21B416C88"
+				"size" "24366501E29F765F0E12198CD3150A68"
+				"download" "125AEA60F22DB57842877348E6F9154B"
 			}
 		}
 	}
@@ -299,8 +302,8 @@
 	{
 		"public"
 		{
-			"buildid" "16233312"
-			"timeupdated" "1730279397"
+			"buildid" "16579461"
+			"timeupdated" "1732957083"
 		}
 		"console"
 		{
@@ -310,9 +313,9 @@
 		}
 		"test"
 		{
-			"buildid" "16233312"
+			"buildid" "16626872"
 			"pwdrequired" "1"
-			"timeupdated" "1730276249"
+			"timeupdated" "1733305553"
 		}
 	}
 }
@@ -336,3 +339,7 @@
 	}
 	"sync_while_suspended" "1"
 }
+"_missing_token" "False"
+"_change_number" "26486201"
+"_sha" "c9b50feedc17c9c980b4ed03cf3f519243b88b97"
+"_size" "6341"
