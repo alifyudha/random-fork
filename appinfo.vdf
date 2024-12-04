@@ -1,37 +1,82 @@
 "appid" "2494810"
-	"common"
+"common"
+{
+	"name" "Dark Hunting Ground"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "7c3fd69d7e048854a9edd0ba746a296243c44c3f"
+	"clienttga" "88acc4ad4e65bedf75a8a26a6c62a3f973f2480b"
+	"clienticon" "e3685bddaf6e5c652d0fe3ea2635485063310090"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"name_localized"
 	{
-		"name" "Dark Hunting Ground"
-		"type" "Game"
-		"releasestate" "released"
-		"icon" "7c3fd69d7e048854a9edd0ba746a296243c44c3f"
-		"clienttga" "88acc4ad4e65bedf75a8a26a6c62a3f973f2480b"
-		"clienticon" "e3685bddaf6e5c652d0fe3ea2635485063310090"
-		"oslist" "windows,macos"
-		"osarch" "64"
-		"osextended" "macos64,macosapplesilicon"
-		"name_localized"
+		"schinese" "漆黑猎场"
+		"japanese" "暗闇狩り場"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
 		{
-			"schinese" "漆黑猎场"
-			"japanese" "暗闇狩り場"
+			"pinned_position" "BottomLeft"
+			"width_pct" "65.11784927058962"
+			"height_pct" "100"
 		}
-		"controllertagwizard" "1"
-		"small_capsule"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
 		{
-			"english" "capsule_231x87.jpg"
-			"schinese" "capsule_231x87_schinese.jpg"
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
 		}
-		"header_image"
+		"library_hero"
 		{
-			"schinese" "header_schinese.jpg"
-			"english" "header.jpg"
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
 		}
-		"library_assets"
+		"library_logo"
 		{
-			"library_capsule" "en,zh-cn"
-			"library_hero" "en"
-			"library_logo" "en,zh-cn"
-			"library_header" "en,zh-cn"
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
@@ -39,283 +84,244 @@
 				"height_pct" "100"
 			}
 		}
-		"library_assets_full"
+		"library_header"
 		{
-			"library_capsule"
+			"image"
 			{
-				"image"
-				{
-					"english" "library_600x900.jpg"
-					"schinese" "library_600x900_schinese.jpg"
-				}
-				"image2x"
-				{
-					"english" "library_600x900_2x.jpg"
-					"schinese" "library_600x900_schinese_2x.jpg"
-				}
-			}
-			"library_hero"
-			{
-				"image"
-				{
-					"english" "library_hero.jpg"
-				}
-				"image2x"
-				{
-					"english" "library_hero_2x.jpg"
-				}
-			}
-			"library_logo"
-			{
-				"image"
-				{
-					"english" "logo.png"
-					"schinese" "logo_schinese.png"
-				}
-				"image2x"
-				{
-					"english" "logo_2x.png"
-					"schinese" "logo_schinese_2x.png"
-				}
-				"logo_position"
-				{
-					"pinned_position" "BottomLeft"
-					"width_pct" "65.11784927058962"
-					"height_pct" "100"
-				}
-			}
-			"library_header"
-			{
-				"image"
-				{
-					"english" "library_header.jpg"
-					"schinese" "library_header_schinese.jpg"
-				}
-			}
-		}
-		"store_asset_mtime" "1731663961"
-		"associations"
-		{
-			"0"
-			{
-				"type" "developer"
-				"name" "BingX"
-			}
-			"1"
-			{
-				"type" "publisher"
-				"name" "The Bueno Interactive"
-			}
-		}
-		"primary_genre" "1"
-		"genres"
-		{
-			"0" "1"
-			"1" "23"
-			"2" "3"
-			"3" "70"
-		}
-		"category"
-		{
-			"category_2" "1"
-			"category_23" "1"
-			"category_62" "1"
-		}
-		"supported_languages"
-		{
-			"schinese"
-			{
-				"supported" "true"
-				"subtitles" "true"
-			}
-			"english"
-			{
-				"supported" "true"
-				"subtitles" "true"
-			}
-			"french"
-			{
-				"supported" "true"
-				"subtitles" "true"
-			}
-			"japanese"
-			{
-				"supported" "true"
-				"subtitles" "true"
-			}
-			"tchinese"
-			{
-				"supported" "true"
-				"subtitles" "true"
-			}
-			"spanish"
-			{
-				"supported" "true"
-				"subtitles" "true"
-			}
-			"brazilian"
-			{
-				"supported" "true"
-				"subtitles" "true"
-			}
-			"koreana"
-			{
-				"supported" "true"
-				"subtitles" "true"
-			}
-		}
-		"steam_release_date" "1731020408"
-		"community_hub_visible" "1"
-		"gameid" "2494810"
-		"store_tags"
-		{
-			"0" "4236"
-			"1" "4231"
-			"2" "1646"
-			"3" "353880"
-			"4" "122"
-			"5" "3964"
-			"6" "3871"
-			"7" "492"
-			"8" "4252"
-			"9" "4342"
-			"10" "3993"
-			"11" "4182"
-			"12" "19"
-			"13" "1720"
-			"14" "6730"
-			"15" "3814"
-			"16" "493"
-		}
-		"review_score" "8"
-		"review_percentage" "97"
-	}
-	"extended"
-	{
-		"developer" "BingX"
-		"publisher" "The Bueno Interactive"
-	}
-	"config"
-	{
-		"installdir" "漆黑猎场"
-		"launch"
-		{
-			"0"
-			{
-				"executable" "Dark Hunting Ground.exe"
-				"type" "default"
-				"config"
-				{
-					"oslist" "windows"
-					"osarch" "64"
-				}
-				"description_loc"
-				{
-					"schinese" "Demo"
-				}
-			}
-			"1"
-			{
-				"executable" "Contents\\MacOS\\Dark Hunting Ground"
-				"type" "default"
-				"config"
-				{
-					"oslist" "macos"
-				}
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
 			}
 		}
 	}
-	"depots"
+	"store_asset_mtime" "1731663961"
+	"associations"
 	{
-		"baselanguages" "english,french,koreana,spanish,schinese,tchinese,japanese,brazilian"
-		"2494811"
+		"0"
 		{
+			"type" "developer"
+			"name" "BingX"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "The Bueno Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1731020408"
+	"community_hub_visible" "1"
+	"gameid" "2494810"
+	"store_tags"
+	{
+		"0" "4236"
+		"1" "4231"
+		"2" "1646"
+		"3" "353880"
+		"4" "615955"
+		"5" "122"
+		"6" "3964"
+		"7" "3871"
+		"8" "4252"
+		"9" "4342"
+		"10" "3993"
+		"11" "4182"
+		"12" "19"
+		"13" "1720"
+		"14" "6730"
+		"15" "3814"
+		"16" "1716"
+		"17" "493"
+		"18" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "BingX"
+	"publisher" "The Bueno Interactive"
+}
+"config"
+{
+	"installdir" "漆黑猎场"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Dark Hunting Ground.exe"
+			"type" "default"
 			"config"
 			{
 				"oslist" "windows"
 				"osarch" "64"
 			}
-			"manifests"
+			"description_loc"
 			{
-				"public"
-				{
-					"gid" "1117468537168708387"
-					"size" "897114032"
-					"download" "160652272"
-				}
+				"schinese" "Demo"
 			}
 		}
-		"2494812"
+		"1"
 		{
+			"executable" "Contents\\MacOS\\Dark Hunting Ground"
+			"type" "default"
 			"config"
 			{
 				"oslist" "macos"
-				"osarch" "64"
-			}
-			"manifests"
-			{
-				"public"
-				{
-					"gid" "7932980817180117744"
-					"size" "891486906"
-					"download" "158751408"
-				}
 			}
 		}
-		"branches"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,french,koreana,spanish,schinese,tchinese,japanese,brazilian"
+	"2494811"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
 		{
 			"public"
 			{
-				"buildid" "16482631"
-				"timeupdated" "1732173112"
+				"gid" "3412577695661779496"
+				"size" "901969335"
+				"download" "160896528"
 			}
 		}
 	}
-	"ufs"
+	"2494812"
 	{
-		"quota" "102400000"
-		"maxnumfiles" "200"
-		"savefiles"
+		"config"
 		{
-			"0"
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
 			{
-				"root" "WinAppDataLocalLow"
-				"path" "BingGame/Dark Hunting Ground/users"
-				"pattern" "*.json"
+				"gid" "7983738177108564892"
+				"size" "896342201"
+				"download" "158989776"
 			}
 		}
-		"sync_while_suspended" "1"
-		"rootoverrides"
+	}
+	"branches"
+	{
+		"public"
 		{
-			"0"
+			"buildid" "16633730"
+			"timeupdated" "1733340624"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "102400000"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "BingGame/Dark Hunting Ground/users"
+			"pattern" "*.json"
+		}
+	}
+	"sync_while_suspended" "1"
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
 			{
-				"root" "WinAppDataLocalLow"
-				"os" "MacOS"
-				"oscompare" "="
-				"useinstead" "MacAppSupport"
-				"pathtransforms"
+				"0"
 				{
-					"0"
-					{
-						"find" "BingGame/Dark Hunting Ground/users"
-						"replace" "unity.BingGame.Dark Hunting Ground.users"
-					}
+					"find" "BingGame/Dark Hunting Ground/users"
+					"replace" "unity.BingGame.Dark Hunting Ground.users"
 				}
 			}
-			"1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
 			{
-				"root" "WinAppDataLocalLow"
-				"os" "Linux"
-				"oscompare" "="
-				"useinstead" "LinuxHome"
-				"pathtransforms"
+				"0"
 				{
-					"0"
-					{
-						"find" "BingGame/Dark Hunting Ground/users"
-						"replace" ".config/unity3d/BingGame/Dark Hunting Ground/users"
-					}
+					"find" "BingGame/Dark Hunting Ground/users"
+					"replace" ".config/unity3d/BingGame/Dark Hunting Ground/users"
 				}
 			}
 		}
 	}
+}
+"_missing_token" "False"
+"_change_number" "26495018"
+"_sha" "77b571fe2c2a2d0a6703b8f1e75666c855080e6a"
+"_size" "5332"
