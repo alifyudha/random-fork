@@ -21,6 +21,7 @@
 		}
 	}
 	"releasestate" "released"
+	"freetodownload" "1"
 	"gameid" "2430930"
 }
 "config"
@@ -117,9 +118,9 @@
 		{
 			"public"
 			{
-				"gid" "4800183495990793526"
-				"size" "20888905866"
-				"download" "19090506192"
+				"gid" "4124606140594484215"
+				"size" "21626593779"
+				"download" "19087878144"
 			}
 			"public_test_realm"
 			{
@@ -156,9 +157,9 @@
 			}
 			"asalive"
 			{
-				"gid" "DDD2A16942D968113C0CE1D054C2D3E5"
-				"size" "DE3A603FE90D3F863618E4C6D931CDE0"
-				"download" "4A02479FA5161FA113842C957CEED4C5"
+				"gid" "6DDAFB0CA6E7E6F97AF7D3F597A63AF9"
+				"size" "2097CC7AC568A7BDB3E8D76201EE14C2"
+				"download" "B8BD1530257C91F76A524D2C8B2B7B1B"
 			}
 			"cachechecks"
 			{
@@ -168,15 +169,15 @@
 			}
 			"continuous"
 			{
-				"gid" "FE77D049A910BDFC67C29C2A59AD5886"
-				"size" "9BE5A530F51A01B2576E94087F7CD949"
-				"download" "9B932B0BEA9E98F560569CC35A442B3A"
+				"gid" "2DAC07A02A223799B1DFD4ECE61D7A5F"
+				"size" "2688A6CE32F1E3E69354D1284A3619FB"
+				"download" "1C12E3F470A888BA821155B3E16F9F2F"
 			}
 			"crossplay"
 			{
-				"gid" "7E8B0A7AA300FE6DC21B55A40801BF81"
-				"size" "1BC3EE75203220933A546C71014A2FBB"
-				"download" "7273022670CFB13EFE871DFB2803D2BD"
+				"gid" "E04081EA0B7884E81EFF959381C1E0BD"
+				"size" "CD37EAF61586A423F201C352F58EA2FB"
+				"download" "EAF28175A83FCC755665EEE3C23CA065"
 			}
 			"enduring"
 			{
@@ -216,9 +217,9 @@
 			}
 			"nitradopc"
 			{
-				"gid" "8008F142356EF51771AE3B04E345F8CC"
-				"size" "1E487D9DACED9C3306393D7E0A951661"
-				"download" "A5E33551780507F9D0F1453845949A8D"
+				"gid" "C19C884B98081E0722C4DD3CEE0A3864"
+				"size" "4713EE09DB23B574B877455B5086A1A8"
+				"download" "2793652DF032A089E3F7E9A557409B51"
 			}
 			"notingscene"
 			{
@@ -228,9 +229,9 @@
 			}
 			"npc_beta"
 			{
-				"gid" "B64D40FA30E5B7E7245598F7D564185F"
-				"size" "75738F8E2C2D2E363DCFC986231B40FF"
-				"download" "5EC9C8D929C0DEE1E4AC324F5091A2BB"
+				"gid" "E36C74A142B281C4306D47AAADC54E04"
+				"size" "F088C7ED86029752713CD7AF52A5D89E"
+				"download" "08A3DB3249EF21D30BD0EDB62516BE93"
 			}
 			"oldplaytest"
 			{
@@ -246,9 +247,9 @@
 			}
 			"qa_staging"
 			{
-				"gid" "2E89CE843468843CBD2E4574D4BEC64B"
-				"size" "0B5107AC45C91F48121844919EEE7254"
-				"download" "894A6369E3FC196418CCF4B744685DD1"
+				"gid" "9E839D94AEFF469D94B2C5ED9184B476"
+				"size" "D2AD964B5DF249BB12224BB004397363"
+				"download" "D34DE0726AB252A08A65BC39C04651FD"
 			}
 			"spam"
 			{
@@ -258,9 +259,9 @@
 			}
 			"unoff_beta"
 			{
-				"gid" "EC80C63F4EBB9B23A223F34DE632A159"
-				"size" "1F8DD0BEF3D92D4DFE98310F060D0437"
-				"download" "6379879B4CB47B242C7ABBF204F86FA5"
+				"gid" "FD4F0052F39F21ECA86EE21DEFE03088"
+				"size" "3D1D8C8EA723AF70422D6ADD0EBFE1A1"
+				"download" "6F575643BF26BECBDE9DDA91312F4DE6"
 			}
 			"yeoldebuild"
 			{
@@ -274,8 +275,8 @@
 	{
 		"public"
 		{
-			"buildid" "16545728"
-			"timeupdated" "1732679697"
+			"buildid" "16615987"
+			"timeupdated" "1733254087"
 		}
 		"arktx"
 		{
@@ -309,9 +310,9 @@
 		}
 		"asalive"
 		{
-			"buildid" "16545703"
+			"buildid" "16615921"
 			"pwdrequired" "1"
-			"timeupdated" "1732679311"
+			"timeupdated" "1733254024"
 		}
 		"cachechecks"
 		{
@@ -321,15 +322,15 @@
 		}
 		"continuous"
 		{
-			"buildid" "16555037"
+			"buildid" "16615793"
 			"pwdrequired" "1"
-			"timeupdated" "1732724680"
+			"timeupdated" "1733235930"
 		}
 		"crossplay"
 		{
-			"buildid" "16451874"
+			"buildid" "16609174"
 			"pwdrequired" "1"
-			"timeupdated" "1731975732"
+			"timeupdated" "1733195320"
 		}
 		"enduring"
 		{
@@ -369,9 +370,9 @@
 		}
 		"nitradopc"
 		{
-			"buildid" "16545716"
+			"buildid" "16615957"
 			"pwdrequired" "1"
-			"timeupdated" "1732679659"
+			"timeupdated" "1733254050"
 		}
 		"notingscene"
 		{
@@ -381,9 +382,9 @@
 		}
 		"npc_beta"
 		{
-			"buildid" "16545716"
+			"buildid" "16615957"
 			"pwdrequired" "1"
-			"timeupdated" "1732668602"
+			"timeupdated" "1733236746"
 		}
 		"oldplaytest"
 		{
@@ -399,9 +400,9 @@
 		}
 		"qa_staging"
 		{
-			"buildid" "16545703"
+			"buildid" "16615921"
 			"pwdrequired" "1"
-			"timeupdated" "1732668543"
+			"timeupdated" "1733236609"
 		}
 		"spam"
 		{
@@ -411,9 +412,9 @@
 		}
 		"unoff_beta"
 		{
-			"buildid" "16545728"
+			"buildid" "16615987"
 			"pwdrequired" "1"
-			"timeupdated" "1732668667"
+			"timeupdated" "1733236878"
 		}
 		"yeoldebuild"
 		{
@@ -424,6 +425,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26389277"
-"_sha" "0e4a5ae6bbec9d6ce7c3bcbcd8bd040b2c501090"
-"_size" "9088"
+"_change_number" "26476213"
+"_sha" "180c40de9b2bd0c76e8b2af8cae37b3681ac3f65"
+"_size" "9112"
