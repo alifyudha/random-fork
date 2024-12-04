@@ -320,7 +320,7 @@
 		"6"
 		{
 			"executable" "Windows/Hemingway.exe"
-			"arguments" "-homedir=SMITE2Alpha -d3d12 -game -oss=SteamV2 -RallyHereURL=https://api-smite2.titanforgegames.com"
+			"arguments" "-homedir=SMITE2Alpha -d3d12 -game -oss=SteamV2 -RallyHereURL=https://46F8A60E-1C56-4E96-B083-5463C9C88569.rally-here.io"
 			"type" "option2"
 			"config"
 			{
@@ -347,6 +347,22 @@
 				"english" "Xbox Cert"
 			}
 			"description" "Xbox Cert"
+		}
+		"8"
+		{
+			"executable" "Windows/Hemingway.exe"
+			"arguments" "-homedir=SMITE2Alpha -d3d12 -game -oss=SteamV2 -RallyHereURL=https://46F8A60E-1C56-4E96-B083-5463C9C88569.rally-here.io"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "swc_2025"
+			}
+			"description_loc"
+			{
+				"english" "SWC Tournament"
+			}
+			"description" "SWC Tournament"
 		}
 	}
 }
@@ -382,18 +398,24 @@
 		{
 			"public"
 			{
-				"gid" "1078475371498666348"
-				"size" "14863811634"
-				"download" "13316700992"
+				"gid" "3734467721593918827"
+				"size" "14863783642"
+				"download" "13313774080"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"live_latest"
 			{
-				"gid" "7D87C736B63CBEFD8430E51DE0BD7469"
-				"size" "92083CC6D56606866B49879EB4ABF887"
-				"download" "43B86BCDF4615D83F830DEFD992598FE"
+				"gid" "D4320A422F9C1F911E576BF034644877"
+				"size" "8D48C271B85630D75B4918D03055AEE7"
+				"download" "68DC6B6F1BD79A8DB4B9731F31977001"
+			}
+			"swc_2025"
+			{
+				"gid" "AC2FDDB9CB82931F54207A3CFE35AA11"
+				"size" "C7A36D2A09E66A98747E2D70F97239C6"
+				"download" "31F1AC90881846C87371FAA76FF2D0F9"
 			}
 		}
 	}
@@ -401,18 +423,24 @@
 	{
 		"public"
 		{
-			"buildid" "16617177"
-			"timeupdated" "1733243335"
+			"buildid" "16628878"
+			"timeupdated" "1733318609"
 		}
 		"live_latest"
 		{
-			"buildid" "16617177"
+			"buildid" "16628878"
 			"pwdrequired" "1"
-			"timeupdated" "1733242892"
+			"timeupdated" "1733315058"
+		}
+		"swc_2025"
+		{
+			"buildid" "16628878"
+			"pwdrequired" "1"
+			"timeupdated" "1733334850"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26473510"
-"_sha" "60e0f1a2cec4bb962b09e817a075a2aa33e024a8"
-"_size" "7610"
+"_change_number" "26493975"
+"_sha" "dcfa1b8408f2a560eef657e41163b7cca5944be6"
+"_size" "8309"
