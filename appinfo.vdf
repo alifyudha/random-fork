@@ -305,9 +305,9 @@
 		{
 			"public"
 			{
-				"gid" "1747624073881465103"
-				"size" "2249748091"
-				"download" "390796064"
+				"gid" "8235092567104784977"
+				"size" "2249783237"
+				"download" "390801408"
 			}
 		}
 		"encryptedmanifests"
@@ -320,9 +320,9 @@
 			}
 			"minor-testing"
 			{
-				"gid" "38B535C61FCD03F3C8CABB22FB5F4DA0"
-				"size" "43908FF42EB2DE69F8E6EE088AEF9686"
-				"download" "39E0B773730DA1080855576E059047E6"
+				"gid" "41FA3CC1CF214CCEA93E077551270838"
+				"size" "0B8DAB857C9DCCA9488CBBE80A3153E1"
+				"download" "6A9543BA919DB6889956F5B98E498109"
 			}
 		}
 	}
@@ -336,9 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "4851636694279525286"
-				"size" "1316213534"
-				"download" "278511584"
+				"gid" "2782372510106402021"
+				"size" "1316245985"
+				"download" "278518368"
 			}
 		}
 		"encryptedmanifests"
@@ -351,9 +351,9 @@
 			}
 			"minor-testing"
 			{
-				"gid" "9971840CC3D4C97B18885D5AD5932AA7"
-				"size" "4DB8DB938B379A4D1A6A2086C6DB4224"
-				"download" "49442DC3F3232E220EC9DD4C96F364A4"
+				"gid" "3D9E20C48E78498553DD845E8D6AF18A"
+				"size" "2856880CD78EAB3B2E86A14D7BC2DDBD"
+				"download" "FCFB32F2911973C68CD15C375D62C60A"
 			}
 		}
 	}
@@ -361,8 +361,8 @@
 	{
 		"public"
 		{
-			"buildid" "16462583"
-			"timeupdated" "1732118520"
+			"buildid" "16627580"
+			"timeupdated" "1733351431"
 		}
 		"major-testing"
 		{
@@ -372,9 +372,9 @@
 		}
 		"minor-testing"
 		{
-			"buildid" "16487586"
+			"buildid" "16627580"
 			"pwdrequired" "1"
-			"timeupdated" "1732199274"
+			"timeupdated" "1733308770"
 		}
 	}
 }
@@ -386,6 +386,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26301102"
-"_sha" "a63f95618cf5badab4c4e564dbc6dffaf895bb18"
+"_change_number" "26497387"
+"_sha" "276b4548786085e333eee2e7a3a1e50b0c1a4f45"
 "_size" "7010"
