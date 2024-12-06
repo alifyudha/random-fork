@@ -56,81 +56,71 @@
 	}
 	"header_image"
 	{
-		"koreana" "header_koreana.jpg"
-		"japanese" "header_japanese.jpg"
 		"english" "header.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "ko,ja,en"
+		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
-		"logo_position"
-		{
-			"pinned_position" "CenterCenter"
-			"width_pct" "54.194007532521084"
-			"height_pct" "100"
-		}
 	}
 	"library_assets_full"
 	{
 		"library_capsule"
 		{
-			"image2x"
-			{
-				"english" "library_600x900_2x.jpg"
-				"koreana" "library_600x900_koreana_2x.jpg"
-				"japanese" "library_600x900_japanese_2x.jpg"
-			}
 			"image"
 			{
-				"koreana" "library_600x900_koreana.jpg"
-				"japanese" "library_600x900_japanese.jpg"
-				"english" "library_600x900.jpg"
+				"english" "cd4fb360b276a1ce24f7a2e4815a7ad76e1fd5a0/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "cd4fb360b276a1ce24f7a2e4815a7ad76e1fd5a0/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
-			"image"
-			{
-				"english" "library_hero.jpg"
-			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "b397aca797ac2850c2e564642d0946c1bb92cafc/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "b397aca797ac2850c2e564642d0946c1bb92cafc/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "b397aca797ac2850c2e564642d0946c1bb92cafc/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
-			"image2x"
-			{
-				"english" "logo_2x.png"
-			}
-			"logo_position"
-			{
-				"pinned_position" "CenterCenter"
-				"width_pct" "54.194007532521084"
-				"height_pct" "100"
-			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "39a911923652aa70f19fe6005cc13d430b2dfa16/logo.png"
+			}
+			"image2x"
+			{
+				"english" "39a911923652aa70f19fe6005cc13d430b2dfa16/logo_2x.png"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "0ab931b7c750885677d445aef3394c15c91ed3a9/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_header_2x.jpg"
+				"english" "0ab931b7c750885677d445aef3394c15c91ed3a9/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1730448068"
+	"store_asset_mtime" "1733427488"
 	"associations"
 	{
 		"0"
@@ -268,15 +258,27 @@
 		{
 			"public"
 			{
-				"gid" "4319511559399417995"
-				"size" "9588375277"
-				"download" "3361899296"
+				"gid" "6862767346831676073"
+				"size" "10427158779"
+				"download" "3560286704"
+			}
+			"ay-four"
+			{
+				"gid" "2023754725606020236"
+				"size" "9588310945"
+				"download" "3361856288"
+			}
+			"ay-one"
+			{
+				"gid" "4780571129564194518"
+				"size" "9588383785"
+				"download" "3361909344"
 			}
 			"open-beta"
 			{
-				"gid" "4319511559399417995"
-				"size" "9588375277"
-				"download" "3361899296"
+				"gid" "6862767346831676073"
+				"size" "10427158779"
+				"download" "3560286704"
 			}
 			"previous"
 			{
@@ -289,27 +291,27 @@
 		{
 			"kluge-collective"
 			{
-				"gid" "343C10B349CA99E894A6D17E95588B5E"
-				"size" "51EF0FEC6F24738DDA53D5F40826D0F7"
-				"download" "BA96575938ABB2F46754419C08046D56"
+				"gid" "011CBFFE367E0CF50F6DB4C2F241B2CA"
+				"size" "DB6707A030149FCD359531737921FA57"
+				"download" "20AC497763DA87C148465B0AD8E45430"
 			}
 			"wirrel-only"
 			{
-				"gid" "122B1C7808C5D35B9AC7BD149A300179"
-				"size" "7591168E2E28BDE2457D04C7EAD501F0"
-				"download" "ACBB10B2E58A305DCEDF9F98052274FB"
+				"gid" "4951F7FCF7300286DB602503B59C2663"
+				"size" "FF0C8B07DE032E7681B7D50154BF7AA8"
+				"download" "E6923FCC1BBEC9C8DF2D6AE6E7BAF175"
 			}
 			"closed-beta"
 			{
-				"gid" "2DF9515B3AA28482A230AC8FAAD8D0A9"
-				"size" "407E7E36C719BEEB92B64CF5F2D8D767"
-				"download" "FF98EEF08589831D720334B336874564"
+				"gid" "9C028E099AAECBD6AEC85D638DBB77D9"
+				"size" "2A1411058AF389F320F9EAA53E088086"
+				"download" "EA8814B35CB0CF7CFF82E188A5A8EC19"
 			}
 			"early-access"
 			{
-				"gid" "2A0D0C4BB5C8BDD61D118F52964A1942"
-				"size" "CD7103E048FA3ACA7814C4E67D1A7A65"
-				"download" "CAA79FF00104C000DD2A35A3FC9A1BE3"
+				"gid" "D766803E1BA9764738A1409B3860163B"
+				"size" "38D43C74D775EFE4FAE609F7521CF575"
+				"download" "A57F92C8CD5641E08E75D78F9F74FDED"
 			}
 			"capture-branch-1"
 			{
@@ -371,32 +373,44 @@
 	{
 		"public"
 		{
-			"buildid" "16573881"
-			"timeupdated" "1733003827"
+			"buildid" "16639354"
+			"timeupdated" "1733421127"
+		}
+		"ay-four"
+		{
+			"buildid" "16506237"
+			"description" "3,5,1a4 - First Hotfix"
+			"timeupdated" "1733191920"
+		}
+		"ay-one"
+		{
+			"buildid" "16468796"
+			"description" "3.5.1a1 - First Release"
+			"timeupdated" "1733191616"
 		}
 		"kluge-collective"
 		{
-			"buildid" "16573881"
+			"buildid" "16639354"
 			"pwdrequired" "1"
-			"timeupdated" "1732878731"
+			"timeupdated" "1733421186"
 		}
 		"wirrel-only"
 		{
-			"buildid" "16573881"
+			"buildid" "16639354"
 			"pwdrequired" "1"
-			"timeupdated" "1732852311"
+			"timeupdated" "1733381252"
 		}
 		"closed-beta"
 		{
-			"buildid" "16573881"
+			"buildid" "16639354"
 			"pwdrequired" "1"
-			"timeupdated" "1732852334"
+			"timeupdated" "1733421200"
 		}
 		"early-access"
 		{
-			"buildid" "16564554"
+			"buildid" "16639354"
 			"pwdrequired" "1"
-			"timeupdated" "1732790441"
+			"timeupdated" "1733381264"
 		}
 		"capture-branch-1"
 		{
@@ -418,9 +432,9 @@
 		}
 		"open-beta"
 		{
-			"buildid" "16573881"
+			"buildid" "16639354"
 			"description" "OPEN BETA Testing (v3.X)"
-			"timeupdated" "1733002709"
+			"timeupdated" "1733421218"
 		}
 		"previous"
 		{
@@ -499,6 +513,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26437766"
-"_sha" "906b470eeffbe3c5031a3e9cf185789d2bd72050"
-"_size" "10309"
+"_change_number" "26514438"
+"_sha" "4ff38ce40f80defa7c851db24af06c106d5ab95c"
+"_size" "10751"
