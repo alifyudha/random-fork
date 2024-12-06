@@ -158,7 +158,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730122357"
+	"store_asset_mtime" "1733316834"
 	"associations"
 	{
 		"0"
@@ -324,7 +324,7 @@
 		"19" "4175"
 	}
 	"review_score" "8"
-	"review_percentage" "81"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -377,9 +377,9 @@
 		{
 			"public"
 			{
-				"gid" "1717177199672185383"
-				"size" "8875616698"
-				"download" "7586926528"
+				"gid" "567122244171426941"
+				"size" "8876183435"
+				"download" "7580043056"
 			}
 		}
 		"encryptedmanifests"
@@ -404,15 +404,21 @@
 			}
 			"bleeding-develop"
 			{
-				"gid" "36EB2154514900BFC16AEF9784C5E742"
-				"size" "6C6B560CDE39CB95A71527D1CABEEF3A"
-				"download" "981BDDA64C026E7224AE0B10DD9D4C3C"
+				"gid" "0985D0D8C4244AA7B01871EC558CB51B"
+				"size" "A5382EB188679631F5F0CC514C2C7F59"
+				"download" "925393B0DFC15A2651417049EF3B0689"
 			}
 			"bleeding-master"
 			{
-				"gid" "EDD35B5C0A2D5B2369BFAED1DCC2B614"
-				"size" "DA2D52D301E3BBB219FC178324343438"
-				"download" "446D5865889F0C9C379EDD3107E3FA1F"
+				"gid" "B67CDDA2A4F6A69501A4F03EC025A40A"
+				"size" "582ACBCED867BDD15D382E2C8A7B54AC"
+				"download" "7514ACE6CA9F80A3416C1469E7B2E922"
+			}
+			"coop-open-beta"
+			{
+				"gid" "107AACAA811912B6224FC60F8A6267C8"
+				"size" "2668E309230B662D34F38AB2CDDDF4B3"
+				"download" "C3C4CE8DA06A742BCB1779461621689A"
 			}
 			"garen"
 			{
@@ -428,21 +434,27 @@
 			}
 			"jaximus"
 			{
-				"gid" "BA300166CA96A0999554842A35DDD1FC"
-				"size" "13B8EEFDD3F49EEC1E3FD8A4ECCF05EF"
-				"download" "F194089624F6F745748A4899882E3BBF"
+				"gid" "2F233AC97BF51572CFB642C7D3B40DE4"
+				"size" "BC44CA42E10D235AB43CECF32F2CF1CC"
+				"download" "52940E65EED4298299A066D4A2DC38FD"
 			}
 			"malzahar"
 			{
-				"gid" "CD245E3289F4E9AD9B9B429634C0663B"
-				"size" "CDFC64650FCDB88A825EB23A9DAB156F"
-				"download" "B00F15CE0517F4F1D99A5A2F5297F5AC"
+				"gid" "7763A5F2DCE3AAA8B325F71C3E6E4363"
+				"size" "7B4A0D4B8C91046C9A1DB165D09DDAA0"
+				"download" "1164317170A1299BBA811E87296B2057"
 			}
 			"manual-build"
 			{
 				"gid" "68868E6335D663C5DBED2D53CC137C09"
 				"size" "C8F1B1DD43F94C631F3E851FDDD7F383"
 				"download" "2E09E15207AD9988F6C56ED025C1F29F"
+			}
+			"pw-playtest"
+			{
+				"gid" "6A4AFC5207D877CCBE0C566A3E9D211E"
+				"size" "91A74A31B37B9B40E8289160A0CEA54D"
+				"download" "580B8097766E18CD228A644847AC77CE"
 			}
 			"reazell"
 			{
@@ -482,9 +494,9 @@
 			}
 			"tryndamare"
 			{
-				"gid" "7B7EC5E422381571F43B1AB688254734"
-				"size" "AD8B263A6FBD9897093DF4B44FEC6F85"
-				"download" "39C1B1295CDFAFC95E18B982F930AD30"
+				"gid" "E217DBACCC4227B4A17B6ACE16B37F67"
+				"size" "8D4BB30B4E673AF89AD23DAB403DBA5C"
+				"download" "0D3ED43F69D8970407F342E15B142EE7"
 			}
 			"wskrzybalski"
 			{
@@ -548,6 +560,12 @@
 				"size" "A56404AD7F4707064C2D2CFADBD256B3"
 				"download" "83DEDBC11D55AFD46724AE70C11936E6"
 			}
+			"coop-open-beta"
+			{
+				"gid" "E248C68AD9B36AD4156B17F1FE8FFA91"
+				"size" "06893B60888DDB9B8B5308151ADE6EC2"
+				"download" "E40480978941B6EE62623679012CB5E8"
+			}
 			"garen"
 			{
 				"gid" "F37C363AE881D283E7BCA7A29A2A68A8"
@@ -577,6 +595,12 @@
 				"gid" "7331913628140B650044B4CE16205F11"
 				"size" "5637B35D17A2741053E066A92FB53621"
 				"download" "A461361DA393352206C569D6BA95A9C6"
+			}
+			"pw-playtest"
+			{
+				"gid" "24C6F33C56A96BBAFC34097F09FD13C7"
+				"size" "9BE81BC51B06D3140C77D90A07823780"
+				"download" "F1DC607139249EF1AEB7AAECCE757D7B"
 			}
 			"reazell"
 			{
@@ -638,8 +662,8 @@
 	{
 		"public"
 		{
-			"buildid" "16523064"
-			"timeupdated" "1732637782"
+			"buildid" "16641779"
+			"timeupdated" "1733398301"
 		}
 		"amd-testing"
 		{
@@ -661,15 +685,21 @@
 		}
 		"bleeding-develop"
 		{
-			"buildid" "16532167"
+			"buildid" "16650983"
 			"pwdrequired" "1"
-			"timeupdated" "1732590155"
+			"timeupdated" "1733448332"
 		}
 		"bleeding-master"
 		{
-			"buildid" "16531386"
+			"buildid" "16650921"
 			"pwdrequired" "1"
-			"timeupdated" "1732584009"
+			"timeupdated" "1733447821"
+		}
+		"coop-open-beta"
+		{
+			"buildid" "16622514"
+			"pwdrequired" "1"
+			"timeupdated" "1733299891"
 		}
 		"garen"
 		{
@@ -685,21 +715,27 @@
 		}
 		"jaximus"
 		{
-			"buildid" "16533569"
+			"buildid" "16603146"
 			"pwdrequired" "1"
-			"timeupdated" "1732601448"
+			"timeupdated" "1733156721"
 		}
 		"malzahar"
 		{
-			"buildid" "16523064"
+			"buildid" "16622514"
 			"pwdrequired" "1"
-			"timeupdated" "1732533809"
+			"timeupdated" "1733275037"
 		}
 		"manual-build"
 		{
 			"buildid" "16523064"
 			"pwdrequired" "1"
 			"timeupdated" "1732532875"
+		}
+		"pw-playtest"
+		{
+			"buildid" "16641779"
+			"pwdrequired" "1"
+			"timeupdated" "1733395018"
 		}
 		"reazell"
 		{
@@ -739,9 +775,9 @@
 		}
 		"tryndamare"
 		{
-			"buildid" "16527022"
+			"buildid" "16599476"
 			"pwdrequired" "1"
-			"timeupdated" "1732554714"
+			"timeupdated" "1733136179"
 		}
 		"wskrzybalski"
 		{
@@ -860,6 +896,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26370080"
-"_sha" "61eb9f23ed4e3ca49c6d0f6d2ded53cdedf547c5"
-"_size" "18016"
+"_change_number" "26518477"
+"_sha" "2ba9eb568e2f46e02ddec0bd3a9b4ec296cda5d1"
+"_size" "18948"
