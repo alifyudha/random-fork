@@ -131,7 +131,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1721743339"
+	"store_asset_mtime" "1733403756"
 	"associations"
 	{
 		"0"
@@ -155,7 +155,6 @@
 	{
 		"0" "23"
 		"1" "28"
-		"2" "70"
 	}
 	"category"
 	{
@@ -218,7 +217,8 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1633071720"
+	"steam_release_date" "1733414171"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1696810"
 	"store_tags"
@@ -252,6 +252,8 @@
 	"developer" "Stefan Kelnberger"
 	"publisher" "astragon Entertainment"
 	"homepage" "https://www.railroadsonline.com"
+	"listofdlc" "2906050,3133090"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -271,6 +273,7 @@
 }
 "depots"
 {
+	"hasdepotsindlc" "0"
 	"228988"
 	{
 		"config"
@@ -295,9 +298,9 @@
 		{
 			"public"
 			{
-				"gid" "3217067735117939000"
-				"size" "30065980175"
-				"download" "12571513760"
+				"gid" "3808709997704006270"
+				"size" "34417794168"
+				"download" "13980847808"
 			}
 			"legacybranch"
 			{
@@ -320,30 +323,6 @@
 		}
 		"encryptedmanifests"
 		{
-			"dev_private"
-			{
-				"gid" "2B0F1116391D56E2A45D926995725816"
-				"size" "DB2F4FEB47C3123B1ADCBBC6E0A09204"
-				"download" "655E6CFF36DB65577C945C4935E0C662"
-			}
-			"devbranch"
-			{
-				"gid" "8C19C4D9812CCD72B3558CB03C4EE793"
-				"size" "678968ED7FCB83916944536652798C3C"
-				"download" "4F6B57BB0DACD9132D83A174D6FDC988"
-			}
-			"network_dev_bs"
-			{
-				"gid" "70963E5C8D8C6C80E6A20948F24FC55D"
-				"size" "F5797CF12BFBA69740C67B1613F5696C"
-				"download" "FCAF735DC0444088733A5AA4C0A4A7EE"
-			}
-			"release_0.6.0.0"
-			{
-				"gid" "621CE465F659149ADB410C4BFDF77E18"
-				"size" "9539EFD22803BB9AB7380675550BF471"
-				"download" "A7CB40A96C9C516F6F6134FD62E17015"
-			}
 			"release_0.7.0.0"
 			{
 				"gid" "616B9DEC35631CAB16617BEF714D9321"
@@ -400,15 +379,39 @@
 			}
 			"dev_bs"
 			{
-				"gid" "E8A4C1F9D15BD68222C374A55153F1E6"
-				"size" "64FB59EBF949E49FAAACF774505C32AF"
-				"download" "7E2114F04D56AD2CC9CE2955917964F1"
+				"gid" "9FF98D7CCCF81F26695CBDCB2779CAEE"
+				"size" "5DD95A24491A0F70BBC2C70E060634B7"
+				"download" "E506DA6C1D4F3D413CE921EC93E7EF41"
 			}
 			"dev_ea"
 			{
-				"gid" "FFAC909A2F348D60974427B4F05FA00A"
-				"size" "ECD7A2DE12F0ED3301A7F951D58D29C2"
-				"download" "F4B88BD2D4904F67568C43A5A0C9A315"
+				"gid" "B4A5E8835DE3EEA10BA2EAD0CCA8BC0A"
+				"size" "4A8D21FEE0F977075EADB553EDE77AC7"
+				"download" "48E96EBD78F6E79FAA7FA6957180DD31"
+			}
+			"internal_testbranch"
+			{
+				"gid" "B3EC47C84BDF4EED9033959FEB7A7646"
+				"size" "D83725E5B2C3051789198F3FE4356081"
+				"download" "538E82D14675500CDF7C29752FA3F91A"
+			}
+			"network_dev_bs"
+			{
+				"gid" "1577ACB13D08F9CD729BE0ED9F08A582"
+				"size" "EF954D97C97ECB0C9AB45C9B1831FD3B"
+				"download" "DA10718749346D23D7BA0DDC64B014D7"
+			}
+			"press-branch"
+			{
+				"gid" "7FD6C85B98CFB763E57E9E8AC5088ED6"
+				"size" "69424FF759F976FBB57728508A9F8E08"
+				"download" "8FAA20ED3F42AC65091AF8189240F0D2"
+			}
+			"qa_testbranch"
+			{
+				"gid" "7633385FAF68AA67E66D3675AD739B9D"
+				"size" "BF0BC924190BCC297FB47D7DEC9B5CAE"
+				"download" "257E16B6A89EBEEDA833DA7E2166C404"
 			}
 			"release_0.9.0.0"
 			{
@@ -418,15 +421,15 @@
 			}
 			"release_1.0_bs"
 			{
-				"gid" "809584F762C8DAE8781645D88088FD6B"
-				"size" "5A219C25EB2DE4060F66D8B475F40522"
-				"download" "6502ECA8901C4962CE38F261E61E98C9"
+				"gid" "C8CE4F8224509E449190377801510729"
+				"size" "52CEA4EB1C5F4CC6282DF293AA3C6156"
+				"download" "A28F6DC17D263E47681813D9D97E6627"
 			}
 			"release_1.1_bs"
 			{
-				"gid" "A4ABB6562C1942F442FCA42DBCAB4BCE"
-				"size" "08D3257AAFAC667448A7013D2D9A7042"
-				"download" "D1F57F6B17878D23D59ED56D2980D5FF"
+				"gid" "8EE0CC477A772C8D1500DC57BC030002"
+				"size" "24EC179103CDC244521B67A058D9A32F"
+				"download" "B616FE3F6BDBF10A6479587639B7FF63"
 			}
 			"release_bs"
 			{
@@ -442,42 +445,22 @@
 			}
 		}
 	}
+	"2906050"
+	{
+		"dlcappid" "2906050"
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16035701"
-			"timeupdated" "1728918056"
-		}
-		"dev_private"
-		{
-			"buildid" "12250175"
-			"pwdrequired" "1"
-			"timeupdated" "1695326085"
-		}
-		"devbranch"
-		{
-			"buildid" "13973074"
-			"pwdrequired" "1"
-			"timeupdated" "1712424204"
+			"buildid" "16630449"
+			"timeupdated" "1733414431"
 		}
 		"legacybranch"
 		{
 			"buildid" "10881934"
 			"description" "Railroads Online UE4 Legacy Branch"
 			"timeupdated" "1688389033"
-		}
-		"network_dev_bs"
-		{
-			"buildid" "13631968"
-			"pwdrequired" "1"
-			"timeupdated" "1709552446"
-		}
-		"release_0.6.0.0"
-		{
-			"buildid" "12762597"
-			"pwdrequired" "1"
-			"timeupdated" "1700586496"
 		}
 		"release_0.7.0.0"
 		{
@@ -541,21 +524,45 @@
 		}
 		"dev_bs"
 		{
-			"buildid" "15648395"
+			"buildid" "16648944"
 			"pwdrequired" "1"
-			"timeupdated" "1725956716"
+			"timeupdated" "1733433679"
 		}
 		"dev_ea"
 		{
-			"buildid" "16049736"
+			"buildid" "16630449"
 			"pwdrequired" "1"
-			"timeupdated" "1728985969"
+			"timeupdated" "1733323037"
+		}
+		"internal_testbranch"
+		{
+			"buildid" "16487556"
+			"pwdrequired" "1"
+			"timeupdated" "1732203993"
+		}
+		"network_dev_bs"
+		{
+			"buildid" "16313831"
+			"pwdrequired" "1"
+			"timeupdated" "1730894504"
+		}
+		"press-branch"
+		{
+			"buildid" "16487556"
+			"pwdrequired" "1"
+			"timeupdated" "1732287784"
 		}
 		"previousbuild"
 		{
 			"buildid" "14988275"
 			"description" "Railroads Online previous build branch"
 			"timeupdated" "1728918009"
+		}
+		"qa_testbranch"
+		{
+			"buildid" "16487556"
+			"pwdrequired" "1"
+			"timeupdated" "1732203675"
 		}
 		"release_0.9.0.0"
 		{
@@ -565,15 +572,15 @@
 		}
 		"release_1.0_bs"
 		{
-			"buildid" "16051831"
+			"buildid" "16069078"
 			"pwdrequired" "1"
-			"timeupdated" "1728996730"
+			"timeupdated" "1729097422"
 		}
 		"release_1.1_bs"
 		{
-			"buildid" "16064737"
+			"buildid" "16314296"
 			"pwdrequired" "1"
-			"timeupdated" "1729076774"
+			"timeupdated" "1730897383"
 		}
 		"release_bs"
 		{
@@ -590,6 +597,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25745171"
-"_sha" "be0af15f89a84ba05af8ebcdf88accb3253eb2c7"
-"_size" "11905"
+"_change_number" "26515750"
+"_sha" "8c070a5e7d55284920d195df45795a8dbec6a858"
+"_size" "12074"
