@@ -282,7 +282,7 @@
 		"19" "6276"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -302,6 +302,7 @@
 }
 "depots"
 {
+	"baselanguages" "english"
 	"2756771"
 	{
 		"config"
@@ -313,18 +314,9 @@
 		{
 			"public"
 			{
-				"gid" "2147008530967397801"
-				"size" "2033594223"
-				"download" "897929264"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"balancetest"
-			{
-				"gid" "64C3B36D00A576F8C0DC649D5E30F95C"
-				"size" "721970DB344AF3DA4567D3EB0DB1F74F"
-				"download" "C89D862B3DA677454BF2EC66DEB2BA5C"
+				"gid" "6822172012745161921"
+				"size" "2033709027"
+				"download" "897956832"
 			}
 		}
 	}
@@ -339,35 +331,30 @@
 		{
 			"public"
 			{
-				"gid" "3010057102286905744"
-				"size" "2033594223"
-				"download" "898134160"
+				"gid" "752878680388993091"
+				"size" "2033709027"
+				"download" "898168272"
 			}
 		}
-		"encryptedmanifests"
+	}
+	"3387950"
+	{
+		"dlcappid" "3387950"
+		"config"
 		{
-			"balancetest"
-			{
-				"gid" "9026FEDA38851C929C9DE3C9224B5C53"
-				"size" "721970DB344AF3DA4567D3EB0DB1F74F"
-				"download" "0C41F164197EB916A4A3614AB267ED3B"
-			}
+			"oslist" "windows"
+			"osarch" "64"
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16542478"
-			"timeupdated" "1732647743"
-		}
-		"balancetest"
-		{
-			"buildid" "16351757"
-			"pwdrequired" "1"
-			"timeupdated" "1731147834"
+			"buildid" "16659595"
+			"timeupdated" "1733504890"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -388,6 +375,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26372713"
-"_sha" "8741c19e86b59fcc380c670ba35d5cecd5676618"
-"_size" "6629"
+"_change_number" "26532261"
+"_sha" "f62e8488ed3bd22f55abe5ff2804529d75d1fa73"
+"_size" "6262"
