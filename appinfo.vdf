@@ -329,9 +329,15 @@
 		{
 			"public"
 			{
-				"gid" "6581196971099273032"
-				"size" "360662868"
-				"download" "287556576"
+				"gid" "826282784229420084"
+				"size" "360806056"
+				"download" "287696160"
+			}
+			"macos_legacy"
+			{
+				"gid" "9159283462575776845"
+				"size" "329551094"
+				"download" "281109488"
 			}
 		}
 		"encryptedmanifests"
@@ -354,9 +360,15 @@
 		{
 			"public"
 			{
-				"gid" "1591212846854727325"
+				"gid" "6021158605590457810"
 				"size" "344444533"
-				"download" "315074432"
+				"download" "315074496"
+			}
+			"macos_legacy"
+			{
+				"gid" "4265853423276177915"
+				"size" "343028817"
+				"download" "313776224"
 			}
 		}
 		"encryptedmanifests"
@@ -380,9 +392,15 @@
 		{
 			"public"
 			{
-				"gid" "8307436075404668366"
-				"size" "443317783"
-				"download" "335952368"
+				"gid" "3116550282908597948"
+				"size" "443459999"
+				"download" "336089248"
+			}
+			"macos_legacy"
+			{
+				"gid" "3336597720972692846"
+				"size" "441656855"
+				"download" "334625488"
 			}
 		}
 		"encryptedmanifests"
@@ -406,9 +424,15 @@
 		{
 			"public"
 			{
-				"gid" "5776726779354767174"
-				"size" "470091338"
-				"download" "337802976"
+				"gid" "5590872743325696736"
+				"size" "470233670"
+				"download" "337944176"
+			}
+			"macos_legacy"
+			{
+				"gid" "8774250622056180412"
+				"size" "468303990"
+				"download" "336465040"
 			}
 		}
 		"encryptedmanifests"
@@ -431,9 +455,15 @@
 		{
 			"public"
 			{
-				"gid" "1571882951770989761"
+				"gid" "1706719239589583490"
 				"size" "344453237"
-				"download" "312980704"
+				"download" "312980272"
+			}
+			"macos_legacy"
+			{
+				"gid" "1744483469484396667"
+				"size" "343037009"
+				"download" "311693856"
 			}
 		}
 		"encryptedmanifests"
@@ -456,9 +486,15 @@
 		{
 			"public"
 			{
-				"gid" "6916136778648676527"
-				"size" "360550131"
-				"download" "285366416"
+				"gid" "3239069411733882697"
+				"size" "360693319"
+				"download" "285505200"
+			}
+			"macos_legacy"
+			{
+				"gid" "4273326057040281186"
+				"size" "329539797"
+				"download" "279018896"
 			}
 		}
 		"encryptedmanifests"
@@ -482,9 +518,15 @@
 		{
 			"public"
 			{
-				"gid" "2953659850952963080"
-				"size" "443606795"
-				"download" "333924848"
+				"gid" "5737381705115552359"
+				"size" "443748995"
+				"download" "334060096"
+			}
+			"macos_legacy"
+			{
+				"gid" "2504836318969651033"
+				"size" "441944663"
+				"download" "332594624"
 			}
 		}
 		"encryptedmanifests"
@@ -508,9 +550,15 @@
 		{
 			"public"
 			{
-				"gid" "5044737257482754074"
-				"size" "470502034"
-				"download" "335847920"
+				"gid" "5002547735891157319"
+				"size" "470644286"
+				"download" "335977680"
+			}
+			"macos_legacy"
+			{
+				"gid" "2837760443847693553"
+				"size" "468721382"
+				"download" "334478112"
 			}
 		}
 		"encryptedmanifests"
@@ -527,8 +575,14 @@
 	{
 		"public"
 		{
-			"buildid" "16477714"
-			"timeupdated" "1732137095"
+			"buildid" "16662047"
+			"timeupdated" "1733521701"
+		}
+		"macos_legacy"
+		{
+			"buildid" "16495484"
+			"description" "A branch for older versions of Mac OS that cannot run the current version of the game locked at version v3.3.59"
+			"timeupdated" "1732248920"
 		}
 		"mods"
 		{
@@ -699,6 +753,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26286868"
-"_sha" "6093811882686050337e3a88b94c5562b3f8a17a"
-"_size" "12279"
+"_change_number" "26533204"
+"_sha" "6e7cb7dd7348870f09c5f6c4af2bdf33f34dc173"
+"_size" "13449"
