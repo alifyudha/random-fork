@@ -153,6 +153,9 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -325,9 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "3055465096847646178"
-				"size" "7403839099"
-				"download" "7069546720"
+				"gid" "4084731606678147669"
+				"size" "7404331585"
+				"download" "7069971136"
 			}
 		}
 		"encryptedmanifests"
@@ -370,9 +373,15 @@
 			}
 			"testbranch"
 			{
-				"gid" "4FBD44DD29BE5EFB67444AA0B54BDA4D"
-				"size" "4DEF142C21D0BEF6296DE5EED61F1C33"
-				"download" "4AE7174126CF891A6E67277CBE3A7961"
+				"gid" "1B17557413611C1BBDA4322C86015051"
+				"size" "FF4F52ED23CED6665D81B3B9B2DC780C"
+				"download" "4E520510C0C8B9D996446D7D1BBDA9AC"
+			}
+			"testbranch_02"
+			{
+				"gid" "F78408D372ECB9D7DF51514B280CFCC5"
+				"size" "0ED775A48B09902985790C495564678B"
+				"download" "09A45D9DCFF2628B66070398FCA843C3"
 			}
 		}
 	}
@@ -380,8 +389,8 @@
 	{
 		"public"
 		{
-			"buildid" "16582219"
-			"timeupdated" "1732906894"
+			"buildid" "16658833"
+			"timeupdated" "1733576164"
 		}
 		"demo"
 		{
@@ -421,9 +430,15 @@
 		}
 		"testbranch"
 		{
-			"buildid" "16582219"
+			"buildid" "16658833"
 			"pwdrequired" "1"
-			"timeupdated" "1732903172"
+			"timeupdated" "1733500780"
+		}
+		"testbranch_02"
+		{
+			"buildid" "16602679"
+			"pwdrequired" "1"
+			"timeupdated" "1733154291"
 		}
 	}
 }
@@ -431,10 +446,28 @@
 {
 	"quota" "10000000000"
 	"maxnumfiles" "10000"
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "\\Zoo_Single\\Saved\\SaveGames\\"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocal"
+			"addpath" ""
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "26433974"
-"_sha" "1efcacccde9c84009e171664bfde0b97ddd011a4"
-"_size" "7523"
+"_change_number" "26539436"
+"_sha" "b32c4d7f05c19435d04b4ef3f4d450600e9b73a4"
+"_size" "8129"
