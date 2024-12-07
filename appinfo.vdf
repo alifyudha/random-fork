@@ -369,7 +369,7 @@
 	"developer" "Empyrean"
 	"publisher" "Frozen District"
 	"homepage" "http://houseflippergame.com/"
-	"listofdlc" "825570,942290,1021110,1126050,1460920,1569190,1832960,2819590,2910200"
+	"listofdlc" "825570,942290,1021110,1126050,1460920,1569190,1832960,2819590,2910200,3363170"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -493,18 +493,18 @@
 		{
 			"public"
 			{
-				"gid" "7009043428873013025"
-				"size" "11394114645"
-				"download" "5697265120"
+				"gid" "1957288466221016043"
+				"size" "11394117668"
+				"download" "5697265632"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"streamer"
 			{
-				"gid" "5DAFAD6B168BD6497697707F125F6731"
-				"size" "072605CEA0F2729C289B56062ED7BA1F"
-				"download" "4E33EC5EDE70D241D3558ED2618EE4EE"
+				"gid" "9F707C9B4128E58D66518709DFDA5AEB"
+				"size" "A33D3154E34308EE5434B49219711516"
+				"download" "5C1A33F37740D66DF0F64BDB4825E32C"
 			}
 			"testing"
 			{
@@ -530,18 +530,18 @@
 		{
 			"public"
 			{
-				"gid" "2208588735420203890"
-				"size" "11574539224"
-				"download" "5742430224"
+				"gid" "3965429803250020986"
+				"size" "11574541756"
+				"download" "5742416336"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"streamer"
 			{
-				"gid" "D31F3FE28518E95BD8F2C08F9D7126BF"
-				"size" "96EE2357B3CF14A51CC95F739E95A9A4"
-				"download" "BE6F4F30CB762AD44E762CC6BC25DD2E"
+				"gid" "1DD8FCF0494DCFF11317377AD0299271"
+				"size" "B15A5FC9497026C76D0D5B90E82587FB"
+				"download" "7FB3C8B311628596A456DE4CF6660A5E"
 			}
 			"testing"
 			{
@@ -568,18 +568,18 @@
 		{
 			"public"
 			{
-				"gid" "4362839229408935575"
+				"gid" "121436462477249696"
 				"size" "280515731"
-				"download" "88265216"
+				"download" "88265232"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"streamer"
 			{
-				"gid" "BBF2158EE1C0781E63547B82606114A9"
+				"gid" "8A886B8027CFF242838A97EB74CD7D2F"
 				"size" "E638E42693F6F020E1F76236CDEC6D0E"
-				"download" "50BDC010699F518113522A5AC7069448"
+				"download" "0D4103B3FEADD324D0C07C7C5C43A763"
 			}
 			"testing"
 			{
@@ -606,18 +606,18 @@
 		{
 			"public"
 			{
-				"gid" "7862584986503012041"
+				"gid" "3681970712256609771"
 				"size" "285300692"
-				"download" "89328192"
+				"download" "89327120"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"streamer"
 			{
-				"gid" "83B96FBEA3DD81B0ADD3A327B42EBB8A"
+				"gid" "307D51BC984FF17E5108C03BC93038C5"
 				"size" "2ABF1FA278F7584E56EF0C1844D38E45"
-				"download" "11D900418F1413CB77141475CB53EE1A"
+				"download" "1F4583A2B458D3BF86260D0FCC53CD7C"
 			}
 			"testing"
 			{
@@ -644,18 +644,18 @@
 		{
 			"public"
 			{
-				"gid" "6092398103610831395"
+				"gid" "4605553771296214562"
 				"size" "866298655"
-				"download" "255567232"
+				"download" "255565600"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"streamer"
 			{
-				"gid" "706F02354E5DCF70421056FF698DE842"
+				"gid" "411403101732C6618250AE77F922044F"
 				"size" "1E85AD8FB360304FAF6BE40913FD481B"
-				"download" "92CCCA77649A75090FDEC143DA502257"
+				"download" "A7446C5C75C0A742A239FEB5712E92CF"
 			}
 			"testing"
 			{
@@ -682,18 +682,18 @@
 		{
 			"public"
 			{
-				"gid" "6458896095178399082"
+				"gid" "7453531081512952134"
 				"size" "871362031"
-				"download" "256713584"
+				"download" "256716192"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"streamer"
 			{
-				"gid" "763AF395B7EE9993AC50103F5F33F556"
+				"gid" "E7DE5ACBF81308ADD94865EC6648E73F"
 				"size" "5E908B63F28827F27B9C39915B14DF7A"
-				"download" "84750B8E1FD2DC6C7EA94603A3E5E320"
+				"download" "A43599AEA4B5241822587CAB951687F5"
 			}
 			"testing"
 			{
@@ -720,18 +720,18 @@
 		{
 			"public"
 			{
-				"gid" "9061669597461237499"
+				"gid" "1247589240769529899"
 				"size" "546728250"
-				"download" "99583600"
+				"download" "99575888"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"streamer"
 			{
-				"gid" "AF2CAFABFC00C1BB3CC5344CC1A18CA9"
+				"gid" "50B330996C295A494F8C3A161869D6D0"
 				"size" "D7C694009123EEDFC5C16F7475862E9F"
-				"download" "83AE15FD19A41C517320E07498673C0B"
+				"download" "A46BDF6CF35E20A2C760CE06654CC9BA"
 			}
 			"testing"
 			{
@@ -758,18 +758,18 @@
 		{
 			"public"
 			{
-				"gid" "5064806531168575830"
+				"gid" "7731628482197302647"
 				"size" "551450252"
-				"download" "100594560"
+				"download" "100597296"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"streamer"
 			{
-				"gid" "6D74D3400AFEF063C2B9FA77E790F2C5"
+				"gid" "30DED832041AB164CF9AEE5A658B5684"
 				"size" "8D808158282EBBFF1F1EF49E3F7FB6CE"
-				"download" "13EE14DDA6E00DA295B29331931E81CD"
+				"download" "1D40FD1338A6C0EC0EAF0FA3725E91BB"
 			}
 			"testing"
 			{
@@ -889,18 +889,18 @@
 		{
 			"public"
 			{
-				"gid" "6613260455314257382"
+				"gid" "788425996351839524"
 				"size" "3507316776"
-				"download" "1032037968"
+				"download" "1032037776"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"streamer"
 			{
-				"gid" "C1F885B6E2AEC8E56C9FDBB3563E26AB"
+				"gid" "0D061E4979BAD7C508510B5D3CD02239"
 				"size" "F1B8775003C30C6CC61471386D95B6EE"
-				"download" "7EF90E5B95170BA616CD23BC255C7CBD"
+				"download" "2AF3D3E9ADE6872DA8D6A54FC05F2628"
 			}
 			"testing"
 			{
@@ -927,18 +927,18 @@
 		{
 			"public"
 			{
-				"gid" "5844811563672817796"
+				"gid" "8719357851620721075"
 				"size" "3521286771"
-				"download" "1034952928"
+				"download" "1034955824"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"streamer"
 			{
-				"gid" "AF581679F0E34579D7BCFFDAC9FD0815"
+				"gid" "B86F7EE7318DD22702B37E51BFF54E74"
 				"size" "283BB1E44E6653AA5761E97F4C85855A"
-				"download" "9134A315C8F1015120C1A4A0C659D9CF"
+				"download" "BDDB5B23771EB917F889280E223ACED2"
 			}
 			"testing"
 			{
@@ -965,18 +965,18 @@
 		{
 			"public"
 			{
-				"gid" "9131084879667097035"
+				"gid" "6136458904891482106"
 				"size" "2577608010"
-				"download" "869619008"
+				"download" "869619760"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"streamer"
 			{
-				"gid" "DC952F7ED978B9DA14FBC56138DE40F0"
+				"gid" "C50443355F2712D42D7EFB0021582F1D"
 				"size" "A59611BB93F4B11B71F595B007658233"
-				"download" "11EDEC5E596FA7FB7042CED135FE7B3B"
+				"download" "6405A126A0265EE564D8FA8B4FCB67FF"
 			}
 			"testing"
 			{
@@ -1003,18 +1003,18 @@
 		{
 			"public"
 			{
-				"gid" "658460535131767233"
+				"gid" "2290302774017578648"
 				"size" "2564555160"
-				"download" "858139488"
+				"download" "858139504"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"streamer"
 			{
-				"gid" "FC8BDE8F7162B580F7CD7424686B23E5"
+				"gid" "7543819021853C90A2DFD25A898469EA"
 				"size" "53ECBCCF3CF5E4114B4AEB50DC85C7E4"
-				"download" "9E6FBA756AA5A9884B2492C21EA56B2C"
+				"download" "64399BF39FEF19E9A6D4726695F14884"
 			}
 			"testing"
 			{
@@ -1193,18 +1193,18 @@
 		{
 			"public"
 			{
-				"gid" "8689081494896995951"
-				"size" "4487262102"
-				"download" "1451343824"
+				"gid" "6503967684345584389"
+				"size" "4487364276"
+				"download" "1451372208"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"streamer"
 			{
-				"gid" "71F9AA21BF2D872EF909A4DC938C82A0"
-				"size" "FF847476B47CE8BDD6A896C2B229C423"
-				"download" "2E1073DBA53CAF51E5ECB1214202B1AD"
+				"gid" "0B61A003686199BE3111A753C6DFF295"
+				"size" "F99C85E056D982A308DB095CEB48E874"
+				"download" "C6614A46155A92E234BD05E2EB2C359B"
 			}
 			"testing"
 			{
@@ -1231,18 +1231,18 @@
 		{
 			"public"
 			{
-				"gid" "8912122202170403875"
-				"size" "4509157910"
-				"download" "1455195376"
+				"gid" "5711688673646657546"
+				"size" "4509260085"
+				"download" "1455222896"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"streamer"
 			{
-				"gid" "ED1DF3D5BAA45C46D3184184086FA4A4"
-				"size" "D31DDE900FD3FD9617A525B3F650C672"
-				"download" "553B1629B12DB8268C2F4F186F66CD43"
+				"gid" "51F82E8BC7C9838FC4DBA650AE9D81DC"
+				"size" "1F6943C4B4F5E2BFFE4F824C5AD755DC"
+				"download" "D9B413C0D9B102D125D3015C4E4E3FC7"
 			}
 			"testing"
 			{
@@ -1262,14 +1262,14 @@
 	{
 		"public"
 		{
-			"buildid" "16593158"
-			"timeupdated" "1733077256"
+			"buildid" "16647780"
+			"timeupdated" "1733507404"
 		}
 		"streamer"
 		{
-			"buildid" "16593158"
+			"buildid" "16647780"
 			"pwdrequired" "1"
-			"timeupdated" "1733077230"
+			"timeupdated" "1733507384"
 		}
 		"testing"
 		{
@@ -1325,6 +1325,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26514336"
-"_sha" "1eb1053dd07aa00934808eab50c65e61ef60c7ec"
-"_size" "26275"
+"_change_number" "26530439"
+"_sha" "125a53a44419156f62b334e80f4bac125cccbf47"
+"_size" "26282"
