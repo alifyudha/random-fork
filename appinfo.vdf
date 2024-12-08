@@ -36,6 +36,49 @@
 			"height_pct" "67.36111111111111"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"tchinese" "library_600x900_tchinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"tchinese" "library_hero_tchinese.jpg"
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"tchinese" "logo_tchinese_2x.png"
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "26.599870717517803"
+				"height_pct" "67.36111111111111"
+			}
+			"image"
+			{
+				"tchinese" "logo_tchinese.png"
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1667006430"
 	"associations"
 	{
@@ -97,6 +140,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1589476498"
 	"community_visible_stats" "1"
@@ -136,83 +184,30 @@
 }
 "depots"
 {
-	"baselanguages" "english,schinese,tchinese"
+	"baselanguages" "english,koreana,schinese,tchinese"
 	"hasdepotsindlc" "0"
 	"1169461"
 	{
 		"config"
 		{
 			"oslist" "windows"
-			"language" ""
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "3378434460222560059"
-				"size" "1232672244"
-				"download" "952158144"
+				"gid" "3410110220661971182"
+				"size" "1294704626"
+				"download" "1004744208"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "358D1BAA2C3333C84DCC8F912E1E867E"
-				"size" "5624E270C01727B3BCE4CEF10909960A"
-				"download" "F64F568AAEB2CAD4FF2ABBE94E1B612A"
-			}
-		}
-	}
-	"1169462"
-	{
-		"config"
-		{
-			"language" "schinese"
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "3608285398436274619"
-				"size" "1214859473"
-				"download" "933036224"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "D314CEAC166DF542EBDDE60F608C35F4"
-				"size" "06C9D636496CCE073AD7554F09A0CD2D"
-				"download" "65DCC25E17DF39060923830F620D2301"
-			}
-		}
-	}
-	"1169463"
-	{
-		"config"
-		{
-			"language" "english"
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "4190564252915286103"
-				"size" "1203534551"
-				"download" "928753968"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "10B073F9D82CF4BF2458F4B964E1A2F6"
-				"size" "272A881B79596D496997D67AF1B1D91F"
-				"download" "72136EAA7AD6D6BA764C989BFBDE7614"
+				"gid" "53131B02010C7E271CCAEF6F2105C1A8"
+				"size" "B3BB31B8DF59DF53D4ED5E8D3F2A2369"
+				"download" "4E8DA57ED683E1A161F79ABB80AD67FA"
 			}
 		}
 	}
@@ -220,14 +215,14 @@
 	{
 		"public"
 		{
-			"buildid" "14714222"
-			"timeupdated" "1718340939"
+			"buildid" "16666178"
+			"timeupdated" "1733564725"
 		}
 		"test"
 		{
-			"buildid" "14714222"
+			"buildid" "16666178"
 			"pwdrequired" "1"
-			"timeupdated" "1718340891"
+			"timeupdated" "1733564697"
 		}
 	}
 }
@@ -250,3 +245,7 @@
 	}
 	"appidredirect" "1169460"
 }
+"_missing_token" "False"
+"_change_number" "26538473"
+"_sha" "627ebfcab124840b65e50a7a8fd2925d4b0c503e"
+"_size" "4236"
