@@ -26,8 +26,10 @@
 		"portuguese" "1"
 		"polish" "1"
 		"dutch" "1"
+		"czech" "1"
 		"turkish" "1"
 		"brazilian" "1"
+		"ukrainian" "1"
 	}
 	"osextended" "macos64"
 	"steam_deck_compatibility"
@@ -148,7 +150,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726812930"
+	"store_asset_mtime" "1733330517"
 	"associations"
 	{
 		"0"
@@ -295,8 +297,8 @@
 		"12" "7332"
 		"13" "4182"
 		"14" "3871"
-		"15" "9204"
-		"16" "5851"
+		"15" "5851"
+		"16" "9204"
 		"17" "1702"
 		"18" "597"
 		"19" "492"
@@ -430,9 +432,9 @@
 		{
 			"public"
 			{
-				"gid" "8757294308409845471"
-				"size" "370070663"
-				"download" "277430288"
+				"gid" "2686670696210191992"
+				"size" "370343610"
+				"download" "277599904"
 			}
 			"oldstable"
 			{
@@ -442,18 +444,18 @@
 			}
 			"unstable"
 			{
-				"gid" "8757294308409845471"
-				"size" "370070663"
-				"download" "277430288"
+				"gid" "2686670696210191992"
+				"size" "370343610"
+				"download" "277599904"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "D4C363D36ACABEB3B6FF80A78F7CE0E6"
-				"size" "BB7951D0BBDBFD4738D5F04AC17190F8"
-				"download" "55597008011B01148A8B1DE63A4D0DA6"
+				"gid" "50E72DF8DCCECB39B736EF0DE655E70A"
+				"size" "B721C28697A6FE8F3B5FC4116002ECB6"
+				"download" "B40AA40FEB702E4B71F5562634CEF4F3"
 			}
 		}
 	}
@@ -468,9 +470,9 @@
 		{
 			"public"
 			{
-				"gid" "3707062458008569724"
-				"size" "372521975"
-				"download" "278195216"
+				"gid" "4814125217579473082"
+				"size" "372968490"
+				"download" "278434064"
 			}
 			"oldstable"
 			{
@@ -480,18 +482,18 @@
 			}
 			"unstable"
 			{
-				"gid" "3707062458008569724"
-				"size" "372521975"
-				"download" "278195216"
+				"gid" "4814125217579473082"
+				"size" "372968490"
+				"download" "278434064"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "70A6F797C9C03D0286E47F55925CE7E1"
-				"size" "A33C7CD69D9254139092A744ECAFE882"
-				"download" "D7B6D50ACDA7D8CD2A945CB8038B0B82"
+				"gid" "76F5FEB7A23A9C161E1EA449141CF834"
+				"size" "3ED1A14E784F5511C63F1E379BBCC23E"
+				"download" "078AAF34E3E6028A78A0AE825C2C1855"
 			}
 		}
 	}
@@ -505,9 +507,9 @@
 		{
 			"public"
 			{
-				"gid" "6340509842121398816"
-				"size" "375878722"
-				"download" "292533728"
+				"gid" "4900886151053949297"
+				"size" "376253045"
+				"download" "292693008"
 			}
 			"oldstable"
 			{
@@ -517,18 +519,18 @@
 			}
 			"unstable"
 			{
-				"gid" "6340509842121398816"
-				"size" "375878722"
-				"download" "292533728"
+				"gid" "4900886151053949297"
+				"size" "376253045"
+				"download" "292693008"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "08C454F4E31458ACACD936E86469569E"
-				"size" "92B0C15454748E2212F3739B3F918AE9"
-				"download" "41E2EF6F88A442D0BE349EBEB21F42E9"
+				"gid" "5196F6F4DE54EF46F9C9F71D63912B43"
+				"size" "9AAB6A5A7B5F47C923603CEB7B41EF55"
+				"download" "60EDA03B4C12A7FC67BF3BDA25545838"
 			}
 		}
 	}
@@ -542,9 +544,9 @@
 		{
 			"public"
 			{
-				"gid" "8328364098725224772"
-				"size" "381569022"
-				"download" "280193888"
+				"gid" "6102330504031666699"
+				"size" "381943345"
+				"download" "280357792"
 			}
 			"oldstable"
 			{
@@ -554,18 +556,18 @@
 			}
 			"unstable"
 			{
-				"gid" "8328364098725224772"
-				"size" "381569022"
-				"download" "280193888"
+				"gid" "6102330504031666699"
+				"size" "381943345"
+				"download" "280357792"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "3EF285D7140C72D41819FB80EF0FA88C"
-				"size" "5BC17FB512D95AF15A92AC0FBDF59B30"
-				"download" "4B9E2FF5C563759DFF0907549D1E26C7"
+				"gid" "AF6D1C4872C84F9CBD073435C51DE0A3"
+				"size" "4838CCFD6120F49CCC29D740B6EB5F2C"
+				"download" "8B3A5179C21D00A6314C48FE3AB85700"
 			}
 		}
 	}
@@ -574,14 +576,14 @@
 	{
 		"public"
 		{
-			"buildid" "15874484"
-			"timeupdated" "1727695542"
+			"buildid" "16665690"
+			"timeupdated" "1733572704"
 		}
 		"internal"
 		{
-			"buildid" "15874484"
+			"buildid" "16665690"
 			"pwdrequired" "1"
-			"timeupdated" "1727695302"
+			"timeupdated" "1733558219"
 		}
 		"oldstable"
 		{
@@ -591,9 +593,9 @@
 		}
 		"unstable"
 		{
-			"buildid" "15874484"
+			"buildid" "16665690"
 			"description" "Unstable branch, contains the newest features"
-			"timeupdated" "1727695524"
+			"timeupdated" "1733558289"
 		}
 	}
 }
@@ -656,3 +658,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26539077"
+"_sha" "3e9f8198458653a193a9c99fc43451a369ac9816"
+"_size" "12086"
