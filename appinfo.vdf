@@ -26,7 +26,7 @@
 		"schinese" "传染病"
 		"tchinese" "傳染病"
 	}
-	"timeline_marker_updated" "1733238766"
+	"timeline_marker_updated" "1733623339"
 	"timeline_marker_svg" "99b2b85f734ca1946149b367f1f645eed62ad169/markers.svg"
 	"steam_deck_compatibility"
 	{
@@ -399,9 +399,9 @@
 		{
 			"public"
 			{
-				"gid" "6589253826096858035"
-				"size" "151734992"
-				"download" "56168752"
+				"gid" "992784690660875363"
+				"size" "151734480"
+				"download" "56154240"
 			}
 		}
 		"encryptedmanifests"
@@ -426,9 +426,9 @@
 			}
 			"quality_assurance"
 			{
-				"gid" "A67607CEC373C5789CF2EFCA73886B02"
-				"size" "A0EA7E9CFC10A94E9BF4346956BCF3F5"
-				"download" "F0E5999299665670E634815DCFFB8736"
+				"gid" "51D957A75FBBA91880698249F540EDF2"
+				"size" "01F3CF94EB17E17148D3F4B2E9277FE6"
+				"download" "621E109DDCEAA3C8B360554F1291C6EC"
 			}
 		}
 	}
@@ -438,18 +438,18 @@
 		{
 			"public"
 			{
-				"gid" "1079327817273492506"
-				"size" "14785075273"
-				"download" "4796693520"
+				"gid" "8990180595602265720"
+				"size" "14785078073"
+				"download" "4796694208"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"quality_assurance"
 			{
-				"gid" "F2A5DDDF2FD7A39A5A8577FC36E479CF"
-				"size" "FD4E3F49BCCDE852A148592244A5C6A6"
-				"download" "FE1A48E7D20A3B3963E3E44185C4607E"
+				"gid" "710A4C2DFAFA338786057B679871BE87"
+				"size" "5A6CD9CD5A1F0A3289DD63684C66B789"
+				"download" "C0CA86106E65FE0D0DB5257D56BDF2E3"
 			}
 		}
 	}
@@ -479,8 +479,8 @@
 	{
 		"public"
 		{
-			"buildid" "16608760"
-			"timeupdated" "1733238651"
+			"buildid" "16670214"
+			"timeupdated" "1733625351"
 		}
 		"2013-build"
 		{
@@ -502,9 +502,9 @@
 		}
 		"quality_assurance"
 		{
-			"buildid" "16608760"
+			"buildid" "16670214"
 			"pwdrequired" "1"
-			"timeupdated" "1733192438"
+			"timeupdated" "1733625311"
 		}
 	}
 }
@@ -514,6 +514,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26472346"
-"_sha" "42e662b90e7ef5d9ee248644d22c195082dd1228"
-"_size" "10891"
+"_change_number" "26543944"
+"_sha" "0bbdd08d3baea6886865a0f2277f27e964fb4314"
+"_size" "10890"
