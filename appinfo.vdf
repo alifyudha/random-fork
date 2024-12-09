@@ -266,13 +266,13 @@
 		"9" "4136"
 		"10" "1756"
 		"11" "1685"
-		"12" "4182"
-		"13" "7208"
+		"12" "7208"
+		"13" "4182"
 		"14" "3871"
 		"15" "4026"
 		"16" "10397"
-		"17" "5350"
-		"18" "1719"
+		"17" "1719"
+		"18" "5350"
 		"19" "3978"
 	}
 	"review_score" "8"
@@ -410,15 +410,9 @@
 		{
 			"public"
 			{
-				"gid" "8125425680330584978"
-				"size" "39156048"
-				"download" "12715568"
-			}
-			"directx_backup"
-			{
-				"gid" "6835722217443481536"
-				"size" "1809159765"
-				"download" "1728003888"
+				"gid" "8425345486398505208"
+				"size" "39050064"
+				"download" "12648576"
 			}
 			"legacy_3.23.1"
 			{
@@ -473,9 +467,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "3C3E869DE5C5A60DAB686F1297A1695F"
-				"size" "DB2C3439008C4B894C0F3B02384C47E1"
-				"download" "6AD61950C126BC04DD5B1ED6D92CC585"
+				"gid" "3F79990A61438B07DFD87CCA390D47C8"
+				"size" "1446908DDD5866FE4140F737FA8C237C"
+				"download" "552D5D8131707FABBA4ED906FF4AAA4A"
 			}
 			"temp_directx_backup"
 			{
@@ -507,15 +501,9 @@
 		{
 			"public"
 			{
-				"gid" "5255012094569006060"
-				"size" "46264106"
-				"download" "14155344"
-			}
-			"directx_backup"
-			{
-				"gid" "5255012094569006060"
-				"size" "46264106"
-				"download" "14155344"
+				"gid" "3789070563060160524"
+				"size" "33219448"
+				"download" "9853744"
 			}
 			"legacy_3.23.1"
 			{
@@ -528,9 +516,9 @@
 		{
 			"beta_release_candidate"
 			{
-				"gid" "2E6FB4CD91FE2BD71F5F39CD11813637"
-				"size" "E3AFEDDDA3A66FD20B8978B02AC6FACE"
-				"download" "3732E3E2E0D956A4620195040B3398A1"
+				"gid" "767707261B0904E9BF210AB39A5E386F"
+				"size" "EBD342D7145DF6638402946FA9E01545"
+				"download" "BF33F34E09A580C4111DB160B44D1EF3"
 			}
 			"linux_dev_test"
 			{
@@ -546,9 +534,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "4B6933F3B492F2054E9182EE01C32CC3"
-				"size" "5AD867CAD5E606730101FFA8D392C201"
-				"download" "02981825ECD8081FB9F8E283BD9AE24B"
+				"gid" "F2D74ABE342B952A058A14491E0AD6EC"
+				"size" "65BE3D9AB823DFCCDAB21DFEE47BC900"
+				"download" "F960718C43CCDDC09C4A8D8966B87604"
 			}
 			"temp_directx_backup"
 			{
@@ -574,15 +562,9 @@
 		{
 			"public"
 			{
-				"gid" "7872482528357293144"
-				"size" "1594284225"
-				"download" "1601699216"
-			}
-			"directx_backup"
-			{
-				"gid" "7872482528357293144"
-				"size" "1594284225"
-				"download" "1601699216"
+				"gid" "1300326220777091389"
+				"size" "1594506316"
+				"download" "1601885632"
 			}
 			"legacy_3.23.1"
 			{
@@ -613,9 +595,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "187E0A01AA4980F6B21462DAE0548F83"
-				"size" "9E3D769CFD7650644EEA607AD1D46179"
-				"download" "6FA6455F49C243F00CDFAA9EE999E64D"
+				"gid" "92A2A1994EC7CC09DBFD05E7E18A6265"
+				"size" "B79D3072790F0D421746BFC988D4A997"
+				"download" "D7A59A752C6F82C7C3AA3D32102DFD49"
 			}
 			"temp_directx_backup"
 			{
@@ -641,15 +623,9 @@
 		{
 			"public"
 			{
-				"gid" "5426755322048203448"
-				"size" "1651975122"
-				"download" "1613023552"
-			}
-			"directx_backup"
-			{
-				"gid" "5426755322048203448"
-				"size" "1651975122"
-				"download" "1613023552"
+				"gid" "1454950828166208792"
+				"size" "1652314088"
+				"download" "1613244960"
 			}
 		}
 		"encryptedmanifests"
@@ -668,9 +644,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "5E159E8D3862D871781F9D6B4B3FC5A6"
-				"size" "F418CB91BFB85FC1B6321B2A04517E81"
-				"download" "E1BC3B65A9348C3F673ADCA6CD6375C9"
+				"gid" "2E5B2AEA19250F55EDA4DA979D5D52B1"
+				"size" "2039286A5F2EB16BF6BEA4CF18B5CF37"
+				"download" "156FC95A6C701F1AC41B2F70F025DA33"
 			}
 			"temp_directx_backup"
 			{
@@ -690,8 +666,8 @@
 	{
 		"public"
 		{
-			"buildid" "16575440"
-			"timeupdated" "1733065904"
+			"buildid" "16675213"
+			"timeupdated" "1733705153"
 		}
 		"devs"
 		{
@@ -713,15 +689,9 @@
 		}
 		"beta_release_candidate"
 		{
-			"buildid" "16593544"
+			"buildid" "16593595"
 			"pwdrequired" "1"
-			"timeupdated" "1733068788"
-		}
-		"directx_backup"
-		{
-			"buildid" "16575428"
-			"description" "DirectX version for any that is experiencing major issues with the OpenGL build"
-			"timeupdated" "1733065765"
+			"timeupdated" "1733069640"
 		}
 		"gameshow"
 		{
@@ -749,9 +719,9 @@
 		}
 		"release_candidate"
 		{
-			"buildid" "16593537"
+			"buildid" "16675213"
 			"pwdrequired" "1"
-			"timeupdated" "1733068700"
+			"timeupdated" "1733704640"
 		}
 		"temp_directx_backup"
 		{
@@ -835,6 +805,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26442928"
-"_sha" "0c1bf73a4e3f0c6d7811d4d8a53260f538b89664"
-"_size" "17126"
+"_change_number" "26550621"
+"_sha" "7ae1621a05e6d0f27e5f32d120d2c4f2929a76c4"
+"_size" "16448"
