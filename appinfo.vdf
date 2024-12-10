@@ -802,9 +802,19 @@
 			}
 			"recursive" "1"
 		}
+		"7"
+		{
+			"root" "MacAppSupport"
+			"path" "FBF/100OrangeJuice/."
+			"pattern" "user.dat"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26571660"
-"_sha" "0832dd9ce878c13ac72875d22f49f2cd0bf1db26"
-"_size" "16446"
+"_change_number" "26576111"
+"_sha" "687488849988a2f60d304e61909ce5289d44c812"
+"_size" "16598"
