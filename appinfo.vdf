@@ -105,7 +105,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726172565"
+	"store_asset_mtime" "1733768607"
 	"associations"
 	{
 		"0"
@@ -217,7 +217,7 @@
 		"19" "4166"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -235,19 +235,14 @@
 		"0"
 		{
 			"executable" "Drill Core.exe"
-		}
-	}
-	"steamcontrollertemplateindex" "1"
-	"steamcontrollerconfigdetails"
-	{
-		"3271582674"
-		{
-			"controller_type" "controller_neptune"
-			"enabled_branches" "default,internalqa,internalqa_cheats"
-			"use_action_block" "true"
+			"config"
+			{
+				"oslist" "windows"
+			}
 		}
 	}
 	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "6"
 }
 "depots"
 {
@@ -275,30 +270,15 @@
 		{
 			"public"
 			{
-				"gid" "3457936012464465940"
-				"size" "1043359328"
-				"download" "821393072"
+				"gid" "2490645685713088749"
+				"size" "1610460376"
+				"download" "1307150800"
 			}
 			"testing"
 			{
-				"gid" "7837474812740757112"
-				"size" "1045381480"
-				"download" "822806256"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"early_acess_test"
-			{
-				"gid" "147174526B1986B8B1ACF03DE6A13017"
-				"size" "2E9054BC0A810B031AA4AB8178F9111B"
-				"download" "D934926F51AB32E406C96B760DE0839B"
-			}
-			"internalqa"
-			{
-				"gid" "96D3D8C04487C22233E8E904F6F252B4"
-				"size" "91A892D36B6EFEEC7E9F3583D214A60D"
-				"download" "00001F39D1F321132904D678EEB3CE75"
+				"gid" "2490645685713088749"
+				"size" "1610460376"
+				"download" "1307150800"
 			}
 		}
 	}
@@ -310,28 +290,17 @@
 	{
 		"public"
 		{
-			"buildid" "16049946"
-			"timeupdated" "1730798759"
-		}
-		"early_acess_test"
-		{
-			"buildid" "16044447"
-			"pwdrequired" "1"
-			"timeupdated" "1728949063"
-		}
-		"internalqa"
-		{
-			"buildid" "16081081"
-			"pwdrequired" "1"
-			"timeupdated" "1729168532"
+			"buildid" "16683541"
+			"timeupdated" "1733766034"
 		}
 		"testing"
 		{
-			"buildid" "16081081"
+			"buildid" "16683541"
 			"description" "Public testing of a new version"
-			"timeupdated" "1730798796"
+			"timeupdated" "1733766000"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -339,6 +308,6 @@
 	"maxnumfiles" "9999"
 }
 "_missing_token" "False"
-"_change_number" "26051465"
-"_sha" "d7c2705827098571538e5e4f3bcf18cb641776ea"
-"_size" "5727"
+"_change_number" "26564308"
+"_sha" "f2e698de72c5f2adedb229c840325fa6f834f128"
+"_size" "4987"
