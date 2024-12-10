@@ -410,9 +410,9 @@
 		{
 			"public"
 			{
-				"gid" "8425345486398505208"
-				"size" "39050064"
-				"download" "12648576"
+				"gid" "55986202344284019"
+				"size" "39050576"
+				"download" "12647168"
 			}
 			"legacy_3.23.1"
 			{
@@ -467,9 +467,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "3F79990A61438B07DFD87CCA390D47C8"
-				"size" "1446908DDD5866FE4140F737FA8C237C"
-				"download" "552D5D8131707FABBA4ED906FF4AAA4A"
+				"gid" "056272200C203413073DC5B37335A9C6"
+				"size" "187295C2880A08F3F9FAE28FFC7046DE"
+				"download" "BFE4FE2186ECC2AC69846882E072672C"
 			}
 			"temp_directx_backup"
 			{
@@ -501,9 +501,9 @@
 		{
 			"public"
 			{
-				"gid" "3789070563060160524"
+				"gid" "1457451020977598235"
 				"size" "33219448"
-				"download" "9853744"
+				"download" "9854464"
 			}
 			"legacy_3.23.1"
 			{
@@ -534,9 +534,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "F2D74ABE342B952A058A14491E0AD6EC"
+				"gid" "1DDA80021430FA9368A5CD6345A7FC93"
 				"size" "65BE3D9AB823DFCCDAB21DFEE47BC900"
-				"download" "F960718C43CCDDC09C4A8D8966B87604"
+				"download" "9957E3CA40CE9430EE5D8915ABFE0DE7"
 			}
 			"temp_directx_backup"
 			{
@@ -623,9 +623,9 @@
 		{
 			"public"
 			{
-				"gid" "1454950828166208792"
+				"gid" "3194844012858355276"
 				"size" "1652314088"
-				"download" "1613244960"
+				"download" "1613245376"
 			}
 		}
 		"encryptedmanifests"
@@ -644,9 +644,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "2E5B2AEA19250F55EDA4DA979D5D52B1"
+				"gid" "B2D8BCAFF0CEFE132C7CE444A66A73AD"
 				"size" "2039286A5F2EB16BF6BEA4CF18B5CF37"
-				"download" "156FC95A6C701F1AC41B2F70F025DA33"
+				"download" "F73FC939ACB4C0D3C93167FB18A45FC7"
 			}
 			"temp_directx_backup"
 			{
@@ -666,8 +666,8 @@
 	{
 		"public"
 		{
-			"buildid" "16675213"
-			"timeupdated" "1733705153"
+			"buildid" "16690035"
+			"timeupdated" "1733820140"
 		}
 		"devs"
 		{
@@ -719,9 +719,9 @@
 		}
 		"release_candidate"
 		{
-			"buildid" "16675213"
+			"buildid" "16690035"
 			"pwdrequired" "1"
-			"timeupdated" "1733704640"
+			"timeupdated" "1733812395"
 		}
 		"temp_directx_backup"
 		{
@@ -805,6 +805,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26550621"
-"_sha" "7ae1621a05e6d0f27e5f32d120d2c4f2929a76c4"
-"_size" "16448"
+"_change_number" "26571660"
+"_sha" "0832dd9ce878c13ac72875d22f49f2cd0bf1db26"
+"_size" "16446"
