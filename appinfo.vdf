@@ -432,30 +432,30 @@
 		{
 			"public"
 			{
-				"gid" "2686670696210191992"
-				"size" "370343610"
-				"download" "277599904"
+				"gid" "264714135574640384"
+				"size" "370345427"
+				"download" "277599824"
 			}
 			"oldstable"
 			{
-				"gid" "8882550369490956898"
-				"size" "369628211"
-				"download" "277038224"
+				"gid" "8757294308409845471"
+				"size" "370070663"
+				"download" "277430288"
 			}
 			"unstable"
 			{
-				"gid" "2686670696210191992"
-				"size" "370343610"
-				"download" "277599904"
+				"gid" "264714135574640384"
+				"size" "370345427"
+				"download" "277599824"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "50E72DF8DCCECB39B736EF0DE655E70A"
-				"size" "B721C28697A6FE8F3B5FC4116002ECB6"
-				"download" "B40AA40FEB702E4B71F5562634CEF4F3"
+				"gid" "28D4A67FF433401F78828A429F032E63"
+				"size" "CD082FF097A6DF43A0333346D14F81E9"
+				"download" "9EED37DB6AECE043BD50B4CD4C340D9C"
 			}
 		}
 	}
@@ -470,30 +470,30 @@
 		{
 			"public"
 			{
-				"gid" "4814125217579473082"
-				"size" "372968490"
-				"download" "278434064"
+				"gid" "1613771131036615645"
+				"size" "372970307"
+				"download" "278434112"
 			}
 			"oldstable"
 			{
-				"gid" "942455707837616716"
-				"size" "372079523"
-				"download" "277803392"
+				"gid" "3707062458008569724"
+				"size" "372521975"
+				"download" "278195216"
 			}
 			"unstable"
 			{
-				"gid" "4814125217579473082"
-				"size" "372968490"
-				"download" "278434064"
+				"gid" "1613771131036615645"
+				"size" "372970307"
+				"download" "278434112"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "76F5FEB7A23A9C161E1EA449141CF834"
-				"size" "3ED1A14E784F5511C63F1E379BBCC23E"
-				"download" "078AAF34E3E6028A78A0AE825C2C1855"
+				"gid" "1BE38637D9E777BC71E0DF4C7EF29F2C"
+				"size" "C06CF49761F7110B5B94ACA875CBE844"
+				"download" "4430E96375A3728456164690AB263224"
 			}
 		}
 	}
@@ -507,30 +507,30 @@
 		{
 			"public"
 			{
-				"gid" "4900886151053949297"
-				"size" "376253045"
-				"download" "292693008"
+				"gid" "7584691901165869265"
+				"size" "376254862"
+				"download" "292692608"
 			}
 			"oldstable"
 			{
-				"gid" "6114342301474677138"
-				"size" "375436270"
-				"download" "292140016"
+				"gid" "6340509842121398816"
+				"size" "375878722"
+				"download" "292533728"
 			}
 			"unstable"
 			{
-				"gid" "4900886151053949297"
-				"size" "376253045"
-				"download" "292693008"
+				"gid" "7584691901165869265"
+				"size" "376254862"
+				"download" "292692608"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "5196F6F4DE54EF46F9C9F71D63912B43"
-				"size" "9AAB6A5A7B5F47C923603CEB7B41EF55"
-				"download" "60EDA03B4C12A7FC67BF3BDA25545838"
+				"gid" "9EB3EDBA771CEB98B757FD62956D266B"
+				"size" "C90F68EBFEDF81FBA96C67684E91CDF3"
+				"download" "775B2601D06710B62B4F3230917E7BC7"
 			}
 		}
 	}
@@ -544,30 +544,30 @@
 		{
 			"public"
 			{
-				"gid" "6102330504031666699"
-				"size" "381943345"
-				"download" "280357792"
+				"gid" "8618787125468456949"
+				"size" "381945162"
+				"download" "280360144"
 			}
 			"oldstable"
 			{
-				"gid" "6157236047940562784"
-				"size" "381126570"
-				"download" "279793984"
+				"gid" "8328364098725224772"
+				"size" "381569022"
+				"download" "280193888"
 			}
 			"unstable"
 			{
-				"gid" "6102330504031666699"
-				"size" "381943345"
-				"download" "280357792"
+				"gid" "8618787125468456949"
+				"size" "381945162"
+				"download" "280360144"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "AF6D1C4872C84F9CBD073435C51DE0A3"
-				"size" "4838CCFD6120F49CCC29D740B6EB5F2C"
-				"download" "8B3A5179C21D00A6314C48FE3AB85700"
+				"gid" "D1010EEFB5F6BDF3DCE4DDCD77A79058"
+				"size" "307C061BD6FBA3608858811C7A20C5F8"
+				"download" "604A1AD3E956A65F59488AD5D600B89E"
 			}
 		}
 	}
@@ -576,26 +576,26 @@
 	{
 		"public"
 		{
-			"buildid" "16665690"
-			"timeupdated" "1733572704"
+			"buildid" "16683754"
+			"timeupdated" "1733767213"
 		}
 		"internal"
 		{
-			"buildid" "16665690"
+			"buildid" "16683754"
 			"pwdrequired" "1"
-			"timeupdated" "1733558219"
+			"timeupdated" "1733767135"
 		}
 		"oldstable"
 		{
-			"buildid" "14907080"
+			"buildid" "15874484"
 			"description" "Contains an older version of City Game Studio"
-			"timeupdated" "1727281663"
+			"timeupdated" "1733731412"
 		}
 		"unstable"
 		{
-			"buildid" "16665690"
+			"buildid" "16683754"
 			"description" "Unstable branch, contains the newest features"
-			"timeupdated" "1733558289"
+			"timeupdated" "1733767195"
 		}
 	}
 }
@@ -659,6 +659,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26539077"
-"_sha" "3e9f8198458653a193a9c99fc43451a369ac9816"
-"_size" "12086"
+"_change_number" "26562278"
+"_sha" "d7b61bcc5dbd79fb9b3e8bbeacd55f7dacd476e3"
+"_size" "12085"
