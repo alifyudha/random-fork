@@ -14,6 +14,7 @@
 	{
 		"english" "1"
 		"german" "1"
+		"japanese" "1"
 	}
 	"steam_deck_compatibility"
 	{
@@ -165,6 +166,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1712937275"
 	"community_visible_stats" "1"
@@ -230,9 +236,9 @@
 		{
 			"public"
 			{
-				"gid" "4391693371886211072"
-				"size" "3247888794"
-				"download" "1026093648"
+				"gid" "4826553487153640094"
+				"size" "3303753887"
+				"download" "1057489824"
 			}
 			"p1-35"
 			{
@@ -246,6 +252,12 @@
 				"size" "3278792373"
 				"download" "1033936912"
 			}
+			"p1-42"
+			{
+				"gid" "4391693371886211072"
+				"size" "3247888794"
+				"download" "1026093648"
+			}
 			"p1-4beta"
 			{
 				"gid" "530892907613238868"
@@ -257,21 +269,27 @@
 		{
 			"achievementtest-branch"
 			{
-				"gid" "974A076709A8A8B5A423138C7F424F2F"
-				"size" "CEDD92A97EC59BAF470C38570B9FE9E5"
-				"download" "D5A363C001822DA84991A8665C6F1BF0"
+				"gid" "9E5F2AC2F03D411BAEA2FA3D59096A7B"
+				"size" "BDF4FA4443A25CE48925F191BDC7B116"
+				"download" "01CDF79B180CBF63A2708D8E3D772B01"
 			}
 			"controllersupport"
 			{
-				"gid" "D729FA93D01D6B369327602E99938B5A"
-				"size" "F0E65B9635ECFE5CE63DB0B802F2EB76"
-				"download" "CB0113F6861D1698BF16F633B87168EB"
+				"gid" "A08B485F62F556D805614F53F9A17A65"
+				"size" "AF484090DF45A91CD3A9B7B3FFC0ADE3"
+				"download" "924865841ED263ABC80DF1165510692E"
+			}
+			"jp-press"
+			{
+				"gid" "634FF5F443383FF17BF232F8F63FB2A1"
+				"size" "8CE3F70DFC614D13BD5834B8BAE27599"
+				"download" "855B0B55DE0B8F7A38279CC7A4E5873E"
 			}
 			"localizationbuild"
 			{
-				"gid" "D9532B21B01C93EE1FBA56B5209A587A"
-				"size" "7606D6EB75ADF5E1E84BA6AE4BCF84A7"
-				"download" "2ED7974E7DA13DA8DDA8492A91301754"
+				"gid" "CC690E0E3629E38B655A408ECCE4E4B6"
+				"size" "DA16237E865E2343AAA95C0F7D735797"
+				"download" "D2D5693125431A1C1BA80516EBA02D1B"
 			}
 		}
 	}
@@ -279,26 +297,32 @@
 	{
 		"public"
 		{
-			"buildid" "16587837"
-			"timeupdated" "1732980850"
+			"buildid" "16682077"
+			"timeupdated" "1733758188"
 		}
 		"achievementtest-branch"
 		{
-			"buildid" "15944966"
+			"buildid" "16666470"
 			"pwdrequired" "1"
-			"timeupdated" "1728219033"
+			"timeupdated" "1733569812"
 		}
 		"controllersupport"
 		{
-			"buildid" "16587837"
+			"buildid" "16682077"
 			"pwdrequired" "1"
-			"timeupdated" "1732971323"
+			"timeupdated" "1733757969"
+		}
+		"jp-press"
+		{
+			"buildid" "16682077"
+			"pwdrequired" "1"
+			"timeupdated" "1733758165"
 		}
 		"localizationbuild"
 		{
-			"buildid" "16581026"
+			"buildid" "16682077"
 			"pwdrequired" "1"
-			"timeupdated" "1732895390"
+			"timeupdated" "1733784839"
 		}
 		"p1-35"
 		{
@@ -311,6 +335,12 @@
 			"buildid" "16412219"
 			"description" "Patch 1.41"
 			"timeupdated" "1732033660"
+		}
+		"p1-42"
+		{
+			"buildid" "16587837"
+			"description" "Patch 1.42"
+			"timeupdated" "1733752853"
 		}
 		"p1-4beta"
 		{
@@ -339,6 +369,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26435582"
-"_sha" "15ce5aeb06bcb22bb5d39c74210bb15d7394235e"
-"_size" "6158"
+"_change_number" "26565860"
+"_sha" "674403fcee788d4cd588dc157e2b29d4414e4cec"
+"_size" "6753"
