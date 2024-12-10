@@ -221,8 +221,8 @@
 		"4" "4434"
 		"5" "122"
 		"6" "3964"
-		"7" "3871"
-		"8" "4182"
+		"7" "4182"
+		"8" "3871"
 		"9" "1720"
 		"10" "3834"
 		"11" "4026"
@@ -278,15 +278,24 @@
 		{
 			"public"
 			{
-				"gid" "4071343692325456631"
-				"size" "2836450055"
-				"download" "1006153264"
+				"gid" "7777820355156672040"
+				"size" "2866060883"
+				"download" "1035257264"
 			}
 			"nightly"
 			{
-				"gid" "4071343692325456631"
-				"size" "2836450055"
-				"download" "1006153264"
+				"gid" "7777820355156672040"
+				"size" "2866060883"
+				"download" "1035257264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_test"
+			{
+				"gid" "201896B03C4F07D15BECAAA60B7A3558"
+				"size" "D0DCA5E7BD326FE4C33B19B4E9F78AEA"
+				"download" "98D1808C385B515AAA04C48A606CA289"
 			}
 		}
 	}
@@ -294,14 +303,20 @@
 	{
 		"public"
 		{
-			"buildid" "16597932"
-			"timeupdated" "1733125548"
+			"buildid" "16689953"
+			"timeupdated" "1733812065"
+		}
+		"dev_test"
+		{
+			"buildid" "16666802"
+			"pwdrequired" "1"
+			"timeupdated" "1733573898"
 		}
 		"nightly"
 		{
-			"buildid" "16597932"
+			"buildid" "16689953"
 			"description" "Unstable Nightly Version"
-			"timeupdated" "1733125527"
+			"timeupdated" "1733812033"
 		}
 	}
 }
@@ -314,8 +329,41 @@
 		"0"
 		{
 			"root" "WinAppDataLocalLow"
-			"path" "Lafrontier/Elin/Save"
-			"pattern" "*"
+			"path" "Lafrontier/Elin/Cloud Save"
+			"pattern" "cloud.zip"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Lafrontier/Elin/Cloud Save"
+			"pattern" "index.txt"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Lafrontier/Elin/Cloud Backup"
+			"pattern" "cloud.zip"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Lafrontier/Elin/Cloud Backup"
+			"pattern" "index.txt"
 			"platforms"
 			{
 				"1" "Windows"
@@ -323,10 +371,8 @@
 			"recursive" "1"
 		}
 	}
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26448919"
-"_sha" "611496c99d382afe9cc8a5d639277e8b310254b2"
-"_size" "5716"
+"_change_number" "26570246"
+"_sha" "6705900ff0a4456e9fa122bc12fb7519c80f2145"
+"_size" "6558"
