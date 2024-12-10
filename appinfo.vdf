@@ -12,6 +12,7 @@
 	"clienticon" "d30f7e35e4ae042a2238fd16d880cdde0b5cc367"
 	"linuxclienticon" "9eeb9ee246f6807a787ac53df523f594e3881fab"
 	"releasestate" "released"
+	"freetodownload" "1"
 	"community_hub_visible" "1"
 	"gameid" "2934900"
 }
@@ -39,9 +40,9 @@
 		{
 			"public"
 			{
-				"gid" "2239625671513123948"
-				"size" "333636678"
-				"download" "158887440"
+				"gid" "8211426892619129894"
+				"size" "334711260"
+				"download" "160210400"
 			}
 		}
 	}
@@ -49,12 +50,12 @@
 	{
 		"public"
 		{
-			"buildid" "16234580"
-			"timeupdated" "1730282236"
+			"buildid" "16684941"
+			"timeupdated" "1733776548"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25967493"
-"_sha" "89be197339a62a1360cf186403d5675c69879a2c"
-"_size" "1008"
+"_change_number" "26564309"
+"_sha" "d45c79f0283655ae9d4ceb199aa4f88cc808c8c8"
+"_size" "1032"
