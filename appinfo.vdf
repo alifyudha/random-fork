@@ -12,6 +12,7 @@
 	"osarch" "64"
 	"osextended" ""
 	"linuxclienticon" "9eeb9ee246f6807a787ac53df523f594e3881fab"
+	"freetodownload" "1"
 	"community_hub_visible" "1"
 	"gameid" "2662210"
 }
@@ -108,9 +109,9 @@
 		{
 			"public"
 			{
-				"gid" "4981353234549273165"
-				"size" "412760043"
-				"download" "213428032"
+				"gid" "3544024165729391954"
+				"size" "413986179"
+				"download" "214257392"
 			}
 		}
 	}
@@ -118,12 +119,12 @@
 	{
 		"public"
 		{
-			"buildid" "16234500"
-			"timeupdated" "1730281953"
+			"buildid" "16683066"
+			"timeupdated" "1733767250"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25967417"
-"_sha" "974e15905688adcfc71501be2a1f0def525d9d93"
-"_size" "1886"
+"_change_number" "26562303"
+"_sha" "76bdf3171d7cf47b542fbbc92246901b0bd7bd18"
+"_size" "1910"
