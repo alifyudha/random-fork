@@ -260,8 +260,8 @@
 		"6" "9"
 		"7" "3859"
 		"8" "4345"
-		"9" "4667"
-		"10" "1678"
+		"9" "1678"
+		"10" "4667"
 		"11" "1774"
 		"12" "3810"
 		"13" "4175"
@@ -425,9 +425,9 @@
 		{
 			"public"
 			{
-				"gid" "3545362646551334886"
-				"size" "14757258460"
-				"download" "6492216784"
+				"gid" "7909577687129586142"
+				"size" "15275718041"
+				"download" "6725305904"
 			}
 			"console_crossplay"
 			{
@@ -437,18 +437,18 @@
 			}
 			"publicbeta"
 			{
-				"gid" "3545362646551334886"
-				"size" "14757258460"
-				"download" "6492216784"
+				"gid" "7909577687129586142"
+				"size" "15275718041"
+				"download" "6725305904"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testenvironment"
 			{
-				"gid" "63965E7850CCB9D7602184FE70BFD20C"
-				"size" "384492F01D9A2EE6453E17AD282EAB4B"
-				"download" "5680539AFE384C390856D7190B77A7DA"
+				"gid" "8C6A69E90CE947D691200263639D84C0"
+				"size" "151DF9C374B7AE91FE6B9E4307DD50C1"
+				"download" "3E2A47AA470865F9C09E87BBBADE06F3"
 			}
 		}
 	}
@@ -463,9 +463,9 @@
 		{
 			"public"
 			{
-				"gid" "1998715634118809978"
-				"size" "14786447493"
-				"download" "6513830096"
+				"gid" "9032645099432608101"
+				"size" "15305224422"
+				"download" "6746334864"
 			}
 			"console_crossplay"
 			{
@@ -475,18 +475,18 @@
 			}
 			"publicbeta"
 			{
-				"gid" "1998715634118809978"
-				"size" "14786447493"
-				"download" "6513830096"
+				"gid" "9032645099432608101"
+				"size" "15305224422"
+				"download" "6746334864"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testenvironment"
 			{
-				"gid" "552E24B15B0F0110E4F63A1EE574A8D7"
-				"size" "8241E9EDD65F9861A8D1591FD8A55E57"
-				"download" "966EBE3B75BBCFF1AA9BF33E1B433939"
+				"gid" "34277AC45462324692FD23BB906EFB16"
+				"size" "8247821760F75657ECF6656EE249089E"
+				"download" "78F53C5BB3C3A573A8EB11711886A911"
 			}
 		}
 	}
@@ -501,9 +501,9 @@
 		{
 			"public"
 			{
-				"gid" "7531575683341610689"
-				"size" "14725220813"
-				"download" "6489884352"
+				"gid" "7672979378477105586"
+				"size" "15243098940"
+				"download" "6723925392"
 			}
 			"console_crossplay"
 			{
@@ -513,18 +513,18 @@
 			}
 			"publicbeta"
 			{
-				"gid" "7531575683341610689"
-				"size" "14725220813"
-				"download" "6489884352"
+				"gid" "7672979378477105586"
+				"size" "15243098940"
+				"download" "6723925392"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testenvironment"
 			{
-				"gid" "7EA50C16F810673D6DFFBBF70C3F5A6F"
-				"size" "6EC41B94ACB170472F96CD798ACD816A"
-				"download" "7A20D24B44D9631436F45582FCD6F2B4"
+				"gid" "642F74491E99B56CB1483C05B3B1C3E1"
+				"size" "4FC45B17D920F586A23679081DC16242"
+				"download" "1FF0EC8BED5DD725F8ADAC8E4A98E853"
 			}
 		}
 	}
@@ -534,8 +534,8 @@
 	{
 		"public"
 		{
-			"buildid" "16357518"
-			"timeupdated" "1731326521"
+			"buildid" "16707268"
+			"timeupdated" "1733920179"
 		}
 		"console_crossplay"
 		{
@@ -545,15 +545,15 @@
 		}
 		"publicbeta"
 		{
-			"buildid" "16357518"
+			"buildid" "16707268"
 			"description" "Public beta for easy red 2 - expect some bugs"
-			"timeupdated" "1731244661"
+			"timeupdated" "1733920160"
 		}
 		"testenvironment"
 		{
-			"buildid" "16357518"
+			"buildid" "16707268"
 			"pwdrequired" "1"
-			"timeupdated" "1731244671"
+			"timeupdated" "1733920168"
 		}
 	}
 }
@@ -627,6 +627,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26139232"
-"_sha" "09a6caff017bb8f6811240d1a2db96c7e54a3946"
+"_change_number" "26596694"
+"_sha" "c7905e907c6fa0a8e7ebdd15d39a01e190c0fb3d"
 "_size" "11895"
