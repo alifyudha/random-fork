@@ -218,18 +218,18 @@
 		{
 			"public"
 			{
-				"gid" "8314636600191345637"
-				"size" "17045156451"
-				"download" "14258261232"
+				"gid" "3432850747660127241"
+				"size" "17045157963"
+				"download" "14258259968"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"playertest"
 			{
-				"gid" "AB31D7772763CBDC51EF680A35CF09F3"
-				"size" "3C5485DEC07A2B1DF44AC1BCACFBAA39"
-				"download" "CA3D8F02F054529516049B27E4A18CD2"
+				"gid" "9C3F026884074099C81C414AC82EDE35"
+				"size" "A269525BB8C1DF61A765D26000AAE0AB"
+				"download" "D6D8AE47A0C9BBB12FCFF904DCBDAEB3"
 			}
 			"qianjinxian"
 			{
@@ -239,15 +239,15 @@
 			}
 			"steam_china_only"
 			{
-				"gid" "032595DA0C853D2A56711150CACE1C3F"
-				"size" "4C4DE0FC4FCB04688149AEDF9D5E6A5B"
-				"download" "429A5FB94ECD46009BEA587B840F1971"
+				"gid" "A34B4B5B4C41EB2E4EDFB16005EBA095"
+				"size" "3EEDE53E9C934E489C37D38A26144DEE"
+				"download" "7008C764B49226AD0B7D2C28078CDB45"
 			}
 			"test"
 			{
-				"gid" "F6682A8E686C4832154740903453313E"
-				"size" "8FAE06EDE2E056E8A3BF1FA6276796C1"
-				"download" "FE3E506629A8D5FA5FF6702B22C2C535"
+				"gid" "36338BA6A8FD203FA777318C13254F9D"
+				"size" "E6BB250FD57EB31D54DFC2F1D90F5979"
+				"download" "2292EF3D59B24FA46CCF9FBFBC7D256B"
 			}
 		}
 	}
@@ -296,15 +296,15 @@
 	{
 		"public"
 		{
-			"buildid" "16720204"
-			"timeupdated" "1734006850"
+			"buildid" "16722629"
+			"timeupdated" "1734015102"
 		}
 		"playertest"
 		{
 			"sc_schinese" "对外测试卡顿"
-			"buildid" "16720204"
+			"buildid" "16722629"
 			"pwdrequired" "1"
-			"timeupdated" "1734001911"
+			"timeupdated" "1734014438"
 		}
 		"qianjinxian"
 		{
@@ -316,16 +316,16 @@
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "16720204"
+			"buildid" "16722629"
 			"pwdrequired" "1"
-			"timeupdated" "1734006629"
+			"timeupdated" "1734015058"
 		}
 		"test"
 		{
 			"sc_schinese" "Steam China test"
-			"buildid" "16720204"
+			"buildid" "16722629"
 			"pwdrequired" "1"
-			"timeupdated" "1734001920"
+			"timeupdated" "1734014427"
 		}
 	}
 }
@@ -346,6 +346,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26610650"
-"_sha" "31f83629f4fdd741df5f7592845c4693d279c6e6"
+"_change_number" "26612845"
+"_sha" "0c136949c71d344e9f8cf29fb3a78fafbcd6845e"
 "_size" "7111"
