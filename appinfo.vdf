@@ -331,7 +331,7 @@
 	"developer" "Frozen District"
 	"publisher" "Frozen District"
 	"homepage" "https://houseflipper2.com/"
-	"listofdlc" "2649200"
+	"listofdlc" "2649200,3363370"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -377,9 +377,9 @@
 		{
 			"public"
 			{
-				"gid" "567122244171426941"
-				"size" "8876183435"
-				"download" "7580043056"
+				"gid" "636560910260513486"
+				"size" "9205394347"
+				"download" "7837414448"
 			}
 		}
 		"encryptedmanifests"
@@ -404,21 +404,15 @@
 			}
 			"bleeding-develop"
 			{
-				"gid" "0985D0D8C4244AA7B01871EC558CB51B"
-				"size" "A5382EB188679631F5F0CC514C2C7F59"
-				"download" "925393B0DFC15A2651417049EF3B0689"
+				"gid" "D2BF279834F95CB94DFB32A7FFA573C2"
+				"size" "988AABF5E81551125AB7AA5361155085"
+				"download" "0161D6C078B317A70EF9962064CC2A14"
 			}
 			"bleeding-master"
 			{
-				"gid" "B67CDDA2A4F6A69501A4F03EC025A40A"
-				"size" "582ACBCED867BDD15D382E2C8A7B54AC"
-				"download" "7514ACE6CA9F80A3416C1469E7B2E922"
-			}
-			"coop-open-beta"
-			{
-				"gid" "107AACAA811912B6224FC60F8A6267C8"
-				"size" "2668E309230B662D34F38AB2CDDDF4B3"
-				"download" "C3C4CE8DA06A742BCB1779461621689A"
+				"gid" "AC60A9116E3276E0366010DE7B13C485"
+				"size" "886A75722397D3CA6910EB0839338EFD"
+				"download" "F4E90BDCDECC064864EACAE89A8708AC"
 			}
 			"garen"
 			{
@@ -440,21 +434,21 @@
 			}
 			"malzahar"
 			{
-				"gid" "7763A5F2DCE3AAA8B325F71C3E6E4363"
-				"size" "7B4A0D4B8C91046C9A1DB165D09DDAA0"
-				"download" "1164317170A1299BBA811E87296B2057"
+				"gid" "1BEAD34E394F6F23A09C4D7AE327FCE9"
+				"size" "0719B388092422BA8D0ABEDB4D911017"
+				"download" "22C05D209515D75263714553FE3E83CB"
 			}
 			"manual-build"
 			{
-				"gid" "68868E6335D663C5DBED2D53CC137C09"
-				"size" "C8F1B1DD43F94C631F3E851FDDD7F383"
-				"download" "2E09E15207AD9988F6C56ED025C1F29F"
+				"gid" "8747A5DBCB98AB98D0EBD2B242A3BA99"
+				"size" "FA26EB0B938FF1BE2723519DD7603BAB"
+				"download" "B57FC562321912CC16E4364D0C566928"
 			}
 			"pw-playtest"
 			{
-				"gid" "6A4AFC5207D877CCBE0C566A3E9D211E"
-				"size" "91A74A31B37B9B40E8289160A0CEA54D"
-				"download" "580B8097766E18CD228A644847AC77CE"
+				"gid" "C6F1EA3C8027E46B50D6CE29405EF6D9"
+				"size" "FBF795A33AAE408977572B26E98CCAAC"
+				"download" "238F844F32E828C5AB808CCB585C6373"
 			}
 			"reazell"
 			{
@@ -464,21 +458,21 @@
 			}
 			"release"
 			{
-				"gid" "0D9816E94674D5CEF66D862B5E1AFEC9"
-				"size" "5CA0E382225FA3C82F7CE63973A72164"
-				"download" "F5D460A81932318BB4F455E7086F69BC"
+				"gid" "D66DF2E87431F1B85F10FFD0E40557C3"
+				"size" "636B33CC85825DBDA0C2BE15F2BAB5FF"
+				"download" "3692007AC7E791FF3228CF4E1FD0424A"
 			}
 			"stale-develop"
 			{
-				"gid" "AD8AC70B2F98DBD5C1CF4C7D056C51EC"
+				"gid" "5B1E4A45C69104C55820C1F469F0FCF8"
 				"size" "78B12C748FA0ECBAA0D1E691709EB728"
-				"download" "48A5D8B46A2D0084913A800C614B28FB"
+				"download" "FB242D21478A7377568A806F839C5257"
 			}
 			"summer-update"
 			{
-				"gid" "BDB402D778306579519A566F94626F33"
-				"size" "7C6986A82A562624278601AD3B35A023"
-				"download" "29342FB543A312F58ADA9D055D9040F3"
+				"gid" "27DFCA39AE6DD09BCA4C7644F6FA24F4"
+				"size" "532CCE6FE27F89AE91169B1394F11C58"
+				"download" "CC0BCA29D304B80CA4F06C1B93C7959F"
 			}
 			"teemo"
 			{
@@ -559,12 +553,6 @@
 				"gid" "7621B1652762071DCBA43616555857CD"
 				"size" "A56404AD7F4707064C2D2CFADBD256B3"
 				"download" "83DEDBC11D55AFD46724AE70C11936E6"
-			}
-			"coop-open-beta"
-			{
-				"gid" "E248C68AD9B36AD4156B17F1FE8FFA91"
-				"size" "06893B60888DDB9B8B5308151ADE6EC2"
-				"download" "E40480978941B6EE62623679012CB5E8"
 			}
 			"garen"
 			{
@@ -662,8 +650,8 @@
 	{
 		"public"
 		{
-			"buildid" "16641779"
-			"timeupdated" "1733398301"
+			"buildid" "16721045"
+			"timeupdated" "1734011350"
 		}
 		"amd-testing"
 		{
@@ -685,21 +673,15 @@
 		}
 		"bleeding-develop"
 		{
-			"buildid" "16650983"
+			"buildid" "16715823"
 			"pwdrequired" "1"
-			"timeupdated" "1733448332"
+			"timeupdated" "1733972330"
 		}
 		"bleeding-master"
 		{
-			"buildid" "16650921"
+			"buildid" "16714970"
 			"pwdrequired" "1"
-			"timeupdated" "1733447821"
-		}
-		"coop-open-beta"
-		{
-			"buildid" "16622514"
-			"pwdrequired" "1"
-			"timeupdated" "1733299891"
+			"timeupdated" "1733965928"
 		}
 		"garen"
 		{
@@ -721,21 +703,21 @@
 		}
 		"malzahar"
 		{
-			"buildid" "16622514"
+			"buildid" "16716718"
 			"pwdrequired" "1"
-			"timeupdated" "1733275037"
+			"timeupdated" "1733979781"
 		}
 		"manual-build"
 		{
-			"buildid" "16523064"
+			"buildid" "16721045"
 			"pwdrequired" "1"
-			"timeupdated" "1732532875"
+			"timeupdated" "1734006257"
 		}
 		"pw-playtest"
 		{
-			"buildid" "16641779"
+			"buildid" "16687684"
 			"pwdrequired" "1"
-			"timeupdated" "1733395018"
+			"timeupdated" "1733824288"
 		}
 		"reazell"
 		{
@@ -745,21 +727,21 @@
 		}
 		"release"
 		{
-			"buildid" "16444064"
+			"buildid" "16721045"
 			"pwdrequired" "1"
-			"timeupdated" "1731933588"
+			"timeupdated" "1734006367"
 		}
 		"stale-develop"
 		{
-			"buildid" "16513901"
+			"buildid" "16670353"
 			"pwdrequired" "1"
-			"timeupdated" "1732417999"
+			"timeupdated" "1733627630"
 		}
 		"summer-update"
 		{
-			"buildid" "15200453"
+			"buildid" "16656392"
 			"pwdrequired" "1"
-			"timeupdated" "1722348497"
+			"timeupdated" "1733498722"
 		}
 		"teemo"
 		{
@@ -896,6 +878,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26518477"
-"_sha" "2ba9eb568e2f46e02ddec0bd3a9b4ec296cda5d1"
-"_size" "18948"
+"_change_number" "26613435"
+"_sha" "619a5fd8b893b07eed6a0b84fb5fdf662eeca9f0"
+"_size" "18485"
