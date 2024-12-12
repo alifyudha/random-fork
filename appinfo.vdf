@@ -28,6 +28,7 @@
 		"brazilian" "1"
 		"latam" "1"
 	}
+	"aicontenttype" "2"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -127,7 +128,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730386172"
+	"store_asset_mtime" "1733943274"
 	"associations"
 	{
 		"0"
@@ -261,7 +262,7 @@
 		"19" "4166"
 	}
 	"review_score" "6"
-	"review_percentage" "72"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -332,9 +333,9 @@
 		{
 			"public"
 			{
-				"gid" "3595568328286732206"
-				"size" "21672045077"
-				"download" "17814959536"
+				"gid" "4207220483608431800"
+				"size" "21854450213"
+				"download" "17934539616"
 			}
 			"version_1.51"
 			{
@@ -344,9 +345,9 @@
 			}
 			"insiders"
 			{
-				"gid" "3595568328286732206"
-				"size" "21672045077"
-				"download" "17814959536"
+				"gid" "4207220483608431800"
+				"size" "21854450213"
+				"download" "17934539616"
 			}
 		}
 		"encryptedmanifests"
@@ -359,21 +360,21 @@
 			}
 			"bamboo_publishing"
 			{
-				"gid" "70C771397496C7EFBD652ECA4BACAA3B"
-				"size" "E44819A9ED9DC5BAD39010640BFE44D6"
-				"download" "F695ACF3C29850C80A56CC4C4AE9AE1B"
+				"gid" "BCADD0DB3945349866A37399BE2488A3"
+				"size" "8E766DA503D14979444348D3A2EC4A5F"
+				"download" "8F46F765E51049855E676350050A728C"
 			}
 			"gc4_mvp"
 			{
-				"gid" "D57D5C075B73FCDC97E5BCF41B73DDCB"
-				"size" "027E0E0A1E9859B4C71AA31EADB42BEF"
-				"download" "B2BE74E6EBE01D4F58084DB1B65F0E0D"
+				"gid" "61996C5EEFAD3DE40617DE3B8A3E7F40"
+				"size" "8DF1163A79915EC556AC8B03F6BE8ACD"
+				"download" "910F520C2CEB9EE293BB5099EA48CE2B"
 			}
 			"press"
 			{
-				"gid" "C72AF143C36E89ABC5690ED234B94F95"
-				"size" "6E85FE5215B86A1D7197C384EC0C9709"
-				"download" "F83BF3BFBA0069A7B852759D3FB419B2"
+				"gid" "2643F0D55F0C68BC54D1C5A1EB1DE535"
+				"size" "447EB52428A0B840953A5E3E2B4043A7"
+				"download" "B2280745C25FDE7992D9FF2EBF4E68B4"
 			}
 			"publishing"
 			{
@@ -383,9 +384,9 @@
 			}
 			"qa_galciv4"
 			{
-				"gid" "DCF6D92D0A04928A19CA8956CC44CFD2"
-				"size" "BCF5CD9B0F7A619B3BB0783033865639"
-				"download" "E4E59CFC25A22C21C8E08CA7F0C1E454"
+				"gid" "A4871DDEDC5A919B8FFE61C870DD926D"
+				"size" "CD1AF2BBBD4F782BAC783D0988F4819C"
+				"download" "C26653B39E2685E5513D03A4AD1770E3"
 			}
 		}
 	}
@@ -456,8 +457,8 @@
 	{
 		"public"
 		{
-			"buildid" "16328496"
-			"timeupdated" "1730991037"
+			"buildid" "16685071"
+			"timeupdated" "1733836513"
 		}
 		"qa_postrelease"
 		{
@@ -473,27 +474,27 @@
 		}
 		"bamboo_publishing"
 		{
-			"buildid" "16329444"
+			"buildid" "16723268"
 			"pwdrequired" "1"
-			"timeupdated" "1730992989"
+			"timeupdated" "1734017280"
 		}
 		"gc4_mvp"
 		{
-			"buildid" "16328496"
+			"buildid" "16685071"
 			"pwdrequired" "1"
-			"timeupdated" "1730990888"
+			"timeupdated" "1733836458"
 		}
 		"insiders"
 		{
-			"buildid" "16328496"
+			"buildid" "16685071"
 			"description" "Explore experimental features and fixes"
-			"timeupdated" "1730990900"
+			"timeupdated" "1733836467"
 		}
 		"press"
 		{
-			"buildid" "15343889"
+			"buildid" "16685071"
 			"pwdrequired" "1"
-			"timeupdated" "1723477327"
+			"timeupdated" "1733836477"
 		}
 		"publishing"
 		{
@@ -503,9 +504,9 @@
 		}
 		"qa_galciv4"
 		{
-			"buildid" "16329444"
+			"buildid" "16723268"
 			"pwdrequired" "1"
-			"timeupdated" "1730993009"
+			"timeupdated" "1734017300"
 		}
 	}
 }
@@ -536,6 +537,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26091628"
-"_sha" "49d2c634c7734e973bb48007f01d36bd251cbd9a"
-"_size" "10447"
+"_change_number" "26613649"
+"_sha" "3417ba899d6124d829879343dd27177f0629c375"
+"_size" "10470"
