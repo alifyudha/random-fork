@@ -11,8 +11,8 @@
 	"oslist" "windows,macos"
 	"osarch" "64"
 	"osextended" "macos64,macosapplesilicon,macosnotarized"
-	"clienttga" "7536a4fd2719bc7d25a35470ba0e332a7393d64d"
-	"clienticon" "c8fdd41d1437d8dc296805bded5cfe1bf28d6335"
+	"clienttga" "223588618d25e2e48c10455919c523df3bb3f5eb"
+	"clienticon" "5460c6f7b785007b4a27e08274fb4d1fbac2f4b1"
 	"icon" "34ff99c74ee1d2bb335754ce6b5dbbfd151a0c57"
 	"releasestate" "released"
 	"languages"
@@ -192,7 +192,7 @@
 		"19" "9"
 	}
 	"review_score" "7"
-	"review_percentage" "100"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -236,9 +236,9 @@
 		{
 			"public"
 			{
-				"gid" "6004265684989917009"
-				"size" "4841259769"
-				"download" "1527210016"
+				"gid" "970381107235605400"
+				"size" "4842326289"
+				"download" "1527569504"
 			}
 		}
 	}
@@ -252,9 +252,9 @@
 		{
 			"public"
 			{
-				"gid" "1932919319519039636"
-				"size" "4865549301"
-				"download" "1532405888"
+				"gid" "1569270239970231607"
+				"size" "4865554773"
+				"download" "1532409056"
 			}
 		}
 	}
@@ -262,8 +262,8 @@
 	{
 		"public"
 		{
-			"buildid" "16715699"
-			"timeupdated" "1733971363"
+			"buildid" "16730870"
+			"timeupdated" "1734065973"
 		}
 	}
 }
@@ -315,6 +315,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26608182"
-"_sha" "f4f494dec918835b38af7806f69c4ead1a7809a4"
-"_size" "5863"
+"_change_number" "26629402"
+"_sha" "b44d139088cf5f37f5531e65b50f3b4400d80d5f"
+"_size" "5861"
