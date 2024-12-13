@@ -201,7 +201,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730532240"
+	"store_asset_mtime" "1732009121"
 	"associations"
 	{
 		"0"
@@ -268,40 +268,41 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1730514716"
+	"steam_release_date" "1730514660"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2103140"
 	"store_tags"
 	{
-		"0" "1716"
-		"1" "122"
-		"2" "4885"
-		"3" "3959"
-		"4" "454187"
-		"5" "5125"
-		"6" "32322"
-		"7" "7432"
+		"0" "42804"
+		"1" "3959"
+		"2" "353880"
+		"3" "4885"
+		"4" "17305"
+		"5" "454187"
+		"6" "1716"
+		"7" "122"
 		"8" "4791"
-		"9" "492"
-		"10" "4182"
-		"11" "21"
-		"12" "4057"
-		"13" "19"
+		"9" "32322"
+		"10" "5125"
+		"11" "19"
+		"12" "7432"
+		"13" "4057"
 		"14" "1702"
-		"15" "353880"
-		"16" "493"
-		"17" "4190"
-		"18" "1685"
-		"19" "3859"
+		"15" "21"
+		"16" "4182"
+		"17" "492"
+		"18" "4190"
+		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "91"
 }
 "extended"
 {
 	"developer" "Wave Game"
 	"publisher" "bilibili"
+	"homepage" "https://game.bilibili.com/magicraft/"
 }
 "config"
 {
@@ -329,96 +330,9 @@
 		{
 			"public"
 			{
-				"gid" "7046156492812536971"
-				"size" "2481634540"
-				"download" "437183888"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"uptesting"
-			{
-				"gid" "784B3086363A37ED9919D2F7D5ED2C78"
-				"size" "2FAF14C9FA79204085DE67D8FC1D1483"
-				"download" "85FBFB549CDDF42CA662D10C5F95ED81"
-			}
-			"bilibiliqatesting"
-			{
-				"gid" "F717DC170460A84D0D1512DF41868141"
-				"size" "589F90679A1198561852E2C7FF705DC4"
-				"download" "A57AFD27D3227F81711A8BF192487455"
-			}
-			"eaearlyv"
-			{
-				"gid" "CB5CF87B8E0C76F527F4763A7975262E"
-				"size" "632A5BBF1DD625E65CCB16675E8C181A"
-				"download" "D3E48BAA91177ABF86C6C2B14EC6FD5A"
-			}
-			"entranslatestesting"
-			{
-				"gid" "D93A2D7669E05DEC2AACF307CA11CAFC"
-				"size" "55F21B411536D9D334F22BB20BFA3778"
-				"download" "9B723C04AC751E5170389EFFAD54784D"
-			}
-			"1.0uptesting"
-			{
-				"gid" "BD106A5A63949232A0170C3374D1A6FD"
-				"size" "ECF41DEE9593924990EE8B086C7C1397"
-				"download" "613570C8C5874DFD845A4CEC5502FA2D"
-			}
-			"bilibiliqatesting2"
-			{
-				"gid" "124D61F117EA1C49C65A09BEDD4418DD"
-				"size" "2D98A6B677FA07E4A17F050EA114F42B"
-				"download" "60ECE1982152400D32A0534B45C6BFFB"
-			}
-			"usersplaytesting"
-			{
-				"gid" "85F46DE3EE785627C61AEB970AB25EF9"
-				"size" "1B330CF273610A82805F74B314D7ED8B"
-				"download" "8C21761B385634643D4AAA26BD7CDC4F"
-			}
-			"maidiantest"
-			{
-				"gid" "E566861D9A701BAA2C84197B4D0757FB"
-				"size" "462BC6C571A66AF87862AE917C9553DA"
-				"download" "E6DE1DFC0D622267383686DAD7EC56E6"
-			}
-			"zhanhuiyongbao"
-			{
-				"gid" "2830BCDE649DCE2E99CDDE53EBDEDC73"
-				"size" "757E87FB2E51972032D8A0A36FE01742"
-				"download" "2D823E35638D0401D52F2629B0432DAD"
-			}
-			"banbenyanshou"
-			{
-				"gid" "2F1E0AC5CE5DEC9DF4A029A293E38A22"
-				"size" "BE641765D1EDC75AA7FB30B91927D3F9"
-				"download" "F61DAB2CBC7A7149009086D467E96287"
-			}
-			"eauptesting"
-			{
-				"gid" "824862D233C037E77CF83EB53C25148A"
-				"size" "F01F53A81860CC69255A323E4B4C1397"
-				"download" "C2CE620AB659536FFAA6D51217B4A490"
-			}
-			"fullcontenttest"
-			{
-				"gid" "6992202666092775F0659CF5D1F04B8C"
-				"size" "44AB021A8DD2DC42F17FD20BDD1C8415"
-				"download" "420804A37D1BAE9EC050AF6EEE0460B5"
-			}
-			"shantuiceshi"
-			{
-				"gid" "811E898896E86D3D9B4BDB6858123BF1"
-				"size" "72416074A183E1ADAE9A3AAD0214180C"
-				"download" "7864F378D313114CC0E87602CF1B5B4D"
-			}
-			"suibian"
-			{
-				"gid" "636BF4ED2CDB9791543AAFF75A2A7FB0"
-				"size" "12BC1A1AF9CB9C4CBF8A26B47B16EA77"
-				"download" "41558462FA39641A65AACA2C11F182B8"
+				"gid" "5335612498977592481"
+				"size" "2430177763"
+				"download" "425774320"
 			}
 		}
 	}
@@ -426,95 +340,11 @@
 	{
 		"public"
 		{
-			"buildid" "16439814"
-			"timeupdated" "1731931014"
-		}
-		"uptesting"
-		{
-			"buildid" "16327453"
-			"pwdrequired" "1"
-			"timeupdated" "1730983107"
-		}
-		"bilibiliqatesting"
-		{
-			"buildid" "16439945"
-			"pwdrequired" "1"
-			"timeupdated" "1731909578"
-		}
-		"eaearlyv"
-		{
-			"buildid" "14383629"
-			"pwdrequired" "1"
-			"timeupdated" "1730295573"
-		}
-		"entranslatestesting"
-		{
-			"buildid" "16235412"
-			"pwdrequired" "1"
-			"timeupdated" "1730286009"
-		}
-		"1.0uptesting"
-		{
-			"buildid" "16274024"
-			"pwdrequired" "1"
-			"timeupdated" "1730549921"
-		}
-		"bilibiliqatesting2"
-		{
-			"buildid" "12592164"
-			"pwdrequired" "1"
-			"timeupdated" "1723802620"
-		}
-		"usersplaytesting"
-		{
-			"buildid" "16439814"
-			"pwdrequired" "1"
-			"timeupdated" "1731909592"
-		}
-		"maidiantest"
-		{
-			"buildid" "15965591"
-			"pwdrequired" "1"
-			"timeupdated" "1728386609"
-		}
-		"zhanhuiyongbao"
-		{
-			"buildid" "14857219"
-			"pwdrequired" "1"
-			"timeupdated" "1719556239"
-		}
-		"banbenyanshou"
-		{
-			"buildid" "16439945"
-			"pwdrequired" "1"
-			"timeupdated" "1731909622"
-		}
-		"eauptesting"
-		{
-			"buildid" "12999469"
-			"pwdrequired" "1"
-			"timeupdated" "1702983814"
-		}
-		"fullcontenttest"
-		{
-			"buildid" "16439945"
-			"pwdrequired" "1"
-			"timeupdated" "1731903100"
-		}
-		"shantuiceshi"
-		{
-			"buildid" "16443051"
-			"pwdrequired" "1"
-			"timeupdated" "1731927268"
-		}
-		"suibian"
-		{
-			"sc_schinese" "zhangbeijing"
-			"buildid" "12592164"
-			"pwdrequired" "1"
-			"timeupdated" "1698901416"
+			"buildid" "16730347"
+			"timeupdated" "1734091355"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -535,6 +365,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26243593"
-"_sha" "a9b5b19b7ac94d8af983bd3aa82ec100c9d0511f"
-"_size" "12657"
+"_change_number" "26628877"
+"_sha" "f6169e4ee62557dd5a5d24056811b961cf7fc637"
+"_size" "8623"
