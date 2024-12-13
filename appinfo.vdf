@@ -59,7 +59,7 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "9bc8f629ca9aa2b651a66a82c99131326895876b/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -102,7 +102,7 @@
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "ebf4abfb70495d2b1db3bcfa6768ce1fa9c4fe72/logo.png"
 			}
 			"logo_position"
 			{
@@ -112,18 +112,22 @@
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "ebf4abfb70495d2b1db3bcfa6768ce1fa9c4fe72/logo_2x.png"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "25ec96074807b375af569d3f43462f3e17680849/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "25ec96074807b375af569d3f43462f3e17680849/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1704554107"
+	"store_asset_mtime" "1734095128"
 	"associations"
 	{
 		"0"
@@ -308,7 +312,7 @@
 	"publisher" "Pixel Puzzles"
 	"homepage" "http://pixelpuzzles.co.uk"
 	"isfreeapp" "1"
-	"listofdlc" "1176150,1176151,1176152,1176153,1176154,1176155,1176156,1176157,1176158,1176159,1176180,1176181,1176182,1176183,1176184,1176185,1176186,1176187,1176188,1176189,1176200,1176201,1176202,1176203,1176204,1176206,1176207,1176209,1176210,1176211,1176212,1176213,1176215,1176216,1176217,1176226,1176228"
+	"listofdlc" "1176150,1176151,1176152,1176153,1176154,1176155,1176156,1176157,1176158,1176159,1176180,1176181,1176182,1176183,1176184,1176185,1176186,1176187,1176188,1176189,1176200,1176201,1176202,1176203,1176204,1176206,1176207,1176209,1176210,1176211,1176212,1176213,1176215,1176216,1176217,1176226,1176228,1176233"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -335,18 +339,18 @@
 		{
 			"public"
 			{
-				"gid" "3711261732651865150"
-				"size" "718572609"
-				"download" "680064848"
+				"gid" "211843356072674809"
+				"size" "575501374"
+				"download" "536526464"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "C9191063D4E4B19BD5C50A6BFAB46482"
-				"size" "B8DE24DC87CCC00E509595E3F01D14B8"
-				"download" "EF890771AD7A71BCD04E256FBCBBF90A"
+				"gid" "3C8945A48C5A96E22E94AF2E68AE0C50"
+				"size" "8DCA5BB8851516ED96FB048C43F88D8E"
+				"download" "614ED96E0AD812712CAF3B047DF5B228"
 			}
 		}
 	}
@@ -1249,6 +1253,24 @@
 	"1176233"
 	{
 		"dlcappid" "1176233"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3129953107851372355"
+				"size" "75641618"
+				"download" "75614816"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "0D87F8F21CD991FAD6C60A4B2E53E7D1"
+				"size" "E5AA7F7D6540B103DCD11C645714A27E"
+				"download" "CED153B18240DCCA26AAB75BA5D0CABD"
+			}
+		}
 	}
 	"1176230"
 	{
@@ -1439,14 +1461,14 @@
 	{
 		"public"
 		{
-			"buildid" "16685590"
-			"timeupdated" "1733839504"
+			"buildid" "16735187"
+			"timeupdated" "1734094183"
 		}
 		"beta"
 		{
-			"buildid" "16685590"
+			"buildid" "16735187"
 			"pwdrequired" "1"
-			"timeupdated" "1733778587"
+			"timeupdated" "1734092940"
 		}
 	}
 }
@@ -1470,6 +1492,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26576262"
-"_sha" "4fc71126fc2ad04c8835fdb01ef69c3f8a842413"
-"_size" "24499"
+"_change_number" "26629821"
+"_sha" "132ce2042ccdf4265155c5e0d2572996ba48aa17"
+"_size" "25117"
