@@ -224,24 +224,9 @@
 		{
 			"public"
 			{
-				"gid" "2077574526797494075"
-				"size" "39616038570"
-				"download" "32671081008"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internaltest"
-			{
-				"gid" "E0931253BC27A8950FEBF7311F2CACFD"
-				"size" "CD3F8A6DFCD2704A1DFE82412B36EAAB"
-				"download" "392790E02849E5A9E2B3A0389C8EF4D7"
-			}
-			"steam_china_only"
-			{
-				"gid" "3AADAF294D525D2254042D1407BDDD79"
-				"size" "FE39867308913C9BA5AAEED67544C475"
-				"download" "396C625F94A99267E5551EB925F3B252"
+				"gid" "7838558248013799403"
+				"size" "39642428389"
+				"download" "32695218048"
 			}
 		}
 	}
@@ -258,23 +243,11 @@
 	{
 		"public"
 		{
-			"buildid" "16641255"
-			"timeupdated" "1733455584"
-		}
-		"internaltest"
-		{
-			"buildid" "16641255"
-			"pwdrequired" "1"
-			"timeupdated" "1733391755"
-		}
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-			"buildid" "16153824"
-			"pwdrequired" "1"
-			"timeupdated" "1729706451"
+			"buildid" "16715950"
+			"timeupdated" "1734072358"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -299,6 +272,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26519525"
-"_sha" "1168282af6038f631e2ed7af2d6c14b95ca329d0"
-"_size" "5943"
+"_change_number" "26624541"
+"_sha" "ba3a05e61613cb2b616c0f6b9e85f0133d4198bc"
+"_size" "5321"
