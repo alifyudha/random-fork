@@ -147,7 +147,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727942379"
+	"store_asset_mtime" "1733242516"
 	"associations"
 	{
 		"0"
@@ -158,12 +158,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Paradox Arc"
-		}
-		"2"
-		{
-			"type" "franchise"
-			"name" "Paradox Arc"
+			"name" "Game River"
 		}
 	}
 	"primary_genre" "2"
@@ -279,7 +274,7 @@
 	"gamedir" "Full_Metal_Showdown"
 	"serverbrowsername" "FMS server browser"
 	"developer" "Game River"
-	"publisher" "Paradox Arc"
+	"publisher" "Game River"
 	"listofdlc" "3009940,3202380"
 }
 "config"
@@ -318,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "4164304076236743348"
-				"size" "11260908899"
-				"download" "4310165440"
+				"gid" "1583375850301608972"
+				"size" "11260914659"
+				"download" "4310128176"
 			}
 		}
 		"encryptedmanifests"
@@ -339,15 +334,15 @@
 			}
 			"internal_test"
 			{
-				"gid" "D2E300B6E7BFBF9985F7454A6B0FCD3B"
-				"size" "277784DB49F16EDAE362920BF59ABAF0"
-				"download" "FE2C9EB5C004990D7B454A1879BECB9F"
+				"gid" "74F60A5DC4280265D5AFD5741BC72383"
+				"size" "0045AEBB766DBB2B0F574FE7A3FD6AA2"
+				"download" "40E49F664BB3D4928974FAF58DFE75B2"
 			}
 			"internal_test2"
 			{
-				"gid" "565C451A8C79FC1D8D70907274843098"
-				"size" "D6E4930EE0C16E403DC8F2F17244FB7F"
-				"download" "DB415F72F13B525EA0C3419F2E2BB96E"
+				"gid" "DF32227A744AE9CC51D5F743E8687EDD"
+				"size" "A06DFCE995405F0155ABA1A1A2B8303F"
+				"download" "2721CEFFFD5409CB3C309FABE287613E"
 			}
 			"mechabellum_tv"
 			{
@@ -432,9 +427,9 @@
 		{
 			"public"
 			{
-				"gid" "8103366033730366657"
-				"size" "11260908899"
-				"download" "4312495744"
+				"gid" "4665218698029141075"
+				"size" "11260914659"
+				"download" "4312458176"
 			}
 		}
 		"encryptedmanifests"
@@ -453,15 +448,15 @@
 			}
 			"internal_test"
 			{
-				"gid" "885DC4CF6BD0888675BD36CC6C4E44C9"
-				"size" "277784DB49F16EDAE362920BF59ABAF0"
-				"download" "966D8904958229AF8CAEFB9941C61046"
+				"gid" "F3A6400516CB5EF82F224C52B7487F05"
+				"size" "0045AEBB766DBB2B0F574FE7A3FD6AA2"
+				"download" "D9B868CDDF9BB955156999B86A9E4460"
 			}
 			"internal_test2"
 			{
-				"gid" "B7B35A49306B62EFECBDD1A32B17A064"
-				"size" "D6E4930EE0C16E403DC8F2F17244FB7F"
-				"download" "5A55D01E2CDD231AE05415DE0CA80E4D"
+				"gid" "F6770946F44F5A893384588D77A1EA4C"
+				"size" "A06DFCE995405F0155ABA1A1A2B8303F"
+				"download" "DDA0C51AF10DB5262F1F84E0DC48B306"
 			}
 			"mechabellum_tv"
 			{
@@ -481,8 +476,8 @@
 	{
 		"public"
 		{
-			"buildid" "16575884"
-			"timeupdated" "1732874580"
+			"buildid" "16732988"
+			"timeupdated" "1734089960"
 		}
 		"steam_china_only"
 		{
@@ -499,15 +494,15 @@
 		}
 		"internal_test"
 		{
-			"buildid" "16344799"
+			"buildid" "16732988"
 			"pwdrequired" "1"
-			"timeupdated" "1731085511"
+			"timeupdated" "1734081829"
 		}
 		"internal_test2"
 		{
-			"buildid" "16575884"
+			"buildid" "16640419"
 			"pwdrequired" "1"
-			"timeupdated" "1732869647"
+			"timeupdated" "1733387539"
 		}
 		"mechabellum_tv"
 		{
@@ -524,6 +519,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26419988"
-"_sha" "9e28158da8c772d49d0e302887a8a32b4cb3add9"
-"_size" "10562"
+"_change_number" "26628494"
+"_sha" "33cb7a54b9e25b5742d1d56f4ac23753688229df"
+"_size" "10493"
