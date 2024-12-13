@@ -233,13 +233,13 @@
 		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "94"
 }
 "extended"
 {
 	"developer" "Pantsu Productions"
 	"publisher" "Pantsu Productions"
-	"listofdlc" "3078160,3238760"
+	"listofdlc" "3078160,3238760,3323780"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -294,15 +294,15 @@
 		{
 			"public"
 			{
-				"gid" "8574726791365565638"
-				"size" "535985118"
-				"download" "414784176"
+				"gid" "3981791716698782795"
+				"size" "681090750"
+				"download" "550560384"
 			}
 			"censoredstreamermode"
 			{
-				"gid" "3870749992436447590"
-				"size" "526445230"
-				"download" "405146144"
+				"gid" "5595554844942869068"
+				"size" "530520718"
+				"download" "409183856"
 			}
 		}
 	}
@@ -310,14 +310,14 @@
 	{
 		"public"
 		{
-			"buildid" "16254477"
-			"timeupdated" "1730393197"
+			"buildid" "16729300"
+			"timeupdated" "1734053710"
 		}
 		"censoredstreamermode"
 		{
-			"buildid" "15839886"
+			"buildid" "16344174"
 			"description" "Censored Mode for Streamers"
-			"timeupdated" "1727369992"
+			"timeupdated" "1731082403"
 		}
 	}
 }
@@ -340,6 +340,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25996159"
-"_sha" "d4c64c697d4d776c70f89ee0d1047950846acc36"
-"_size" "5732"
+"_change_number" "26621732"
+"_sha" "9719d8e5822f551fa75e493884cc2bff7c8d1dd7"
+"_size" "5740"
