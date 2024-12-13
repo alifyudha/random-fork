@@ -236,9 +236,9 @@
 		{
 			"public"
 			{
-				"gid" "4826553487153640094"
-				"size" "3303753887"
-				"download" "1057489824"
+				"gid" "1103205263181272122"
+				"size" "3291895407"
+				"download" "1055264256"
 			}
 			"p1-35"
 			{
@@ -265,64 +265,13 @@
 				"download" "1033936912"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"achievementtest-branch"
-			{
-				"gid" "9E5F2AC2F03D411BAEA2FA3D59096A7B"
-				"size" "BDF4FA4443A25CE48925F191BDC7B116"
-				"download" "01CDF79B180CBF63A2708D8E3D772B01"
-			}
-			"controllersupport"
-			{
-				"gid" "A08B485F62F556D805614F53F9A17A65"
-				"size" "AF484090DF45A91CD3A9B7B3FFC0ADE3"
-				"download" "924865841ED263ABC80DF1165510692E"
-			}
-			"jp-press"
-			{
-				"gid" "634FF5F443383FF17BF232F8F63FB2A1"
-				"size" "8CE3F70DFC614D13BD5834B8BAE27599"
-				"download" "855B0B55DE0B8F7A38279CC7A4E5873E"
-			}
-			"localizationbuild"
-			{
-				"gid" "CC690E0E3629E38B655A408ECCE4E4B6"
-				"size" "DA16237E865E2343AAA95C0F7D735797"
-				"download" "D2D5693125431A1C1BA80516EBA02D1B"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16682077"
-			"timeupdated" "1733758188"
-		}
-		"achievementtest-branch"
-		{
-			"buildid" "16666470"
-			"pwdrequired" "1"
-			"timeupdated" "1733569812"
-		}
-		"controllersupport"
-		{
-			"buildid" "16682077"
-			"pwdrequired" "1"
-			"timeupdated" "1733757969"
-		}
-		"jp-press"
-		{
-			"buildid" "16682077"
-			"pwdrequired" "1"
-			"timeupdated" "1733758165"
-		}
-		"localizationbuild"
-		{
-			"buildid" "16682077"
-			"pwdrequired" "1"
-			"timeupdated" "1733784839"
+			"buildid" "16723199"
+			"timeupdated" "1734018911"
 		}
 		"p1-35"
 		{
@@ -349,6 +298,7 @@
 			"timeupdated" "1731663866"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -369,6 +319,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26565860"
-"_sha" "674403fcee788d4cd588dc157e2b29d4414e4cec"
-"_size" "6753"
+"_change_number" "26614148"
+"_sha" "7159b6db17ce91130e978013d076257e4b8f4b18"
+"_size" "5564"
