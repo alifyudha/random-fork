@@ -151,7 +151,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Imperium Interactive Entertainment "
+			"name" "Imperium Interactive Entertainment"
 		}
 	}
 	"primary_genre" "1"
@@ -294,7 +294,7 @@
 {
 	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=1371580"
 	"developer" "Angela Game"
-	"publisher" "Imperium Interactive Entertainment "
+	"publisher" "Imperium Interactive Entertainment"
 	"homepage" "http://www.mythofempires.com/"
 	"listofdlc" "2817400,2817410,2893560,3042590"
 	"dlcavailableonstore" "1"
@@ -374,9 +374,9 @@
 		{
 			"public"
 			{
-				"gid" "6750315789886518555"
-				"size" "121461631834"
-				"download" "73850709536"
+				"gid" "4583951305258190531"
+				"size" "121454755064"
+				"download" "73845346992"
 			}
 		}
 		"encryptedmanifests"
@@ -389,9 +389,9 @@
 			}
 			"qatest"
 			{
-				"gid" "1CC4E89F8F83A3BC1F84CB8BE35E25FD"
-				"size" "9E5B0154BF07124EF55BF3CBF28ABDAA"
-				"download" "51476178A630154F58CD8C9AA9EBEF27"
+				"gid" "DABFEDEB431321DA95BDAB6AD742F428"
+				"size" "FD0A584886DB8602E3AA9686F5CFF43D"
+				"download" "A583C1ECBA46927AC559C2D3676017C8"
 			}
 		}
 	}
@@ -407,9 +407,9 @@
 		{
 			"public"
 			{
-				"gid" "1644420659978148104"
-				"size" "9524603321"
-				"download" "3451483936"
+				"gid" "4477157534300338960"
+				"size" "9538182009"
+				"download" "3462292720"
 			}
 		}
 		"encryptedmanifests"
@@ -422,9 +422,9 @@
 			}
 			"qatest"
 			{
-				"gid" "7027022365782E9F725DB2F78CD5C122"
-				"size" "8DCD0F4F6EF5BFB8D33FBCEF38BBE545"
-				"download" "DB40EE413AA5408AA27EB7DF7BB1B394"
+				"gid" "F3F72F6FF62D10308A6CF035C49CF9A8"
+				"size" "208B86BDA2DD69CC044CFB4CE058B8DD"
+				"download" "DAF5009B56464D88186661F69980C0CF"
 			}
 		}
 	}
@@ -432,8 +432,8 @@
 	{
 		"public"
 		{
-			"buildid" "16483170"
-			"timeupdated" "1732255520"
+			"buildid" "16720619"
+			"timeupdated" "1734070649"
 		}
 		"test"
 		{
@@ -443,9 +443,9 @@
 		}
 		"qatest"
 		{
-			"buildid" "16483170"
+			"buildid" "16720619"
 			"pwdrequired" "1"
-			"timeupdated" "1732241694"
+			"timeupdated" "1734004934"
 		}
 	}
 }
@@ -469,6 +469,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26311566"
-"_sha" "2b04d03e5625b0c340eaaa9de5d32d401d89b59b"
-"_size" "8595"
+"_change_number" "26624323"
+"_sha" "58bcad795f7d88318270487b93a6840643641d21"
+"_size" "8593"
