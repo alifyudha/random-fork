@@ -179,6 +179,10 @@
 		{
 			"supported" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1673971242"
 	"community_visible_stats" "1"
@@ -268,15 +272,15 @@
 		{
 			"public"
 			{
-				"gid" "7263163511862099846"
-				"size" "699831744"
-				"download" "274785248"
+				"gid" "3741518961365422889"
+				"size" "700035228"
+				"download" "274857648"
 			}
 			"beta"
 			{
-				"gid" "7263163511862099846"
-				"size" "699831744"
-				"download" "274785248"
+				"gid" "3741518961365422889"
+				"size" "700035228"
+				"download" "274857648"
 			}
 			"old-version"
 			{
@@ -289,9 +293,9 @@
 		{
 			"alpha"
 			{
-				"gid" "0697CB450ECEB9E659A0ACA90C4D9B17"
-				"size" "98910ADF60D7038462FC20C61FD9092D"
-				"download" "A953EFF94A332F1702BCC4EC03B70E53"
+				"gid" "D3C858C244F943D6C14685FC62739828"
+				"size" "478E4F03FB65B25D01531ABAD7B74A45"
+				"download" "2FA7469EC90604647C995999EBDC7A45"
 			}
 		}
 	}
@@ -305,15 +309,15 @@
 		{
 			"public"
 			{
-				"gid" "4589774116959376032"
-				"size" "724815892"
-				"download" "283233776"
+				"gid" "1363580752783450814"
+				"size" "725019682"
+				"download" "283306768"
 			}
 			"beta"
 			{
-				"gid" "4589774116959376032"
-				"size" "724815892"
-				"download" "283233776"
+				"gid" "1363580752783450814"
+				"size" "725019682"
+				"download" "283306768"
 			}
 			"old-version"
 			{
@@ -326,9 +330,9 @@
 		{
 			"alpha"
 			{
-				"gid" "0649CA4DCE2C2FA4A7A588E1BEA36F28"
-				"size" "97AF71DB3C216D829E3F4332A6B71E43"
-				"download" "F768761F89B44267608DAF6679E074FB"
+				"gid" "A33B35F98D855C63BA15E6028897BBD3"
+				"size" "DBCC4CD128D47AC68C465B5A7BC917F4"
+				"download" "E7DD495B9D7519728475DB040EB7FEB3"
 			}
 		}
 	}
@@ -343,15 +347,15 @@
 		{
 			"public"
 			{
-				"gid" "4122528787299501467"
-				"size" "756153562"
-				"download" "280751264"
+				"gid" "1415633296091585548"
+				"size" "702739862"
+				"download" "274293824"
 			}
 			"beta"
 			{
-				"gid" "4122528787299501467"
-				"size" "756153562"
-				"download" "280751264"
+				"gid" "1415633296091585548"
+				"size" "702739862"
+				"download" "274293824"
 			}
 			"old-version"
 			{
@@ -364,9 +368,9 @@
 		{
 			"alpha"
 			{
-				"gid" "6F2C954A3A1E287124409BD05B7CCD42"
-				"size" "3D1F96E065BC1F149962EBF2F69739E2"
-				"download" "3B42389760B339E76C352E15B42EB311"
+				"gid" "E166EECA36A950DD3937CC23406F8BC2"
+				"size" "93105312BF4A1CB24F39FC28DC8BC217"
+				"download" "B6D381CA38B4A610E229A45EA6999246"
 			}
 		}
 	}
@@ -374,20 +378,20 @@
 	{
 		"public"
 		{
-			"buildid" "16209924"
-			"timeupdated" "1730140458"
+			"buildid" "16631969"
+			"timeupdated" "1733331305"
 		}
 		"alpha"
 		{
-			"buildid" "16209924"
+			"buildid" "16631969"
 			"pwdrequired" "1"
-			"timeupdated" "1730140427"
+			"timeupdated" "1733331320"
 		}
 		"beta"
 		{
-			"buildid" "16209924"
+			"buildid" "16631969"
 			"description" "Public beta testing"
-			"timeupdated" "1730140434"
+			"timeupdated" "1733331330"
 		}
 		"old-version"
 		{
@@ -445,6 +449,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25936916"
-"_sha" "e37af3521e50c04bfb848e02d160c722b1142815"
-"_size" "7896"
+"_change_number" "26515445"
+"_sha" "e39c649e484de88b35709057501f3c773eca7e2b"
+"_size" "7942"
