@@ -19,7 +19,7 @@
 			"id" "1521580_eula_0"
 			"name" "Perfect Heist 2 EULA"
 			"url" "https://store.steampowered.com//eula/1521580_eula_0"
-			"version" "4"
+			"version" "5"
 		}
 	}
 	"steam_deck_compatibility"
@@ -305,9 +305,9 @@
 		{
 			"public"
 			{
-				"gid" "5003775798164288401"
-				"size" "8431176938"
-				"download" "1390456128"
+				"gid" "6770939757209695070"
+				"size" "9679492371"
+				"download" "1563917552"
 			}
 			"raytracing-test"
 			{
@@ -317,9 +317,15 @@
 			}
 			"beta"
 			{
-				"gid" "1479267815176898939"
-				"size" "8442371707"
-				"download" "1388252352"
+				"gid" "4372382209599075969"
+				"size" "9679496467"
+				"download" "1564020240"
+			}
+			"debug"
+			{
+				"gid" "3887763586450822472"
+				"size" "8445168090"
+				"download" "1395758176"
 			}
 		}
 	}
@@ -349,6 +355,12 @@
 				"size" "9194314901"
 				"download" "1481754128"
 			}
+			"debug"
+			{
+				"gid" "4168765983783726904"
+				"size" "9194314901"
+				"download" "1481754128"
+			}
 		}
 	}
 	"workshopdepot" "1521580"
@@ -356,8 +368,8 @@
 	{
 		"public"
 		{
-			"buildid" "15680771"
-			"timeupdated" "1726163605"
+			"buildid" "16739384"
+			"timeupdated" "1734116013"
 		}
 		"raytracing-test"
 		{
@@ -367,9 +379,15 @@
 		}
 		"beta"
 		{
-			"buildid" "16569471"
+			"buildid" "16739779"
 			"description" "beta"
-			"timeupdated" "1732814187"
+			"timeupdated" "1734119009"
+		}
+		"debug"
+		{
+			"buildid" "16646163"
+			"description" "debug"
+			"timeupdated" "1733867413"
 		}
 	}
 }
@@ -379,6 +397,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26410091"
-"_sha" "527f5c38b6dc1843ca68f5a291f1e5fa994734a8"
-"_size" "6531"
+"_change_number" "26635579"
+"_sha" "49b1ca9ebdbb6e1aa8fe5ed6b5537aa64ab686bd"
+"_size" "6865"
