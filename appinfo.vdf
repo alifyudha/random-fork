@@ -181,6 +181,30 @@
 			}
 		}
 	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "11"
+	"steamcontrollerconfigdetails"
+	{
+		"3382900513"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"3382901109"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"3382900863"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
 }
 "depots"
 {
@@ -196,18 +220,18 @@
 		{
 			"public"
 			{
-				"gid" "3410110220661971182"
-				"size" "1294704626"
-				"download" "1004744208"
+				"gid" "89457056737964377"
+				"size" "1297856882"
+				"download" "1007971664"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "53131B02010C7E271CCAEF6F2105C1A8"
-				"size" "B3BB31B8DF59DF53D4ED5E8D3F2A2369"
-				"download" "4E8DA57ED683E1A161F79ABB80AD67FA"
+				"gid" "840C87FF907346DCA857A3639F60E6A4"
+				"size" "580D7F42D8280303C86AD72970C74ED9"
+				"download" "9257A6880A8CD4F4A06C50E4F839662A"
 			}
 		}
 	}
@@ -215,14 +239,14 @@
 	{
 		"public"
 		{
-			"buildid" "16666178"
-			"timeupdated" "1733564725"
+			"buildid" "16729473"
+			"timeupdated" "1734054917"
 		}
 		"test"
 		{
-			"buildid" "16666178"
+			"buildid" "16729473"
 			"pwdrequired" "1"
-			"timeupdated" "1733564697"
+			"timeupdated" "1734054881"
 		}
 	}
 }
@@ -246,6 +270,6 @@
 	"appidredirect" "1169460"
 }
 "_missing_token" "False"
-"_change_number" "26538473"
-"_sha" "627ebfcab124840b65e50a7a8fd2925d4b0c503e"
-"_size" "4236"
+"_change_number" "26621989"
+"_sha" "624c1049df5f4c8bafc1c3f5d89305bb0e7a0f39"
+"_size" "4792"
