@@ -16,6 +16,7 @@
 	{
 		"english" "Esports Godfather"
 		"schinese" "电竞教父"
+		"tchinese" "電競教父"
 	}
 	"languages"
 	{
@@ -131,6 +132,7 @@
 	{
 		"category_2" "1"
 		"category_23" "1"
+		"category_30" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -154,8 +156,8 @@
 	"store_tags"
 	{
 		"0" "9"
-		"1" "791774"
-		"2" "12472"
+		"1" "12472"
+		"2" "791774"
 		"3" "599"
 		"4" "14139"
 		"5" "1666"
@@ -170,12 +172,12 @@
 		"14" "122"
 		"15" "701"
 		"16" "4191"
-		"17" "4562"
-		"18" "1084988"
+		"17" "1084988"
+		"18" "4562"
 		"19" "1741"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -202,6 +204,18 @@
 		{
 			"public"
 			{
+				"gid" "4287735054834873080"
+				"size" "3017899715"
+				"download" "2558524688"
+			}
+			"beta"
+			{
+				"gid" "1213577812713164642"
+				"size" "3017717650"
+				"download" "2558439664"
+			}
+			"v1.3.25"
+			{
 				"gid" "1245073278362696873"
 				"size" "2796525587"
 				"download" "2356457936"
@@ -211,9 +225,9 @@
 		{
 			"debug"
 			{
-				"gid" "52000590D1412F49E514E67F8CE837DE"
-				"size" "EA4CCDA2C6CF1D643EBFCA9D5325C13B"
-				"download" "D02A23098C99626C381AF3FEE7EB4FD1"
+				"gid" "5CDEFE3193C2DEA06F2C4E71E328DA7B"
+				"size" "1234E04031FE2A1F47D317090922C85D"
+				"download" "D25CFB71CB11C7190E23BDB860FB4D6E"
 			}
 		}
 	}
@@ -222,14 +236,26 @@
 	{
 		"public"
 		{
-			"buildid" "15518293"
-			"timeupdated" "1724848556"
+			"buildid" "16746196"
+			"timeupdated" "1734189679"
+		}
+		"beta"
+		{
+			"buildid" "16744740"
+			"description" "公开测试"
+			"timeupdated" "1734169094"
 		}
 		"debug"
 		{
-			"buildid" "15518507"
+			"buildid" "16746284"
 			"pwdrequired" "1"
-			"timeupdated" "1724848983"
+			"timeupdated" "1734190806"
+		}
+		"v1.3.25"
+		{
+			"buildid" "15518293"
+			"description" "History version"
+			"timeupdated" "1734189620"
 		}
 	}
 }
@@ -252,3 +278,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26643642"
+"_sha" "712075000910cf504c86d1729044b7b5570b88e8"
+"_size" "4920"
