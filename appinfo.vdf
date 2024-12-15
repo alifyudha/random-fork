@@ -25,6 +25,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_410ae95c5c4f0d9f52beff7ac7293bcc65005e9d.jpg"
 	"store_asset_mtime" "1713906526"
 	"associations"
 	{
@@ -97,9 +98,9 @@
 		{
 			"public"
 			{
-				"gid" "1960023641740306695"
-				"size" "885234892"
-				"download" "848719344"
+				"gid" "1791448552686780971"
+				"size" "1206299102"
+				"download" "1168651408"
 			}
 		}
 	}
@@ -107,8 +108,12 @@
 	{
 		"public"
 		{
-			"buildid" "14150475"
-			"timeupdated" "1713902940"
+			"buildid" "16726094"
+			"timeupdated" "1734032611"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26617773"
+"_sha" "aeed288150a3c70d0bacf71fa93e97bf13e147fc"
+"_size" "1761"
