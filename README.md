@@ -1,10 +1,10 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-12-15 10:04:27
+## 更新时间：2024-12-15 10:26:30
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 332570 | Amazing Frog?| Game |
-| 269210 | Hero Siege| Game |
-| 799640 | 餐癮地城| Game |
-| 573410 | AI War 2| Game |
-| 1058200 | Pixel Puzzles Traditional Jigsaws| Game |
+| 2096030 | Snow Plowing Simulator| Game |
+| 2521380 | Legacy of Kain™ Soul Reaver 1&2 Remastered| Game |
+| 2865610 | Road Maintenance Simulator 2 + Winter Services| Game |
+| 2662780 | Heat Death: Survival Train| Game |
+| 3150440 | Laundry Store Simulator| Game |
