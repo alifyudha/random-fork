@@ -1,10 +1,13 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-12-16 16:33:33
+## 更新时间：2024-12-16 21:51:07
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1483870 | Draw & Guess - 你画我猜| Game |
-| 215 | Source SDK Base 2006| Tool |
-| 218 | Source SDK Base 2007| Tool |
-| 240 | Counter-Strike: Source| game |
-| 222750 | Wargame: AirLand Battle| Game |
+| 2957700 | 太太！我喜欢你！| Game |
+| 3077400 | 代号肉鸽：流放之地| Game |
+| 2748830 | 播种之谣| Game |
+| 3257490 | 无人| Game |
+| 3241100 | 幻面行者| Game |
+| 2540860 | 生块叉烧好过生你| Game |
+| 2108180 | 剑湾奇旅| Game |
+| 227300 | Euro Truck Simulator 2| Game |
