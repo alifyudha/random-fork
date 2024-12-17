@@ -267,6 +267,16 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1730514660"
 	"community_visible_stats" "1"
@@ -276,11 +286,11 @@
 	{
 		"0" "42804"
 		"1" "3959"
-		"2" "353880"
-		"3" "4885"
+		"2" "4885"
+		"3" "353880"
 		"4" "17305"
-		"5" "454187"
-		"6" "1716"
+		"5" "1716"
+		"6" "454187"
 		"7" "122"
 		"8" "4791"
 		"9" "32322"
@@ -330,9 +340,9 @@
 		{
 			"public"
 			{
-				"gid" "5335612498977592481"
-				"size" "2430177763"
-				"download" "425774320"
+				"gid" "8633774211465857403"
+				"size" "2430128251"
+				"download" "425761728"
 			}
 		}
 	}
@@ -340,8 +350,8 @@
 	{
 		"public"
 		{
-			"buildid" "16730347"
-			"timeupdated" "1734091355"
+			"buildid" "16756190"
+			"timeupdated" "1734353709"
 		}
 	}
 	"privatebranches" "1"
@@ -365,6 +375,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26628877"
-"_sha" "f6169e4ee62557dd5a5d24056811b961cf7fc637"
-"_size" "8623"
+"_change_number" "26660781"
+"_sha" "909fa9f1a6c8510e8cfadd2b51453248b668ccff"
+"_size" "8765"
