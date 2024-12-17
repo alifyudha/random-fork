@@ -183,7 +183,7 @@
 		"19" "493"
 	}
 	"review_score" "7"
-	"review_percentage" "93"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -229,6 +229,7 @@
 }
 "depots"
 {
+	"baselanguages" "schinese,tchinese"
 	"228988"
 	{
 		"config"
@@ -238,7 +239,6 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
-	"baselanguages" "schinese,tchinese"
 	"3362991"
 	{
 		"config"
@@ -249,9 +249,9 @@
 		{
 			"public"
 			{
-				"gid" "1214430744309274124"
-				"size" "720186846"
-				"download" "622672112"
+				"gid" "1453276544571520167"
+				"size" "720189158"
+				"download" "622673024"
 			}
 		}
 	}
@@ -271,19 +271,12 @@
 			}
 		}
 	}
-	"3362993"
-	{
-		"config"
-		{
-			"oslist" "windows"
-		}
-	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16756697"
-			"timeupdated" "1734339918"
+			"buildid" "16769264"
+			"timeupdated" "1734417449"
 		}
 	}
 	"privatebranches" "1"
@@ -327,6 +320,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26657848"
-"_sha" "ccea5f44977430d05042a38e62ca0ded9e426c98"
-"_size" "5661"
+"_change_number" "26673045"
+"_sha" "86246732157103e184376d9cf0b1100e14c59cdd"
+"_size" "5595"
