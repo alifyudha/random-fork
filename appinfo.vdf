@@ -121,7 +121,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727449251"
+	"store_asset_mtime" "1734415208"
 	"associations"
 	{
 		"0"
@@ -186,8 +186,8 @@
 		"7" "4182"
 		"8" "18594"
 	}
-	"review_score" "5"
-	"review_percentage" "69"
+	"review_score" "6"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -195,7 +195,7 @@
 	"publisher" "East Japan Railway Company"
 	"homepage" "https://www.jreast.co.jp/simulator/"
 	"gamemanualurl" "https://store.steampowered.com/manual/2111630/"
-	"listofdlc" "2210720,2216300,2219200,2260870,2433290,2476590,2514660,2553940,2602460,2646190,2696300,2735590,2788350,2844540,2889350,2942990,2998930,3166710,3280130,3349810"
+	"listofdlc" "2210720,2216300,2219200,2260870,2433290,2476590,2514660,2553940,2602460,2646190,2696300,2735590,2788350,2844540,2889350,2942990,2998930,3166710,3280130,3349810,3390940"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -236,18 +236,9 @@
 		{
 			"public"
 			{
-				"gid" "4893921651544976762"
-				"size" "7940465275"
-				"download" "5110870848"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testplay"
-			{
-				"gid" "DED30827F006C2F0112F1DC9106EBF09"
-				"size" "DDCD0F79840ADC817CE7C011D34F1495"
-				"download" "9C19F1C4ACDCB763835CE20D5BF7DF9B"
+				"gid" "9165554722352228543"
+				"size" "8380812833"
+				"download" "5369534320"
 			}
 		}
 	}
@@ -262,15 +253,6 @@
 				"download" "38292076384"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testplay"
-			{
-				"gid" "D1FC0AF14C22C212C346A3F2E51728DC"
-				"size" "A9B2F65FC734BE6EB3CB86BB7D7110DE"
-				"download" "8E9F731FD03BA14C508FBF043B2AD7B6"
-			}
-		}
 	}
 	"2111633"
 	{
@@ -283,30 +265,16 @@
 				"download" "391941280"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testplay"
-			{
-				"gid" "67839BCC57518E04C93BE99A9468A052"
-				"size" "37C6D48ED8989F988830C2F5705C1A33"
-				"download" "CFA4E784FDFC687896FAB7DD39E063B2"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16561089"
-			"timeupdated" "1732779993"
-		}
-		"testplay"
-		{
-			"buildid" "16561089"
-			"pwdrequired" "1"
-			"timeupdated" "1732764099"
+			"buildid" "16768826"
+			"timeupdated" "1734415134"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -314,6 +282,6 @@
 	"maxnumfiles" "5"
 }
 "_missing_token" "False"
-"_change_number" "26401184"
-"_sha" "340356dde89ae90ac1f2126c03d9734f8212f89f"
-"_size" "5840"
+"_change_number" "26673711"
+"_sha" "7a8a7136e0d140c6bce38eca34ef499c49b629d7"
+"_size" "5144"
