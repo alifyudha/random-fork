@@ -294,15 +294,15 @@
 		{
 			"public"
 			{
-				"gid" "9145016988560264229"
-				"size" "2362844836"
-				"download" "1600039472"
+				"gid" "5699512442352790414"
+				"size" "2389758399"
+				"download" "1619379488"
 			}
 			"laststable"
 			{
-				"gid" "7998664467000254867"
-				"size" "2344326020"
-				"download" "1584321520"
+				"gid" "9145016988560264229"
+				"size" "2362844836"
+				"download" "1600039472"
 			}
 			"sandboxxer"
 			{
@@ -311,244 +311,19 @@
 				"download" "1585256560"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"ci-cd-test"
-			{
-				"gid" "985F5DA79E8CB50DD59CE40A34B05634"
-				"size" "75151780DDF8D2D366EA7193F7987EE9"
-				"download" "5675E59E7863B75D111F6D761BAF6B4A"
-			}
-			"cinematics"
-			{
-				"gid" "68068D76BFF6FF84FE88A14F750D2E62"
-				"size" "B9452CEC8CACA12B93FABD26C84E376B"
-				"download" "A5DF9EB740D30719CDE82D26D15FC806"
-			}
-			"playtesting-alphadog"
-			{
-				"gid" "01CA7BB3897471334B1A384D9546FB32"
-				"size" "EE717F93D8AF1F74F3D0B779B73A4590"
-				"download" "736D8549FCA3664FDFAEEB60A7F7F224"
-			}
-			"playtesting-bhaptics"
-			{
-				"gid" "8F6EBF43A5F262A5777787EE717C0C11"
-				"size" "6269FFE93ACFAF8DD6F2A46567A2BD61"
-				"download" "691F26237FE7AD9611CFC875022A649C"
-			}
-			"socials-unlocked"
-			{
-				"gid" "05DBDAA5D72CFBA8D0AB596A520B96A8"
-				"size" "C04C6214F8F2B180BB79D8B8D6C43C28"
-				"download" "88309005ED34A13D084D7BDE940C82E2"
-			}
-			"test-user1"
-			{
-				"gid" "0A2CB74A3CC8A45E1FE1109E4EA6F23D"
-				"size" "1890B8CF282499C1A0D3DA30F7D45DFE"
-				"download" "D73D93F3887B69A021894C1EF22C7723"
-			}
-			"user-nisan"
-			{
-				"gid" "CDF26A6185376C14DED7450E8BB5DB51"
-				"size" "5471EEFFA3CE266449D1B5170835DE6A"
-				"download" "0E0A77AB41707E92C9E4EDBFF0C24309"
-			}
-			"user-prix"
-			{
-				"gid" "FCC940804503B60F2FCEBF314B06CB84"
-				"size" "CCFF3B71EDDCAE587C5B033F8C7DAD6D"
-				"download" "0D94A3A91E63FE62866F2345B8C6C7FE"
-			}
-			"influencers"
-			{
-				"gid" "1780CB47C527FB1E9824A52C3E1717B4"
-				"size" "84EF4BB3FF527EA36E0379601D72FF43"
-				"download" "E4AEEF8955358DA3E68B6A09BF1748A9"
-			}
-			"localization-test"
-			{
-				"gid" "D1431B2CFA064A488CBFA8C4648E8F74"
-				"size" "684DD25792B49EF98F9BB48539BA042E"
-				"download" "23E7B042E654AABC797B7B3A4EDE3DE0"
-			}
-			"nightly"
-			{
-				"gid" "291B9DE8D0CE40E465F20B7D459ADF10"
-				"size" "78DD6B878049E7B45E1714507244EB1E"
-				"download" "45E18CF3290043301116CD187041F61E"
-			}
-			"nightly-debuggable"
-			{
-				"gid" "6F782890D91822A049E2EF417021FDA8"
-				"size" "C1378FF9AE774F56130D0367B44BACF6"
-				"download" "176088A8FA7A3567A363A5EC752DFDD4"
-			}
-			"nightly-sandbox"
-			{
-				"gid" "E2E33FE436CDFF5528F08AD9EF3FF2B8"
-				"size" "071700C97AC0FBE3C62A7F880609F56C"
-				"download" "E1B015369F783C567CFB1B22CBE5B1E9"
-			}
-			"playtesting"
-			{
-				"gid" "5AAD66235747185B48674B0390E0A133"
-				"size" "2F81889BCEAA62447D7F214C5E8EA05E"
-				"download" "E0014B27C197924060235B36200CE017"
-			}
-			"playtesting-sandbox"
-			{
-				"gid" "CD86C02C0B7C2B1F1C7781F12E47D0F1"
-				"size" "197C045125FDC39186C9E28DAE37CF08"
-				"download" "9F8DE46FEBF1690FC309A2C64C418EA0"
-			}
-			"qa-rc"
-			{
-				"gid" "481045345577D83377704E02BD8B8EC4"
-				"size" "388D2B3FE904821D91A606AEA3BE3D92"
-				"download" "9AB0731A080711C23A7303F3C0B027A1"
-			}
-			"release-candidate"
-			{
-				"gid" "413C3363DF067AE2986DFBFF88FF9AFE"
-				"size" "84445D55E9F2D6E4AF733FFB3135A4E3"
-				"download" "97CB3B0861B247C1E0423BDB94C02218"
-			}
-			"staging"
-			{
-				"gid" "F1A9A1B1EED1EECC7A46E0D6480964E6"
-				"size" "B9D74D695592449ED10A8E85CA521C6E"
-				"download" "E22111470D1F1C7D5E22ABFC415A90CF"
-			}
-			"time4vr"
-			{
-				"gid" "48CE4559E236AFB8FAC5D0691C0E7D56"
-				"size" "1960C67CE47F886079E32EDD04BAC7D2"
-				"download" "EC1B250E4CB7FACC2B77FEB74347D489"
-			}
-			"user-yot"
-			{
-				"gid" "95F4DD92A6DEE1626E53D049BCCA49A3"
-				"size" "879D01427AF1836D4A231FC4B9DC3EFA"
-				"download" "FC38217582328C0F172D65902FD1B20F"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16147785"
-			"timeupdated" "1732093278"
-		}
-		"ci-cd-test"
-		{
-			"buildid" "13039567"
-			"pwdrequired" "1"
-			"timeupdated" "1703417853"
-		}
-		"cinematics"
-		{
-			"buildid" "13180188"
-			"pwdrequired" "1"
-			"timeupdated" "1705365280"
-		}
-		"playtesting-alphadog"
-		{
-			"buildid" "13896122"
-			"pwdrequired" "1"
-			"timeupdated" "1711728968"
-		}
-		"playtesting-bhaptics"
-		{
-			"buildid" "13769343"
-			"pwdrequired" "1"
-			"timeupdated" "1710723344"
-		}
-		"socials-unlocked"
-		{
-			"buildid" "13195729"
-			"pwdrequired" "1"
-			"timeupdated" "1705496030"
-		}
-		"test-user1"
-		{
-			"buildid" "13633219"
-			"pwdrequired" "1"
-			"timeupdated" "1709560707"
-		}
-		"user-nisan"
-		{
-			"buildid" "13653393"
-			"pwdrequired" "1"
-			"timeupdated" "1709723647"
-		}
-		"user-prix"
-		{
-			"buildid" "13768696"
-			"pwdrequired" "1"
-			"timeupdated" "1710713298"
-		}
-		"influencers"
-		{
-			"buildid" "15298764"
-			"pwdrequired" "1"
-			"timeupdated" "1723137365"
+			"buildid" "16752733"
+			"timeupdated" "1734370779"
 		}
 		"laststable"
 		{
-			"buildid" "15867144"
+			"buildid" "16147785"
 			"description" "Last stable build"
-			"timeupdated" "1729783215"
-		}
-		"localization-test"
-		{
-			"buildid" "16436952"
-			"pwdrequired" "1"
-			"timeupdated" "1731864207"
-		}
-		"nightly"
-		{
-			"buildid" "16480844"
-			"pwdrequired" "1"
-			"timeupdated" "1732158303"
-		}
-		"nightly-debuggable"
-		{
-			"buildid" "14504160"
-			"pwdrequired" "1"
-			"timeupdated" "1716793628"
-		}
-		"nightly-sandbox"
-		{
-			"buildid" "15254477"
-			"pwdrequired" "1"
-			"timeupdated" "1722755957"
-		}
-		"playtesting"
-		{
-			"buildid" "16254719"
-			"pwdrequired" "1"
-			"timeupdated" "1730457598"
-		}
-		"playtesting-sandbox"
-		{
-			"buildid" "14533222"
-			"pwdrequired" "1"
-			"timeupdated" "1716988301"
-		}
-		"qa-rc"
-		{
-			"buildid" "16488573"
-			"pwdrequired" "1"
-			"timeupdated" "1732203938"
-		}
-		"release-candidate"
-		{
-			"buildid" "16487544"
-			"pwdrequired" "1"
-			"timeupdated" "1732198992"
+			"timeupdated" "1734370692"
 		}
 		"sandboxxer"
 		{
@@ -556,27 +331,28 @@
 			"description" "Sandboxxer Beta"
 			"timeupdated" "1724841436"
 		}
-		"staging"
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "5000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
 		{
-			"buildid" "16487023"
-			"pwdrequired" "1"
-			"timeupdated" "1732196576"
-		}
-		"time4vr"
-		{
-			"buildid" "16290117"
-			"pwdrequired" "1"
-			"timeupdated" "1730801089"
-		}
-		"user-yot"
-		{
-			"buildid" "16290117"
-			"pwdrequired" "1"
-			"timeupdated" "1730740099"
+			"root" "WinAppDataLocalLow"
+			"path" "One Hamsa/UNDERDOGS/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26300989"
-"_sha" "e310c70d645a2c6ef4b75a9e040d193c8a9af450"
-"_size" "11791"
+"_change_number" "26665057"
+"_sha" "79e3f7438e99920d8479a1236402b46fa0cbe222"
+"_size" "6272"
