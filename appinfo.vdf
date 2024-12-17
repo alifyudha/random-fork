@@ -86,6 +86,13 @@
 				"english" "4eca4f38251958a2e3df2644ef15a8c509123b17/library_hero_2x.jpg"
 			}
 		}
+		"library_hero_blur"
+		{
+			"images"
+			{
+				"english" "4eca4f38251958a2e3df2644ef15a8c509123b17/library_hero_blur.jpg"
+			}
+		}
 		"library_logo"
 		{
 			"image"
@@ -267,9 +274,9 @@
 		{
 			"public"
 			{
-				"gid" "8677891119295239975"
-				"size" "4143656173"
-				"download" "1317372080"
+				"gid" "7611326761097414875"
+				"size" "4225898705"
+				"download" "1336814336"
 			}
 			"ea-01"
 			{
@@ -301,20 +308,32 @@
 				"size" "6406073636"
 				"download" "2073095616"
 			}
+			"ea-06"
+			{
+				"gid" "8677891119295239975"
+				"size" "4143656173"
+				"download" "1317372080"
+			}
+			"experimental"
+			{
+				"gid" "7324507121358330847"
+				"size" "4228796591"
+				"download" "1337466768"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"internal-master"
 			{
-				"gid" "3E9F43EC78F51E33FE9B2D998AC27175"
-				"size" "196ADD43CC3852F3AE02C73DDA6A548A"
-				"download" "BB0BF560A4B94533703F8E60A947D8F5"
+				"gid" "92CDBA9FA51EC87BED10D63BBE92B170"
+				"size" "E0629464633E36AF7B2296545D4D0EE1"
+				"download" "80603E8F394F257899CFA66F9DB718C0"
 			}
 			"unstable"
 			{
-				"gid" "88554630D0269D2AA0251D3F6B5B0729"
-				"size" "491110B836A0F097AF9AA1C85845B808"
-				"download" "80DDFEE8C05D95A867E62463B7AFB8EB"
+				"gid" "0F34CCADA53C7FA1C4F80FA029CDCB6F"
+				"size" "B5706E5E9CE771863AF56E94A8A55622"
+				"download" "D2B6C7818D0F26C29842E83FCD65474E"
 			}
 		}
 	}
@@ -329,9 +348,9 @@
 		{
 			"public"
 			{
-				"gid" "827173824414030890"
-				"size" "3932646438"
-				"download" "1210139472"
+				"gid" "3024277513156759678"
+				"size" "4013548944"
+				"download" "1228864096"
 			}
 			"ea-01"
 			{
@@ -363,20 +382,32 @@
 				"size" "5927736855"
 				"download" "1806734800"
 			}
+			"ea-06"
+			{
+				"gid" "827173824414030890"
+				"size" "3932646438"
+				"download" "1210139472"
+			}
+			"experimental"
+			{
+				"gid" "3772043724786697673"
+				"size" "4028491887"
+				"download" "1234551616"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"internal-master"
 			{
-				"gid" "CADF086707E69281A9356447994C0E1D"
-				"size" "0997034BF24F96E8FD7E813C8B91BE0D"
-				"download" "E843D471F3877511677BA70F4B08FDC9"
+				"gid" "39ADEBCB0B06C74E17BFCC5E8B515324"
+				"size" "80F438BD5F2AEED7950BA4D54B7C7446"
+				"download" "1E9A5E00F41A27773B411BCE6059E8A0"
 			}
 			"unstable"
 			{
-				"gid" "28269270D5AD6731FE42099EA4FFE7A4"
-				"size" "3877E82B5103D6112103CA5D44C66848"
-				"download" "1C29C3FAF3D4B2F1F44EFB865D9F5390"
+				"gid" "20FFE94D870D1BB5C9D746ECE847E698"
+				"size" "591B8114D19B8D66EE4E2154D2520D5B"
+				"download" "79F6AB187C9A5DC3D4AD564B2F00229D"
 			}
 		}
 	}
@@ -416,6 +447,18 @@
 				"download" "0"
 			}
 			"ea-05"
+			{
+				"gid" "131293730837976135"
+				"size" "0"
+				"download" "0"
+			}
+			"ea-06"
+			{
+				"gid" "131293730837976135"
+				"size" "0"
+				"download" "0"
+			}
+			"experimental"
 			{
 				"gid" "131293730837976135"
 				"size" "0"
@@ -479,6 +522,18 @@
 				"size" "0"
 				"download" "0"
 			}
+			"ea-06"
+			{
+				"gid" "4858057309773360011"
+				"size" "0"
+				"download" "0"
+			}
+			"experimental"
+			{
+				"gid" "4858057309773360011"
+				"size" "0"
+				"download" "0"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -501,8 +556,8 @@
 	{
 		"public"
 		{
-			"buildid" "16389127"
-			"timeupdated" "1731575534"
+			"buildid" "16759065"
+			"timeupdated" "1734432631"
 		}
 		"ea-01"
 		{
@@ -534,17 +589,29 @@
 			"description" "EA 0.5 (Old version)"
 			"timeupdated" "1729174282"
 		}
-		"internal-master"
+		"ea-06"
 		{
 			"buildid" "16389127"
+			"description" "EA 0.6 (Old version)"
+			"timeupdated" "1734431863"
+		}
+		"experimental"
+		{
+			"buildid" "16711379"
+			"description" "Use at own risk - Unstable!"
+			"timeupdated" "1733947318"
+		}
+		"internal-master"
+		{
+			"buildid" "16759065"
 			"pwdrequired" "1"
-			"timeupdated" "1731486080"
+			"timeupdated" "1734353623"
 		}
 		"unstable"
 		{
-			"buildid" "16400959"
+			"buildid" "16743077"
 			"pwdrequired" "1"
-			"timeupdated" "1731555619"
+			"timeupdated" "1734146695"
 		}
 	}
 }
@@ -597,6 +664,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26189666"
-"_sha" "ebfa633aa81181aa10877e0ad492fd022a0b77d9"
-"_size" "10960"
+"_change_number" "26676237"
+"_sha" "1a16bcf7bd13a2fa78116231c76b007d51a45954"
+"_size" "12221"
