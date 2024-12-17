@@ -463,6 +463,7 @@
 		}
 	}
 	"sdr-groups-global" "steam-global,ovh"
+	"uselaunchcommandline" "1"
 }
 "depots"
 {
@@ -499,9 +500,9 @@
 		{
 			"public"
 			{
-				"gid" "51047303040208511"
-				"size" "36419756919"
-				"download" "20465991328"
+				"gid" "7442950862777521701"
+				"size" "36419942311"
+				"download" "20465965616"
 			}
 			"last-last-month"
 			{
@@ -517,9 +518,9 @@
 			}
 			"test"
 			{
-				"gid" "1788204873881687028"
-				"size" "36419688887"
-				"download" "20465936816"
+				"gid" "7442950862777521701"
+				"size" "36419942311"
+				"download" "20465965616"
 			}
 		}
 		"encryptedmanifests"
@@ -538,15 +539,15 @@
 			}
 			"release"
 			{
-				"gid" "03C8F9B6C38B1567189C1122E2602613"
-				"size" "E7C0E864D9A6A5331BB33298E75354FB"
-				"download" "71E66230FF143E2A3C100182F3ED4D30"
+				"gid" "0B7A53CAAAE70902B41AD51388FDB18F"
+				"size" "1904F71948C7BEE8C60414DF5F0F1C2F"
+				"download" "4445279DF19BED8E094A4CD1DA43A801"
 			}
 			"release-debug"
 			{
-				"gid" "6EE243475D80A576B9C1630288331401"
-				"size" "A28F9A8F62AC8EAC6F1296273089B10C"
-				"download" "3B4F7A4F1A9698461F2B4B71774E73A2"
+				"gid" "B42BDF1390636E7AA89FF89A592DDEB3"
+				"size" "D95484C0D307CC4D502D936AEA7D8364"
+				"download" "2E120E71A9502B79B4330D021624C2FB"
 			}
 			"test-debug"
 			{
@@ -567,9 +568,9 @@
 		{
 			"public"
 			{
-				"gid" "96446779127259779"
-				"size" "5501608440"
-				"download" "1835272400"
+				"gid" "4170521777722051778"
+				"size" "5501720712"
+				"download" "1835307056"
 			}
 			"last-last-month"
 			{
@@ -585,9 +586,9 @@
 			}
 			"test"
 			{
-				"gid" "8932703117163299831"
-				"size" "5501407156"
-				"download" "1835270288"
+				"gid" "4170521777722051778"
+				"size" "5501720712"
+				"download" "1835307056"
 			}
 		}
 		"encryptedmanifests"
@@ -606,15 +607,15 @@
 			}
 			"release"
 			{
-				"gid" "2A61F6E7FC514FC464EC12A3346FD56B"
-				"size" "B78358B16B54594232CBF63C0C1FDB99"
-				"download" "A8E815CB3C123AE863BC5F0464A80D79"
+				"gid" "20A3F54B828615C302EFEC717D4CD0E7"
+				"size" "F7A4BB6873FAC36AAF5D818E74340302"
+				"download" "F02CCD1D6AF607261A0AEFEC0B83E963"
 			}
 			"release-debug"
 			{
-				"gid" "B3923500B4B60C0386839D84302433C9"
-				"size" "ACCD06469C8F3E3E62EEF09D138D3147"
-				"download" "3FEC9EEF7EFE9405177FDE3610EAD44C"
+				"gid" "E6134AB8043E85B44E4EFCBA01B31FBE"
+				"size" "EBA8B5094C84E9055CF5E8CEA041CE84"
+				"download" "60A54CBD1406805CF7EDAB24A185D1ED"
 			}
 			"test-debug"
 			{
@@ -636,9 +637,9 @@
 		{
 			"public"
 			{
-				"gid" "1339548256681202030"
-				"size" "751618529"
-				"download" "310021152"
+				"gid" "5364190322732344082"
+				"size" "749020990"
+				"download" "309433456"
 			}
 			"last-last-month"
 			{
@@ -654,9 +655,9 @@
 			}
 			"test"
 			{
-				"gid" "3303092237848210131"
-				"size" "752220751"
-				"download" "310200320"
+				"gid" "5364190322732344082"
+				"size" "749020990"
+				"download" "309433456"
 			}
 		}
 		"encryptedmanifests"
@@ -675,15 +676,15 @@
 			}
 			"release"
 			{
-				"gid" "A4E944B6C8DAF64D528B6B10970141E0"
-				"size" "58CFC1BC9775CECC9AD6DAF15791BA36"
-				"download" "317B0CB5172982CDEF1DA20DEFCD2214"
+				"gid" "828D5ECC0F9EC5E04FEC8F7D396FEA6B"
+				"size" "FC3FD94D005D15F7C7DB3BB35597A710"
+				"download" "A06668ED3940107D63CB134A80FDAAC8"
 			}
 			"release-debug"
 			{
-				"gid" "566FA181250EA10CD4AD068150DF4C87"
-				"size" "7BFA0B6D99075D556AF742C203DE2334"
-				"download" "1E025590364895342A3F9E801DF5DD40"
+				"gid" "34B899E2DACF0D769A34885C12978301"
+				"size" "02A8992B63B063E84822AC920DDC2AD8"
+				"download" "3819B9C25E80A18BD10B7C55390EF3B1"
 			}
 			"test-debug"
 			{
@@ -697,8 +698,8 @@
 	{
 		"public"
 		{
-			"buildid" "16681246"
-			"timeupdated" "1733770955"
+			"buildid" "16757529"
+			"timeupdated" "1734374555"
 		}
 		"debug"
 		{
@@ -726,21 +727,21 @@
 		}
 		"release"
 		{
-			"buildid" "16681246"
+			"buildid" "16757529"
 			"pwdrequired" "1"
-			"timeupdated" "1733753316"
+			"timeupdated" "1734343879"
 		}
 		"release-debug"
 		{
-			"buildid" "16681274"
+			"buildid" "16757560"
 			"pwdrequired" "1"
-			"timeupdated" "1733753499"
+			"timeupdated" "1734344055"
 		}
 		"test"
 		{
-			"buildid" "16644001"
+			"buildid" "16757529"
 			"description" "GPU skinning test"
-			"timeupdated" "1733422790"
+			"timeupdated" "1734374176"
 		}
 		"test-debug"
 		{
@@ -771,6 +772,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26563139"
-"_sha" "0060e9d84da480d6a67c5caa254f4a2fb4e5af66"
-"_size" "14912"
+"_change_number" "26665937"
+"_sha" "189eb90fd63e94a39315163d9bd2917fc20b8757"
+"_size" "14946"
