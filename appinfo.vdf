@@ -189,7 +189,7 @@
 			"name" "Falconeer Chronicles"
 		}
 	}
-	"primary_genre" "28"
+	"primary_genre" "2"
 	"genres"
 	{
 		"0" "4"
@@ -209,6 +209,7 @@
 		"category_57" "1"
 		"category_61" "1"
 		"category_29" "1"
+		"category_13" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -264,6 +265,16 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1711475598"
 	"community_visible_stats" "1"
@@ -293,7 +304,7 @@
 		"19" "4364"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -333,15 +344,15 @@
 		{
 			"public"
 			{
-				"gid" "6321602938084886748"
-				"size" "2237220900"
-				"download" "967501360"
+				"gid" "5984544072326150642"
+				"size" "2261953961"
+				"download" "972334560"
 			}
 			"beta"
 			{
-				"gid" "6321602938084886748"
-				"size" "2237220900"
-				"download" "967501360"
+				"gid" "5984544072326150642"
+				"size" "2261953961"
+				"download" "972334560"
 			}
 			"debug"
 			{
@@ -360,9 +371,9 @@
 		{
 			"development"
 			{
-				"gid" "A9806C5CB858F07F1668F6083452BE8B"
-				"size" "DA72A6351675B455604F732F8283EFEA"
-				"download" "25C8D62132E8B171DF13074E58E3CBFA"
+				"gid" "73868EA0BDD3F49F301E0664F3CD182D"
+				"size" "82E0F5DD6596870A3D29B96C4DB16A71"
+				"download" "CCF7C079B31C3C3CDDA920CC95AE503B"
 			}
 		}
 	}
@@ -370,14 +381,14 @@
 	{
 		"public"
 		{
-			"buildid" "16314791"
-			"timeupdated" "1730980523"
+			"buildid" "16757629"
+			"timeupdated" "1734356265"
 		}
 		"beta"
 		{
-			"buildid" "16314791"
+			"buildid" "16757629"
 			"description" "Beta patch"
-			"timeupdated" "1730900042"
+			"timeupdated" "1734344620"
 		}
 		"debug"
 		{
@@ -387,9 +398,9 @@
 		}
 		"development"
 		{
-			"buildid" "16314831"
+			"buildid" "16750779"
 			"pwdrequired" "1"
-			"timeupdated" "1730900357"
+			"timeupdated" "1734267046"
 		}
 		"hold"
 		{
@@ -414,6 +425,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26088661"
-"_sha" "6597c080606b82d8db5610cb32df61d9b340f8e6"
-"_size" "7836"
+"_change_number" "26661383"
+"_sha" "9f4effcbaca56dbdd0b25ea4c64565bf52601449"
+"_size" "8001"
