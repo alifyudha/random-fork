@@ -235,6 +235,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1683162071"
 	"community_visible_stats" "1"
@@ -313,9 +318,9 @@
 		{
 			"public"
 			{
-				"gid" "4127859621024593523"
-				"size" "1241571450"
-				"download" "236742624"
+				"gid" "8841139692989099602"
+				"size" "1241572210"
+				"download" "236742784"
 			}
 			"devtest"
 			{
@@ -335,9 +340,9 @@
 		{
 			"public"
 			{
-				"gid" "566193675799568"
-				"size" "1227134777"
-				"download" "232735392"
+				"gid" "4222452955877202265"
+				"size" "1236245489"
+				"download" "235196720"
 			}
 			"devtest"
 			{
@@ -351,8 +356,8 @@
 	{
 		"public"
 		{
-			"buildid" "16722444"
-			"timeupdated" "1734013406"
+			"buildid" "16775724"
+			"timeupdated" "1734452996"
 		}
 		"devtest"
 		{
@@ -386,6 +391,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26612422"
-"_sha" "db79809b31e26584bf64559af2974bdac9f1dca2"
-"_size" "6701"
+"_change_number" "26681065"
+"_sha" "d04487ebe3a889e40d0a01d29a90b3b37e600c7e"
+"_size" "6778"
