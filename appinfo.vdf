@@ -189,7 +189,7 @@
 		"19" "17894"
 	}
 	"review_score" "6"
-	"review_percentage" "71"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -246,9 +246,9 @@
 		{
 			"public"
 			{
-				"gid" "8481852432848134460"
-				"size" "12795012794"
-				"download" "12363056016"
+				"gid" "8621021692883320342"
+				"size" "13283691785"
+				"download" "12658257040"
 			}
 			"experimental"
 			{
@@ -257,34 +257,13 @@
 				"download" "12648326592"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"branchpatreon"
-			{
-				"gid" "FECC4E82C88FF19C97CF330243666834"
-				"size" "D6FDCC8CDA312E1BE100ECBA9B948F41"
-				"download" "65446972C58B4E7FBFB29B4492F3CCFA"
-			}
-			"testing"
-			{
-				"gid" "C89BC03851808178BF5958CD22C0FFE6"
-				"size" "D7520A90019FF7314DDDF09F715358AC"
-				"download" "239E022431CE8D390199A0EC620C5D0D"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16279813"
-			"timeupdated" "1730644601"
-		}
-		"branchpatreon"
-		{
-			"buildid" "15781654"
-			"pwdrequired" "1"
-			"timeupdated" "1726932512"
+			"buildid" "16781095"
+			"timeupdated" "1734489434"
 		}
 		"experimental"
 		{
@@ -292,15 +271,10 @@
 			"description" "For Player To Give Feedback"
 			"timeupdated" "1726932496"
 		}
-		"testing"
-		{
-			"buildid" "15781654"
-			"pwdrequired" "1"
-			"timeupdated" "1726932504"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26026787"
-"_sha" "78161d7e704bf512eb884ab65c15197a625570fb"
-"_size" "5025"
+"_change_number" "26687826"
+"_sha" "c06d0ced121bfb9f1d53949f5a74f41d7faad66a"
+"_size" "4450"
