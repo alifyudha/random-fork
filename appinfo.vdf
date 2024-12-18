@@ -160,7 +160,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730980927"
+	"store_asset_mtime" "1732704754"
 	"associations"
 	{
 		"0"
@@ -279,8 +279,8 @@
 		"3" "4791"
 		"4" "42804"
 		"5" "19"
-		"6" "7368"
-		"7" "1716"
+		"6" "1716"
+		"7" "7368"
 		"8" "5125"
 		"9" "1662"
 		"10" "597"
@@ -290,18 +290,20 @@
 		"14" "8122"
 		"15" "5350"
 		"16" "9"
-		"17" "4726"
-		"18" "7481"
+		"17" "7481"
+		"18" "4726"
 		"19" "3841"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "90"
 }
 "extended"
 {
 	"developer" "Indoor Astronaut"
 	"publisher" "Indoor Astronaut"
 	"homepage" "https://unrailed.gg"
+	"listofdlc" "3393870"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -353,6 +355,48 @@
 			}
 			"description" "Safe Mode (Minimum graphics settings)"
 		}
+		"6"
+		{
+			"executable" "open_supporter_pack_folder_win.bat"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "3393870"
+			}
+			"description_loc"
+			{
+				"english" "Supporter Pack Content"
+			}
+			"description" "Supporter Pack Content"
+		}
+		"7"
+		{
+			"executable" "open_supporter_pack_folder_osx.sh"
+			"config"
+			{
+				"oslist" "macos"
+				"ownsdlc" "3393870"
+			}
+			"description_loc"
+			{
+				"english" "Supporter Pack Content"
+			}
+			"description" "Supporter Pack Content"
+		}
+		"8"
+		{
+			"executable" "open_supporter_pack_folder_lin.sh"
+			"config"
+			{
+				"oslist" "linux"
+				"ownsdlc" "3393870"
+			}
+			"description_loc"
+			{
+				"english" "Supporter Pack Content"
+			}
+			"description" "Supporter Pack Content"
+		}
 	}
 	"steamcontrollertemplateindex" "4"
 	"steamdecktouchscreen" "1"
@@ -360,6 +404,7 @@
 }
 "depots"
 {
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
 	"228989"
 	{
 		"config"
@@ -378,7 +423,6 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
-	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
 	"2211171"
 	{
 		"config"
@@ -389,72 +433,21 @@
 		{
 			"public"
 			{
-				"gid" "1288165573951606627"
-				"size" "460187872"
-				"download" "313545760"
+				"gid" "706326208705590510"
+				"size" "536627741"
+				"download" "338095936"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"debug"
+			"community-cup-japan"
 			{
-				"gid" "32909EDB92BE7EC2199DF982B118C0F5"
-				"size" "CDE105C230E69D089B19C450D71619D8"
-				"download" "D3C9D87D07D88E855FE58755C4D4CEA6"
+				"gid" "9157307307623154147"
+				"size" "460853587"
+				"download" "314083616"
 			}
-			"develper-testing"
+			"experimental"
 			{
-				"gid" "C3A03ACC19D50B1D1476FAD227FE6B1F"
-				"size" "80B62FC6E1A4DE8A5568611814F9DAD3"
-				"download" "DDCE2514124AC04CF118B351D4B22D68"
-			}
-			"ioi-testing"
-			{
-				"gid" "BAE8C17BE757225F35AB1583B1D5192F"
-				"size" "0525E910395D48FF344EE0E42FEEB35E"
-				"download" "580428BE71E4E7BEAFF3A03B6A1A12C9"
-			}
-			"japan-expo-paris"
-			{
-				"gid" "5D0921D6237E5970E379F2AC78E160BA"
-				"size" "9C4115D67B62EAD311556C7022ADFBA2"
-				"download" "97A91E20FC3D36F355DEEF752803A69C"
-			}
-			"loca"
-			{
-				"gid" "EF067C07C8A3A2F55211DF1B29B30A00"
-				"size" "C339ADAB9446987E526C5F122583272E"
-				"download" "3827B8161D50233064EB9BBB6D2BB803"
-			}
-			"musiker-testing"
-			{
-				"gid" "0602C642786BDA0F48843EC830D11E14"
-				"size" "7B7ED4D6EF62B65F3F086ED70D5EB248"
-				"download" "6F867849ECB8CD4939030B8816F486C3"
-			}
-			"rollback"
-			{
-				"gid" "92533D10DC5472AF67CE04D737331505"
-				"size" "3FA927210285A62FF0EE2F018C0B3A81"
-				"download" "7B202713EB62F56B498B2648A89D194A"
-			}
-			"steamdeckreview"
-			{
-				"gid" "E47CE0CE21D71800EBC286EEA8F64184"
-				"size" "D992AEB5CA2FAB922456E46020253258"
-				"download" "7D2C11C6E07ED09D1AE6D28CEDFF323F"
-			}
-			"steamreview"
-			{
-				"gid" "BEC9CD1F1CA92F811AF889F09C3A3A4C"
-				"size" "63A2F010208E8AF135101922D03705BE"
-				"download" "E39CCC7FED2850D2B8E5AA6A11C0907A"
-			}
-			"uu-testing"
-			{
-				"gid" "964E34084344E57613964C69FCEE3CC6"
-				"size" "5350551E909023CF056F93511EA3B167"
-				"download" "118146FF74FFC2F4374EBC173989C992"
+				"gid" "7439787108885034214"
+				"size" "536735167"
+				"download" "338191168"
 			}
 		}
 	}
@@ -469,72 +462,40 @@
 		{
 			"public"
 			{
-				"gid" "7378968915179941318"
-				"size" "466041404"
-				"download" "270270448"
+				"gid" "1073960658806739680"
+				"size" "474957638"
+				"download" "274772320"
+			}
+			"community-cup-japan"
+			{
+				"gid" "298633845571471003"
+				"size" "466321964"
+				"download" "270367168"
+			}
+			"experimental"
+			{
+				"gid" "1326474954196769601"
+				"size" "474999750"
+				"download" "274811408"
 			}
 		}
-		"encryptedmanifests"
+	}
+	"3393870"
+	{
+		"dlcappid" "3393870"
+		"manifests"
 		{
-			"debug"
+			"public"
 			{
-				"gid" "E31694F8B172DB94F915D032FB9AFD3C"
-				"size" "1F3A8497E6332EC4D1B8F30B51543C59"
-				"download" "9F303C4F32293286A933DA7A7576B942"
+				"gid" "6791668633663136818"
+				"size" "340245525"
+				"download" "341584416"
 			}
-			"develper-testing"
+			"experimental"
 			{
-				"gid" "5514C6D3A61ED482BEA82E98AFFEE03B"
-				"size" "5D0FEC7188D4F7D0CFF9C071C2EFB819"
-				"download" "248AC1F440907C31C87B4C92B27FA610"
-			}
-			"ioi-testing"
-			{
-				"gid" "5EACF5A91BA45A6498F8C8B0FC95D1E8"
-				"size" "EE2C98FEEF5EE453119A1DDB95162CE3"
-				"download" "76B61EEC144AB41EC35A978BC1C86AD9"
-			}
-			"japan-expo-paris"
-			{
-				"gid" "11540765AE62412024C38A511E62817A"
-				"size" "F7F2A530E469CE0D2517230B6DDA7EBA"
-				"download" "EA7C36E0BA196A30DD1AF06BAF523E86"
-			}
-			"loca"
-			{
-				"gid" "903ABEE6AE40CF0AF5BBF0210B90972A"
-				"size" "9680AC609C7484A5D7623A5FC582109B"
-				"download" "738358A645D2D15B16D81875B7CB0BFD"
-			}
-			"musiker-testing"
-			{
-				"gid" "04C0B824D1DF665F3F23FC6AC90F07AD"
-				"size" "24B9DE8575C32CBE84542B6334ADAE8C"
-				"download" "168B9795366D3145141A637D19B0D153"
-			}
-			"rollback"
-			{
-				"gid" "F839037FD0D8CB917D379BA5427BA805"
-				"size" "36A8AAE88FDA027BBD5CDA47E4980DF7"
-				"download" "4DEA682C520148A7EEFD8D98FA8E3E13"
-			}
-			"steamdeckreview"
-			{
-				"gid" "F7BB63478479ACE7C16A9B8883629F64"
-				"size" "91CE490C1A278974D807275462A27938"
-				"download" "A6F7D0FDB3C508C4A474AFD8AA89BF9F"
-			}
-			"steamreview"
-			{
-				"gid" "C15D04A127055F3CDD43E20360B18D68"
-				"size" "878ECD6311B9673077C85D5068847ABC"
-				"download" "EB8A918B8175B383021865AF7FE650B3"
-			}
-			"uu-testing"
-			{
-				"gid" "B91E5AFB26C39670A6DFA91AE6B2D4A0"
-				"size" "68B79359C68DDF3E828DFB2AC4641E42"
-				"download" "8F1D809A8EC85706835F0E120B1F7F20"
+				"gid" "6791668633663136818"
+				"size" "340245525"
+				"download" "341584416"
 			}
 		}
 	}
@@ -542,70 +503,23 @@
 	{
 		"public"
 		{
-			"buildid" "16583362"
-			"timeupdated" "1732914405"
+			"buildid" "16774427"
+			"timeupdated" "1734448614"
 		}
-		"debug"
+		"community-cup-japan"
 		{
-			"buildid" "16583362"
-			"pwdrequired" "1"
-			"timeupdated" "1732913882"
+			"buildid" "16644570"
+			"description" "Version for the community cup vol 2"
+			"timeupdated" "1733409422"
 		}
-		"develper-testing"
+		"experimental"
 		{
-			"buildid" "16583362"
-			"pwdrequired" "1"
-			"timeupdated" "1732912043"
-		}
-		"ioi-testing"
-		{
-			"buildid" "16347481"
-			"pwdrequired" "1"
-			"timeupdated" "1731103377"
-		}
-		"japan-expo-paris"
-		{
-			"buildid" "14978043"
-			"pwdrequired" "1"
-			"timeupdated" "1720536122"
-		}
-		"loca"
-		{
-			"buildid" "16360753"
-			"pwdrequired" "1"
-			"timeupdated" "1731291127"
-		}
-		"musiker-testing"
-		{
-			"buildid" "14861348"
-			"pwdrequired" "1"
-			"timeupdated" "1719596719"
-		}
-		"rollback"
-		{
-			"buildid" "16527762"
-			"pwdrequired" "1"
-			"timeupdated" "1732910288"
-		}
-		"steamdeckreview"
-		{
-			"buildid" "16360753"
-			"pwdrequired" "1"
-			"timeupdated" "1731291991"
-		}
-		"steamreview"
-		{
-			"buildid" "16307300"
-			"pwdrequired" "1"
-			"timeupdated" "1730890620"
-		}
-		"uu-testing"
-		{
-			"buildid" "16347481"
-			"pwdrequired" "1"
-			"timeupdated" "1731103363"
+			"buildid" "16776842"
+			"description" "Test new features early on!"
+			"timeupdated" "1734458860"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -648,6 +562,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26428665"
-"_sha" "5e35e7ac24e65a241beb00dabffd98062e468087"
-"_size" "13720"
+"_change_number" "26682496"
+"_sha" "354dad50aa009f8f740c8faa98ea8e8b6d9b1bba"
+"_size" "10978"
