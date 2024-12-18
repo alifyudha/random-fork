@@ -130,7 +130,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1723055623"
+	"store_asset_mtime" "1732311333"
 	"associations"
 	{
 		"0"
@@ -225,26 +225,26 @@
 	"gameid" "1044720"
 	"store_tags"
 	{
-		"0" "9204"
-		"1" "1676"
-		"2" "22602"
-		"3" "4172"
+		"0" "1676"
+		"1" "9204"
+		"2" "4172"
+		"3" "22602"
 		"4" "4328"
-		"5" "220585"
-		"6" "7332"
-		"7" "9"
-		"8" "3813"
-		"9" "87918"
-		"10" "4695"
-		"11" "4791"
-		"12" "4168"
-		"13" "12472"
-		"14" "6730"
-		"15" "4202"
-		"16" "1662"
-		"17" "1643"
-		"18" "30358"
-		"19" "1678"
+		"5" "9"
+		"6" "1695"
+		"7" "7332"
+		"8" "12472"
+		"9" "220585"
+		"10" "599"
+		"11" "8945"
+		"12" "1662"
+		"13" "4791"
+		"14" "1678"
+		"15" "4695"
+		"16" "3987"
+		"17" "4520"
+		"18" "3810"
+		"19" "4202"
 	}
 	"review_score" "8"
 	"review_percentage" "85"
@@ -279,24 +279,24 @@
 		{
 			"public"
 			{
-				"gid" "7754138825943084501"
-				"size" "5020153988"
-				"download" "2191360368"
+				"gid" "4306792223872215598"
+				"size" "5163339110"
+				"download" "2283185392"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"contractor"
+			{
+				"gid" "642BCBA888F2721F22FE2074B2380E33"
+				"size" "415C462D52D9C88E197CD7137AEAC55C"
+				"download" "135DB3DA559B84F25B3856022B5168F8"
+			}
 			"internal"
 			{
-				"gid" "C488CDF2B58071EFF97328A1E59CEEC3"
-				"size" "461E43D4EECA9C3F4DBDA3462A5451B8"
-				"download" "86865CE8E962D8D75415C7F13F3D87E6"
-			}
-			"playtest"
-			{
-				"gid" "69C919525148D91FE3618A85EA4250E3"
-				"size" "83E2C222309005D096EA859D084C8C3C"
-				"download" "B96F7A1120B07F4A15E2163F6FFD8308"
+				"gid" "FFA7C5E399011DBF51A52CD07258C39C"
+				"size" "ADCBE075C7B412BFE99992AEC4AEDB1E"
+				"download" "A37EA07F64146B6780FD6F1D6AE2D02E"
 			}
 			"sandbox"
 			{
@@ -311,20 +311,20 @@
 	{
 		"public"
 		{
-			"buildid" "16082755"
-			"timeupdated" "1729176135"
+			"buildid" "16779764"
+			"timeupdated" "1734483651"
+		}
+		"contractor"
+		{
+			"buildid" "16329715"
+			"pwdrequired" "1"
+			"timeupdated" "1730994520"
 		}
 		"internal"
 		{
-			"buildid" "16083819"
+			"buildid" "16778526"
 			"pwdrequired" "1"
-			"timeupdated" "1729181142"
-		}
-		"playtest"
-		{
-			"buildid" "16072106"
-			"pwdrequired" "1"
-			"timeupdated" "1729114879"
+			"timeupdated" "1734469706"
 		}
 		"sandbox"
 		{
@@ -351,9 +351,20 @@
 			}
 			"recursive" "1"
 		}
+		"1"
+		{
+			"root" "WinSavedGames"
+			"path" "Farthest Frontier/Save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25770293"
-"_sha" "d07d2636965be0b8e4d1ee1d0d73ab540a188d74"
-"_size" "6117"
+"_change_number" "26686839"
+"_sha" "a82a57b5a7838ff1b309aaa51d7a448c92b9f852"
+"_size" "6288"
