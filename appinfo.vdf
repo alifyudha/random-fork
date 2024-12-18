@@ -88,6 +88,7 @@
 	{
 		"library_capsule" "en,zh-cn,zh-tw"
 		"library_hero" "en"
+		"library_hero_blur" "zh-cn,zh-tw"
 		"library_logo" "en,zh-cn,zh-tw"
 		"library_header" "en,zh-cn,zh-tw"
 		"logo_position"
@@ -123,6 +124,14 @@
 			"image2x"
 			{
 				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"schinese" "0162f6fc4ea51d827d580ccb87f285da1f28149a/library_hero_blur_schinese.jpg"
+				"tchinese" "0162f6fc4ea51d827d580ccb87f285da1f28149a/library_hero_blur_tchinese.jpg"
 			}
 		}
 		"library_logo"
@@ -161,7 +170,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729769861"
+	"store_asset_mtime" "1731058027"
 	"associations"
 	{
 		"0"
@@ -363,9 +372,9 @@
 		{
 			"public"
 			{
-				"gid" "5249225156696872939"
-				"size" "2687528242"
-				"download" "505191680"
+				"gid" "197926614270102823"
+				"size" "2712245662"
+				"download" "506407712"
 			}
 			"rg0.9"
 			{
@@ -392,33 +401,6 @@
 				"download" "98435568"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta_0.10.1"
-			{
-				"gid" "5EAC2ACC1C63D44E47F25C5ADF49C228"
-				"size" "1FEB5DAAB45E48A6BF5890A43745133B"
-				"download" "F84A9A19D28E575F6949A6E9CB1EEA06"
-			}
-			"contentcreator"
-			{
-				"gid" "17C39E3F83DAEB06350BC323A8F07A9E"
-				"size" "B5698232E554219715826BF38C8F343D"
-				"download" "2BCDD4E5FB50274DD310EC8A33A42492"
-			}
-			"lqabranch"
-			{
-				"gid" "E112BBB0DF7246145FCA942A3E831814"
-				"size" "A07A08979DF0D278EC106252B5AE2ECF"
-				"download" "892689FC867989533B3E0533EC30E3C2"
-			}
-			"indevbeta"
-			{
-				"gid" "CFC9059465C607F61D2038A71584AF9B"
-				"size" "7D970CC26237DE6314096DF53354229F"
-				"download" "6B0E3944BC3B768A59BC4EDCAD0BDD52"
-			}
-		}
 	}
 	"2067922"
 	{
@@ -431,9 +413,9 @@
 		{
 			"public"
 			{
-				"gid" "1294101695070345522"
-				"size" "1295763845"
-				"download" "439561616"
+				"gid" "4118108000518277935"
+				"size" "1342553947"
+				"download" "441968576"
 			}
 			"rg0.9"
 			{
@@ -454,33 +436,6 @@
 				"download" "117842416"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta_0.10.1"
-			{
-				"gid" "8CF82DD3A6DE227DA07804EAF671D456"
-				"size" "36551253ADD8C18DFFF43752D93F4A5B"
-				"download" "F394D554846542A79129545A4C034225"
-			}
-			"contentcreator"
-			{
-				"gid" "2100EB3940BA4790763BDBE3C76FC884"
-				"size" "69074A260A8C575996CE9F3F5A60E1DA"
-				"download" "29CF136599B43CE76B28734304AF8B35"
-			}
-			"lqabranch"
-			{
-				"gid" "AB156CF0B5DE43215C387BC3B6EA8721"
-				"size" "83BAF2F4FBE6E7E0C77F865F66A6FD52"
-				"download" "43C6D3086BAF34AA972A198E46145682"
-			}
-			"indevbeta"
-			{
-				"gid" "D6691F59947C7912D1A2A8111E8C7848"
-				"size" "BC0237680CA790700427AB890A658B3A"
-				"download" "B00FD6B41139DF2243E6A9A19B35D610"
-			}
-		}
 	}
 	"2067923"
 	{
@@ -496,38 +451,14 @@
 	{
 		"public"
 		{
-			"buildid" "16163643"
-			"timeupdated" "1729764267"
-		}
-		"beta_0.10.1"
-		{
-			"buildid" "16163643"
-			"pwdrequired" "1"
-			"timeupdated" "1729764245"
-		}
-		"contentcreator"
-		{
-			"buildid" "16163643"
-			"pwdrequired" "1"
-			"timeupdated" "1729764421"
-		}
-		"lqabranch"
-		{
-			"buildid" "16163643"
-			"pwdrequired" "1"
-			"timeupdated" "1729764413"
+			"buildid" "16788845"
+			"timeupdated" "1734537008"
 		}
 		"rg0.9"
 		{
 			"buildid" "13489403"
 			"description" "(OLD) Version 0.9"
 			"timeupdated" "1722561132"
-		}
-		"indevbeta"
-		{
-			"buildid" "16163643"
-			"pwdrequired" "1"
-			"timeupdated" "1729764153"
 		}
 		"rg0.8"
 		{
@@ -548,6 +479,7 @@
 			"timeupdated" "1668430850"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -639,6 +571,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25875569"
-"_sha" "0865464ba01a920b4c752fec6f26eea197c831e8"
-"_size" "12947"
+"_change_number" "26698000"
+"_sha" "a92ffbe008bc7f3ce2f9f20699bdd74ae8fe9ec5"
+"_size" "11335"
