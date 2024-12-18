@@ -163,7 +163,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726228805"
+	"store_asset_mtime" "1734425748"
 	"associations"
 	{
 		"0"
@@ -312,14 +312,14 @@
 		"19" "1685"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "87"
 }
 "extended"
 {
 	"developer" "Lavapotion"
 	"publisher" "Coffee Stain Publishing"
 	"homepage" "https://www.songsofconquest.com/"
-	"listofdlc" "1979540,2977420,2977430"
+	"listofdlc" "1979540,2977420,2977430,3260210"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -384,54 +384,60 @@
 		{
 			"public"
 			{
+				"gid" "6234150213859585449"
+				"size" "2272917648"
+				"download" "1580721152"
+			}
+			"console-crossplay"
+			{
 				"gid" "297123444654529094"
 				"size" "2583273281"
 				"download" "1418286352"
 			}
 			"public-test-realm"
 			{
-				"gid" "297123444654529094"
-				"size" "2583273281"
-				"download" "1418286352"
+				"gid" "6234150213859585449"
+				"size" "2272917648"
+				"download" "1580721152"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"develop-release-build"
+			{
+				"gid" "59C86D324CD58F21B7F016570DEFD064"
+				"size" "098B7F1F9726A5D1CBDDAAEE1ADD1E03"
+				"download" "93FBFB52CBDAD78B266353D6120C48F8"
+			}
+			"balancing"
+			{
+				"gid" "113F6EC9D4F95BDBDD897B6E57DAA6E4"
+				"size" "9AC6A59B81B09A0345A2935F28D9CF4D"
+				"download" "1685A1BC42FA7CCBC0B073F497ACEFF6"
+			}
 			"prototype"
 			{
 				"gid" "F8FD757AABB1EBFE83F6017253E0FD7F"
 				"size" "E1B2A3D42E8B21DCA8407C3C0328D8CD"
 				"download" "AF63CD1DB2D2683786A843D475E8DBEF"
 			}
-			"balancing"
+			"pre-master"
 			{
-				"gid" "7CC08DA99C89146C48CC59B108B0209E"
-				"size" "C591DDB3CAA54B64D297B76F16BC700D"
-				"download" "51EAD4A4C1197AE63424BA8FBEAEBAEE"
-			}
-			"ccert"
-			{
-				"gid" "53F3A9D379CA83ECAB6A5DC34AA7F1D3"
-				"size" "4CA0EDC5583537C727A0317F0B839568"
-				"download" "DF4BFE3D5F766B4412825BA46DE14649"
-			}
-			"develop"
-			{
-				"gid" "1A1CD5FADE294C4D5A539E139278613F"
-				"size" "4848D9BB211B312FDEFB0DD908FE31C3"
-				"download" "D3299487AD52E9A47116C03626062EE1"
+				"gid" "F08DEF2E6B0244A75F02BF806BF5A134"
+				"size" "5EF8DDC12D1A9A01FF4885B6BEC11004"
+				"download" "C3276A6691E5339C71A74C9C89F7A29E"
 			}
 			"hillar"
 			{
-				"gid" "CE6934760A5C5E6AF5619E65D8E1D1CB"
-				"size" "5F8EFD2D365C65540ADDF903BE603F8E"
-				"download" "2A0C7CEFA8011A14B3CDC209AAFF80CE"
+				"gid" "98E2D056A610F236681D2AD048075AB9"
+				"size" "FF44CD5FF9603DF9CA72676929089F30"
+				"download" "492203ABB835A5CD4C8AE7A149980C34"
 			}
-			"pre-master"
+			"develop"
 			{
-				"gid" "6A6D12A8B008ADEE7FDE7C24D7950C6B"
-				"size" "4B805C12EB33A0E53A070042154D50BA"
-				"download" "3B8AE06127DDF4B8A9C242FC22EACEE2"
+				"gid" "D7CD0DF6CD2570F9C525E83FE8A52C01"
+				"size" "0B4CA80ED105DE07D7CE9B34079189E8"
+				"download" "BC9E56686F4A4205363061CAD7078437"
 			}
 		}
 	}
@@ -445,54 +451,60 @@
 		{
 			"public"
 			{
+				"gid" "5808166181688882694"
+				"size" "2358132065"
+				"download" "1599945296"
+			}
+			"console-crossplay"
+			{
 				"gid" "3865623015053651789"
 				"size" "2668217667"
 				"download" "1435315232"
 			}
 			"public-test-realm"
 			{
-				"gid" "3865623015053651789"
-				"size" "2668217667"
-				"download" "1435315232"
+				"gid" "5808166181688882694"
+				"size" "2358132065"
+				"download" "1599945296"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"develop-release-build"
+			{
+				"gid" "9D6B27B2E7FDDE686860D60968E8F01F"
+				"size" "E66FF2FB580D53B464AD106F2BC0A587"
+				"download" "64B08C391311BC9F87697AB3B8B35EFB"
+			}
+			"balancing"
+			{
+				"gid" "248489DE7E023B74886F9D1B424E8F03"
+				"size" "DADE6C07315B1684533E13787134669D"
+				"download" "3FF53319F2C1DE26D2C01DBE35864A2C"
+			}
 			"prototype"
 			{
 				"gid" "307A8AA5F372B4BF8E005C36245B4296"
 				"size" "40916DB13CAB992CC1EAE5FD3076C995"
 				"download" "09CEDEF5E325DB47F2F8EFBAEF7E78D2"
 			}
-			"balancing"
+			"pre-master"
 			{
-				"gid" "3826233E3064C7476DCE619CA74821D0"
-				"size" "5B42F81371F941531099C82CF0FFD010"
-				"download" "602131E7E54163CD7B0DFA77E698FE23"
-			}
-			"ccert"
-			{
-				"gid" "B1AA06529EF245B800AC4C8FF9358936"
-				"size" "6E1B81169F8B6740CC920D17131E0E9F"
-				"download" "D49FE21D431CC0B67F4DFA23DF71496D"
-			}
-			"develop"
-			{
-				"gid" "5D6AC3AF3B4BFFCE48F453096DC1BE5F"
-				"size" "31C5AA935CFE1721577BC329CDE5FF5A"
-				"download" "C2E6F38293F83690069AD93CE5C4641A"
+				"gid" "7AED51C43DFC23EDC965C8FC93CC9C37"
+				"size" "336B52219A324E5F78FD287C48B8EAD8"
+				"download" "E4CF1E8D2F1AAA79306C0FB9CC0891AE"
 			}
 			"hillar"
 			{
-				"gid" "341667558706008180FA47E6DB5D1054"
-				"size" "144A73430B3B44947EBE4B2D815F4DE5"
-				"download" "E7829DA5EE91FA232F56DC4FF880F0D5"
+				"gid" "3AA99FF57FAB719BE0258345835FD2C6"
+				"size" "CC7ECF3651AFE9D2B5B4286227784B4A"
+				"download" "3496379834579EC255940BB08639AFF1"
 			}
-			"pre-master"
+			"develop"
 			{
-				"gid" "64D2802D1AE61B5E80771239344D24F6"
-				"size" "884719725A8CD4062FB76D43E35B07E7"
-				"download" "A2E813651012FC21E17B97FB12DF42C5"
+				"gid" "A72C2926F9624F0F3F4151CE6578F80D"
+				"size" "B1A69E19D9E8131BF56D9E6C9351FD8E"
+				"download" "E59CC64E2C9480F148614B9617E46BCA"
 			}
 		}
 	}
@@ -511,6 +523,12 @@
 				"size" "221205814"
 				"download" "156948144"
 			}
+			"console-crossplay"
+			{
+				"gid" "1248492940110103068"
+				"size" "221205814"
+				"download" "156948144"
+			}
 			"public-test-realm"
 			{
 				"gid" "1248492940110103068"
@@ -520,23 +538,17 @@
 		}
 		"encryptedmanifests"
 		{
+			"develop-release-build"
+			{
+				"gid" "36F167739F810464AE533C1E341EAD64"
+				"size" "D0BFFA0FB6A4CC660490F2A0718C44F6"
+				"download" "E5424E5AC70EDEE0C10FAAC337494064"
+			}
 			"balancing"
 			{
 				"gid" "AFF4911282C229A66C3DC8331C80186D"
 				"size" "117D49F26400FA4AA7CB989246D49946"
 				"download" "77331941A8EABF0A2F162AB69EBB759D"
-			}
-			"develop"
-			{
-				"gid" "76CC9E0B1B1A2721957E22ECC3AD2946"
-				"size" "B03E898B2B9CDB183D4E1D968BB120D1"
-				"download" "7C92985695900AAC2D20A377971E613D"
-			}
-			"hillar"
-			{
-				"gid" "A8233067229B9FF4E865022F4DEB2970"
-				"size" "03716A749BAED0FF946C43CA52EE2F68"
-				"download" "91C6CAB3C1314C31504C06139FE34CA9"
 			}
 			"pre-master"
 			{
@@ -544,14 +556,44 @@
 				"size" "F26320DE071F4AE3D33EE9DCDA8517E0"
 				"download" "634E3C2D403C6D44C67F96DC06692879"
 			}
+			"hillar"
+			{
+				"gid" "A8233067229B9FF4E865022F4DEB2970"
+				"size" "03716A749BAED0FF946C43CA52EE2F68"
+				"download" "91C6CAB3C1314C31504C06139FE34CA9"
+			}
+			"develop"
+			{
+				"gid" "76CC9E0B1B1A2721957E22ECC3AD2946"
+				"size" "B03E898B2B9CDB183D4E1D968BB120D1"
+				"download" "7C92985695900AAC2D20A377971E613D"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
+			"buildid" "16763614"
+			"timeupdated" "1734453391"
+		}
+		"console-crossplay"
+		{
 			"buildid" "15887362"
-			"timeupdated" "1727787087"
+			"description" "Branch that keeps the game at the same version as on consoles"
+			"timeupdated" "1733220427"
+		}
+		"develop-release-build"
+		{
+			"buildid" "16776895"
+			"pwdrequired" "1"
+			"timeupdated" "1734459170"
+		}
+		"balancing"
+		{
+			"buildid" "16763614"
+			"pwdrequired" "1"
+			"timeupdated" "1734381537"
 		}
 		"prototype"
 		{
@@ -559,41 +601,29 @@
 			"pwdrequired" "1"
 			"timeupdated" "1545209121"
 		}
-		"balancing"
+		"pre-master"
 		{
-			"buildid" "15767721"
+			"buildid" "16763614"
 			"pwdrequired" "1"
-			"timeupdated" "1726823993"
-		}
-		"ccert"
-		{
-			"buildid" "15675736"
-			"pwdrequired" "1"
-			"timeupdated" "1726136645"
-		}
-		"develop"
-		{
-			"buildid" "15891555"
-			"pwdrequired" "1"
-			"timeupdated" "1727800950"
+			"timeupdated" "1734380949"
 		}
 		"hillar"
 		{
-			"buildid" "15880926"
+			"buildid" "16632469"
 			"pwdrequired" "1"
-			"timeupdated" "1727731786"
+			"timeupdated" "1733332969"
 		}
-		"pre-master"
+		"develop"
 		{
-			"buildid" "15887362"
+			"buildid" "16776287"
 			"pwdrequired" "1"
-			"timeupdated" "1727778949"
+			"timeupdated" "1734455967"
 		}
 		"public-test-realm"
 		{
-			"buildid" "15887362"
+			"buildid" "16763614"
 			"description" "Experimental branch where you can test the next version or patch before it goes live"
-			"timeupdated" "1727787055"
+			"timeupdated" "1734381569"
 		}
 	}
 }
@@ -708,6 +738,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25481073"
-"_sha" "3dee4a47e1031959a0b93f6cef7b4ff237ee7f6f"
-"_size" "13920"
+"_change_number" "26682575"
+"_sha" "cf34086fe1ec4f20e34e84266227f767d72c9e94"
+"_size" "14714"
