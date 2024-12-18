@@ -83,6 +83,7 @@
 		"library_capsule" "en,zh-cn"
 		"library_hero" "en,zh-cn"
 		"library_logo" "en,zh-cn"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -90,7 +91,65 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1709726431"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "a87bd5bf4decb2396298e19b57bc75695fe89e06/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "a87bd5bf4decb2396298e19b57bc75695fe89e06/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732016719"
 	"associations"
 	{
 		"0"
@@ -100,18 +159,18 @@
 		}
 		"1"
 		{
-			"type" "publisher"
-			"name" "Live Motion Games"
+			"type" "developer"
+			"name" "Frozen Way"
 		}
 		"2"
 		{
 			"type" "publisher"
-			"name" "Frozen Way"
+			"name" "Live Motion Games"
 		}
 		"3"
 		{
 			"type" "publisher"
-			"name" "PlayWay S.A."
+			"name" "Frozen Way"
 		}
 		"4"
 		{
@@ -148,6 +207,7 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_30" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -211,6 +271,7 @@
 	}
 	"steam_release_date" "1654790292"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "1120320"
 	"store_tags"
@@ -218,8 +279,8 @@
 		"0" "599"
 		"1" "1643"
 		"2" "84"
-		"3" "3810"
-		"4" "4182"
+		"3" "4182"
+		"4" "3810"
 		"5" "1036"
 		"6" "1654"
 		"7" "4711"
@@ -243,7 +304,7 @@
 {
 	"developer" "Live Motion Games"
 	"publisher" "Live Motion Games"
-	"homepage" "https://livemotiongames.com/"
+	"homepage" "https://frozenway.games/"
 }
 "config"
 {
@@ -282,9 +343,9 @@
 		{
 			"public"
 			{
-				"gid" "5642809287526615606"
-				"size" "11856977030"
-				"download" "8750931616"
+				"gid" "2474236963564159077"
+				"size" "11860336507"
+				"download" "8754837152"
 			}
 		}
 		"encryptedmanifests"
@@ -351,9 +412,9 @@
 			}
 			"internaltests"
 			{
-				"gid" "8FFF233B94544FB9DAD7B4A782E8041A"
-				"size" "8BC33834644AB34A3810A2AF2192DDB5"
-				"download" "89A71F1D71C0E9BEE49059581E66F8C0"
+				"gid" "B1573CB97C77BFA1315745C80DD5D821"
+				"size" "E44006187DCCE257404B628ACEBE68D6"
+				"download" "0446E0268AA45F56FABED11B24089D5B"
 			}
 		}
 	}
@@ -382,12 +443,13 @@
 			}
 		}
 	}
+	"workshopdepot" "1120320"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14648148"
-			"timeupdated" "1717830024"
+			"buildid" "16785111"
+			"timeupdated" "1734518186"
 		}
 		"antivirustests"
 		{
@@ -451,9 +513,9 @@
 		}
 		"internaltests"
 		{
-			"buildid" "14648148"
+			"buildid" "16785111"
 			"pwdrequired" "1"
-			"timeupdated" "1717829188"
+			"timeupdated" "1734517327"
 		}
 	}
 }
@@ -508,6 +570,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23883861"
-"_sha" "3b84d8d75519ba880038cbd5f839ede3a2442e4c"
-"_size" "9949"
+"_change_number" "26693185"
+"_sha" "f8ecd9181333ce3281b8b1ddb3d65ed1e8fa5de5"
+"_size" "11104"
