@@ -334,6 +334,22 @@
 				"osarch" "64"
 			}
 		}
+		"1"
+		{
+			"executable" "Ultimate Zombie Defense 2"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+				"betakey" "latest-production latest-profile"
+			}
+			"description_loc"
+			{
+				"english" "Linux and SteamOS"
+			}
+			"description" "Linux and SteamOS"
+		}
 	}
 }
 "depots"
@@ -359,9 +375,9 @@
 		{
 			"public"
 			{
-				"gid" "3548769234384008183"
-				"size" "21470575987"
-				"download" "17761891248"
+				"gid" "826446371091192027"
+				"size" "21661877981"
+				"download" "17853929952"
 			}
 		}
 		"encryptedmanifests"
@@ -374,33 +390,66 @@
 			}
 			"default-backup"
 			{
-				"gid" "8FCCB207813076A7C13D4A6C2DF5B060"
-				"size" "7BBE23A5A0C01EC3671BEC15BC3CFBDA"
-				"download" "8B43889E27DF167211D99975B3E47A92"
+				"gid" "0A19830435D051EED7C5B330EA5330AD"
+				"size" "D9D35CBE20A9F7BB8D97169AC3C6CD38"
+				"download" "A2B66AA12965FC82A431DB7E7DC4DB52"
 			}
 			"latest-dev"
 			{
-				"gid" "B8668C9DF6002B0A9A784E448532257C"
-				"size" "9D17127DEE408BD03054BC66B5096826"
-				"download" "CA9A1E723EE2E5C0D57588B2B4361423"
+				"gid" "30E1349AFAFDA98D1EF29F8129A305C8"
+				"size" "94432D13F9D66EF4B12004E46E33E7D7"
+				"download" "0F0FB0B728824A061EC145B6CB5F0E3F"
 			}
 			"latest-production"
 			{
-				"gid" "EEFB082B3A25984434420C761876807C"
-				"size" "F26B33B682721A9291BEBC4E3F03F06A"
-				"download" "3145DA2A4A589246BE8B8011F2AF6DEB"
+				"gid" "8EAF08D02D73526ED54F239BA16A92F7"
+				"size" "416B3EE16781F2EA5F54D50881102BAD"
+				"download" "2ABAE92C92A4BD7BA09791DB4D72B973"
 			}
 			"latest-profile"
 			{
-				"gid" "6EFC224E5C9D6E1B6B618E990177648E"
-				"size" "40DBD4FF97742CC38B8BFE1929E85FD5"
-				"download" "EF5B9C74D9B2B169B891A388669D00E1"
+				"gid" "2D8940C9833873357CBD98BD47F9D07A"
+				"size" "6D869DD6424A5580A7B96FBC463C0E0C"
+				"download" "FDE374C29AD36C8C25BB9E5F5EBBED66"
 			}
 			"private-beta"
 			{
-				"gid" "7E5B2539E26D4D71D779B0EFBADA79AD"
-				"size" "80E6C3CCA911F9CE8308BDD44D1E6528"
-				"download" "B78EB0638CA903D259C081EEEF29E621"
+				"gid" "927272BC9221AE39DFE277CA092B3B78"
+				"size" "8427825191C56039AB73C9C80D08C6AB"
+				"download" "B6305B7E3125DFD0526C4B6354295ACB"
+			}
+		}
+	}
+	"1765302"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6605445882332028877"
+				"size" "22495837860"
+				"download" "18424973776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"latest-production"
+			{
+				"gid" "E64503A09FC36B1C17671D7EBA14C6FF"
+				"size" "A3C46693FA25D888169443CE6DB5B8DF"
+				"download" "FA260DAF517A82D4DFDB7A192D683CF9"
+			}
+			"private-beta"
+			{
+				"gid" "CC4B6AEF437B8725FB038311C97E7589"
+				"size" "FEF4CA8046C7418B32741F31FB0FF266"
+				"download" "A106AB5E0CF5151DA9E10ECFAEDFE02F"
 			}
 		}
 	}
@@ -408,8 +457,8 @@
 	{
 		"public"
 		{
-			"buildid" "16696778"
-			"timeupdated" "1733850774"
+			"buildid" "16786896"
+			"timeupdated" "1734528743"
 		}
 		"trailer"
 		{
@@ -419,33 +468,33 @@
 		}
 		"default-backup"
 		{
-			"buildid" "16657309"
+			"buildid" "16696778"
 			"pwdrequired" "1"
-			"timeupdated" "1733850701"
+			"timeupdated" "1734528685"
 		}
 		"latest-dev"
 		{
-			"buildid" "16697289"
+			"buildid" "16787350"
 			"pwdrequired" "1"
-			"timeupdated" "1733852295"
+			"timeupdated" "1734528644"
 		}
 		"latest-production"
 		{
-			"buildid" "16696778"
+			"buildid" "16786896"
 			"pwdrequired" "1"
-			"timeupdated" "1733849595"
+			"timeupdated" "1734526066"
 		}
 		"latest-profile"
 		{
-			"buildid" "16697984"
+			"buildid" "16788127"
 			"pwdrequired" "1"
-			"timeupdated" "1733856218"
+			"timeupdated" "1734532843"
 		}
 		"private-beta"
 		{
-			"buildid" "16633382"
+			"buildid" "16786896"
 			"pwdrequired" "1"
-			"timeupdated" "1733355050"
+			"timeupdated" "1734528672"
 		}
 	}
 }
@@ -478,6 +527,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26580668"
-"_sha" "344fe253ac2b683e2a13c6fbce1b25572a3cadd5"
-"_size" "10238"
+"_change_number" "26696842"
+"_sha" "055f3587b7297251f7102cf128ad3fc574cbad43"
+"_size" "11191"
