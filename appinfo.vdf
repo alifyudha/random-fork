@@ -1,7 +1,7 @@
 "appid" "2799930"
 "common"
 {
-	"name" "灵境"
+	"name" "Spirit Realm"
 	"type" "Game"
 	"releasestate" "released"
 	"icon" "8feac7b423d00dbccf7914959b054321fd44075b"
@@ -149,6 +149,7 @@
 		}
 	}
 	"steam_release_date" "1719036608"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "2799930"
 	"store_tags"
@@ -185,7 +186,7 @@
 }
 "config"
 {
-	"installdir" "灵境"
+	"installdir" "SpiritRealm"
 	"launch"
 	{
 		"0"
@@ -267,19 +268,20 @@
 		{
 			"public"
 			{
-				"gid" "8590911132759605227"
-				"size" "14586042100"
-				"download" "13883811648"
+				"gid" "3568323200847919065"
+				"size" "15082204008"
+				"download" "13985506816"
 			}
 		}
 	}
 	"baselanguages" "schinese"
+	"workshopdepot" "2799930"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16743400"
-			"timeupdated" "1734150850"
+			"buildid" "16788215"
+			"timeupdated" "1734533382"
 		}
 	}
 }
@@ -302,6 +304,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26640145"
-"_sha" "4eba1934b3855423e69b0742975533895d8e889b"
-"_size" "5306"
+"_change_number" "26696985"
+"_sha" "92a97057b9339dc1cb16694a3d675806b1205c2d"
+"_size" "5372"
