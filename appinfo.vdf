@@ -21,6 +21,12 @@
 		"vietnamese" "Thôi Xong! Tui Bị Người Đẹp Bao Vây Rồi! Phim Tiền Truyện"
 	}
 	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
 	"content_descriptors"
 	{
 		"0" "1"
@@ -248,9 +254,9 @@
 		{
 			"public"
 			{
-				"gid" "427078396338248973"
-				"size" "24546568369"
-				"download" "23310033280"
+				"gid" "2751545764660284381"
+				"size" "24564021616"
+				"download" "23323294608"
 			}
 		}
 	}
@@ -264,9 +270,9 @@
 		{
 			"public"
 			{
-				"gid" "4180898795848561641"
-				"size" "24687312065"
-				"download" "23341129088"
+				"gid" "676503059741623700"
+				"size" "24704786156"
+				"download" "23354406928"
 			}
 		}
 	}
@@ -274,8 +280,8 @@
 	{
 		"public"
 		{
-			"buildid" "16550768"
-			"timeupdated" "1732705716"
+			"buildid" "16786253"
+			"timeupdated" "1734523845"
 		}
 	}
 	"privatebranches" "1"
@@ -329,6 +335,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26622543"
-"_sha" "bed90c429bc4102620f53dc02f54f386e0b79fbb"
-"_size" "6218"
+"_change_number" "26694522"
+"_sha" "4c18f181a024206d7f90a6461b7f57d0199a3aff"
+"_size" "6296"
