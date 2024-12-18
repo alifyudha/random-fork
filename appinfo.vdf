@@ -71,6 +71,7 @@
 		}
 	}
 	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -167,6 +168,11 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -256,12 +262,12 @@
 		"0" "3839"
 		"1" "599"
 		"2" "12472"
-		"3" "16689"
-		"4" "10235"
+		"3" "10235"
+		"4" "16689"
 		"5" "9204"
 		"6" "3810"
-		"7" "4695"
-		"8" "255534"
+		"7" "255534"
+		"8" "4695"
 		"9" "1643"
 		"10" "3968"
 		"11" "4191"
@@ -271,11 +277,11 @@
 		"15" "1702"
 		"16" "8945"
 		"17" "597"
-		"18" "5350"
-		"19" "21"
+		"18" "21"
+		"19" "5350"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "88"
 }
 "extended"
 {
@@ -384,18 +390,9 @@
 		{
 			"public"
 			{
-				"gid" "118492057017465912"
-				"size" "4279211866"
-				"download" "1757350000"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "E68476BD6955BD1763406D9B6851BE23"
-				"size" "15238E1D4FB43882A9FBAE363DC7FAA7"
-				"download" "962A45DB9FCB3E3FF17EF855EC042D50"
+				"gid" "3115954369280258180"
+				"size" "4277649014"
+				"download" "1756368656"
 			}
 		}
 	}
@@ -403,16 +400,11 @@
 	{
 		"public"
 		{
-			"buildid" "16501196"
-			"timeupdated" "1732289202"
-		}
-		"beta"
-		{
-			"buildid" "16501196"
-			"pwdrequired" "1"
-			"timeupdated" "1732284904"
+			"buildid" "16734515"
+			"timeupdated" "1734445188"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -433,6 +425,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26319295"
-"_sha" "40a384b43e7639bf4fa4c8e4141e34be4d834e2e"
-"_size" "7401"
+"_change_number" "26681189"
+"_sha" "bed55cf2b55e69e05294123011d9c90e5c66586d"
+"_size" "7266"
