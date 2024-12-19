@@ -163,12 +163,14 @@
 		"17" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "89"
 }
 "extended"
 {
 	"developer" "Neutron Star Studio"
 	"publisher" "Lilith Games"
+	"listofdlc" "3404490"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -207,25 +209,38 @@
 }
 "depots"
 {
+	"workshopdepot" "2943280"
 	"2943281"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "3250091064711790169"
-				"size" "2045799175"
-				"download" "219282336"
+				"gid" "1526614980199418683"
+				"size" "2070442559"
+				"download" "220656528"
 			}
 		}
 	}
-	"workshopdepot" "2943280"
+	"3404490"
+	{
+		"dlcappid" "3404490"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6855534089440964521"
+				"size" "2070442559"
+				"download" "220708688"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16653889"
-			"timeupdated" "1733475658"
+			"buildid" "16796693"
+			"timeupdated" "1734592113"
 		}
 	}
 	"privatebranches" "1"
@@ -250,6 +265,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26537185"
-"_sha" "ef6dbedbb75a36f687c13d18cf19a1a357cceaa1"
-"_size" "4372"
+"_change_number" "26716054"
+"_sha" "4c490988b57fca887c694452cbb750fbe9ab2567"
+"_size" "4610"
