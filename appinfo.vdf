@@ -218,36 +218,9 @@
 		{
 			"public"
 			{
-				"gid" "3605559894554252653"
-				"size" "20464073920"
-				"download" "16120953072"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"playertest"
-			{
-				"gid" "7559C9A79D138C24FC84CA056CDAFB5E"
-				"size" "3286385DD8CD5F1BC7EC2CF8E3B21F36"
-				"download" "3C230FAFC32A712B6B9C675996FDF257"
-			}
-			"qianjinxian"
-			{
-				"gid" "01338A03CC28C6206749827595942984"
-				"size" "77414610D167B055B874FDB1679A10C7"
-				"download" "46FA456E458A65E74BB537D333E68274"
-			}
-			"steam_china_only"
-			{
-				"gid" "57F3D5B657CC02C1D33EE90D5CCCC3EF"
-				"size" "591C12EB522DD689ACB60B32A951B92C"
-				"download" "9A0212E624BD14644854C1E7553006EC"
-			}
-			"test"
-			{
-				"gid" "7AA53F8F7E600DDCEEE6B39FA1815377"
-				"size" "119C91F527D0BF6B4B88E91EEAABB536"
-				"download" "2184B9712618F8C3DAC7237D1E364AE2"
+				"gid" "1003076578273632405"
+				"size" "20463848495"
+				"download" "16120649952"
 			}
 		}
 	}
@@ -263,71 +236,17 @@
 				"download" "190107376"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"playertest"
-			{
-				"gid" "37C1186B3C2CD2EF477E64B75BC7BBFE"
-				"size" "2C15E8DC3C6DC2F47429887146DEA271"
-				"download" "D8ACDF33CE4119781DD9DFF8C2F531DE"
-			}
-			"qianjinxian"
-			{
-				"gid" "08A0ECD9F343E2D3106FE18A35CB9288"
-				"size" "FC9E3A925C459A0C84D853E9FC098293"
-				"download" "F2B12606A26FF20CBE514B562F12E4DB"
-			}
-			"steam_china_only"
-			{
-				"gid" "1897C0AD95F13A5C5EEBE2FC623BFFA9"
-				"size" "91628C95DC1EBD4032A5CCBCD860788F"
-				"download" "510E2102B2091A8ACA272F1A76FDCE01"
-			}
-			"test"
-			{
-				"gid" "C92389F826DD77E12DB5F9B1F507D696"
-				"size" "A1E56C84180ECE93B97EBC55D1690B69"
-				"download" "63C28BBEEEBFAA92DE78E0545560D4AF"
-			}
-		}
 	}
 	"workshopdepot" "1606180"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16760098"
-			"timeupdated" "1734410172"
-		}
-		"playertest"
-		{
-			"sc_schinese" "对外测试卡顿"
-			"buildid" "16760098"
-			"pwdrequired" "1"
-			"timeupdated" "1734361490"
-		}
-		"qianjinxian"
-		{
-			"sc_schinese" "提审"
-			"buildid" "16361484"
-			"pwdrequired" "1"
-			"timeupdated" "1731297335"
-		}
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-			"buildid" "16760098"
-			"pwdrequired" "1"
-			"timeupdated" "1734410185"
-		}
-		"test"
-		{
-			"sc_schinese" "Steam China test"
-			"buildid" "16760098"
-			"pwdrequired" "1"
-			"timeupdated" "1734361500"
+			"buildid" "16799346"
+			"timeupdated" "1734607935"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -346,6 +265,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26672088"
-"_sha" "74c9aada9bf3a1bab2877612d7504602057441c0"
-"_size" "7111"
+"_change_number" "26712401"
+"_sha" "b27574dd9cce7cb23427d53425c033f5b5d15cca"
+"_size" "5092"
