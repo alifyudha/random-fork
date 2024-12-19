@@ -277,30 +277,9 @@
 		{
 			"public"
 			{
-				"gid" "7306343502029765421"
-				"size" "18657773646"
-				"download" "17934922064"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"old-version"
-			{
-				"gid" "4EAA6F52F4799686152768E62F99CBF6"
-				"size" "4E4B94CA4B73F4368C75266A14084DFE"
-				"download" "9FDF1427581F56AC68E63930A4863AF1"
-			}
-			"beta"
-			{
-				"gid" "2D1736443C25E77A5A57180788B46079"
-				"size" "68AA06876B3F6777E5560173C790FFB8"
-				"download" "B0BF2DD9D211F4CB7F9E532C8E6D43DC"
-			}
-			"private-beta"
-			{
-				"gid" "01A431E322EC6E793EF011674DBAC359"
-				"size" "8D0781356886050FDC1DD8A39471A401"
-				"download" "0E3B4AA8A1C010948C758B93A7C6112D"
+				"gid" "6483136413080538584"
+				"size" "18657780094"
+				"download" "17935064384"
 			}
 		}
 	}
@@ -314,30 +293,9 @@
 		{
 			"public"
 			{
-				"gid" "2850157271549064283"
-				"size" "20144552326"
-				"download" "18380728752"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"old-version"
-			{
-				"gid" "1D3F5BC3BCB193B25F974F3E1BAE38A9"
-				"size" "6B177812DEC40A44AA6DE3FC521BF71C"
-				"download" "8DCFE6715D2A6484A69FD064AA797E14"
-			}
-			"beta"
-			{
-				"gid" "D3B4E37F156B622B6A81F8649D222241"
-				"size" "5333A18FE9DFBB904B763C4AE6573DB8"
-				"download" "EC1DBE568B02FC8785971FEEA33D9B15"
-			}
-			"private-beta"
-			{
-				"gid" "43A02193592BA78337429EE5ED3072FB"
-				"size" "571B45601C089CD306A72BB8FE5CDE7A"
-				"download" "6B4C17C88D044D37CC32855931FEAAF8"
+				"gid" "4222734392657707483"
+				"size" "20138536336"
+				"download" "18371591552"
 			}
 		}
 	}
@@ -346,28 +304,11 @@
 	{
 		"public"
 		{
-			"buildid" "16739312"
-			"timeupdated" "1734116974"
-		}
-		"old-version"
-		{
-			"buildid" "12475476"
-			"pwdrequired" "1"
-			"timeupdated" "1701969586"
-		}
-		"beta"
-		{
-			"buildid" "16739312"
-			"pwdrequired" "1"
-			"timeupdated" "1734115549"
-		}
-		"private-beta"
-		{
-			"buildid" "16739312"
-			"pwdrequired" "1"
-			"timeupdated" "1734115542"
+			"buildid" "16793634"
+			"timeupdated" "1734607227"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -375,6 +316,6 @@
 	"maxnumfiles" "500"
 }
 "_missing_token" "False"
-"_change_number" "26635211"
-"_sha" "6b9ec955192989bf05aa0464aec60c9d28522d06"
-"_size" "6964"
+"_change_number" "26712258"
+"_sha" "1f19609961381aa771e93664baef0eb309f7fcbe"
+"_size" "5553"
