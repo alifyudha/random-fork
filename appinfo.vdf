@@ -104,7 +104,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732517389"
+	"store_asset_mtime" "1732875595"
 	"associations"
 	{
 		"0"
@@ -229,9 +229,9 @@
 		{
 			"public"
 			{
-				"gid" "4395599492562429284"
-				"size" "3150303980"
-				"download" "897207840"
+				"gid" "8562497612934725836"
+				"size" "3575645392"
+				"download" "941253008"
 			}
 		}
 		"encryptedmanifests"
@@ -244,15 +244,15 @@
 			}
 			"test"
 			{
-				"gid" "952522A1332C8AC36ADD3195CBD1D709"
-				"size" "BB9E885085BD3D1F2D6D24682FE36B63"
-				"download" "85CF7ED1F328E7445281CD4D0D54395C"
+				"gid" "D778AFC83067F0C0D925693F424709EA"
+				"size" "A1594CAF5BE04337F31BEC596CD7AB2B"
+				"download" "FCED4D5FC38FA08E5AD6ADEDD8D220FA"
 			}
 			"test2"
 			{
-				"gid" "E4097F11590B41C4FE20F31F6B552360"
-				"size" "F3F29C635285D16C9806BA688056DBC0"
-				"download" "95635AF23A280639899845607E0C83A8"
+				"gid" "B39CA7C6DFC7768386DB63E68B8BA3CA"
+				"size" "43600397874CCE6801FFF7305746860A"
+				"download" "1494B0DEC2353FFB2ECDD4987F5C0E49"
 			}
 		}
 	}
@@ -261,8 +261,8 @@
 	{
 		"public"
 		{
-			"buildid" "16574420"
-			"timeupdated" "1732858248"
+			"buildid" "16803915"
+			"timeupdated" "1734629076"
 		}
 		"modtest"
 		{
@@ -274,15 +274,15 @@
 		"test"
 		{
 			"sc_schinese" "内部人员测试"
-			"buildid" "16539768"
+			"buildid" "16803300"
 			"pwdrequired" "1"
-			"timeupdated" "1732634306"
+			"timeupdated" "1734626236"
 		}
 		"test2"
 		{
-			"buildid" "16574420"
+			"buildid" "16803915"
 			"pwdrequired" "1"
-			"timeupdated" "1732857137"
+			"timeupdated" "1734628841"
 		}
 	}
 }
@@ -312,6 +312,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26416745"
-"_sha" "f226fcde46e484d2880c91034a19ac31fabe3d63"
+"_change_number" "26719627"
+"_sha" "0f0a890e4d1227ba45b417111fd05353147f8e15"
 "_size" "5696"
