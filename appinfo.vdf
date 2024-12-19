@@ -183,6 +183,8 @@
 {
 	"developer" "Asteroid Game Studio"
 	"publisher" "Asteroid Game Studio"
+	"listofdlc" "3379820"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -204,9 +206,9 @@
 		{
 			"public"
 			{
-				"gid" "813258729709061976"
-				"size" "3023704201"
-				"download" "2562817952"
+				"gid" "1369221064249376379"
+				"size" "3023217554"
+				"download" "2562798448"
 			}
 			"v1.3.25"
 			{
@@ -230,8 +232,8 @@
 	{
 		"public"
 		{
-			"buildid" "16785671"
-			"timeupdated" "1734519674"
+			"buildid" "16791430"
+			"timeupdated" "1734551825"
 		}
 		"debug"
 		{
@@ -267,6 +269,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26694756"
-"_sha" "80f97e6e7eea29860005008732b2f6d57f40fd8f"
-"_size" "4694"
+"_change_number" "26701575"
+"_sha" "b91a9bd51b1cc17c384fb513de24a18ec42b65b2"
+"_size" "4749"
