@@ -134,7 +134,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1733303994"
+	"store_asset_mtime" "1734511018"
 	"associations"
 	{
 		"0"
@@ -272,7 +272,7 @@
 		"19" "5395"
 	}
 	"review_score" "5"
-	"review_percentage" "67"
+	"review_percentage" "68"
 }
 "extended"
 {
@@ -292,6 +292,36 @@
 			{
 				"oslist" "windows"
 			}
+		}
+		"1"
+		{
+			"executable" "IFSS_Beta.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "ifsunsets-internal-testing"
+			}
+			"description_loc"
+			{
+				"english" "Beta Version"
+			}
+			"description" "Beta Version"
+		}
+		"2"
+		{
+			"executable" "IFSS_Beta.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internal-qa"
+			}
+			"description_loc"
+			{
+				"english" "Beta Version"
+			}
+			"description" "Beta Version"
 		}
 	}
 }
@@ -325,30 +355,9 @@
 		{
 			"public"
 			{
-				"gid" "5127756686875616889"
-				"size" "22497881307"
-				"download" "21688141344"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"ifsunsets-dev-testing"
-			{
-				"gid" "0254B5A20671FF5969F6DBA2299E4F56"
-				"size" "0928D13805BF489AB253280102332AEF"
-				"download" "562D9BE833D4740BCC4A679324672C83"
-			}
-			"ifsunsets-internal-testing"
-			{
-				"gid" "8897E37849BEC5867E622460692DF630"
-				"size" "6D8ED4151C69DBB989835A056AEF0499"
-				"download" "4154CA0350785C13464E131432A5E157"
-			}
-			"internal-qa"
-			{
-				"gid" "6BE4E13B69426967C231BCB00094BDFF"
-				"size" "E61D2A9C3BC05105CC737DD9C728F051"
-				"download" "31BC8BB7BC54E1802FDB812F97C3D84E"
+				"gid" "5996988041904398309"
+				"size" "22307484401"
+				"download" "21493778256"
 			}
 		}
 	}
@@ -357,28 +366,11 @@
 	{
 		"public"
 		{
-			"buildid" "16684452"
-			"timeupdated" "1733807677"
-		}
-		"ifsunsets-dev-testing"
-		{
-			"buildid" "16548747"
-			"pwdrequired" "1"
-			"timeupdated" "1732691854"
-		}
-		"ifsunsets-internal-testing"
-		{
-			"buildid" "16684452"
-			"pwdrequired" "1"
-			"timeupdated" "1733792553"
-		}
-		"internal-qa"
-		{
-			"buildid" "16684452"
-			"pwdrequired" "1"
-			"timeupdated" "1733792827"
+			"buildid" "16798474"
+			"timeupdated" "1734602855"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -400,6 +392,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26569593"
-"_sha" "0fbf538399ab490125da4170a862513528390fca"
-"_size" "8679"
+"_change_number" "26711167"
+"_sha" "8a490d33e14711587b7ecd3a65db8e0f7b8c13fc"
+"_size" "8280"
