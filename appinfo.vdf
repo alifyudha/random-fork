@@ -103,6 +103,54 @@
 			"height_pct" "72.03752077891235"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "46.27906976744187"
+				"height_pct" "72.03752077891235"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1716347746"
 	"associations"
 	{
@@ -283,36 +331,9 @@
 		{
 			"public"
 			{
-				"gid" "1911549656924215812"
-				"size" "476459098"
-				"download" "312585328"
-			}
-			"playtest"
-			{
-				"gid" "1659929479609092846"
-				"size" "476482480"
-				"download" "312557488"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"qatest"
-			{
-				"gid" "137B24FB1E25B703A08A3FB435684894"
-				"size" "37202EB146DD064F045FF5234FE3EEFA"
-				"download" "4DBA31461C2F37B0558616D0F74E42FC"
-			}
-			"steam_china_only"
-			{
-				"gid" "F18E68D7ACB36C158B9CA6E6060090D9"
-				"size" "2B93D007CF28A1EFB5818F5719E62679"
-				"download" "4E8EE84862B61339F5BDF49C73E37D7B"
-			}
-			"steam_china_qatest"
-			{
-				"gid" "5C6F220F5B3C7A74707A91562AFC64CB"
-				"size" "1AC59A1A670F8EA1E6BF50AC5A4F0070"
-				"download" "D8D07156B74C6B0DC0DDFE974FD5B5B8"
+				"gid" "6002031324787318395"
+				"size" "477964944"
+				"download" "310947872"
 			}
 		}
 	}
@@ -330,33 +351,6 @@
 				"size" "0"
 				"download" "0"
 			}
-			"playtest"
-			{
-				"gid" "4399751476521438220"
-				"size" "0"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"qatest"
-			{
-				"gid" "22F280F7BCF0F39C07D9870FD1489385"
-				"size" "AA8898ACDF075EBCF37B92C982DD3B8B"
-				"download" "AA8898ACDF075EBCF37B92C982DD3B8B"
-			}
-			"steam_china_only"
-			{
-				"gid" "85F5878D7A0E7F75F0AA19B56E761ACA"
-				"size" "6AF0C3B4CF5B77C32020A784589D801B"
-				"download" "6AF0C3B4CF5B77C32020A784589D801B"
-			}
-			"steam_china_qatest"
-			{
-				"gid" "FA8BF15CD69B31BFF52F9BF8D85B7360"
-				"size" "4CB166ABCC7AF501AC681DC950735109"
-				"download" "4CB166ABCC7AF501AC681DC950735109"
-			}
 		}
 	}
 	"1683383"
@@ -372,36 +366,9 @@
 		{
 			"public"
 			{
-				"gid" "1321860300091433130"
-				"size" "476483916"
-				"download" "312543920"
-			}
-			"playtest"
-			{
-				"gid" "4736730063092551688"
-				"size" "476529332"
-				"download" "312491872"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"qatest"
-			{
-				"gid" "4DEF7F695C0F87800C12C2E167C778EB"
-				"size" "CB4FB3805802BC9CFCD0D39E26172A1D"
-				"download" "05B953DE30F7EB9FC31283860D7C3EBA"
-			}
-			"steam_china_only"
-			{
-				"gid" "1D1DD779DA0405FF4F18C5BC105D96CA"
-				"size" "02BA2C0D16117AFF1BB2C4B419B518C2"
-				"download" "0012762DA2D4CB2CE0B39DEB24C2EE83"
-			}
-			"steam_china_qatest"
-			{
-				"gid" "703F5F464714A84F23D4F2EE8F338222"
-				"size" "445D9CB11AF050E2031A6BE2150D3E5F"
-				"download" "86AD18F99BD9BE2FE19D418EC81F845E"
+				"gid" "4450826986456950891"
+				"size" "477983570"
+				"download" "311004688"
 			}
 		}
 	}
@@ -409,36 +376,11 @@
 	{
 		"public"
 		{
-			"buildid" "15288477"
-			"timeupdated" "1723028762"
-		}
-		"playtest"
-		{
-			"buildid" "14370371"
-			"description" "playtest"
-			"timeupdated" "1715744227"
-		}
-		"qatest"
-		{
-			"buildid" "15288477"
-			"pwdrequired" "1"
-			"timeupdated" "1723024066"
-		}
-		"steam_china_only"
-		{
-			"buildid" "15288477"
-			"pwdrequired" "1"
-			"timeupdated" "1723028735"
-			"sc_schinese" "仅中国"
-		}
-		"steam_china_qatest"
-		{
-			"buildid" "15288477"
-			"pwdrequired" "1"
-			"timeupdated" "1723024078"
-			"sc_schinese" "蒸汽测试"
+			"buildid" "16801162"
+			"timeupdated" "1734623073"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -469,6 +411,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24683970"
-"_sha" "00e98eeea2afd9ed859e89d070bc1423243e0959"
-"_size" "8905"
+"_change_number" "26716383"
+"_sha" "a9b32df9a06bf5c1865cdad1cd6e4c9fe712349c"
+"_size" "7270"
