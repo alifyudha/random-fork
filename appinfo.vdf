@@ -398,16 +398,17 @@
 		"0"
 		{
 			"executable" "dollImpostor.exe"
+			"arguments" "-dx11"
 		}
 		"1"
 		{
 			"executable" "dollimpostor.exe"
-			"arguments" "-dx11"
+			"arguments" "-dx12"
 			"description_loc"
 			{
-				"english" "DirectX 11 (Prevents launch issues and improves some performance issues)"
+				"english" "DirectX 12"
 			}
-			"description" "DirectX 11 (Prevents launch issues and improves some performance issues)"
+			"description" "DirectX 12"
 		}
 	}
 }
@@ -437,9 +438,9 @@
 		{
 			"public"
 			{
-				"gid" "2521928652113846604"
-				"size" "10704021181"
-				"download" "9934814560"
+				"gid" "3993426827267615118"
+				"size" "10701948124"
+				"download" "9934675472"
 			}
 			"original"
 			{
@@ -453,8 +454,8 @@
 	{
 		"public"
 		{
-			"buildid" "16746272"
-			"timeupdated" "1734190667"
+			"buildid" "16786745"
+			"timeupdated" "1734525393"
 		}
 		"original"
 		{
@@ -471,6 +472,6 @@
 	"appidredirect" "2882870"
 }
 "_missing_token" "False"
-"_change_number" "26643621"
-"_sha" "97bcc2297a5e85eb5dcf6c4d5af7634fc464e542"
-"_size" "8067"
+"_change_number" "26694903"
+"_sha" "4641b84a019fca86e1ef7fc7ccdb6971a7079223"
+"_size" "7968"
