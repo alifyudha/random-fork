@@ -1,7 +1,8 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-12-19 11:30:11
+## 更新时间：2024-12-19 11:38:26
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 3346870 | 台湾恋爱物语⁵ Artbook| DLC |
-| 2982460 | 台湾恋爱物语⁵ - 免費成人內容| DLC |
+| 215 | Source SDK Base 2006| Tool |
+| 218 | Source SDK Base 2007| Tool |
+| 528420 | Evil Orbs| Game |
