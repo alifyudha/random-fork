@@ -274,6 +274,8 @@
 	"developer" "Michele Pirovano"
 	"publisher" "Michele Pirovano"
 	"homepage" "http://www.michelepirovano.com/dotage/"
+	"listofdlc" "3384630"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -341,15 +343,15 @@
 		{
 			"public"
 			{
-				"gid" "8893255585048835341"
-				"size" "416279218"
-				"download" "144036400"
+				"gid" "6461089468426572779"
+				"size" "416698133"
+				"download" "144187520"
 			}
 			"experimental"
 			{
-				"gid" "4897917818957336277"
-				"size" "459686376"
-				"download" "154192352"
+				"gid" "6845278691521079059"
+				"size" "416698298"
+				"download" "144187952"
 			}
 		}
 		"encryptedmanifests"
@@ -368,9 +370,9 @@
 			}
 			"private"
 			{
-				"gid" "9F4DF3449877B198F6FFC8FBD79B4D52"
-				"size" "F523C04C96FF1853E411C331884E3592"
-				"download" "2F31890F5494F9381ECE853F1C9AD3EC"
+				"gid" "6C3CD8573DA90A7671B8F37DB724501C"
+				"size" "93734ED79DE1A5744A9B967CB6889161"
+				"download" "EEE54A4561C812EF86C5C58463510296"
 			}
 		}
 	}
@@ -384,15 +386,15 @@
 		{
 			"public"
 			{
-				"gid" "4417942455442850708"
-				"size" "492783504"
-				"download" "161172928"
+				"gid" "7326764298665800050"
+				"size" "493164307"
+				"download" "161330544"
 			}
 			"experimental"
 			{
-				"gid" "8824071508133684038"
-				"size" "537607065"
-				"download" "172175040"
+				"gid" "7556939543635589855"
+				"size" "493164468"
+				"download" "161330560"
 			}
 		}
 		"encryptedmanifests"
@@ -411,9 +413,9 @@
 			}
 			"private"
 			{
-				"gid" "2445FE1E794BB0501E72A25088315E8D"
-				"size" "EFD1C7EC56CEC6D056BD612567459328"
-				"download" "D462598171DBBE95B2AD61BC507C12B9"
+				"gid" "4DFB7EE26AA10A72347C60D45F7E2354"
+				"size" "46E4A4928468D4CB2854241A742590E2"
+				"download" "0A8BC38BC7C86B276084A507E7007A2D"
 			}
 		}
 	}
@@ -427,15 +429,15 @@
 		{
 			"public"
 			{
-				"gid" "2207831838780497284"
-				"size" "482499094"
-				"download" "150955168"
+				"gid" "7510577749947347913"
+				"size" "481564139"
+				"download" "150313376"
 			}
 			"experimental"
 			{
-				"gid" "3534026855410142956"
-				"size" "465196813"
-				"download" "144016544"
+				"gid" "3659312002052960088"
+				"size" "482535058"
+				"download" "151117376"
 			}
 		}
 		"encryptedmanifests"
@@ -454,9 +456,9 @@
 			}
 			"private"
 			{
-				"gid" "3A47806D660883A634DEE340216311A3"
-				"size" "AB279BC5B5DF2350BDAE961D420DDF8D"
-				"download" "57811A177AC27FBD3AB423B882BAAB79"
+				"gid" "A3C683F9BA1AB057A56E750277863369"
+				"size" "E9ED9D4822B120609D75032A6C88355C"
+				"download" "906C3B4DE090080C469D0E69EA69D81F"
 			}
 		}
 	}
@@ -464,8 +466,8 @@
 	{
 		"public"
 		{
-			"buildid" "16460462"
-			"timeupdated" "1732032250"
+			"buildid" "16787439"
+			"timeupdated" "1734606600"
 		}
 		"beta"
 		{
@@ -475,9 +477,9 @@
 		}
 		"experimental"
 		{
-			"buildid" "15898405"
+			"buildid" "16759137"
 			"description" "Updated faster, but may be more unstable"
-			"timeupdated" "1727850443"
+			"timeupdated" "1734354070"
 		}
 		"friends"
 		{
@@ -487,9 +489,9 @@
 		}
 		"private"
 		{
-			"buildid" "16460462"
+			"buildid" "16786042"
 			"pwdrequired" "1"
-			"timeupdated" "1732030449"
+			"timeupdated" "1734530181"
 		}
 	}
 }
@@ -499,6 +501,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "26264510"
-"_sha" "ecfc840cfe8e8c3b6a8564d7b405d5298425b533"
-"_size" "9959"
+"_change_number" "26712102"
+"_sha" "fa381b46ec9fec977f598e2139cb10bb15bd0057"
+"_size" "10013"
