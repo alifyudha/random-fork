@@ -279,9 +279,9 @@
 		{
 			"public"
 			{
-				"gid" "4306792223872215598"
-				"size" "5163339110"
-				"download" "2283185392"
+				"gid" "6740497815699866698"
+				"size" "5163348915"
+				"download" "2283184736"
 			}
 		}
 		"encryptedmanifests"
@@ -294,9 +294,9 @@
 			}
 			"internal"
 			{
-				"gid" "FFA7C5E399011DBF51A52CD07258C39C"
-				"size" "ADCBE075C7B412BFE99992AEC4AEDB1E"
-				"download" "A37EA07F64146B6780FD6F1D6AE2D02E"
+				"gid" "CC9ACE8513752D257ACD71F1B37075B3"
+				"size" "AFCEF1C6D7EC06ACF05A2059F182BDB5"
+				"download" "25AC4A1B6F23B511D88E59ED715FB4E1"
 			}
 			"sandbox"
 			{
@@ -311,8 +311,8 @@
 	{
 		"public"
 		{
-			"buildid" "16779764"
-			"timeupdated" "1734483651"
+			"buildid" "16793274"
+			"timeupdated" "1734563265"
 		}
 		"contractor"
 		{
@@ -322,9 +322,9 @@
 		}
 		"internal"
 		{
-			"buildid" "16778526"
+			"buildid" "16792637"
 			"pwdrequired" "1"
-			"timeupdated" "1734469706"
+			"timeupdated" "1734559011"
 		}
 		"sandbox"
 		{
@@ -362,9 +362,20 @@
 			}
 			"recursive" "1"
 		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Farthest Frontier/Save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26686839"
-"_sha" "a82a57b5a7838ff1b309aaa51d7a448c92b9f852"
-"_size" "6288"
+"_change_number" "26703765"
+"_sha" "1cff2fd8f0ae3a0110efe1ebc6734c07e4325990"
+"_size" "6460"
