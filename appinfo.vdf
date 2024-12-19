@@ -97,6 +97,54 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_hero_schinese_2x.jpg"
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "12.830521322512467"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1687334900"
 	"associations"
 	{
@@ -108,14 +156,9 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Gamera Games"
+			"name" "养蛋人 Egg Hatcher"
 		}
 		"2"
-		{
-			"type" "franchise"
-			"name" "Gamera Games"
-		}
-		"3"
 		{
 			"type" "franchise"
 			"name" "Egg Hatcher"
@@ -132,6 +175,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -159,24 +203,24 @@
 	{
 		"0" "10235"
 		"1" "6971"
-		"2" "599"
+		"2" "6426"
 		"3" "122"
 		"4" "4085"
-		"5" "6426"
-		"6" "4182"
-		"7" "1742"
-		"8" "7208"
-		"9" "4486"
-		"10" "4726"
-		"11" "492"
-		"12" "4434"
-		"13" "9"
+		"5" "599"
+		"6" "9551"
+		"7" "7208"
+		"8" "3799"
+		"9" "1742"
+		"10" "4182"
+		"11" "4726"
+		"12" "492"
+		"13" "4434"
 		"14" "16689"
 		"15" "4325"
-		"16" "6815"
-		"17" "4172"
-		"18" "3871"
-		"19" "1684"
+		"16" "9"
+		"17" "5984"
+		"18" "6815"
+		"19" "4172"
 	}
 	"review_score" "9"
 	"review_percentage" "97"
@@ -184,7 +228,7 @@
 "extended"
 {
 	"developer" "养蛋人 Egg Hatcher"
-	"publisher" "Gamera Games"
+	"publisher" "养蛋人 Egg Hatcher"
 	"listofdlc" "2582920"
 	"dlcavailableonstore" "1"
 }
@@ -211,41 +255,6 @@
 }
 "depots"
 {
-	"branches"
-	{
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-			"buildid" "11056299"
-			"pwdrequired" "1"
-			"timeupdated" "1682061045"
-		}
-		"test_internal"
-		{
-			"sc_schinese" "QA"
-			"buildid" "11658298"
-			"pwdrequired" "1"
-			"timeupdated" "1695050150"
-		}
-		"test_korean"
-		{
-			"sc_schinese" "Korean version test"
-			"buildid" "12887207"
-			"pwdrequired" "1"
-			"timeupdated" "1701845783"
-		}
-		"public"
-		{
-			"buildid" "11658298"
-			"timeupdated" "1688982760"
-		}
-		"test_new"
-		{
-			"buildid" "11658298"
-			"pwdrequired" "1"
-			"timeupdated" "1688872091"
-		}
-	}
 	"baselanguages" "english,schinese,japanese"
 	"hasdepotsindlc" "1"
 	"1669981"
@@ -258,44 +267,26 @@
 		{
 			"public"
 			{
-				"gid" "7087128882688649751"
-				"size" "5006334112"
-				"download" "1101263184"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
-			{
-				"gid" "AF8C99E7AA6D444A6611CA78E425DFF8"
-				"size" "605E400D2A67AC41250B6CBDECB27B0D"
-				"download" "041EAD64EF33AD44A833CB049BEC68F2"
-			}
-			"test_internal"
-			{
-				"gid" "0C48B8D1C50F2458AC0D4DCE502A5E9C"
-				"size" "7B773F8CA15C68AEB96CA274D0A251F8"
-				"download" "CBA928F055482BB4AEF726F0AF75CCFA"
-			}
-			"test_korean"
-			{
-				"gid" "87C9B9675E7CEEC46C8AA4CCB2015F8D"
-				"size" "CA141C5A2B61C6047D005D71D36B2C69"
-				"download" "4BC3D2915B4036102B083F94435BA1B4"
-			}
-			"test_new"
-			{
-				"gid" "499A98B7AF98D11E2937C972FD916AF8"
-				"size" "218C05B1D2F3C32F4C8B815397267C89"
-				"download" "570997E829AAD5465DDC014D2D8848D4"
+				"gid" "8393648475099442582"
+				"size" "5058709037"
+				"download" "1103663968"
 			}
 		}
 	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16799013"
+			"timeupdated" "1734605679"
+		}
+	}
+	"privatebranches" "1"
 }
 "ufs"
 {
-	"quota" "0"
-	"maxnumfiles" "0"
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
 	"savefiles"
 	{
 		"0"
@@ -307,11 +298,12 @@
 			{
 				"1" "Windows"
 			}
-			"recursive" "1"
 		}
 	}
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "21689893"
-"_sha" "b91fbca2bc82bfa86a5601695751837bb7c5d344"
-"_size" "6049"
+"_change_number" "26711859"
+"_sha" "bc4b8a42bf1377426711b9c82fe7fd1bfbaa79a2"
+"_size" "5691"
