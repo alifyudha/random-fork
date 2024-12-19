@@ -377,9 +377,9 @@
 		{
 			"public"
 			{
-				"gid" "8182395014058283349"
-				"size" "9203507191"
-				"download" "7835562608"
+				"gid" "954928521011585609"
+				"size" "9201094536"
+				"download" "7833051840"
 			}
 		}
 		"encryptedmanifests"
@@ -398,21 +398,21 @@
 			}
 			"annie"
 			{
-				"gid" "4BCC341FB600FF0090BC37F6F4301AEB"
-				"size" "4DFD637178BD46A8E5C6B4F4D2D33C64"
-				"download" "815B6F1CE7684CCB9FEDC1E1EAF93155"
+				"gid" "3F33B41EA4E2EA356E8CBF55D99A1283"
+				"size" "59F1EE8D43B65566FF7C9BF1C440E1B3"
+				"download" "B117D5BD7F5EB7236F77938482BBF2E4"
 			}
 			"bleeding-develop"
 			{
-				"gid" "4965B7E48997CBD852C60A4020BDDF1F"
-				"size" "01D41C747FF5C05AC1BA99FE22D5A37B"
-				"download" "3FA11AA16F8DDDDF2902372EEEE017C2"
+				"gid" "96D52FAC08E53F56CEF79BDA074EE2CD"
+				"size" "B7D8641FCAEB183D074A62A3DF10BE9D"
+				"download" "D13BF9438EE13EB9CA79DCACABE414C3"
 			}
 			"bleeding-master"
 			{
-				"gid" "19A207A95ED1A4A559A9DFEF23DF21EC"
-				"size" "D2B165141EBD42DE863B92C601248494"
-				"download" "3CBA52F5AFFF5F5E791B95ADF67A4B57"
+				"gid" "BDF28D87E516B83D2DC2B7E582F0F0B5"
+				"size" "0EED499226922FD8917B85B3FC27F073"
+				"download" "0F6A075FE69AA407352A3D3335C5E1A1"
 			}
 			"garen"
 			{
@@ -434,9 +434,9 @@
 			}
 			"malzahar"
 			{
-				"gid" "6D97E7C85A30A83FF4EEB84D8B38DE28"
-				"size" "B4911D4CF247B63AE572E25B3D6620A3"
-				"download" "253501028005056FA2CB2E478D8FE94B"
+				"gid" "6929E6F84878FF8AE3034220CB70FB18"
+				"size" "7E22DE2572CD287B6EB2CF7DF8CB65B0"
+				"download" "BA3B70BBB7C72E8AE4DFF3A57904B7A4"
 			}
 			"manual-build"
 			{
@@ -650,8 +650,8 @@
 	{
 		"public"
 		{
-			"buildid" "16772891"
-			"timeupdated" "1734459239"
+			"buildid" "16788930"
+			"timeupdated" "1734630747"
 		}
 		"amd-testing"
 		{
@@ -667,21 +667,21 @@
 		}
 		"annie"
 		{
-			"buildid" "16528313"
+			"buildid" "16804787"
 			"pwdrequired" "1"
-			"timeupdated" "1732562306"
+			"timeupdated" "1734633849"
 		}
 		"bleeding-develop"
 		{
-			"buildid" "16781631"
+			"buildid" "16794565"
 			"pwdrequired" "1"
-			"timeupdated" "1734493094"
+			"timeupdated" "1734572195"
 		}
 		"bleeding-master"
 		{
-			"buildid" "16780472"
+			"buildid" "16794348"
 			"pwdrequired" "1"
-			"timeupdated" "1734484680"
+			"timeupdated" "1734570596"
 		}
 		"garen"
 		{
@@ -703,9 +703,9 @@
 		}
 		"malzahar"
 		{
-			"buildid" "16780387"
+			"buildid" "16788930"
 			"pwdrequired" "1"
-			"timeupdated" "1734483998"
+			"timeupdated" "1734536787"
 		}
 		"manual-build"
 		{
@@ -878,6 +878,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26688453"
-"_sha" "cf5037f8a94953a85e7a39dc2a67fbfaa49f1a56"
-"_size" "18485"
+"_change_number" "26719566"
+"_sha" "e4fb790f49d2de06fb1ad835960fa04418b0a8e2"
+"_size" "18484"
