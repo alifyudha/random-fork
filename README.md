@@ -1,33 +1,45 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-12-19 19:20:32
+## 更新时间：2024-12-19 20:59:43
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
+| 1260320 | 猛兽派对| Game |
+| 1269690 | Attack on Toys| Game |
 | 1278540 | 电竞教父| Game |
-| 1297660 | Fragment's Moonrise| Game |
-| 1331550 | Big Ambitions| Game |
-| 1455130 | 刺激大富翁| Game |
-| 1455910 | 领地：种田与征战| Game |
-| 1527950 | Wartales| Game |
-| 1718570 | 神之天平（ASTLIBRA Revision）| Game |
-| 1922010 | Breachers| Game |
-| 221001 | FTL: Faster Than Light - Soundtrack| Music |
-| 215 | Source SDK Base 2006| Tool |
-| 222750 | Wargame: AirLand Battle| Game |
-| 2271930 | 落日余晖| Game |
-| 218 | Source SDK Base 2007| Tool |
-| 22380 | Fallout: New Vegas| game |
-| 240 | Counter-Strike: Source| game |
-| 2646460 | 灵魂面甲(Soulmask)| Game |
-| 2722200 | Sugar,sugar,sugarcoat| Game |
-| 270880 | American Truck Simulator| Game |
-| 2956820 | 近畿霊務局| Game |
-| 33780 | Drakensang 2 - Phileasson's Secret| game |
-| 34470 | Sid Meier's Civilization IV: Colonization| Config |
-| 509081 | CLANNAD - Mabinogi Arrange Album| Music |
-| 711860 | Yomawari: Midnight Shadows - Digital Soundtrack| Music |
-| 727130 | 群星之间| Game |
-| 730 | Counter-Strike 2| Game |
-| 7800 | Stubbs the Zombie in Rebel Without a Pulse| game |
-| 785740 | This Is the Police 2| Game |
+| 1477940 | Unknown 9: Awakening| Game |
+| 1606180 | 下一站江湖Ⅱ| Game |
+| 1638390 | 因狄斯的谎言| Game |
+| 16810 | Sid Meier's Civilization IV: Colonization| game |
+| 1682970 | Uncrashed : FPV Drone Simulator| Game |
+| 1802880 | 笠鬼| Game |
+| 1999520 | CATO 黄油猫| Game |
+| 2063420 | CozyTyper| Game |
+| 207930 | Sacred Citadel| Game |
+| 211500 | RaceRoom Racing Experience | Game |
+| 212680 | FTL: Faster Than Light| Game |
+| 2178070 | Towers of Aghasba| Game |
+| 2217000 | Rivals of Aether II| Game |
+| 2198150 | Tiny Glade| Game |
+| 22490 | Fallout: New Vegas PCR| game |
+| 2304620 | Backrooms Society| Game |
+| 2361680 | 刀剑江湖路| Game |
+| 2356780 | 抓抓地牢| Game |
+| 2424240 | 布丁与盾琴| Game |
+| 2468610 | The Night Shift| Game |
+| 2512930 | 什么鸟都| Game |
+| 2669360 | 神之天平外传：幻雾之洞窟| DLC |
+| 2688950 | 过山车之星2| Game |
+| 2693930 | 骰子闯魔城| Game |
+| 2824660 | 旧日飞车| Game |
+| 320 | Half-Life 2: Deathmatch| game |
+| 324160 | CLANNAD| Game |
+| 310 | Source 2007 Dedicated Server| Tool |
+| 33770 | Drakensang The River of Time| game |
+| 625340 | XERA: Survival| Game |
+| 625980 | Yomawari: Midnight Shadows| Game |
+| 638510 | 点老救世记 - dotAGE| Game |
+| 707010 | Will To Live Online| Game |
+| 726840 | City Game Studio| Game |
+| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
 | 835570 | 战意| Game |
+| 917080 | This Is the Police 2 - Soundtrack| Music |
