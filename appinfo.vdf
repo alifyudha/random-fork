@@ -60,7 +60,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "f3e207059ada5abc6876effa38a975aedd0b2f6a/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -70,12 +70,14 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomLeft"
-			"width_pct" "30.232558139534916"
-			"height_pct" "44.680756329959316"
+			"pinned_position" "BottomCenter"
+			"width_pct" "32.246798603026775"
+			"height_pct" "99.62004274519117"
 		}
 	}
 	"library_assets_full"
@@ -84,42 +86,61 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "d7f9341fc838ff22d43038507dc84f66141b1e90/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "d7f9341fc838ff22d43038507dc84f66141b1e90/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "8939a1ef0b89c92428634d8943236e00727e1bbe/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "8939a1ef0b89c92428634d8943236e00727e1bbe/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "8939a1ef0b89c92428634d8943236e00727e1bbe/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"logo_position"
 			{
-				"pinned_position" "BottomLeft"
-				"width_pct" "30.232558139534916"
-				"height_pct" "44.680756329959316"
+				"pinned_position" "BottomCenter"
+				"width_pct" "32.246798603026775"
+				"height_pct" "99.62004274519117"
+			}
+			"image"
+			{
+				"english" "2821c5de3172cf0bf7e76056d9ace542ad7fb29d/logo.png"
+			}
+			"image2x"
+			{
+				"english" "2821c5de3172cf0bf7e76056d9ace542ad7fb29d/logo_2x.png"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "6b8723bfa1d4183fa60b750c92bfe9cc18c9f946/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "6b8723bfa1d4183fa60b750c92bfe9cc18c9f946/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1704890096"
+	"store_asset_mtime" "1734641187"
 	"associations"
 	{
 		"0"
@@ -141,7 +162,6 @@
 		"2" "23"
 		"3" "3"
 		"4" "28"
-		"5" "70"
 	}
 	"category"
 	{
@@ -195,7 +215,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1687453686"
+	"steam_release_date" "1734641562"
 	"community_hub_visible" "1"
 	"gameid" "1910860"
 	"onlyvrsupport" "1"
@@ -223,7 +243,7 @@
 		"19" "19"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -292,9 +312,9 @@
 		{
 			"public"
 			{
-				"gid" "2565645610456947088"
-				"size" "15591556941"
-				"download" "15133587680"
+				"gid" "3913950304911939465"
+				"size" "22208142964"
+				"download" "21851846816"
 			}
 			"grimlordv0.4.9preview"
 			{
@@ -303,13 +323,28 @@
 				"download" "15241429776"
 			}
 		}
+		"encryptedmanifests"
+		{
+			"grimlordv0.9.0beta"
+			{
+				"gid" "76E2223E1BC3823C3DF3733C4263ECAD"
+				"size" "52422E4B050BAC84309771467CAFBEAA"
+				"download" "5085A31A01CD926B37B18985CC45C1B9"
+			}
+			"grimlordv1.0.2"
+			{
+				"gid" "F6E076ACC90C4C703E203B61631B9101"
+				"size" "A8CFCA4CB948BCABF0218A3C11FF6471"
+				"download" "FDEDDBDDD5A048BEB94DA68FC858E5CA"
+			}
+		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16285741"
-			"timeupdated" "1730733784"
+			"buildid" "16802187"
+			"timeupdated" "1734631072"
 		}
 		"grimlordv0.4.9preview"
 		{
@@ -317,9 +352,21 @@
 			"description" "Grimlord v0.5.1 preview"
 			"timeupdated" "1730120381"
 		}
+		"grimlordv0.9.0beta"
+		{
+			"buildid" "16746422"
+			"pwdrequired" "1"
+			"timeupdated" "1734193224"
+		}
+		"grimlordv1.0.2"
+		{
+			"buildid" "16802187"
+			"pwdrequired" "1"
+			"timeupdated" "1734620387"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26039202"
-"_sha" "11fcf7fcd93442002d7834452a9194a78215510d"
-"_size" "5403"
+"_change_number" "26721309"
+"_sha" "20bba785da78d47c6f6c4d13c8fbeb83c21656af"
+"_size" "6749"
