@@ -126,6 +126,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -138,6 +139,7 @@
 		}
 	}
 	"steam_release_date" "1727748049"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2353130"
 	"store_tags"
@@ -160,8 +162,8 @@
 		"15" "21"
 		"16" "599"
 	}
-	"review_score" "5"
-	"review_percentage" "69"
+	"review_score" "6"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -188,9 +190,9 @@
 		{
 			"public"
 			{
-				"gid" "1554063609307162971"
-				"size" "1129711528"
-				"download" "1070532320"
+				"gid" "5264879712863981806"
+				"size" "1130596107"
+				"download" "1071260672"
 			}
 		}
 	}
@@ -198,12 +200,28 @@
 	{
 		"public"
 		{
-			"buildid" "16714395"
-			"timeupdated" "1733961200"
+			"buildid" "16813519"
+			"timeupdated" "1734695170"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "65535"
+	"maxnumfiles" "10"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26601867"
-"_sha" "9550f63a457fe06b5edd0fe1db9879e15a28ecc6"
-"_size" "3569"
+"_change_number" "26732664"
+"_sha" "e76d56bc0adf4e661582a709a57bd6db8a9afdb3"
+"_size" "3839"
