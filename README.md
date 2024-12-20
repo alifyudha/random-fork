@@ -1,38 +1,32 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-12-20 10:13:11
+## 更新时间：2024-12-20 11:16:24
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1422440 | 灾厄堡垒 Cataclismo| Game |
-| 1609010 | Forever To You!| Game |
-| 16810 | Sid Meier's Civilization IV: Colonization| game |
-| 1823950 | Laysara: Summit Kingdom| Game |
-| 1957780 | Ghosts Of Tabor| Game |
-| 207930 | Sacred Citadel| Game |
-| 212680 | FTL: Faster Than Light| Game |
-| 22490 | Fallout: New Vegas PCR| game |
-| 2331130 | Just Another Night Shift| Game |
-| 2345020 | 蜜蜂岛| Game |
-| 2354000 | Slackers - Carts of Glory| Game |
-| 2348610 | Slime 3K: Rise Against Despot| Game |
-| 2361460 | 玩具郡 Toy Shire| Game |
-| 2458560 | 癫狂动物园 Zoochosis| Game |
-| 2459550 | 余烬守卫 Emberward| Game |
+| 1149620 | 加油站大亨| Game |
+| 1244910 | My SuperMarket| Game |
+| 1270580 | 超灵秘法社| Game |
+| 1416920 | 中国式网游| Game |
+| 1436990 | Feign| Game |
+| 1462520 | BRINK Traveler| Game |
+| 1474200 | Sudoku RPG| Game |
+| 1718570 | 神之天平（ASTLIBRA Revision）| Game |
+| 2154650 | Pawperty Damage| Game |
+| 215 | Source SDK Base 2006| Tool |
+| 221001 | FTL: Faster Than Light - Soundtrack| Music |
+| 2211170 | 一起开火车2：汽笛重鸣| Game |
+| 222750 | Wargame: AirLand Battle| Game |
+| 218 | Source SDK Base 2007| Tool |
+| 2289650 | 迷你空管| Game |
+| 2330360 | Pixel Art Academy: Learn Mode| Game |
+| 2361680 | 刀剑江湖路| Game |
+| 240 | Counter-Strike: Source| game |
+| 22380 | Fallout: New Vegas| game |
 | 2453360 | 鸡械绿洲| Game |
-| 2669360 | 神之天平外传：幻雾之洞窟| DLC |
-| 2656540 | 东方：平野孤鸿| Game |
-| 2719030 | 超级键盘侠| Game |
-| 2722270 | 永恒幻境 Eternal Dreamland| Game |
-| 2826180 | Chill Pulse 心流小筑| Game |
-| 3085890 | 世外桃源| Game |
-| 320 | Half-Life 2: Deathmatch| game |
-| 324160 | CLANNAD| Game |
-| 3311740 | The Cabin Factory| Game |
-| 310 | Source 2007 Dedicated Server| Tool |
-| 33770 | Drakensang The River of Time| game |
-| 440 | Team Fortress 2| game |
-| 570 | Dota 2| game |
-| 625980 | Yomawari: Midnight Shadows| Game |
-| 625960 | 紫色晶石| Game |
-| 917080 | This Is the Police 2 - Soundtrack| Music |
-| 940710 | Colt Canyon| Game |
+| 2828860 | 永恒寒冬| Game |
+| 2865580 | 一起来扫雷| Game |
+| 33780 | Drakensang 2 - Phileasson's Secret| game |
+| 34470 | Sid Meier's Civilization IV: Colonization| Config |
+| 509081 | CLANNAD - Mabinogi Arrange Album| Music |
+| 711860 | Yomawari: Midnight Shadows - Digital Soundtrack| Music |
+| 785740 | This Is the Police 2| Game |
