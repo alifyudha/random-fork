@@ -27,9 +27,9 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"schinese" "01e48d94ff43ff4e1f51711a4f3d0e18776558d7/capsule_231x87_schinese.jpg"
-		"english" "014e912100617822c716ce85993d81a6251bfe8e/capsule_231x87.jpg"
-		"japanese" "01e48d94ff43ff4e1f51711a4f3d0e18776558d7/capsule_231x87_japanese.jpg"
+		"schinese" "87e205f46b60fbb19590b1c5ead7f4179d2df8fb/capsule_231x87_schinese.jpg"
+		"english" "7159f8b57c56759c9a553516e254c0d365fcef32/capsule_231x87.jpg"
+		"japanese" "7159f8b57c56759c9a553516e254c0d365fcef32/capsule_231x87_japanese.jpg"
 	}
 	"header_image"
 	{
@@ -39,7 +39,7 @@
 	}
 	"library_assets"
 	{
-		"library_capsule" "zh-cn,en"
+		"library_capsule" "zh-cn,en,ja"
 		"library_hero" "en"
 		"library_logo" "zh-cn,en"
 		"library_header" "zh-xc,en,zh-cn"
@@ -56,13 +56,15 @@
 		{
 			"image"
 			{
-				"schinese" "library_600x900_schinese.jpg"
-				"english" "library_600x900.jpg"
+				"schinese" "b4e4e892ee53ef71526b34e87f879cf3bb459d77/library_600x900_schinese.jpg"
+				"english" "e60b8e3b5184b8db3ab5f9ccba490e89504ef114/library_600x900.jpg"
+				"japanese" "e60b8e3b5184b8db3ab5f9ccba490e89504ef114/library_600x900_japanese.jpg"
 			}
 			"image2x"
 			{
-				"schinese" "library_600x900_schinese_2x.jpg"
-				"english" "library_600x900_2x.jpg"
+				"schinese" "b4e4e892ee53ef71526b34e87f879cf3bb459d77/library_600x900_schinese_2x.jpg"
+				"english" "e60b8e3b5184b8db3ab5f9ccba490e89504ef114/library_600x900_2x.jpg"
+				"japanese" "e60b8e3b5184b8db3ab5f9ccba490e89504ef114/library_600x900_japanese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -105,7 +107,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727423430"
+	"store_asset_mtime" "1734424665"
 	"associations"
 	{
 		"0"
@@ -117,6 +119,16 @@
 		{
 			"type" "publisher"
 			"name" "Mammorize"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Flawless Gaming"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Erabit"
 		}
 	}
 	"primary_genre" "23"
@@ -133,6 +145,9 @@
 		"category_22" "1"
 		"category_28" "1"
 		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -191,6 +206,8 @@
 {
 	"developer" "BlackLight"
 	"publisher" "Mammorize"
+	"listofdlc" "3347900"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -233,30 +250,9 @@
 		{
 			"public"
 			{
-				"gid" "6703773386603052287"
-				"size" "1195495896"
-				"download" "297464720"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"ol_test"
-			{
-				"gid" "B9A3640B1C3F3CFA623FC10704BCA257"
-				"size" "3238E6E7D40253A9BD83CEE3F0EA07D3"
-				"download" "40C9CE7A10D1D4C45C706BEF836D45D2"
-			}
-			"test"
-			{
-				"gid" "3E6AEA8B301C8EB77CFE89FF69725E45"
-				"size" "706E36438714FF5E3DB4F3AB489CA2C1"
-				"download" "0D371C51508A542033D6646250799244"
-			}
-			"v1.2.0_test"
-			{
-				"gid" "D58978B1B1E7C3EB3E02AFB437381C82"
-				"size" "A1AF10142186CA21DBD77B94A9F89927"
-				"download" "2C0D2576B0605038ADBD25FCEA066092"
+				"gid" "4695180091367108221"
+				"size" "1395412886"
+				"download" "323177040"
 			}
 		}
 	}
@@ -270,30 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "8883520417211717332"
-				"size" "1219609446"
-				"download" "304768320"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"ol_test"
-			{
-				"gid" "AA6B9D72C0193D7F68BA92AC5A3E4DF2"
-				"size" "748EBD612709741EED1637160AB73752"
-				"download" "E7B9A75321D4613F415DF464AA2C3D39"
-			}
-			"test"
-			{
-				"gid" "EE90435423FA30BA09827192FA67D9C9"
-				"size" "B7A8483A57B6BAD21A8EF7B28DBC742E"
-				"download" "B710C95AC0218CE8136619B90BB6B2F0"
-			}
-			"v1.2.0_test"
-			{
-				"gid" "22FD3A18F02ECC3F421B542CA7376832"
-				"size" "B86772B50F6F49D4BADDE7A014570790"
-				"download" "AEAED91E3D4137FA3FC827B60843FCB8"
+				"gid" "3545997812895721381"
+				"size" "1419472549"
+				"download" "330481232"
 			}
 		}
 	}
@@ -301,28 +276,11 @@
 	{
 		"public"
 		{
-			"buildid" "16481095"
-			"timeupdated" "1732181554"
-		}
-		"ol_test"
-		{
-			"buildid" "16470885"
-			"pwdrequired" "1"
-			"timeupdated" "1732098800"
-		}
-		"test"
-		{
-			"buildid" "16481095"
-			"pwdrequired" "1"
-			"timeupdated" "1732160265"
-		}
-		"v1.2.0_test"
-		{
-			"buildid" "16485028"
-			"pwdrequired" "1"
-			"timeupdated" "1732186815"
+			"buildid" "16799700"
+			"timeupdated" "1734659440"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -363,6 +321,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26296378"
-"_sha" "ec86100ef38156809477282ca735b7a454f1d695"
-"_size" "6888"
+"_change_number" "26725377"
+"_sha" "644a6119f1504ef17d122f4e71faad4da8630c7f"
+"_size" "6091"
