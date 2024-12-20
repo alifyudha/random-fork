@@ -158,6 +158,17 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1729648751"
 	"community_visible_stats" "1"
@@ -233,7 +244,7 @@
 }
 "depots"
 {
-	"baselanguages" "schinese"
+	"baselanguages" "english,schinese,tchinese"
 	"hasdepotsindlc" "1"
 	"228989"
 	{
@@ -335,6 +346,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26694522"
-"_sha" "4c18f181a024206d7f90a6461b7f57d0199a3aff"
-"_size" "6296"
+"_change_number" "26726794"
+"_sha" "5379fabcbabb1d64944a53279aa2373fd3552ccf"
+"_size" "6481"
