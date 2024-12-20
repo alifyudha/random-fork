@@ -243,26 +243,26 @@
 	"gameid" "2458560"
 	"store_tags"
 	{
-		"0" "4106"
-		"1" "1667"
-		"2" "4182"
-		"3" "3839"
+		"0" "1616"
+		"1" "5613"
+		"2" "1667"
+		"3" "6691"
 		"4" "3978"
-		"5" "1721"
-		"6" "1742"
-		"7" "6971"
-		"8" "3834"
-		"9" "769306"
-		"10" "7250"
-		"11" "19"
-		"12" "4604"
-		"13" "4175"
-		"14" "21"
-		"15" "599"
-		"16" "10808"
-		"17" "1616"
-		"18" "6426"
-		"19" "5613"
+		"5" "599"
+		"6" "3839"
+		"7" "769306"
+		"8" "6426"
+		"9" "1662"
+		"10" "3834"
+		"11" "4182"
+		"12" "4106"
+		"13" "1721"
+		"14" "7250"
+		"15" "6971"
+		"16" "5094"
+		"17" "6869"
+		"18" "1742"
+		"19" "19"
 	}
 	"review_score" "5"
 	"review_percentage" "57"
@@ -328,60 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "4084731606678147669"
-				"size" "7404331585"
-				"download" "7069971136"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"demo"
-			{
-				"gid" "B4C0BCD1375E813BBA6BC629B4091D88"
-				"size" "CD0569676354EADA58579C21B463994A"
-				"download" "B8B0E0BB599367BE5D342C5FAF2B13B9"
-			}
-			"playtest"
-			{
-				"gid" "4CF7DB4B30236ACCCF42359EB0C0156F"
-				"size" "4D4325B8433E7FBC1120083F7B5D1928"
-				"download" "97D3DD137F62021D9E8D1C8363757E6F"
-			}
-			"playtest4"
-			{
-				"gid" "D5C2FBE7D27801F13AD64452558A6C1E"
-				"size" "637D56FD01CDDC0CBF5FD9E243858A9A"
-				"download" "42F54C7A9077CF40296C80CB9CC9DEF6"
-			}
-			"playtestbossfight"
-			{
-				"gid" "EB27C8AF2DFB8194DDA10908B1999AB2"
-				"size" "BD66CBB02A811F992443BCFC63E95B76"
-				"download" "930E340EBE01FA85AD811103826836CA"
-			}
-			"playtestflow"
-			{
-				"gid" "43624D7FA25095B780143562F674DA17"
-				"size" "90C61FB31B95A9E8A19B5573B39E0939"
-				"download" "3C9830D9CFB0716BA88BB476386A1D62"
-			}
-			"steamdeck"
-			{
-				"gid" "A8ABCA6BAC8A37D1DBE0998B7CC461F7"
-				"size" "8937081F4049C5B038C4F6192CF842EC"
-				"download" "EE8D2C93757BEF3D109398BC747B9B1D"
-			}
-			"testbranch"
-			{
-				"gid" "1B17557413611C1BBDA4322C86015051"
-				"size" "FF4F52ED23CED6665D81B3B9B2DC780C"
-				"download" "4E520510C0C8B9D996446D7D1BBDA9AC"
-			}
-			"testbranch_02"
-			{
-				"gid" "F78408D372ECB9D7DF51514B280CFCC5"
-				"size" "0ED775A48B09902985790C495564678B"
-				"download" "09A45D9DCFF2628B66070398FCA843C3"
+				"gid" "8343839493292690418"
+				"size" "7428533907"
+				"download" "7093939920"
 			}
 		}
 	}
@@ -389,58 +338,11 @@
 	{
 		"public"
 		{
-			"buildid" "16658833"
-			"timeupdated" "1733576164"
-		}
-		"demo"
-		{
-			"buildid" "14637236"
-			"pwdrequired" "1"
-			"timeupdated" "1717752616"
-		}
-		"playtest"
-		{
-			"buildid" "15861396"
-			"pwdrequired" "1"
-			"timeupdated" "1727534947"
-		}
-		"playtest4"
-		{
-			"buildid" "16582219"
-			"pwdrequired" "1"
-			"timeupdated" "1732902907"
-		}
-		"playtestbossfight"
-		{
-			"buildid" "15205370"
-			"pwdrequired" "1"
-			"timeupdated" "1722379617"
-		}
-		"playtestflow"
-		{
-			"buildid" "15967817"
-			"pwdrequired" "1"
-			"timeupdated" "1728395599"
-		}
-		"steamdeck"
-		{
-			"buildid" "16571182"
-			"pwdrequired" "1"
-			"timeupdated" "1732826093"
-		}
-		"testbranch"
-		{
-			"buildid" "16658833"
-			"pwdrequired" "1"
-			"timeupdated" "1733500780"
-		}
-		"testbranch_02"
-		{
-			"buildid" "16602679"
-			"pwdrequired" "1"
-			"timeupdated" "1733154291"
+			"buildid" "16805759"
+			"timeupdated" "1734646870"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -468,6 +370,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26539436"
-"_sha" "b32c4d7f05c19435d04b4ef3f4d450600e9b73a4"
-"_size" "8129"
+"_change_number" "26722671"
+"_sha" "16492186183d1931abac26c97b46d90a08457baf"
+"_size" "5853"
