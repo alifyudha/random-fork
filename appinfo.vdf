@@ -16,6 +16,21 @@
 		"japanese" "Unrailed 2:バック・オン・トラック"
 		"koreana" "Unrailed 2: Back on Track (언레일드 2: 백 온 트랙)"
 	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -160,7 +175,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732704754"
+	"store_asset_mtime" "1734519456"
 	"associations"
 	{
 		"0"
@@ -269,6 +284,7 @@
 		}
 	}
 	"steam_release_date" "1730980542"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2211170"
 	"store_tags"
@@ -433,9 +449,9 @@
 		{
 			"public"
 			{
-				"gid" "1025429630323914886"
-				"size" "536765226"
-				"download" "338214736"
+				"gid" "4176960965597983058"
+				"size" "507870670"
+				"download" "359216448"
 			}
 			"community-cup-japan"
 			{
@@ -445,9 +461,9 @@
 			}
 			"experimental"
 			{
-				"gid" "1025429630323914886"
-				"size" "536765226"
-				"download" "338214736"
+				"gid" "4176960965597983058"
+				"size" "507870670"
+				"download" "359216448"
 			}
 		}
 	}
@@ -462,9 +478,9 @@
 		{
 			"public"
 			{
-				"gid" "3618166165103541273"
-				"size" "475012070"
-				"download" "274862544"
+				"gid" "859422835096489069"
+				"size" "514917494"
+				"download" "315100464"
 			}
 			"community-cup-japan"
 			{
@@ -474,9 +490,9 @@
 			}
 			"experimental"
 			{
-				"gid" "3618166165103541273"
-				"size" "475012070"
-				"download" "274862544"
+				"gid" "859422835096489069"
+				"size" "514917494"
+				"download" "315100464"
 			}
 		}
 	}
@@ -503,8 +519,8 @@
 	{
 		"public"
 		{
-			"buildid" "16791475"
-			"timeupdated" "1734556175"
+			"buildid" "16805925"
+			"timeupdated" "1734641173"
 		}
 		"community-cup-japan"
 		{
@@ -514,9 +530,9 @@
 		}
 		"experimental"
 		{
-			"buildid" "16791475"
+			"buildid" "16805925"
 			"description" "Test new features early on!"
-			"timeupdated" "1734552001"
+			"timeupdated" "1734641126"
 		}
 	}
 	"privatebranches" "1"
@@ -562,6 +578,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26702412"
-"_sha" "ccb072a837e72e9c7ded6d467de044a190283b02"
-"_size" "10979"
+"_change_number" "26722167"
+"_sha" "6bb9b20e46e252f8509956aebdffebacc984dfe3"
+"_size" "11248"
