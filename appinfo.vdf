@@ -75,11 +75,12 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_hero_blur" "en"
+		"library_logo" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "49.764354446613424"
-			"height_pct" "100"
+			"width_pct" "57.11557965081412"
+			"height_pct" "96.20042745191166"
 		}
 	}
 	"library_assets_full"
@@ -118,16 +119,20 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "49.764354446613424"
-				"height_pct" "100"
+				"width_pct" "57.11557965081412"
+				"height_pct" "96.20042745191166"
 			}
 			"image2x"
 			{
 				"english" "logo_2x.png"
 			}
+			"image"
+			{
+				"english" "ef7a27eff69c642561b37bc2fe206fcbdde89a3b/logo.png"
+			}
 		}
 	}
-	"store_asset_mtime" "1734641369"
+	"store_asset_mtime" "1734657543"
 	"associations"
 	{
 		"0"
@@ -331,9 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "1450922890731769909"
-				"size" "80295463704"
-				"download" "76678623568"
+				"gid" "95286059027861513"
+				"size" "80295463108"
+				"download" "76677549568"
 			}
 		}
 		"encryptedmanifests"
@@ -346,9 +351,9 @@
 			}
 			"pa_beta"
 			{
-				"gid" "4287E94DD998E980BD02BF32A552D2B7"
-				"size" "262334CFDAF7B863CE831ADB00E36469"
-				"download" "244AEACA944D5F57FCE79F455AC9D3BE"
+				"gid" "AACD16FD1B29C2288481D2F2FC133FD4"
+				"size" "FCB34F7E79B374E49FEE03895B73B440"
+				"download" "4EBEB6850E55871F732ED520F8AB66E1"
 			}
 		}
 	}
@@ -439,9 +444,9 @@
 		{
 			"public"
 			{
-				"gid" "8490248131111862501"
-				"size" "74548811795"
-				"download" "71423602912"
+				"gid" "7712099435536339945"
+				"size" "74548811156"
+				"download" "71424425344"
 			}
 		}
 		"encryptedmanifests"
@@ -454,9 +459,9 @@
 			}
 			"pa_beta"
 			{
-				"gid" "B3B2712F4D2B51D43A1530297264F479"
-				"size" "ECDBAF584471DF498A87814E7D45153C"
-				"download" "5C06D90C97999C212BE0885B4AD96D73"
+				"gid" "88A5CD54273AA639FD451AC07D2B1912"
+				"size" "582C947367531B59DB711A1F0B408738"
+				"download" "892050FFB8F2B0BBF82D3052E12CEAB2"
 			}
 		}
 	}
@@ -567,8 +572,8 @@
 	{
 		"public"
 		{
-			"buildid" "16799887"
-			"timeupdated" "1734608848"
+			"buildid" "16811742"
+			"timeupdated" "1734685787"
 		}
 		"eac_test"
 		{
@@ -578,9 +583,9 @@
 		}
 		"pa_beta"
 		{
-			"buildid" "16799887"
+			"buildid" "16811742"
 			"pwdrequired" "1"
-			"timeupdated" "1734608219"
+			"timeupdated" "1734685135"
 		}
 	}
 }
@@ -590,6 +595,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "26722201"
-"_sha" "c090cbe766ee874190ec41a3ccbc0559c5e4bd7e"
-"_size" "11943"
+"_change_number" "26729886"
+"_sha" "274b614125ee6ab55b390fd5634f08e855990c21"
+"_size" "12083"
