@@ -28,6 +28,7 @@
 		"ukrainian" "1"
 	}
 	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -136,6 +137,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_28" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -207,8 +209,8 @@
 		"9" "7332"
 		"10" "19"
 		"11" "4252"
-		"12" "3810"
-		"13" "12472"
+		"12" "12472"
+		"13" "3810"
 		"14" "3942"
 		"15" "1755"
 		"16" "1643"
@@ -242,7 +244,7 @@
 		}
 	}
 	"steamdecktouchscreen" "1"
-	"steamcontrollertemplateindex" "6"
+	"steamcontrollertemplateindex" "4"
 }
 "depots"
 {
@@ -270,9 +272,9 @@
 		{
 			"public"
 			{
-				"gid" "5773557436110706210"
-				"size" "1610476506"
-				"download" "1307147600"
+				"gid" "3286002381664978544"
+				"size" "1612781667"
+				"download" "1309393696"
 			}
 		}
 	}
@@ -284,8 +286,8 @@
 	{
 		"public"
 		{
-			"buildid" "16696721"
-			"timeupdated" "1733849260"
+			"buildid" "16800400"
+			"timeupdated" "1734632003"
 		}
 	}
 	"privatebranches" "1"
@@ -296,6 +298,6 @@
 	"maxnumfiles" "9999"
 }
 "_missing_token" "False"
-"_change_number" "26578966"
-"_sha" "f3a7b5447b51f5cd82172b26e904bb7ec0c8443f"
-"_size" "4737"
+"_change_number" "26719300"
+"_sha" "fe7747e039316e7c4e2fceb5b87b5fc782148374"
+"_size" "4790"
