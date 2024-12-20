@@ -127,9 +127,10 @@
 	{
 		"0" "1"
 		"1" "23"
-		"2" "28"
-		"3" "2"
-		"4" "70"
+		"2" "29"
+		"3" "28"
+		"4" "2"
+		"5" "70"
 	}
 	"category"
 	{
@@ -142,6 +143,10 @@
 		"category_9" "1"
 		"category_38" "1"
 		"category_18" "1"
+		"category_20" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_15" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -168,9 +173,9 @@
 		"7" "1663"
 		"8" "9"
 		"9" "3839"
-		"10" "1774"
-		"11" "493"
-		"12" "128"
+		"10" "128"
+		"11" "1774"
+		"12" "493"
 		"13" "492"
 		"14" "4667"
 		"15" "13190"
@@ -258,18 +263,18 @@
 		{
 			"public"
 			{
-				"gid" "3392301712034831290"
-				"size" "14383582467"
-				"download" "14416313984"
+				"gid" "6788646006672678827"
+				"size" "15104432383"
+				"download" "15147251088"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"dev-branch"
 			{
-				"gid" "D59270DF923C5A842541849F6360FBB0"
-				"size" "90E3C8A188BD8873F554663D2EC07569"
-				"download" "613D139A8D007538D30AF1A12E3E3680"
+				"gid" "6B9DB070F5A9065DD1FC88773CFC579C"
+				"size" "CDD913BE15C0B960BE6AD3E23650CD53"
+				"download" "7E95B0853B10AB1444D76403A7F1F8F9"
 			}
 		}
 	}
@@ -278,14 +283,14 @@
 	{
 		"public"
 		{
-			"buildid" "16410767"
-			"timeupdated" "1731617924"
+			"buildid" "16804868"
+			"timeupdated" "1734636646"
 		}
 		"dev-branch"
 		{
-			"buildid" "16410767"
+			"buildid" "16804868"
 			"pwdrequired" "1"
-			"timeupdated" "1731613896"
+			"timeupdated" "1734634812"
 		}
 	}
 }
@@ -305,6 +310,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26200504"
-"_sha" "280b72d8474fdc45969e3499166644efb7f7da65"
-"_size" "5250"
+"_change_number" "26720042"
+"_sha" "178d9faba06d466198044fd6c2ad20df704b0441"
+"_size" "5351"
