@@ -142,7 +142,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730954655"
+	"store_asset_mtime" "1734420198"
 	"associations"
 	{
 		"0"
@@ -255,8 +255,8 @@
 		"9" "791774"
 		"10" "1677"
 		"11" "4236"
-		"12" "3993"
-		"13" "1716"
+		"12" "1716"
+		"13" "3993"
 		"14" "4711"
 		"15" "3871"
 		"16" "4726"
@@ -265,7 +265,7 @@
 		"19" "97376"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -300,24 +300,6 @@
 }
 "depots"
 {
-	"228989"
-	{
-		"config"
-		{
-			"oslist" "windows"
-		}
-		"depotfromapp" "228980"
-		"sharedinstall" "1"
-	}
-	"228990"
-	{
-		"config"
-		{
-			"oslist" "windows"
-		}
-		"depotfromapp" "228980"
-		"sharedinstall" "1"
-	}
 	"baselanguages" "english,german,koreana,schinese,japanese"
 	"workshopdepot" "2427700"
 	"2427701"
@@ -330,24 +312,15 @@
 		{
 			"public"
 			{
-				"gid" "4432403605699973408"
-				"size" "270009843"
-				"download" "199467664"
+				"gid" "4619756986428756170"
+				"size" "271529011"
+				"download" "201679200"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"debug"
+			"beta"
 			{
-				"gid" "E82A2FA11F56099FAFE4C4724F181317"
-				"size" "1EC4EF79FC17FE2469B6ABF7462D99D6"
-				"download" "BE061AEB5F21689934424A4E1A87C475"
-			}
-			"wip1"
-			{
-				"gid" "0C21D01691AD4BF30C32B434523AFF38"
-				"size" "F6F2D3A5575786581ECCF3EA0A4A4376"
-				"download" "E6F14E7C7D55E5DFDF1D7ED6F4903870"
+				"gid" "6395628072934714616"
+				"size" "274970707"
+				"download" "202434400"
 			}
 		}
 	}
@@ -361,24 +334,15 @@
 		{
 			"public"
 			{
-				"gid" "9105350375251201181"
-				"size" "290024360"
-				"download" "204814416"
+				"gid" "7501789280962736083"
+				"size" "276315648"
+				"download" "203752352"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"debug"
+			"beta"
 			{
-				"gid" "3C878C9703EE6209558F09BA7EB320D1"
-				"size" "48987938854D2355C4C29AA5944372CA"
-				"download" "F3C836839CAC705AC9E21181218DFD3D"
-			}
-			"wip1"
-			{
-				"gid" "580DE1274A4456430A8F24BC620F8D0E"
-				"size" "237ABC9FC1C7D72D8DF8F05C38E571D9"
-				"download" "7317DB378831EE44870906F0D3363E34"
+				"gid" "6423615477421374098"
+				"size" "276306464"
+				"download" "203746624"
 			}
 		}
 	}
@@ -386,20 +350,14 @@
 	{
 		"public"
 		{
-			"buildid" "16580863"
-			"timeupdated" "1732894466"
+			"buildid" "16812088"
+			"timeupdated" "1734687805"
 		}
-		"debug"
+		"beta"
 		{
-			"buildid" "16325176"
-			"pwdrequired" "1"
-			"timeupdated" "1730971053"
-		}
-		"wip1"
-		{
-			"buildid" "16033146"
-			"pwdrequired" "1"
-			"timeupdated" "1728892879"
+			"buildid" "16770735"
+			"description" "Patch preview & testing"
+			"timeupdated" "1734426613"
 		}
 	}
 }
@@ -448,6 +406,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26424849"
-"_sha" "253abd3820e847b634ab1ad7f1d8f3dad3cc6fdb"
-"_size" "8294"
+"_change_number" "26730482"
+"_sha" "5c36759972032910d0beb801b12733ce6125d211"
+"_size" "7452"
