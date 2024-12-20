@@ -312,15 +312,9 @@
 		{
 			"public"
 			{
-				"gid" "4619756986428756170"
-				"size" "271529011"
-				"download" "201679200"
-			}
-			"beta"
-			{
-				"gid" "6395628072934714616"
-				"size" "274970707"
-				"download" "202434400"
+				"gid" "6314950672611079589"
+				"size" "271529363"
+				"download" "201679728"
 			}
 		}
 	}
@@ -334,15 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "7501789280962736083"
-				"size" "276315648"
-				"download" "203752352"
-			}
-			"beta"
-			{
-				"gid" "6423615477421374098"
-				"size" "276306464"
-				"download" "203746624"
+				"gid" "4835417246245543399"
+				"size" "276316000"
+				"download" "203752944"
 			}
 		}
 	}
@@ -350,14 +338,8 @@
 	{
 		"public"
 		{
-			"buildid" "16812088"
-			"timeupdated" "1734687805"
-		}
-		"beta"
-		{
-			"buildid" "16770735"
-			"description" "Patch preview & testing"
-			"timeupdated" "1734426613"
+			"buildid" "16813492"
+			"timeupdated" "1734695093"
 		}
 	}
 }
@@ -406,6 +388,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26730482"
-"_sha" "5c36759972032910d0beb801b12733ce6125d211"
-"_size" "7452"
+"_change_number" "26732121"
+"_sha" "f90dc038aafa6f97d0eb0c9285ecbbf10b550275"
+"_size" "7107"
