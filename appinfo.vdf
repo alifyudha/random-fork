@@ -29,9 +29,9 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "b7216695fb3779e52ef26d54707a132abf1dcf45/capsule_231x87.jpg"
-		"schinese" "b7216695fb3779e52ef26d54707a132abf1dcf45/capsule_231x87_schinese.jpg"
-		"tchinese" "7d849a2c27b02b2f035a997a4c3852e8a498f5cb/capsule_231x87_tchinese.jpg"
+		"english" "ce559e79fb1684ab4820d8b34f458c14905965b9/capsule_231x87.jpg"
+		"schinese" "ce559e79fb1684ab4820d8b34f458c14905965b9/capsule_231x87_schinese.jpg"
+		"tchinese" "9513766654db755867c0c7a97f124e2cbc998545/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
@@ -117,7 +117,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734490460"
+	"store_asset_mtime" "1734581297"
 	"associations"
 	{
 		"0"
@@ -196,7 +196,7 @@
 		"19" "6971"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -245,15 +245,15 @@
 		{
 			"public"
 			{
-				"gid" "1570949966977085830"
-				"size" "2432194251"
-				"download" "1452294112"
+				"gid" "8853216196443005032"
+				"size" "2434307494"
+				"download" "1452584896"
 			}
 			"test"
 			{
-				"gid" "1570949966977085830"
-				"size" "2432194251"
-				"download" "1452294112"
+				"gid" "8853216196443005032"
+				"size" "2434307494"
+				"download" "1452584896"
 			}
 		}
 		"encryptedmanifests"
@@ -282,9 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "3549035873690467392"
-				"size" "2373378996"
-				"download" "1432407872"
+				"gid" "3637117172727538158"
+				"size" "2375495075"
+				"download" "1432679776"
 			}
 			"test"
 			{
@@ -313,8 +313,8 @@
 	{
 		"public"
 		{
-			"buildid" "16794242"
-			"timeupdated" "1734569992"
+			"buildid" "16808126"
+			"timeupdated" "1734656091"
 		}
 		"bestlinker"
 		{
@@ -330,9 +330,9 @@
 		}
 		"test"
 		{
-			"buildid" "16787751"
+			"buildid" "16799158"
 			"description" "测试版本"
-			"timeupdated" "1734530870"
+			"timeupdated" "1734604770"
 		}
 	}
 }
@@ -367,6 +367,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26704946"
-"_sha" "a4e6024813f8988a1781fa1dfc598da9fc502e51"
+"_change_number" "26724679"
+"_sha" "0a55b3c64a73f2b7a111c835288500aacfe87f59"
 "_size" "7367"
