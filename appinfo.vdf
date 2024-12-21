@@ -190,6 +190,26 @@
 		{
 			"supported" "true"
 		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1463504508"
 	"metacritic_score" "84"
@@ -212,9 +232,9 @@
 		"10" "4166"
 		"11" "4342"
 		"12" "4231"
-		"13" "1685"
-		"14" "3798"
-		"15" "4345"
+		"13" "3798"
+		"14" "4345"
+		"15" "1685"
 		"16" "4182"
 		"17" "21"
 		"18" "1667"
@@ -289,15 +309,15 @@
 		{
 			"public"
 			{
-				"gid" "2071335588922881476"
-				"size" "1257837051"
-				"download" "506211984"
+				"gid" "1816862834607117540"
+				"size" "1257820931"
+				"download" "506210864"
 			}
 			"preview"
 			{
-				"gid" "2071335588922881476"
-				"size" "1257837051"
-				"download" "506211984"
+				"gid" "1816862834607117540"
+				"size" "1257820931"
+				"download" "506210864"
 			}
 			"1.0.1.1b"
 			{
@@ -484,14 +504,14 @@
 	{
 		"public"
 		{
-			"buildid" "15535010"
-			"timeupdated" "1724954411"
+			"buildid" "16821240"
+			"timeupdated" "1734748284"
 		}
 		"preview"
 		{
-			"buildid" "15535010"
+			"buildid" "16821240"
 			"description" "preview build"
-			"timeupdated" "1724954300"
+			"timeupdated" "1734748148"
 		}
 		"1.0.1.1b"
 		{
@@ -591,6 +611,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24998543"
-"_sha" "0ad5a32594c8614b1a2351d3900266a58ecc4ad7"
-"_size" "10649"
+"_change_number" "26742595"
+"_sha" "4c8eb638e687177fe1ef044826f323181b7e287f"
+"_size" "10885"
