@@ -312,7 +312,7 @@
 		"19" "3859"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -336,19 +336,29 @@
 		}
 		"1"
 		{
-			"executable" "Ultimate Zombie Defense 2"
+			"executable" "Ultimate Zombie Defense 2.x86_64"
 			"type" "default"
 			"config"
 			{
 				"oslist" "linux"
 				"osarch" "64"
-				"betakey" "latest-production latest-profile"
+				"betakey" "latest-production"
 			}
 			"description_loc"
 			{
 				"english" "Linux and SteamOS"
 			}
 			"description" "Linux and SteamOS"
+		}
+		"2"
+		{
+			"executable" "Ultimate Zombie Defense 2.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "latest-dev"
+			}
 		}
 	}
 }
@@ -375,9 +385,9 @@
 		{
 			"public"
 			{
-				"gid" "826446371091192027"
-				"size" "21661877981"
-				"download" "17853929952"
+				"gid" "1606342907841641784"
+				"size" "21659804130"
+				"download" "17850600560"
 			}
 		}
 		"encryptedmanifests"
@@ -390,21 +400,21 @@
 			}
 			"default-backup"
 			{
-				"gid" "0A19830435D051EED7C5B330EA5330AD"
-				"size" "D9D35CBE20A9F7BB8D97169AC3C6CD38"
-				"download" "A2B66AA12965FC82A431DB7E7DC4DB52"
+				"gid" "0F83BEAED04EE7CB6C485A8F36DF6904"
+				"size" "22429F8AC7A045F4403DAB60BA3855AF"
+				"download" "96A8D6653AD300BB62F3CD754005ED36"
 			}
 			"latest-dev"
 			{
-				"gid" "30E1349AFAFDA98D1EF29F8129A305C8"
-				"size" "94432D13F9D66EF4B12004E46E33E7D7"
-				"download" "0F0FB0B728824A061EC145B6CB5F0E3F"
+				"gid" "E73B948E368D371292596898F04077C1"
+				"size" "0642D35E9600904B64E708EC2CC8E209"
+				"download" "D6C794B74C2A5B2F75174EE6610F77BC"
 			}
 			"latest-production"
 			{
-				"gid" "8EAF08D02D73526ED54F239BA16A92F7"
-				"size" "416B3EE16781F2EA5F54D50881102BAD"
-				"download" "2ABAE92C92A4BD7BA09791DB4D72B973"
+				"gid" "1B2CD8D92A3150E5D8A553CF23871ABD"
+				"size" "23F911FE3BD6FBFFE8B8150AA52112E4"
+				"download" "DB3ED1B461DDBF871250C980E20936C6"
 			}
 			"latest-profile"
 			{
@@ -414,9 +424,9 @@
 			}
 			"private-beta"
 			{
-				"gid" "927272BC9221AE39DFE277CA092B3B78"
-				"size" "8427825191C56039AB73C9C80D08C6AB"
-				"download" "B6305B7E3125DFD0526C4B6354295ACB"
+				"gid" "BF9589ED7BCC91BA1F2F80F811988BCE"
+				"size" "C45B0B2D761C51FC704343D0200F94C8"
+				"download" "ADB1C532F9A5B67AD384A65BE2C8171A"
 			}
 		}
 	}
@@ -432,24 +442,36 @@
 		{
 			"public"
 			{
-				"gid" "6605445882332028877"
-				"size" "22495837860"
-				"download" "18424973776"
+				"gid" "6787495746078699457"
+				"size" "22494195030"
+				"download" "18423401472"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"default-backup"
+			{
+				"gid" "524BC49C0321169F8363914573A74CAF"
+				"size" "6156CD537E8FB543BD50B2E021C90BAF"
+				"download" "D000D5870562820D3CF15FBE63AE8D29"
+			}
+			"latest-dev"
+			{
+				"gid" "782576DF95902BA248911B5490633155"
+				"size" "73402B1C5A5CCA9D240CEB4EBACBEA69"
+				"download" "64A106518BB0962D468A068873118C19"
+			}
 			"latest-production"
 			{
-				"gid" "E64503A09FC36B1C17671D7EBA14C6FF"
-				"size" "A3C46693FA25D888169443CE6DB5B8DF"
-				"download" "FA260DAF517A82D4DFDB7A192D683CF9"
+				"gid" "570B4216FF75CB33569FB72B5B53D3A4"
+				"size" "FFF9BB4E304313EACD1C4E3CB3D07964"
+				"download" "28F7A1F3965D7DB05D9E6BA5135063D7"
 			}
 			"private-beta"
 			{
-				"gid" "CC4B6AEF437B8725FB038311C97E7589"
-				"size" "FEF4CA8046C7418B32741F31FB0FF266"
-				"download" "A106AB5E0CF5151DA9E10ECFAEDFE02F"
+				"gid" "06AD59C3BA95D4A2B486B57C67995B3E"
+				"size" "61080CD306FCDAB94EA48D4928E4ECF0"
+				"download" "972F04822552A18A28E9F79A308BDA64"
 			}
 		}
 	}
@@ -457,8 +479,8 @@
 	{
 		"public"
 		{
-			"buildid" "16786896"
-			"timeupdated" "1734528743"
+			"buildid" "16814715"
+			"timeupdated" "1734705476"
 		}
 		"trailer"
 		{
@@ -468,21 +490,21 @@
 		}
 		"default-backup"
 		{
-			"buildid" "16696778"
+			"buildid" "16786896"
 			"pwdrequired" "1"
-			"timeupdated" "1734528685"
+			"timeupdated" "1734705434"
 		}
 		"latest-dev"
 		{
-			"buildid" "16787350"
+			"buildid" "16819540"
 			"pwdrequired" "1"
-			"timeupdated" "1734528644"
+			"timeupdated" "1734732532"
 		}
 		"latest-production"
 		{
-			"buildid" "16786896"
+			"buildid" "16819202"
 			"pwdrequired" "1"
-			"timeupdated" "1734526066"
+			"timeupdated" "1734730127"
 		}
 		"latest-profile"
 		{
@@ -492,9 +514,9 @@
 		}
 		"private-beta"
 		{
-			"buildid" "16786896"
+			"buildid" "16814715"
 			"pwdrequired" "1"
-			"timeupdated" "1734528672"
+			"timeupdated" "1734705449"
 		}
 	}
 }
@@ -527,6 +549,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26696842"
-"_sha" "055f3587b7297251f7102cf128ad3fc574cbad43"
-"_size" "11191"
+"_change_number" "26740472"
+"_sha" "1caefb2e33f44e4caa8700bbe9a2ca24fc98254c"
+"_size" "11709"
