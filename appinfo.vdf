@@ -156,7 +156,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "养蛋人 Egg Hatcher"
+			"name" "Gamera Games"
 		}
 		"2"
 		{
@@ -175,6 +175,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -194,6 +195,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1682049212"
 	"community_visible_stats" "1"
@@ -206,8 +212,8 @@
 		"2" "6426"
 		"3" "122"
 		"4" "4085"
-		"5" "599"
-		"6" "9551"
+		"5" "9551"
+		"6" "599"
 		"7" "7208"
 		"8" "3799"
 		"9" "1742"
@@ -228,7 +234,7 @@
 "extended"
 {
 	"developer" "养蛋人 Egg Hatcher"
-	"publisher" "养蛋人 Egg Hatcher"
+	"publisher" "Gamera Games"
 	"listofdlc" "2582920"
 	"dlcavailableonstore" "1"
 }
@@ -267,9 +273,42 @@
 		{
 			"public"
 			{
-				"gid" "8393648475099442582"
-				"size" "5058709037"
-				"download" "1103663968"
+				"gid" "6251464443834577539"
+				"size" "5058795719"
+				"download" "1103686432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test_korean"
+			{
+				"gid" "87C9B9675E7CEEC46C8AA4CCB2015F8D"
+				"size" "CA141C5A2B61C6047D005D71D36B2C69"
+				"download" "4BC3D2915B4036102B083F94435BA1B4"
+			}
+			"test_new"
+			{
+				"gid" "499A98B7AF98D11E2937C972FD916AF8"
+				"size" "218C05B1D2F3C32F4C8B815397267C89"
+				"download" "570997E829AAD5465DDC014D2D8848D4"
+			}
+			"archive_test"
+			{
+				"gid" "3E028607D68F04A0AB2DB972865037F9"
+				"size" "D19E1D83E93ECB66E850437DAD3CFC3B"
+				"download" "3614C55F7DFF8E6F8EFC41AE297147DB"
+			}
+			"steam_china_only"
+			{
+				"gid" "A3BE086F7399890A31FA802C12084F99"
+				"size" "0E5AAC7B6FBE6030C07C6F5E6FE8D95F"
+				"download" "B427AE97D25A71818AB52A6F32608592"
+			}
+			"test_internal"
+			{
+				"gid" "C4F091DF3F1C9B5BC826F3B3B680E661"
+				"size" "0832EA833C9F9DCFECFC22A8A26F3B51"
+				"download" "01AB315F0B615E46245EAF9F7F8113FE"
 			}
 		}
 	}
@@ -277,11 +316,44 @@
 	{
 		"public"
 		{
-			"buildid" "16799013"
-			"timeupdated" "1734605679"
+			"buildid" "16815782"
+			"timeupdated" "1734736099"
+		}
+		"test_korean"
+		{
+			"sc_schinese" "Korean version test"
+			"buildid" "12887207"
+			"pwdrequired" "1"
+			"timeupdated" "1701845783"
+		}
+		"test_new"
+		{
+			"buildid" "11658298"
+			"pwdrequired" "1"
+			"timeupdated" "1688872091"
+		}
+		"archive_test"
+		{
+			"sc_schinese" "Archive test"
+			"buildid" "16800432"
+			"pwdrequired" "1"
+			"timeupdated" "1734610656"
+		}
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+			"buildid" "15579666"
+			"pwdrequired" "1"
+			"timeupdated" "1731328477"
+		}
+		"test_internal"
+		{
+			"sc_schinese" "QA"
+			"buildid" "16815782"
+			"pwdrequired" "1"
+			"timeupdated" "1734708489"
 		}
 	}
-	"privatebranches" "1"
 }
 "ufs"
 {
@@ -304,6 +376,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26711859"
-"_sha" "bc4b8a42bf1377426711b9c82fe7fd1bfbaa79a2"
-"_size" "5691"
+"_change_number" "26741060"
+"_sha" "17ff99035674f4cf990bed255a6931a716bfce74"
+"_size" "7340"
