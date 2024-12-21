@@ -118,7 +118,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1689009178"
+	"store_asset_mtime" "1734369816"
 	"associations"
 	{
 		"0"
@@ -137,7 +137,6 @@
 	{
 		"0" "1"
 		"1" "23"
-		"2" "70"
 	}
 	"category"
 	{
@@ -156,7 +155,7 @@
 			"full_audio" "true"
 		}
 	}
-	"steam_release_date" "1698734379"
+	"steam_release_date" "1734682944"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2435090"
@@ -167,17 +166,17 @@
 		"2" "3964"
 		"3" "3959"
 		"4" "4255"
-		"5" "4004"
-		"6" "1645"
+		"5" "1645"
+		"6" "4004"
 		"7" "492"
 		"8" "1773"
 		"9" "3871"
 		"10" "4791"
 		"11" "19"
-		"12" "493"
-		"13" "1716"
-		"14" "4726"
-		"15" "4182"
+		"12" "1716"
+		"13" "4726"
+		"14" "4182"
+		"15" "493"
 		"16" "1756"
 		"17" "3993"
 		"18" "3810"
@@ -219,36 +218,9 @@
 		{
 			"public"
 			{
-				"gid" "4118140253058376540"
-				"size" "225644169"
-				"download" "61829808"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devpatch"
-			{
-				"gid" "B502BB727AA6798BD9DB1F907CE7DE76"
-				"size" "15A96AD6ACB05722A6CB6E06A9C73588"
-				"download" "F0F1F72FF7293A62830D8C8F28D48B59"
-			}
-			"trailer"
-			{
-				"gid" "4E7BE708CDCFDC4C5741561D8352782E"
-				"size" "720C230A629E4E0C21E90478F92CA552"
-				"download" "EF4439A99511BD172D5B4255539B52DD"
-			}
-			"community"
-			{
-				"gid" "5DD970FC2A6B56BB65994F3652ECCE37"
-				"size" "3ACC4ECAA5A2D5673D47D1DF71652876"
-				"download" "FFC1759A59AA8761CFA3642C78FF7AFC"
-			}
-			"devbuild"
-			{
-				"gid" "28932B506261FFA96FA49350B5CB1FFB"
-				"size" "86C0A4BAB6D818940EEC1CF44D619CCD"
-				"download" "FA8CC6DC0970299785CCD1D26B89058D"
+				"gid" "6231644092810019875"
+				"size" "227273361"
+				"download" "61952752"
 			}
 		}
 	}
@@ -256,34 +228,11 @@
 	{
 		"public"
 		{
-			"buildid" "16267770"
-			"timeupdated" "1730484193"
-		}
-		"devpatch"
-		{
-			"buildid" "14031816"
-			"pwdrequired" "1"
-			"timeupdated" "1712908011"
-		}
-		"trailer"
-		{
-			"buildid" "13625191"
-			"pwdrequired" "1"
-			"timeupdated" "1709451650"
-		}
-		"community"
-		{
-			"buildid" "16267770"
-			"pwdrequired" "1"
-			"timeupdated" "1730483993"
-		}
-		"devbuild"
-		{
-			"buildid" "16248541"
-			"pwdrequired" "1"
-			"timeupdated" "1730362793"
+			"buildid" "16818530"
+			"timeupdated" "1734725252"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -304,6 +253,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26010842"
-"_sha" "b29f2cf2cdcc61a52826b1d4cf6b7b31023a99a2"
-"_size" "5509"
+"_change_number" "26739211"
+"_sha" "c32d36b2ae913949499bb14623ffc90a1fc7d6b3"
+"_size" "4371"
