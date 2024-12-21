@@ -161,7 +161,7 @@
 	{
 		"0"
 		{
-			"executable" "dungeon-antiqua.exe"
+			"executable" "dungeon-antiqua-v2.exe"
 			"config"
 			{
 				"oslist" "windows"
@@ -192,9 +192,9 @@
 		{
 			"public"
 			{
-				"gid" "3794599967541290326"
-				"size" "12120836"
-				"download" "11907312"
+				"gid" "6487506681443590986"
+				"size" "11908739"
+				"download" "11798080"
 			}
 		}
 	}
@@ -208,9 +208,9 @@
 		{
 			"public"
 			{
-				"gid" "4942456566215338646"
-				"size" "11842488"
-				"download" "11733008"
+				"gid" "7731944089997409972"
+				"size" "11747488"
+				"download" "11639632"
 			}
 		}
 	}
@@ -218,12 +218,12 @@
 	{
 		"public"
 		{
-			"buildid" "16531025"
-			"timeupdated" "1733887840"
+			"buildid" "16820738"
+			"timeupdated" "1734744619"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26597065"
-"_sha" "532513f04a5c9702e26a1c567501c51e29b33fc8"
-"_size" "3603"
+"_change_number" "26742154"
+"_sha" "4f2825a59f9e62cb050dd369353527a8c531291e"
+"_size" "3606"
