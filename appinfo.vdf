@@ -118,9 +118,9 @@
 		{
 			"public"
 			{
-				"gid" "4990969212943422616"
-				"size" "21626627059"
-				"download" "19087730672"
+				"gid" "2401445303048509693"
+				"size" "32886364960"
+				"download" "29844978336"
 			}
 			"public_test_realm"
 			{
@@ -129,172 +129,13 @@
 				"download" "7603026672"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"arktx"
-			{
-				"gid" "5C15850A881F7389C66114C3D187465A"
-				"size" "A8224420A8761F7323C9B218327D18BB"
-				"download" "E1BF70FC6D5270EF9B72F39DBF911A95"
-			}
-			"default_logging"
-			{
-				"gid" "E93A4729F6D5453F597276D85B0546BA"
-				"size" "D46D08BA74A896541834616525D744C3"
-				"download" "F9DC6994E48AB11053A5A86735AD00B6"
-			}
-			"epicark"
-			{
-				"gid" "59FC012D9367EFAB0D492A8E5A1B84A2"
-				"size" "0251873D7DF33566AA5378ADD996707D"
-				"download" "59BBD3EB1875E50059040B7ADCDD8EC1"
-			}
-			"refeldest"
-			{
-				"gid" "302A3FF85755A20BEC6B346DC89301A4"
-				"size" "5855C43227AA2DB5C0877129456F58C7"
-				"download" "FD03D3B1D9ED0229E864D949FA436C09"
-			}
-			"asalive"
-			{
-				"gid" "8D5F33308C2042248DC3C755C0EBB4EA"
-				"size" "246F46D1B955AB69490F56F23A1E7AAF"
-				"download" "FD199189E87C793A4B8FA8A6C4A72EA4"
-			}
-			"cachechecks"
-			{
-				"gid" "905C07D8206D778D91DDE037040567C6"
-				"size" "14C8394143834228BB7CE57CB9003298"
-				"download" "879528FA5A846E3C85FA26D668065B0E"
-			}
-			"continuous"
-			{
-				"gid" "FAD130CE9FBA27D6686DEE64B76B45AE"
-				"size" "6CAA53BE73EB87C49EAADD1C659DFFA7"
-				"download" "636F76151C27156383B68D62B1BAB9CA"
-			}
-			"crossplay"
-			{
-				"gid" "E04081EA0B7884E81EFF959381C1E0BD"
-				"size" "CD37EAF61586A423F201C352F58EA2FB"
-				"download" "EAF28175A83FCC755665EEE3C23CA065"
-			}
-			"enduring"
-			{
-				"gid" "C0624D86CDCCE397F6F772AEDFCF0337"
-				"size" "3443A44071CADFA89E067205BB2F7B1B"
-				"download" "25E180CD922A81D9353E345CADD32F52"
-			}
-			"farmhouse"
-			{
-				"gid" "4B6F35DA7046064D888946B207D0DDF2"
-				"size" "59400B93A65B3424C49426BFD5EDD461"
-				"download" "13D3928F759386C7D47BDD1E1792BEFD"
-			}
-			"gander"
-			{
-				"gid" "AD313FE24D8141EA1C45101606CBF001"
-				"size" "B004617EF99F81205B1DCA08575CDD0B"
-				"download" "F7A276D71C56F8F31E7BA00D803C22A1"
-			}
-			"hotfixbeta"
-			{
-				"gid" "93B0AA9CB91BB0AABBAC74B746F4E700"
-				"size" "9397DCA26B7F66633A41092A95F29D29"
-				"download" "E0B637CA0637F0016AC0E25C03CC0439"
-			}
-			"lastknowngood"
-			{
-				"gid" "10AA2753E7D8C5820510241E0001FAE0"
-				"size" "82A1E6C444D8E0AACC5275B6FD95C1FD"
-				"download" "A27615C765F23E32588210A99412B00E"
-			}
-			"nightraider"
-			{
-				"gid" "5E0934652CDE21092333CE65588C41CE"
-				"size" "9D8D7D196DF43BFB8FFA1DE4A2AE1D85"
-				"download" "712AE78B2DA1220A064E26618D69F458"
-			}
-			"nitradopc"
-			{
-				"gid" "404A22117EA067AE6685EC6BE8B795D0"
-				"size" "5509CC99E050C01898657979D525C09E"
-				"download" "AE56DD6B89A6B41EDF8B576AE19D2DBB"
-			}
-			"notingscene"
-			{
-				"gid" "FB9E70925F813301021958E24A2B6848"
-				"size" "C10BD77FB76D34EEE7D95CD61919ADE3"
-				"download" "4C70C7902D15AE648B3DB954A70501CF"
-			}
-			"npc_beta"
-			{
-				"gid" "0C2EB64135069B861BF734F495202323"
-				"size" "EA7142BAD6BBF6E7DEA74A253CDD72B9"
-				"download" "F2B47047727AE3FD72563EFD5835E4BB"
-			}
-			"oldplaytest"
-			{
-				"gid" "2D748689FD493631FB8CF348D4146FD6"
-				"size" "DABFE3ABFF074BE287B01D56C5F2D261"
-				"download" "76B3B562E0B69AB9314EEE9A211C64B7"
-			}
-			"playtest1"
-			{
-				"gid" "11C9D11201985868832AE1480594F37F"
-				"size" "A8338F094FB984FFA48D06374DD2C24F"
-				"download" "B53354AF60E064B2FB817EFEEC2BC8B8"
-			}
-			"qa_staging"
-			{
-				"gid" "83218671E702213AE4EAB35512600161"
-				"size" "E0B0ECC38033513F1800E7F4DE9B2CE7"
-				"download" "29623D37579B6D0ABD42BCA13DD95312"
-			}
-			"spam"
-			{
-				"gid" "2C8FF728A8BBFCE60B81390B9107A33F"
-				"size" "318EDDEE66D17EFB9AF235FF6E99B133"
-				"download" "E16A8419CF49EE64FE3AFE4A88BC3215"
-			}
-			"unoff_beta"
-			{
-				"gid" "DA2EC3F6EED59CC16C87A5F35FF4EC33"
-				"size" "A43605D6F7465844C3E5EF6AE95E04E8"
-				"download" "079DBDD9E1815FE9DF73A1AD138CEAE6"
-			}
-			"yeoldebuild"
-			{
-				"gid" "A2B790AE0C4F6C8668D107BFACF92CFF"
-				"size" "5793F1202FFFF952B6B6B7A09FEF5F0D"
-				"download" "00F7D1A79E7DD74D63C0F07A022B92C8"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16649268"
-			"timeupdated" "1733516778"
-		}
-		"arktx"
-		{
-			"buildid" "12996297"
-			"pwdrequired" "1"
-			"timeupdated" "1702951787"
-		}
-		"default_logging"
-		{
-			"buildid" "12844115"
-			"pwdrequired" "1"
-			"timeupdated" "1701455394"
-		}
-		"epicark"
-		{
-			"buildid" "12825426"
-			"pwdrequired" "1"
-			"timeupdated" "1701242805"
+			"buildid" "16818848"
+			"timeupdated" "1734732652"
 		}
 		"public_test_realm"
 		{
@@ -302,129 +143,10 @@
 			"description" "Try out the new stuff"
 			"timeupdated" "1706926047"
 		}
-		"refeldest"
-		{
-			"buildid" "13538543"
-			"pwdrequired" "1"
-			"timeupdated" "1709917869"
-		}
-		"asalive"
-		{
-			"buildid" "16649252"
-			"pwdrequired" "1"
-			"timeupdated" "1733516652"
-		}
-		"cachechecks"
-		{
-			"buildid" "14591929"
-			"pwdrequired" "1"
-			"timeupdated" "1717464395"
-		}
-		"continuous"
-		{
-			"buildid" "16657638"
-			"pwdrequired" "1"
-			"timeupdated" "1733494600"
-		}
-		"crossplay"
-		{
-			"buildid" "16609174"
-			"pwdrequired" "1"
-			"timeupdated" "1733195320"
-		}
-		"enduring"
-		{
-			"buildid" "15878723"
-			"pwdrequired" "1"
-			"timeupdated" "1727718088"
-		}
-		"farmhouse"
-		{
-			"buildid" "16336167"
-			"pwdrequired" "1"
-			"timeupdated" "1731353465"
-		}
-		"gander"
-		{
-			"buildid" "14737526"
-			"pwdrequired" "1"
-			"timeupdated" "1718614236"
-		}
-		"hotfixbeta"
-		{
-			"buildid" "15668506"
-			"pwdrequired" "1"
-			"timeupdated" "1726087882"
-		}
-		"lastknowngood"
-		{
-			"buildid" "16326383"
-			"pwdrequired" "1"
-			"timeupdated" "1731098293"
-		}
-		"nightraider"
-		{
-			"buildid" "15740290"
-			"pwdrequired" "1"
-			"timeupdated" "1726700310"
-		}
-		"nitradopc"
-		{
-			"buildid" "16649259"
-			"pwdrequired" "1"
-			"timeupdated" "1733516672"
-		}
-		"notingscene"
-		{
-			"buildid" "14385537"
-			"pwdrequired" "1"
-			"timeupdated" "1715905978"
-		}
-		"npc_beta"
-		{
-			"buildid" "16649259"
-			"pwdrequired" "1"
-			"timeupdated" "1733435750"
-		}
-		"oldplaytest"
-		{
-			"buildid" "15594740"
-			"pwdrequired" "1"
-			"timeupdated" "1725554939"
-		}
-		"playtest1"
-		{
-			"buildid" "16424804"
-			"pwdrequired" "1"
-			"timeupdated" "1731699190"
-		}
-		"qa_staging"
-		{
-			"buildid" "16649252"
-			"pwdrequired" "1"
-			"timeupdated" "1733435692"
-		}
-		"spam"
-		{
-			"buildid" "16397852"
-			"pwdrequired" "1"
-			"timeupdated" "1731954309"
-		}
-		"unoff_beta"
-		{
-			"buildid" "16649268"
-			"pwdrequired" "1"
-			"timeupdated" "1733435808"
-		}
-		"yeoldebuild"
-		{
-			"buildid" "16577834"
-			"pwdrequired" "1"
-			"timeupdated" "1733527462"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26534206"
-"_sha" "54f2f2098ed7919ce6504919552fe6ab041f0453"
-"_size" "9112"
+"_change_number" "26741871"
+"_sha" "2e3dfe3cae2b9d1565e1fa20257a4d4f2fd0b0c3"
+"_size" "2628"
