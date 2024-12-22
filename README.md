@@ -1,20 +1,16 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-12-22 17:45:58
+## 更新时间：2024-12-23 00:25:38
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 16810 | Sid Meier's Civilization IV: Colonization| game |
-| 2026000 | Our Adventurer Guild| Game |
-| 207930 | Sacred Citadel| Game |
-| 212680 | FTL: Faster Than Light| Game |
-| 2289650 | 迷你空管| Game |
-| 240 | Counter-Strike: Source| game |
-| 22380 | Fallout: New Vegas| game |
-| 2669360 | 神之天平外传：幻雾之洞窟| DLC |
-| 2943280 | Dustland Delivery| Game |
-| 3011560 | 爱欲之都开篇季| Game |
-| 324160 | CLANNAD| Game |
-| 33770 | Drakensang The River of Time| game |
-| 310 | Source 2007 Dedicated Server| Tool |
-| 625980 | Yomawari: Midnight Shadows| Game |
-| 917080 | This Is the Police 2 - Soundtrack| Music |
+| 215 | Source SDK Base 2006| Tool |
+| 218 | Source SDK Base 2007| Tool |
+| 3097560 | Liar's Bar| Game |
+| 222750 | Wargame: AirLand Battle| Game |
+| 770810 | 可口的披萨，美味的披萨| Game |
+| 573410 | AI War 2| Game |
+| 320 | Half-Life 2: Deathmatch| game |
+| 1369670 | Motor Town: Behind The Wheel| Game |
+| 34470 | Sid Meier's Civilization IV: Colonization| Config |
+| 22490 | Fallout: New Vegas PCR| game |
+| 2437170 | 《神之浩劫2》| Game |
