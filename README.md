@@ -1,15 +1,17 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-12-22 02:15:53
+## 更新时间：2024-12-22 09:54:46
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 215 | Source SDK Base 2006| Tool |
-| 218 | Source SDK Base 2007| Tool |
-| 1836200 | Fallout 76 Public Test Server| Beta |
-| 1477070 | 人格解体| Game |
-| 1955830 | 东方冰之勇者记| Game |
-| 222750 | Wargame: AirLand Battle| Game |
-| 320 | Half-Life 2: Deathmatch| game |
+| 240 | Counter-Strike: Source| game |
+| 1079260 | Fireworks Mania| Game |
+| 413150 | Stardew Valley| Game |
+| 758990 | Ancient Warfare 3| Game |
+| 666150 | Prehistoric Kingdom| Game |
+| 1621210 | Nemithia - Tale of the Legendary Saviors| Game |
+| 3150440 | Laundry Store Simulator| Game |
+| 2924300 | BackRooms:Lost| Game |
+| 16810 | Sid Meier's Civilization IV: Colonization| game |
+| 1294760 | Hard Bullet| Game |
 | 427520 | Factorio| Game |
-| 34470 | Sid Meier's Civilization IV: Colonization| Config |
-| 22490 | Fallout: New Vegas PCR| game |
+| 1048100 | Peekaboo| Game |
