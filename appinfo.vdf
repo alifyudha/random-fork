@@ -207,24 +207,24 @@
 		{
 			"public"
 			{
-				"gid" "1014724607357520510"
-				"size" "1201316422"
-				"download" "209381584"
+				"gid" "1502091409581026337"
+				"size" "1201344022"
+				"download" "209388848"
 			}
 			"publicplaytest"
 			{
-				"gid" "1014724607357520510"
-				"size" "1201316422"
-				"download" "209381584"
+				"gid" "1502091409581026337"
+				"size" "1201344022"
+				"download" "209388848"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"playtest"
 			{
-				"gid" "6D9007F30DDDF2BB2DC155ED6F21ACAF"
-				"size" "BAB3E73BE5B67AA068B3C63FDBBF028C"
-				"download" "3F0809AFEFD7F3E90F7A7D3773BE218F"
+				"gid" "81DA18F9858A7BF95D7C7B77871DF0CB"
+				"size" "BEF82F8BDC943654C84815EB86E105AA"
+				"download" "C21B41CA1D04A8923A7EF417F5D73B4F"
 			}
 		}
 	}
@@ -233,24 +233,24 @@
 	{
 		"public"
 		{
-			"buildid" "16760928"
-			"timeupdated" "1734364816"
+			"buildid" "16822972"
+			"timeupdated" "1734773774"
 		}
 		"playtest"
 		{
-			"buildid" "16760928"
+			"buildid" "16822972"
 			"pwdrequired" "1"
-			"timeupdated" "1734364800"
+			"timeupdated" "1734773753"
 		}
 		"publicplaytest"
 		{
-			"buildid" "16760928"
+			"buildid" "16822972"
 			"description" "Playtest 测试版"
-			"timeupdated" "1734364789"
+			"timeupdated" "1734773741"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26663385"
-"_sha" "cf2c844e79019286b870d5fe78d4809bcfe19b70"
+"_change_number" "26744860"
+"_sha" "6aebd301c677fa3f481e6cdab369401562edb475"
 "_size" "5109"
