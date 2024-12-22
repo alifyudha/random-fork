@@ -237,7 +237,7 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
-	"2924302"
+	"2924301"
 	{
 		"config"
 		{
@@ -248,9 +248,9 @@
 		{
 			"public"
 			{
-				"gid" "6712063237961834135"
-				"size" "14241785714"
-				"download" "13500835376"
+				"gid" "2509482993378649268"
+				"size" "14241806488"
+				"download" "13498685552"
 			}
 		}
 	}
@@ -258,12 +258,12 @@
 	{
 		"public"
 		{
-			"buildid" "16818796"
-			"timeupdated" "1734727346"
+			"buildid" "16824244"
+			"timeupdated" "1734792870"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26739550"
-"_sha" "ae830eb4f0026e5310a37caa2b3736507aae3fac"
+"_change_number" "26746611"
+"_sha" "607363e21d40225e008be77c599c5a1646ac088f"
 "_size" "4267"
