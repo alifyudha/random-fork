@@ -246,15 +246,15 @@
 		{
 			"public"
 			{
-				"gid" "6375292123407034940"
-				"size" "14313703792"
-				"download" "6552535552"
+				"gid" "2060112061511568081"
+				"size" "14313702896"
+				"download" "6552561952"
 			}
 			"beta"
 			{
-				"gid" "6375292123407034940"
-				"size" "14313703792"
-				"download" "6552535552"
+				"gid" "2060112061511568081"
+				"size" "14313702896"
+				"download" "6552561952"
 			}
 		}
 		"encryptedmanifests"
@@ -351,9 +351,9 @@
 			}
 			"veryprivatebeta"
 			{
-				"gid" "A8E4571333B408A5B8DB8060A4BBBA97"
-				"size" "C437232C5126DA9D4AB730FF95A7C7C6"
-				"download" "03E608ED29B88C3ED2F11280D23D1CB0"
+				"gid" "9DBA34D21034BDF85F562CD703F9B337"
+				"size" "F264372E54DB34DE2C99E227AA4EFE0A"
+				"download" "A17485F5337237B5EC613CB554EDB5D3"
 			}
 		}
 	}
@@ -367,15 +367,15 @@
 		{
 			"public"
 			{
-				"gid" "3034592303840659231"
-				"size" "14148867536"
-				"download" "6495731504"
+				"gid" "7923198311758659943"
+				"size" "14148868896"
+				"download" "6495725984"
 			}
 			"beta"
 			{
-				"gid" "3034592303840659231"
-				"size" "14148867536"
-				"download" "6495731504"
+				"gid" "7923198311758659943"
+				"size" "14148868896"
+				"download" "6495725984"
 			}
 		}
 		"encryptedmanifests"
@@ -472,9 +472,9 @@
 			}
 			"veryprivatebeta"
 			{
-				"gid" "59F4D6570E12DC48EC2210464AF96DC8"
-				"size" "6B3B47548854E69DD06C47A6AA2CEB82"
-				"download" "4A95B0AC3FEDD3CECE779C965C0A706E"
+				"gid" "8D4ABA8618BD61C7D91039BA2C43069F"
+				"size" "55D417EE65F51ACC136E9F6D5F8F933A"
+				"download" "E520DC67C3A91A4FB8AF187FA4BFA29D"
 			}
 		}
 	}
@@ -496,8 +496,8 @@
 	{
 		"public"
 		{
-			"buildid" "16817230"
-			"timeupdated" "1734716407"
+			"buildid" "16829793"
+			"timeupdated" "1734888724"
 		}
 		"108t"
 		{
@@ -573,9 +573,9 @@
 		}
 		"beta"
 		{
-			"buildid" "16817225"
+			"buildid" "16829792"
 			"description" "WQ Public Beta"
-			"timeupdated" "1734716380"
+			"timeupdated" "1734888707"
 		}
 		"private-beta"
 		{
@@ -597,13 +597,13 @@
 		}
 		"veryprivatebeta"
 		{
-			"buildid" "16817161"
+			"buildid" "16829692"
 			"pwdrequired" "1"
-			"timeupdated" "1734715982"
+			"timeupdated" "1734887090"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26737380"
-"_sha" "fe8c44502a76580005de03d93c5209ebffea2e0b"
+"_change_number" "26755066"
+"_sha" "7d60e365c9de80eeecb4311bb452a023d0039c8b"
 "_size" "12798"
