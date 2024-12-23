@@ -42,6 +42,49 @@
 			"height_pct" "81.38297958684859"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33.2467949608518"
+				"height_pct" "81.38297958684859"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1693201130"
 	"associations"
 	{
@@ -53,7 +96,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "PersonaeGame Studio"
+			"name" " KUNPAN GAMES"
 		}
 	}
 	"primary_genre" "3"
@@ -68,6 +111,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -101,8 +145,8 @@
 		"5" "122"
 		"6" "10695"
 		"7" "1676"
-		"8" "4172"
-		"9" "1684"
+		"8" "1684"
+		"9" "4172"
 		"10" "4057"
 		"11" "17305"
 		"12" "1720"
@@ -120,7 +164,7 @@
 "extended"
 {
 	"developer" "PersonaeGame Studio"
-	"publisher" "PersonaeGame Studio"
+	"publisher" " KUNPAN GAMES"
 }
 "config"
 {
@@ -146,21 +190,9 @@
 		{
 			"public"
 			{
-				"gid" "3380613042826746266"
-				"size" "35256083184"
-				"download" "29515293376"
-			}
-			"1.0xversion"
-			{
-				"gid" "5543551599600884994"
-				"size" "31327363234"
-				"download" "26004428736"
-			}
-			"beta"
-			{
-				"gid" "3380613042826746266"
-				"size" "35256083184"
-				"download" "29515293376"
+				"gid" "3714725065970233037"
+				"size" "54880408385"
+				"download" "46694136304"
 			}
 			"developmentbuild"
 			{
@@ -168,32 +200,59 @@
 				"size" "31823514150"
 				"download" "26249133792"
 			}
+			"1.0xversion"
+			{
+				"gid" "3380613042826746266"
+				"size" "35256083184"
+				"download" "29515293376"
+			}
+			"beta"
+			{
+				"gid" "3714725065970233037"
+				"size" "54880408385"
+				"download" "46694136304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"privatetest"
+			{
+				"gid" "1BDE852CECF0F8D805B2C6FD35517F7A"
+				"size" "44039520A151B457D23550FE6C0D98A4"
+				"download" "A8E227BC23DB9B15D681608D117B5A7A"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13830940"
-			"timeupdated" "1711207881"
-		}
-		"1.0xversion"
-		{
-			"buildid" "12815525"
-			"description" "For 1.0X old version"
-			"timeupdated" "1705584841"
-		}
-		"beta"
-		{
-			"buildid" "13830940"
-			"description" "For pre release test"
-			"timeupdated" "1711180754"
+			"buildid" "16829227"
+			"timeupdated" "1734885656"
 		}
 		"developmentbuild"
 		{
 			"buildid" "12670645"
 			"description" "for developing test"
 			"timeupdated" "1699616501"
+		}
+		"1.0xversion"
+		{
+			"buildid" "13830940"
+			"description" "For 1.0X old version"
+			"timeupdated" "1734890519"
+		}
+		"beta"
+		{
+			"buildid" "16829227"
+			"description" "For pre release test"
+			"timeupdated" "1734885079"
+		}
+		"privatetest"
+		{
+			"buildid" "16829227"
+			"pwdrequired" "1"
+			"timeupdated" "1734880249"
 		}
 	}
 }
@@ -205,6 +264,6 @@
 	"hidecloudui" "1"
 }
 "_missing_token" "False"
-"_change_number" "22882279"
-"_sha" "fa4ad1e77d83feae2540094ae28e6a5bc4ac409f"
-"_size" "3575"
+"_change_number" "26755260"
+"_sha" "d2bc4487031fa7e04052d9ef5cecf35464490cd8"
+"_size" "4564"
