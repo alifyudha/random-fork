@@ -219,6 +219,20 @@
 			}
 			"description" "灵境 兼容模式 (启动崩溃时使用)"
 		}
+		"2"
+		{
+			"executable" "Windows/SpiritRealmWorkShopTool/SpiritRealmWorkShop.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "更新创意工坊模组（订阅有变更时启动一次）"
+			}
+			"description" "更新创意工坊模组（订阅有变更时启动一次）"
+		}
 	}
 	"steamcontrollertemplateindex" "6"
 	"steamdecktouchscreen" "1"
@@ -268,9 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "4404033473621926778"
-				"size" "15082752143"
-				"download" "13980257904"
+				"gid" "5879103539883104573"
+				"size" "15618208172"
+				"download" "14169106720"
 			}
 		}
 	}
@@ -280,8 +294,8 @@
 	{
 		"public"
 		{
-			"buildid" "16828471"
-			"timeupdated" "1734865442"
+			"buildid" "16833514"
+			"timeupdated" "1734942439"
 		}
 	}
 }
@@ -304,6 +318,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26752629"
-"_sha" "43648ceb1a8ab9745c7895b111a791a011e5bed8"
-"_size" "5372"
+"_change_number" "26760668"
+"_sha" "3b9a7479c027b7637f449065cadfa3362286e21b"
+"_size" "5730"
