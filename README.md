@@ -1,29 +1,19 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-12-23 23:54:53
+## 更新时间：2024-12-24 00:28:03
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1029780 | Going Medieval| Game |
-| 1286220 | Sea Power| Game |
-| 1380070 | Slaves of Rome| Game |
-| 1519060 | SGS Taipings| Game |
-| 1825970 | Blockworks| Game |
-| 1963370 | 无人生还| Game |
-| 2275020 | Backrooms Rec.| Game |
-| 2313330 | 泰拉科技世界| Game |
-| 2427700 | 背包乱斗：福西法的宝藏 Backpack Battles| Game |
-| 2552310 | 莎拉的黑店| Game |
-| 2597080 | 墨境| Game |
-| 2669360 | 神之天平外传：幻雾之洞窟| DLC |
-| 2882870 | Doll Impostor| Game |
-| 2897760 | 极品采花郎| Game |
-| 320 | Half-Life 2: Deathmatch| game |
-| 324160 | CLANNAD| Game |
-| 33770 | Drakensang The River of Time| game |
-| 310 | Source 2007 Dedicated Server| Tool |
-| 34470 | Sid Meier's Civilization IV: Colonization| Config |
-| 463530 | 地下蚁国 Empires of the Undergrowth| Game |
-| 505460 | Foxhole| Game |
-| 625980 | Yomawari: Midnight Shadows| Game |
-| 917080 | This Is the Police 2 - Soundtrack| Music |
-| 951440 | Volcanoids| Game |
+| 215 | Source SDK Base 2006| Tool |
+| 218 | Source SDK Base 2007| Tool |
+| 240 | Counter-Strike: Source| game |
+| 534380 | 消逝的光芒2: 重装上阵版| Game |
+| 949480 | BROK the InvestiGator 鳄鱼侦探布罗格| Game |
+| 671970 | Junkyard Simulator| Game |
+| 641320 | Cooking Simulator| Game |
+| 1619520 | 纵横命途| Game |
+| 2303350 | 小小贴纸铺| Game |
+| 2394010 | Palworld Dedicated Server| Tool |
+| 1683380 | 噗噗的冒险乐园| Game |
+| 2361680 | 刀剑江湖路| Game |
+| 2662780 | Heat Death: Survival Train| Game |
+| 16810 | Sid Meier's Civilization IV: Colonization| game |
