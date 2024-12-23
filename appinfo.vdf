@@ -260,8 +260,8 @@
 		"14" "4711"
 		"15" "3871"
 		"16" "4726"
-		"17" "6815"
-		"18" "7208"
+		"17" "7208"
+		"18" "6815"
 		"19" "97376"
 	}
 	"review_score" "8"
@@ -388,6 +388,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26747610"
-"_sha" "dce11ebd0f7b4bd85ff0642c17a2d863fcc08847"
+"_change_number" "26757510"
+"_sha" "86f206667e6fdb3cd4baca4a07baf4911fcaac18"
 "_size" "7107"
