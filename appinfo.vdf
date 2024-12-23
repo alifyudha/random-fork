@@ -278,6 +278,14 @@
 				"osarch" "64"
 			}
 		}
+		"2"
+		{
+			"executable" "Bioweaver.app/Contents/MacOS/Bioweaver"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
 	}
 }
 "depots"
@@ -293,9 +301,9 @@
 		{
 			"public"
 			{
-				"gid" "333000565174162349"
-				"size" "704204983"
-				"download" "475193504"
+				"gid" "960996561419839068"
+				"size" "704184338"
+				"download" "475164208"
 			}
 		}
 	}
@@ -310,18 +318,36 @@
 		{
 			"public"
 			{
-				"gid" "4805731689708492476"
-				"size" "678162168"
-				"download" "456172784"
+				"gid" "3582355946519553120"
+				"size" "678170480"
+				"download" "456216336"
 			}
 		}
 	}
+	"3177973"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3450792042243031211"
+				"size" "721638652"
+				"download" "482359056"
+			}
+		}
+	}
+	"baselanguages" "english"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16811932"
-			"timeupdated" "1734686316"
+			"buildid" "16833940"
+			"timeupdated" "1734946566"
 		}
 	}
 	"privatebranches" "1"
@@ -357,9 +383,24 @@
 				}
 			}
 		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "EmpromGame/Bioweaver/{Steam3AccountID}"
+					"replace" "EmpromGame/Bioweaver/{Steam3AccountID}"
+				}
+			}
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26730004"
-"_sha" "fb41cf2ccfe61661f864f98f166e7bde052b3dea"
-"_size" "6620"
+"_change_number" "26761029"
+"_sha" "a31c0b66c5602253a1d64b72b6ec3b674bce808f"
+"_size" "7286"
