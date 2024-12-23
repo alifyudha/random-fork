@@ -28,6 +28,7 @@
 	"osextended" ""
 	"releasestate" "released"
 	"openxrsupport" "1"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -172,7 +173,7 @@
 		"6" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -202,15 +203,15 @@
 		{
 			"public"
 			{
-				"gid" "1866802749099280073"
-				"size" "345121026"
-				"download" "207648896"
+				"gid" "1377046503646854589"
+				"size" "405402312"
+				"download" "217460928"
 			}
 			"beta"
 			{
-				"gid" "1866802749099280073"
-				"size" "345121026"
-				"download" "207648896"
+				"gid" "1377046503646854589"
+				"size" "405402312"
+				"download" "217460928"
 			}
 		}
 		"encryptedmanifests"
@@ -243,14 +244,14 @@
 	{
 		"public"
 		{
-			"buildid" "15995232"
-			"timeupdated" "1728913466"
+			"buildid" "16764220"
+			"timeupdated" "1734963545"
 		}
 		"beta"
 		{
-			"buildid" "15995232"
+			"buildid" "16764220"
 			"description" "Beta branch"
-			"timeupdated" "1728567433"
+			"timeupdated" "1734384931"
 		}
 		"preview"
 		{
@@ -278,6 +279,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "25708927"
-"_sha" "44156f1baa0890b8085b3134dedd00c1b53c300f"
-"_size" "4985"
+"_change_number" "26763457"
+"_sha" "14ec0f87411007c78b508ff87ca884c51593bae0"
+"_size" "5016"
