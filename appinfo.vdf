@@ -251,12 +251,39 @@
 		"0"
 		{
 			"executable" "FurryAimTrainer.exe"
-			"type" "default"
+			"arguments" "-d3d11"
+			"type" "option1"
 			"config"
 			{
 				"oslist" "windows"
 				"osarch" "64"
 			}
+			"description_loc"
+			{
+				"english" "DirectX 11 (Most Compatible)"
+				"koreana" "DirectX 11(가장 호환성이 좋음)"
+				"schinese" "DirectX 11（最兼容）"
+				"russian" "DirectX 11 (наиболее совместимый)"
+				"japanese" "DirectX 11(最も互換性が高い)"
+				"ukrainian" "DirectX 11 (найбільш сумісний)"
+			}
+			"description" "DirectX 11 (Most Compatible)"
+		}
+		"1"
+		{
+			"executable" "FurryAimTrainer.exe"
+			"arguments" "-d3d12"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "DirectX 12"
+			}
+			"description" "DirectX 12"
 		}
 	}
 }
@@ -295,9 +322,9 @@
 		{
 			"public"
 			{
-				"gid" "474737742213860342"
-				"size" "763141358"
-				"download" "591837552"
+				"gid" "4979891557724125624"
+				"size" "830751283"
+				"download" "635334752"
 			}
 			"censoredstreamermode"
 			{
@@ -311,8 +338,8 @@
 	{
 		"public"
 		{
-			"buildid" "16817448"
-			"timeupdated" "1734717785"
+			"buildid" "16837372"
+			"timeupdated" "1734983292"
 		}
 		"censoredstreamermode"
 		{
@@ -341,6 +368,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26739516"
-"_sha" "e0b14696dedc455a30e3930e88195f605b0bf998"
-"_size" "5769"
+"_change_number" "26766156"
+"_sha" "1b8ae6a9121209420ed2a912ffc0526c52a89e48"
+"_size" "6493"
