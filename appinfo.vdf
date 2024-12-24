@@ -176,8 +176,8 @@
 		"18" "8945"
 		"19" "4172"
 	}
-	"review_score" "6"
-	"review_percentage" "78"
+	"review_score" "8"
+	"review_percentage" "80"
 }
 "extended"
 {
@@ -221,24 +221,15 @@
 		{
 			"public"
 			{
-				"gid" "921351310545754794"
-				"size" "672487303"
-				"download" "389892816"
+				"gid" "3233845616562784534"
+				"size" "719645012"
+				"download" "393519584"
 			}
 			"patch"
 			{
-				"gid" "921351310545754794"
-				"size" "672487303"
-				"download" "389892816"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"unstable"
-			{
-				"gid" "9C1FD97B954CB3191B4A5DF3575E3E92"
-				"size" "5B9F4870E802340FDC5C501356950EF8"
-				"download" "A7D3ED6F14095069AA60DF24181D6D59"
+				"gid" "3233845616562784534"
+				"size" "719645012"
+				"download" "393519584"
 			}
 		}
 	}
@@ -246,22 +237,17 @@
 	{
 		"public"
 		{
-			"buildid" "14422444"
-			"timeupdated" "1716243447"
+			"buildid" "16832490"
+			"timeupdated" "1734932712"
 		}
 		"patch"
 		{
-			"buildid" "14422444"
+			"buildid" "16832490"
 			"description" "upcoming patch build"
-			"timeupdated" "1716163716"
-		}
-		"unstable"
-		{
-			"buildid" "14632524"
-			"pwdrequired" "1"
-			"timeupdated" "1717717593"
+			"timeupdated" "1734932626"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -270,3 +256,7 @@
 	"hidecloudui" "1"
 	"ignoreexternalfiles" "1"
 }
+"_missing_token" "False"
+"_change_number" "26759247"
+"_sha" "0b18016feaf8f504f6eef536b1ba48b010872352"
+"_size" "4435"
