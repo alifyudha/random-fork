@@ -271,8 +271,8 @@
 		"14" "3871"
 		"15" "4026"
 		"16" "10397"
-		"17" "1719"
-		"18" "5350"
+		"17" "5350"
+		"18" "1719"
 		"19" "3978"
 	}
 	"review_score" "8"
@@ -410,9 +410,9 @@
 		{
 			"public"
 			{
-				"gid" "55986202344284019"
-				"size" "39050576"
-				"download" "12647168"
+				"gid" "3450925535508561902"
+				"size" "39223632"
+				"download" "12784560"
 			}
 			"legacy_3.23.1"
 			{
@@ -467,9 +467,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "056272200C203413073DC5B37335A9C6"
-				"size" "187295C2880A08F3F9FAE28FFC7046DE"
-				"download" "BFE4FE2186ECC2AC69846882E072672C"
+				"gid" "573EFDA55F1CB47FAB5C6DF2B8600121"
+				"size" "26353E3959C501C9EA7CC0DE1E3BF998"
+				"download" "A0E2BC86A88EC19F02CFFEEBB7CC86DA"
 			}
 			"temp_directx_backup"
 			{
@@ -501,9 +501,9 @@
 		{
 			"public"
 			{
-				"gid" "1457451020977598235"
-				"size" "33219448"
-				"download" "9854464"
+				"gid" "8625666391113432539"
+				"size" "33372568"
+				"download" "9996560"
 			}
 			"legacy_3.23.1"
 			{
@@ -534,9 +534,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "1DDA80021430FA9368A5CD6345A7FC93"
-				"size" "65BE3D9AB823DFCCDAB21DFEE47BC900"
-				"download" "9957E3CA40CE9430EE5D8915ABFE0DE7"
+				"gid" "8602206D00E4C9E101FBA74F9042B2C2"
+				"size" "A2C8676962BCEC1CFEB2270736E803AA"
+				"download" "CAC2B2E5C8D941F48A0193FF3C4A9BDF"
 			}
 			"temp_directx_backup"
 			{
@@ -562,9 +562,9 @@
 		{
 			"public"
 			{
-				"gid" "1300326220777091389"
-				"size" "1594506316"
-				"download" "1601885632"
+				"gid" "4660949926239828708"
+				"size" "1594620849"
+				"download" "1602002528"
 			}
 			"legacy_3.23.1"
 			{
@@ -595,9 +595,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "92A2A1994EC7CC09DBFD05E7E18A6265"
-				"size" "B79D3072790F0D421746BFC988D4A997"
-				"download" "D7A59A752C6F82C7C3AA3D32102DFD49"
+				"gid" "6512448192A03FFB2AA57BD0C05191D3"
+				"size" "6ECD7E75C1EF90CBCD8642826EAA09F4"
+				"download" "91934DFE54C1F3921B9D36E24A34E421"
 			}
 			"temp_directx_backup"
 			{
@@ -623,9 +623,9 @@
 		{
 			"public"
 			{
-				"gid" "3194844012858355276"
-				"size" "1652314088"
-				"download" "1613245376"
+				"gid" "283867763226300285"
+				"size" "1652788221"
+				"download" "1613650832"
 			}
 		}
 		"encryptedmanifests"
@@ -644,9 +644,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "B2D8BCAFF0CEFE132C7CE444A66A73AD"
-				"size" "2039286A5F2EB16BF6BEA4CF18B5CF37"
-				"download" "F73FC939ACB4C0D3C93167FB18A45FC7"
+				"gid" "65364FE3E5AF6F51C89AE20138C45CB2"
+				"size" "B21747731119D889422356DEFABAB208"
+				"download" "AEF90A55A7A15884878D6AE4BC44A0B8"
 			}
 			"temp_directx_backup"
 			{
@@ -666,8 +666,8 @@
 	{
 		"public"
 		{
-			"buildid" "16690035"
-			"timeupdated" "1733820140"
+			"buildid" "16836963"
+			"timeupdated" "1734978035"
 		}
 		"devs"
 		{
@@ -719,9 +719,9 @@
 		}
 		"release_candidate"
 		{
-			"buildid" "16690035"
+			"buildid" "16836963"
 			"pwdrequired" "1"
-			"timeupdated" "1733812395"
+			"timeupdated" "1734976955"
 		}
 		"temp_directx_backup"
 		{
@@ -765,56 +765,17 @@
 			"root" "gameinstall"
 			"path" "."
 			"pattern" "user.dat"
-			"platforms"
-			{
-				"1" "Windows"
-			}
 		}
 		"4"
 		{
 			"root" "gameinstall"
 			"path" "save/{64BitSteamID}/."
 			"pattern" "*.ojs"
-			"platforms"
-			{
-				"1" "Windows"
-			}
 			"recursive" "1"
-		}
-		"5"
-		{
-			"root" "gameinstall"
-			"path" "."
-			"pattern" "user.dat"
-			"platforms"
-			{
-				"1" "Linux"
-			}
-		}
-		"6"
-		{
-			"root" "gameinstall"
-			"path" "save/{64BitSteamID}/."
-			"pattern" "*.ojs"
-			"platforms"
-			{
-				"1" "Linux"
-			}
-			"recursive" "1"
-		}
-		"7"
-		{
-			"root" "MacAppSupport"
-			"path" "FBF/100OrangeJuice/."
-			"pattern" "user.dat"
-			"platforms"
-			{
-				"1" "MacOS"
-			}
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26576111"
-"_sha" "687488849988a2f60d304e61909ce5289d44c812"
-"_size" "16598"
+"_change_number" "26765413"
+"_sha" "dd907f87ebe533e8b086a3028c2d8ae179f6f2e8"
+"_size" "16051"
