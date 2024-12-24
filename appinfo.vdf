@@ -269,15 +269,15 @@
 		{
 			"public"
 			{
-				"gid" "2913271363785231250"
-				"size" "6008177242"
-				"download" "3134679168"
+				"gid" "727176614512479738"
+				"size" "6008178318"
+				"download" "3134678672"
 			}
 			"prerelease"
 			{
-				"gid" "2913271363785231250"
-				"size" "6008177242"
-				"download" "3134679168"
+				"gid" "727176614512479738"
+				"size" "6008178318"
+				"download" "3134678672"
 			}
 		}
 		"encryptedmanifests"
@@ -326,9 +326,9 @@
 			}
 			"internal_test"
 			{
-				"gid" "7673CF8C6DEFDA7A7121A899C5CDA8CF"
-				"size" "A5F5235A14E69D4BD292A92BE8E1FB91"
-				"download" "317D5A87A50052D3D2B459E59A7F31A6"
+				"gid" "83A7A65A309C2C1328071800EA0112CE"
+				"size" "2BEF73AC060352A6A96F08AC21E41BF3"
+				"download" "9B7E007B6628A40CCCB4E97E2E9257BF"
 			}
 			"macfogtest"
 			{
@@ -338,9 +338,9 @@
 			}
 			"openbeta"
 			{
-				"gid" "E81654DD9C0178DE27225CA90225DED6"
-				"size" "CCEA33E0A8D197741869C336048EB9AF"
-				"download" "C8DB068C29AE54C6BA9980000A67DD00"
+				"gid" "E8F580F2D9540810EE41009EB1D9A78D"
+				"size" "543A7D38FE55BAD22BCCCF14FB95B536"
+				"download" "B4497AF186D70CFDF056A6F57F7FD6C5"
 			}
 			"streamer_test"
 			{
@@ -355,8 +355,8 @@
 	{
 		"public"
 		{
-			"buildid" "16818904"
-			"timeupdated" "1734728299"
+			"buildid" "16837657"
+			"timeupdated" "1734987772"
 		}
 		"beta"
 		{
@@ -402,9 +402,9 @@
 		}
 		"internal_test"
 		{
-			"buildid" "16818904"
+			"buildid" "16837657"
 			"pwdrequired" "1"
-			"timeupdated" "1734728068"
+			"timeupdated" "1734985256"
 		}
 		"macfogtest"
 		{
@@ -414,15 +414,15 @@
 		}
 		"openbeta"
 		{
-			"buildid" "16818904"
+			"buildid" "16837657"
 			"pwdrequired" "1"
-			"timeupdated" "1734728233"
+			"timeupdated" "1734987720"
 		}
 		"prerelease"
 		{
-			"buildid" "16818904"
+			"buildid" "16837657"
 			"description" "Pre-release of updates for preview testing"
-			"timeupdated" "1734728245"
+			"timeupdated" "1734987732"
 		}
 		"streamer_test"
 		{
@@ -481,6 +481,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26739728"
-"_sha" "ed1d5213501f3c3ebd3deff4c207e3b3b22d673c"
-"_size" "9529"
+"_change_number" "26766513"
+"_sha" "1ff48fc03f0abe152d945550feb3cba073285f93"
+"_size" "9527"
