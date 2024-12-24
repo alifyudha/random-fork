@@ -18,9 +18,9 @@
 		"portuguese" "Bioweaver"
 		"german" "Bioweaver"
 	}
-	"oslist" "windows,linux"
+	"oslist" "windows,macos,linux"
 	"osarch" ""
-	"osextended" ""
+	"osextended" "macosapplesilicon"
 	"releasestate" "released"
 	"languages"
 	{
@@ -248,7 +248,7 @@
 		"16" "4236"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -301,9 +301,9 @@
 		{
 			"public"
 			{
-				"gid" "960996561419839068"
-				"size" "704184338"
-				"download" "475164208"
+				"gid" "3941132417185454333"
+				"size" "704052639"
+				"download" "475121392"
 			}
 		}
 	}
@@ -318,9 +318,9 @@
 		{
 			"public"
 			{
-				"gid" "3582355946519553120"
-				"size" "678170480"
-				"download" "456216336"
+				"gid" "4429290008528588195"
+				"size" "678078961"
+				"download" "456146112"
 			}
 		}
 	}
@@ -335,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "3450792042243031211"
-				"size" "721638652"
-				"download" "482359056"
+				"gid" "4215989441732731192"
+				"size" "721746633"
+				"download" "482356528"
 			}
 		}
 	}
@@ -346,8 +346,8 @@
 	{
 		"public"
 		{
-			"buildid" "16833940"
-			"timeupdated" "1734946566"
+			"buildid" "16841283"
+			"timeupdated" "1735026127"
 		}
 	}
 	"privatebranches" "1"
@@ -401,6 +401,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26761029"
-"_sha" "a31c0b66c5602253a1d64b72b6ec3b674bce808f"
-"_size" "7286"
+"_change_number" "26771674"
+"_sha" "8bb1b854938cb285d4ddeaddfbe4d3f3f8bc27bd"
+"_size" "7310"
