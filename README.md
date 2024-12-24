@@ -1,19 +1,21 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-12-24 00:28:03
+## 更新时间：2024-12-24 09:47:35
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 215 | Source SDK Base 2006| Tool |
-| 218 | Source SDK Base 2007| Tool |
-| 240 | Counter-Strike: Source| game |
-| 534380 | 消逝的光芒2: 重装上阵版| Game |
-| 949480 | BROK the InvestiGator 鳄鱼侦探布罗格| Game |
-| 671970 | Junkyard Simulator| Game |
-| 641320 | Cooking Simulator| Game |
-| 1619520 | 纵横命途| Game |
-| 2303350 | 小小贴纸铺| Game |
-| 2394010 | Palworld Dedicated Server| Tool |
-| 1683380 | 噗噗的冒险乐园| Game |
-| 2361680 | 刀剑江湖路| Game |
-| 2662780 | Heat Death: Survival Train| Game |
-| 16810 | Sid Meier's Civilization IV: Colonization| game |
+| 977950 | 冰与火之舞 A Dance of Fire and Ice| Game |
+| 570 | Dota 2| game |
+| 1972440 | Shotgun King: The Final Checkmate| Game |
+| 451340 | Gold Mining Simulator| Game |
+| 285920 | TerraTech| Game |
+| 282800 | 100% Orange Juice| Game |
+| 1977570 | A Dance of Fire and Ice - Neo Cosmos| DLC |
+| 1374930 | Black Geyser: Couriers of Darkness| Game |
+| 739630 | Phasmophobia| Game |
+| 320 | Half-Life 2: Deathmatch| game |
+| 2399830 | 方舟: 生存飞升| Game |
+| 2683150 | 传说酒馆| Game |
+| 2198150 | Tiny Glade| Game |
+| 2272900 | 欢欣森活| Game |
+| 34470 | Sid Meier's Civilization IV: Colonization| Config |
+| 225160 | Shadow Warrior Classic Redux| Game |
