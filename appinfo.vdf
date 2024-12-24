@@ -113,7 +113,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1731641892"
+	"store_asset_mtime" "1734943817"
 	"associations"
 	{
 		"0"
@@ -184,7 +184,7 @@
 	"developer" "白玉京工作室"
 	"publisher" "白玉京工作室"
 	"homepage" "http://jh.inmotiongame.com/"
-	"listofdlc" "2905470,2998780,3007440,3099590,3137140,3169410,3255940,3323010,3349590"
+	"listofdlc" "2905470,2998780,3007440,3099590,3137140,3169410,3255940,3323010,3349590,3386320"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -218,18 +218,18 @@
 		{
 			"public"
 			{
-				"gid" "8394493419943406272"
-				"size" "20458513589"
-				"download" "16120489664"
+				"gid" "2483076217526288613"
+				"size" "20584791898"
+				"download" "16204471840"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"playertest"
 			{
-				"gid" "73ACBACCF669E1C73261906FE6CA4866"
-				"size" "35AA1271F61652A1311F5518A11122E2"
-				"download" "459B2C3749B577A7117B3D6964A17DE1"
+				"gid" "67289BAE03890C8D757203050B9B2B98"
+				"size" "B5CA1552824BA233F149236079AEE4D8"
+				"download" "CEC4168D76703F596130222C4978D6E4"
 			}
 			"qianjinxian"
 			{
@@ -239,15 +239,15 @@
 			}
 			"steam_china_only"
 			{
-				"gid" "B6769A732880A3AA7906A150D076EF08"
-				"size" "AB317360048DE37343D948C33B231FE4"
-				"download" "344159A5F9E9EE0513A949C1AC5C1A39"
+				"gid" "9D7BC5772512E0467F148B4CD4F67008"
+				"size" "165F42F442472ACA2BCAFCEF660F963B"
+				"download" "D9B8DF7120F8A248CC3A71EEF74FA392"
 			}
 			"test"
 			{
-				"gid" "58D1E1C9643D9E25D20FB3D16C42E1BD"
-				"size" "1336440F8799C77A29FC3E4E98F82325"
-				"download" "DB7714ADAE182DD8D029CA09CCEA4CE3"
+				"gid" "473143328D45C8B88160B9BED005D867"
+				"size" "FE31159095E9593EDD5C2F095567DDB6"
+				"download" "345C3CFFCF737D2E48D576B725A143EC"
 			}
 		}
 	}
@@ -296,15 +296,15 @@
 	{
 		"public"
 		{
-			"buildid" "16808778"
-			"timeupdated" "1734665070"
+			"buildid" "16841223"
+			"timeupdated" "1735034232"
 		}
 		"playertest"
 		{
 			"sc_schinese" "对外测试卡顿"
-			"buildid" "16808778"
+			"buildid" "16841223"
 			"pwdrequired" "1"
-			"timeupdated" "1734661230"
+			"timeupdated" "1735034259"
 		}
 		"qianjinxian"
 		{
@@ -316,16 +316,16 @@
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "16808778"
+			"buildid" "16841223"
 			"pwdrequired" "1"
-			"timeupdated" "1734665049"
+			"timeupdated" "1735034244"
 		}
 		"test"
 		{
 			"sc_schinese" "Steam China test"
-			"buildid" "16808778"
+			"buildid" "16841223"
 			"pwdrequired" "1"
-			"timeupdated" "1734661238"
+			"timeupdated" "1735028050"
 		}
 	}
 }
@@ -346,6 +346,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26726520"
-"_sha" "370db2eca40a8af1c21a9dfc4fd5466ec7cfb928"
-"_size" "7111"
+"_change_number" "26771952"
+"_sha" "4c5bd7ef058bbc3930550984bd8e1cfd62c2c1bc"
+"_size" "7119"
