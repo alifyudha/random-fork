@@ -131,7 +131,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728560451"
+	"store_asset_mtime" "1734963708"
 	"associations"
 	{
 		"0"
@@ -211,8 +211,8 @@
 		"11" "1662"
 		"12" "4508"
 		"13" "1678"
-		"14" "12057"
-		"15" "4168"
+		"14" "4168"
+		"15" "12057"
 		"16" "599"
 		"17" "7926"
 		"18" "6910"
@@ -294,9 +294,9 @@
 		{
 			"public"
 			{
-				"gid" "2002409609551736287"
-				"size" "3844629788"
-				"download" "1853619696"
+				"gid" "2320944057431119088"
+				"size" "4564182875"
+				"download" "2296547824"
 			}
 			"13.1.2016"
 			{
@@ -321,12 +321,6 @@
 				"gid" "3589478483316699145"
 				"size" "1511703047"
 				"download" "482727456"
-			}
-			"2.4.7"
-			{
-				"gid" "6632356714644108657"
-				"size" "1669027132"
-				"download" "511999856"
 			}
 			"2.4.9"
 			{
@@ -384,11 +378,17 @@
 			}
 			"alpha_test"
 			{
-				"gid" "2002409609551736287"
-				"size" "3844629788"
-				"download" "1853619696"
+				"gid" "2320944057431119088"
+				"size" "4564182875"
+				"download" "2296547824"
 			}
 			"beta_test"
+			{
+				"gid" "2320944057431119088"
+				"size" "4564182875"
+				"download" "2296547824"
+			}
+			"pre_camera_change"
 			{
 				"gid" "2002409609551736287"
 				"size" "3844629788"
@@ -435,15 +435,15 @@
 			}
 			"experimental"
 			{
-				"gid" "D1D514858E0A7191CDF066E9109C8F42"
-				"size" "7B75B902D33D6C3100458C6B89192225"
-				"download" "E91D404762D1D63A73A1657C031E2F08"
+				"gid" "987601C824FA635EF4D1DD7315A74E8B"
+				"size" "8E31E49B44A109AF5FFDE94A5D833904"
+				"download" "47D8D7922A1FA0DAF3C72B2CC5218A55"
 			}
 			"private3"
 			{
-				"gid" "92A6AE5170C9C772ECB55810AF15D96E"
-				"size" "8B3321BC2E92AB8DF96601BFB650A40B"
-				"download" "7B20D09946A8298781FF1EAF3B81D1FD"
+				"gid" "22C73B0242F988D9364B617F665AD59C"
+				"size" "1830EB08A9012C5C5C575F946128E120"
+				"download" "24FA9045D4CB9BB3930A712D69F69A75"
 			}
 		}
 	}
@@ -457,9 +457,9 @@
 		{
 			"public"
 			{
-				"gid" "6072660227106194822"
-				"size" "3872837833"
-				"download" "1861850256"
+				"gid" "9030194440911245933"
+				"size" "4581062062"
+				"download" "2303354240"
 			}
 			"13.1.2016"
 			{
@@ -484,12 +484,6 @@
 				"gid" "3207018821530535255"
 				"size" "1550592492"
 				"download" "500435264"
-			}
-			"2.4.7"
-			{
-				"gid" "2466408545667581108"
-				"size" "1708650066"
-				"download" "526066192"
 			}
 			"2.4.9"
 			{
@@ -547,11 +541,17 @@
 			}
 			"alpha_test"
 			{
-				"gid" "6072660227106194822"
-				"size" "3872837833"
-				"download" "1861850256"
+				"gid" "9030194440911245933"
+				"size" "4581062062"
+				"download" "2303354240"
 			}
 			"beta_test"
+			{
+				"gid" "9030194440911245933"
+				"size" "4581062062"
+				"download" "2303354240"
+			}
+			"pre_camera_change"
 			{
 				"gid" "6072660227106194822"
 				"size" "3872837833"
@@ -598,15 +598,15 @@
 			}
 			"experimental"
 			{
-				"gid" "BD5EF68CC0ACE2E4FD914527FEDC2D52"
-				"size" "F291F70FEA32B3AEA4051CB2314A24A0"
-				"download" "76B05B30F43320A36185C8A13B8DA2DB"
+				"gid" "29B6501D3E1B471DCE781E5079C5BA18"
+				"size" "726B59296F5EBAB61736CA687AC00839"
+				"download" "77D1BBBDAB8E0BC5B174AB711EA26E36"
 			}
 			"private3"
 			{
-				"gid" "848B0165343818DAA173A2C4BF793090"
-				"size" "535CA5DA31D42B89023209A41441B63F"
-				"download" "C8F04B0E30A31DB8DEE67146A7AC83D8"
+				"gid" "C7A4968EBA5E21297EB80BA757CACFC3"
+				"size" "78C179087444FA09A27CE84BE7101DBF"
+				"download" "5A378CA25F1A0DB6D9543A26E662B8C2"
 			}
 		}
 	}
@@ -621,9 +621,9 @@
 		{
 			"public"
 			{
-				"gid" "7107398317458798853"
-				"size" "3855549814"
-				"download" "1857431936"
+				"gid" "7164700172737706490"
+				"size" "4576840150"
+				"download" "2300770240"
 			}
 			"13.1.2016"
 			{
@@ -648,12 +648,6 @@
 				"gid" "4301558373945532245"
 				"size" "1518125063"
 				"download" "485371504"
-			}
-			"2.4.7"
-			{
-				"gid" "4905563822629088984"
-				"size" "1675514684"
-				"download" "514625840"
 			}
 			"2.4.9"
 			{
@@ -711,11 +705,17 @@
 			}
 			"alpha_test"
 			{
-				"gid" "7107398317458798853"
-				"size" "3855549814"
-				"download" "1857431936"
+				"gid" "7164700172737706490"
+				"size" "4576840150"
+				"download" "2300770240"
 			}
 			"beta_test"
+			{
+				"gid" "7164700172737706490"
+				"size" "4576840150"
+				"download" "2300770240"
+			}
+			"pre_camera_change"
 			{
 				"gid" "7107398317458798853"
 				"size" "3855549814"
@@ -762,15 +762,15 @@
 			}
 			"experimental"
 			{
-				"gid" "39ECE6913727433769365C482DDFE834"
-				"size" "07D29133F1F4D18E9EFD24968BCB77C7"
-				"download" "94B639E77125868CE8E31F67368712B3"
+				"gid" "8E27CAB504822FFB79C7579631FF1267"
+				"size" "BFD0FD3D53B793176E234600C352CD4E"
+				"download" "CDB191B0A40E3E41B7D143C05B34109B"
 			}
 			"private3"
 			{
-				"gid" "B827CA2A48AE29AAABBACA8A0B508F63"
-				"size" "FA47D4EA5EE8963127A3052D31F24775"
-				"download" "35E46A3A086C31E0C304895AD4958C0F"
+				"gid" "EEE0F5A57058AB6DD1510446AB905C6D"
+				"size" "1E1D57D842E84C90D68E640AAC2E17C4"
+				"download" "C188D7C46559C04BF23B5FD97FB0EB36"
 			}
 		}
 	}
@@ -784,9 +784,9 @@
 		{
 			"public"
 			{
-				"gid" "6526112383938914460"
-				"size" "3910448807"
-				"download" "1864634336"
+				"gid" "6532041678648084668"
+				"size" "4633856062"
+				"download" "2307778480"
 			}
 			"13.1.2016"
 			{
@@ -811,12 +811,6 @@
 				"gid" "8179125106415603933"
 				"size" "1578325405"
 				"download" "507979712"
-			}
-			"2.4.7"
-			{
-				"gid" "5834552914457405586"
-				"size" "1738460308"
-				"download" "537712224"
 			}
 			"2.4.9"
 			{
@@ -874,11 +868,17 @@
 			}
 			"alpha_test"
 			{
-				"gid" "6526112383938914460"
-				"size" "3910448807"
-				"download" "1864634336"
+				"gid" "6532041678648084668"
+				"size" "4633856062"
+				"download" "2307778480"
 			}
 			"beta_test"
+			{
+				"gid" "6532041678648084668"
+				"size" "4633856062"
+				"download" "2307778480"
+			}
+			"pre_camera_change"
 			{
 				"gid" "6526112383938914460"
 				"size" "3910448807"
@@ -925,15 +925,15 @@
 			}
 			"experimental"
 			{
-				"gid" "061A83B2E07572D962468A057960D546"
-				"size" "A68736B1B4470C3658B0001C184B2E76"
-				"download" "899AA9786706FDAD6A8E9C176DCC797C"
+				"gid" "C3AE71C23F09FF378B4A9AD224F32A44"
+				"size" "9EF0E9BDAF40832FA5F4840FFDC9AC4B"
+				"download" "C2FA961F33AAB0B38A5B7766D645FA8B"
 			}
 			"private3"
 			{
-				"gid" "BBCC4DCDFD11D86EECFAF0FB24293593"
-				"size" "92316C4C64E4102C8B8ED1128463AEEB"
-				"download" "0BE02BF79E4A6DC5CA6C15A8673C53FE"
+				"gid" "19E016CE5EA117FD2A29287477D709BF"
+				"size" "2EA3980EC07B795965BAC02D2F6CDA7C"
+				"download" "02F5042F5CE91DE47F80F34C25515964"
 			}
 		}
 	}
@@ -941,8 +941,8 @@
 	{
 		"public"
 		{
-			"buildid" "14859323"
-			"timeupdated" "1719498139"
+			"buildid" "16839095"
+			"timeupdated" "1735002048"
 		}
 		"13.1.2016"
 		{
@@ -964,11 +964,6 @@
 		{
 			"buildid" "3433452"
 			"timeupdated" "1554104840"
-		}
-		"2.4.7"
-		{
-			"buildid" "4048277"
-			"timeupdated" "1565363849"
 		}
 		"2.4.9"
 		{
@@ -1051,27 +1046,33 @@
 		}
 		"alpha_test"
 		{
-			"buildid" "14859323"
+			"buildid" "16839095"
 			"description" "alpha_test"
-			"timeupdated" "1719498154"
+			"timeupdated" "1735001949"
 		}
 		"beta_test"
 		{
-			"buildid" "14859323"
+			"buildid" "16839095"
 			"description" "beta_test"
-			"timeupdated" "1719498174"
+			"timeupdated" "1735001966"
 		}
 		"experimental"
 		{
-			"buildid" "16506370"
+			"buildid" "16839095"
 			"pwdrequired" "1"
-			"timeupdated" "1732319115"
+			"timeupdated" "1735001979"
+		}
+		"pre_camera_change"
+		{
+			"buildid" "14859323"
+			"description" "Stable before 4.2"
+			"timeupdated" "1734973641"
 		}
 		"private3"
 		{
-			"buildid" "16541068"
+			"buildid" "16839095"
 			"pwdrequired" "1"
-			"timeupdated" "1732640527"
+			"timeupdated" "1735001648"
 		}
 		"stable_pre_fire_candles_only"
 		{
@@ -1089,6 +1090,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26370845"
-"_sha" "2802c7258645b6937d4d834a00bc0d4f9ec99f4e"
-"_size" "22085"
+"_change_number" "26768185"
+"_sha" "30ee52dc3c16df7dafe1bcedd30c5b213b372821"
+"_size" "22189"
