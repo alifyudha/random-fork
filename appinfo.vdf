@@ -61,6 +61,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomCenter"
@@ -68,7 +69,60 @@
 			"height_pct" "80.06397838645711"
 		}
 	}
-	"store_asset_mtime" "1712387393"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "77.78934471971485"
+				"height_pct" "80.06397838645711"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734715778"
 	"associations"
 	{
 		"0"
@@ -156,26 +210,26 @@
 	"gameid" "1448000"
 	"store_tags"
 	{
-		"0" "1663"
-		"1" "1664"
-		"2" "1687"
-		"3" "21"
-		"4" "9551"
-		"5" "122"
+		"0" "12095"
+		"1" "21"
+		"2" "1664"
+		"3" "176981"
+		"4" "1663"
+		"5" "1667"
 		"6" "4191"
-		"7" "3839"
-		"8" "1667"
-		"9" "1742"
-		"10" "6971"
-		"11" "19"
-		"12" "599"
-		"13" "1659"
-		"14" "1719"
-		"15" "6691"
-		"16" "10808"
-		"17" "4182"
-		"18" "4947"
-		"19" "769306"
+		"7" "4947"
+		"8" "1742"
+		"9" "1659"
+		"10" "4064"
+		"11" "10808"
+		"12" "769306"
+		"13" "4182"
+		"14" "5984"
+		"15" "6971"
+		"16" "10679"
+		"17" "6378"
+		"18" "1721"
+		"19" "6869"
 	}
 	"review_score" "8"
 	"review_percentage" "81"
@@ -289,13 +343,19 @@
 		{
 			"public"
 			{
-				"gid" "4782383941145838235"
-				"size" "14889265859"
-				"download" "7087519264"
+				"gid" "7422752711945673806"
+				"size" "10474117523"
+				"download" "5959886272"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"oldversion"
+			{
+				"gid" "4504A1B6326EC41B74A9E7124342CBFC"
+				"size" "E5A5EE89F2E38E53E090BB7E95395EEE"
+				"download" "1C445DDA753DA03E34CE72FAEB57C5CA"
+			}
 			"qqtest"
 			{
 				"gid" "CB41426B46DCBE792EA5E91F4943B403"
@@ -304,15 +364,15 @@
 			}
 			"test"
 			{
-				"gid" "95401FA043F746337B138287DF449F4A"
-				"size" "28953F4F737765F5CA0860E6233DB5D7"
-				"download" "146D957E3736BDFB794A228FC04B088F"
+				"gid" "E99A05CFF108B3B46C1EB8FCB83727B6"
+				"size" "BC59B60CE2E9C4721AD5021D81E65B04"
+				"download" "24C57F800513BC8CB88E5FC20BAA29DB"
 			}
 			"teststeam"
 			{
-				"gid" "E4E6AE3825B35F9026AC4435B07B9BBB"
-				"size" "8DB21A93B154A9ECC248808EC4658E5E"
-				"download" "AA623C4C4B497DAEF2609292F37D828C"
+				"gid" "B7B643D8416E73DE85912B5EB7FE479E"
+				"size" "B000B962B5B1C211BC1F6FD898402D4F"
+				"download" "923C6F297891FE73A8E15DD6D242262F"
 			}
 		}
 	}
@@ -320,8 +380,14 @@
 	{
 		"public"
 		{
+			"buildid" "16842112"
+			"timeupdated" "1735035837"
+		}
+		"oldversion"
+		{
 			"buildid" "14290497"
-			"timeupdated" "1715666931"
+			"pwdrequired" "1"
+			"timeupdated" "1734853916"
 		}
 		"qqtest"
 		{
@@ -331,19 +397,19 @@
 		}
 		"test"
 		{
-			"buildid" "14290497"
+			"buildid" "16842112"
 			"pwdrequired" "1"
-			"timeupdated" "1715087920"
+			"timeupdated" "1735034993"
 		}
 		"teststeam"
 		{
-			"buildid" "14290497"
+			"buildid" "16830882"
 			"pwdrequired" "1"
-			"timeupdated" "1715087908"
+			"timeupdated" "1734905716"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "23528525"
-"_sha" "7d7643a2329d95e3eb5da2c063a938f101f67fe6"
-"_size" "5971"
+"_change_number" "26772128"
+"_sha" "f9d5a5f5fd2cbdfb982fab8de8535d4444ee3cc5"
+"_size" "7071"
