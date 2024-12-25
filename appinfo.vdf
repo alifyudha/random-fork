@@ -191,7 +191,7 @@
 {
 	"developer" "珠海金山数字网络科技有限公司"
 	"publisher" "海南西山居互动娱乐科技有限公司"
-	"listofdlc" "3298900,3332130"
+	"listofdlc" "3298900,3307450,3332130"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -224,9 +224,9 @@
 		{
 			"public"
 			{
-				"gid" "1257107784985808575"
-				"size" "39755838468"
-				"download" "32798807808"
+				"gid" "4685630883158724228"
+				"size" "39812850877"
+				"download" "32855844592"
 			}
 		}
 	}
@@ -243,8 +243,8 @@
 	{
 		"public"
 		{
-			"buildid" "16798896"
-			"timeupdated" "1734660295"
+			"buildid" "16842008"
+			"timeupdated" "1735097682"
 		}
 	}
 	"privatebranches" "1"
@@ -272,6 +272,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26725533"
-"_sha" "01edaf26eaae0e7faf034e73e9b8a7d8e9bf41b4"
-"_size" "5321"
+"_change_number" "26778386"
+"_sha" "03e914131c0310b7209fc0b93c9efdd9d1aa8f4b"
+"_size" "5329"
