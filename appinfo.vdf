@@ -27,6 +27,50 @@
 		"brazilian" "1"
 		"ukrainian" "1"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1734652800"
+		"tested_build_id" "16790518"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -244,7 +288,7 @@
 		}
 	}
 	"steamdecktouchscreen" "1"
-	"steamcontrollertemplateindex" "4"
+	"steamcontrollertemplateindex" "2"
 }
 "depots"
 {
@@ -272,9 +316,9 @@
 		{
 			"public"
 			{
-				"gid" "3286002381664978544"
-				"size" "1612781667"
-				"download" "1309393696"
+				"gid" "7130716118615247294"
+				"size" "1612807775"
+				"download" "1309426992"
 			}
 		}
 	}
@@ -286,8 +330,8 @@
 	{
 		"public"
 		{
-			"buildid" "16800400"
-			"timeupdated" "1734632003"
+			"buildid" "16844128"
+			"timeupdated" "1735058489"
 		}
 	}
 	"privatebranches" "1"
@@ -298,6 +342,6 @@
 	"maxnumfiles" "9999"
 }
 "_missing_token" "False"
-"_change_number" "26719300"
-"_sha" "fe7747e039316e7c4e2fceb5b87b5fc782148374"
-"_size" "4790"
+"_change_number" "26774749"
+"_sha" "761c940c5a59e2affe34c747ecda16d1c715214b"
+"_size" "5896"
