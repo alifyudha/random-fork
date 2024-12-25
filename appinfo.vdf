@@ -16,6 +16,7 @@
 	{
 		"english" "1"
 		"schinese" "1"
+		"japanese" "1"
 	}
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -126,11 +127,11 @@
 	"store_tags"
 	{
 		"0" "597"
-		"1" "24003"
-		"2" "3799"
+		"1" "3799"
+		"2" "24003"
 		"3" "5379"
-		"4" "44868"
-		"5" "3871"
+		"4" "3871"
+		"5" "44868"
 		"6" "4085"
 		"7" "5984"
 		"8" "5608"
@@ -141,7 +142,7 @@
 		"13" "7250"
 	}
 	"review_score" "8"
-	"review_percentage" "100"
+	"review_percentage" "99"
 }
 "extended"
 {
@@ -162,6 +163,12 @@
 			{
 				"oslist" "windows"
 			}
+			"description_loc"
+			{
+				"english" "茜色"
+				"schinese" "茜色"
+			}
+			"description" "茜色"
 		}
 		"1"
 		{
@@ -170,33 +177,40 @@
 			{
 				"oslist" "linux"
 			}
+			"description_loc"
+			{
+				"english" "茜色"
+				"schinese" "茜色"
+			}
+			"description" "茜色"
 		}
 	}
 }
 "depots"
 {
+	"baselanguages" "english,schinese"
+	"hasdepotsindlc" "0"
 	"2936181"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "7905285390618678682"
-				"size" "1572810403"
-				"download" "1327609616"
+				"gid" "6878388520556940699"
+				"size" "2283963758"
+				"download" "1914535296"
 			}
 		}
 	}
-	"baselanguages" "english,schinese"
-	"hasdepotsindlc" "0"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16143605"
-			"timeupdated" "1729642007"
+			"buildid" "16847069"
+			"timeupdated" "1735118662"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -219,6 +233,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25847974"
-"_sha" "bf72def3e1af95a072e8d114643711c8952dd510"
-"_size" "3509"
+"_change_number" "26779884"
+"_sha" "4d9e19bfaf140b4b61c00eca1b0677f2392d190b"
+"_size" "3778"
