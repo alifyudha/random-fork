@@ -232,6 +232,52 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1733889557"
 	"community_visible_stats" "1"
@@ -250,8 +296,8 @@
 		"8" "4064"
 		"9" "21"
 		"10" "15172"
-		"11" "122"
-		"12" "5984"
+		"11" "5984"
+		"12" "122"
 		"13" "599"
 		"14" "1664"
 		"15" "10235"
@@ -288,9 +334,9 @@
 		{
 			"public"
 			{
-				"gid" "238991001717981227"
-				"size" "2803070032"
-				"download" "918589648"
+				"gid" "3017452112038221612"
+				"size" "2803072515"
+				"download" "918590752"
 			}
 		}
 	}
@@ -298,8 +344,8 @@
 	{
 		"public"
 		{
-			"buildid" "16847511"
-			"timeupdated" "1735111660"
+			"buildid" "16849537"
+			"timeupdated" "1735137469"
 		}
 	}
 	"privatebranches" "1"
@@ -310,6 +356,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "26779186"
-"_sha" "0e8af7f0bca9e6d1628a4a9c810704a6ab564488"
-"_size" "5638"
+"_change_number" "26781767"
+"_sha" "ed9de9117cafc4cbf36f9cdfb9f08a23b542029e"
+"_size" "6310"
