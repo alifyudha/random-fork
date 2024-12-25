@@ -235,6 +235,12 @@
 		{
 			"public"
 			{
+				"gid" "6815600703875346769"
+				"size" "137609823"
+				"download" "119531536"
+			}
+			"pre226_win7"
+			{
 				"gid" "6525498241258734089"
 				"size" "136944236"
 				"download" "119437648"
@@ -251,6 +257,12 @@
 				"size" "34407791"
 				"download" "34336688"
 			}
+			"pre226_win7"
+			{
+				"gid" "3203134912372312587"
+				"size" "34407791"
+				"download" "34336688"
+			}
 		}
 	}
 	"workshopdepot" "2248430"
@@ -258,8 +270,14 @@
 	{
 		"public"
 		{
+			"buildid" "16843730"
+			"timeupdated" "1735051972"
+		}
+		"pre226_win7"
+		{
 			"buildid" "16735984"
-			"timeupdated" "1734096849"
+			"description" "Use this if you\'re playing on Windows 7"
+			"timeupdated" "1735061330"
 		}
 	}
 	"privatebranches" "1"
@@ -285,6 +303,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26630278"
-"_sha" "267d2f958e99d729e48ad2cb9594f6be5d68fc2d"
-"_size" "5145"
+"_change_number" "26775035"
+"_sha" "ce7397b925da8ffca9c00aa0e4e17939988b3a3c"
+"_size" "5525"
