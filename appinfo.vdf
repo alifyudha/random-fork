@@ -9,9 +9,9 @@
 		"tchinese" "三國志：建安外史"
 		"japanese" "三國志：建安外史"
 	}
-	"oslist" "windows,macos"
+	"oslist" "windows"
 	"osarch" ""
-	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"osextended" ""
 	"clienticon" "64b7c5354d08aa5ae0589a6615924cad142e236b"
 	"clienttga" "c135cce1c846aaed6ef9b64ff271e935a2cd0ab3"
 	"clienticns" "8a3263bf1845a06e16a48f96374ac2b77ae0b376"
@@ -182,8 +182,8 @@
 		"18" "4562"
 		"19" "493"
 	}
-	"review_score" "7"
-	"review_percentage" "94"
+	"review_score" "8"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -230,15 +230,6 @@
 "depots"
 {
 	"baselanguages" "schinese,tchinese"
-	"228988"
-	{
-		"config"
-		{
-			"oslist" "windows"
-		}
-		"depotfromapp" "228980"
-		"sharedinstall" "1"
-	}
 	"3362991"
 	{
 		"config"
@@ -249,9 +240,9 @@
 		{
 			"public"
 			{
-				"gid" "1453276544571520167"
-				"size" "720189158"
-				"download" "622673024"
+				"gid" "6727723272315201138"
+				"size" "725832208"
+				"download" "627265504"
 			}
 		}
 	}
@@ -275,8 +266,8 @@
 	{
 		"public"
 		{
-			"buildid" "16769264"
-			"timeupdated" "1734417449"
+			"buildid" "16847949"
+			"timeupdated" "1735117986"
 		}
 	}
 	"privatebranches" "1"
@@ -320,6 +311,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26673045"
-"_sha" "86246732157103e184376d9cf0b1100e14c59cdd"
-"_size" "5595"
+"_change_number" "26782350"
+"_sha" "2aedeadb4bcc3351c69b7674ccc19d5a2939448b"
+"_size" "5432"
