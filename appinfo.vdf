@@ -26,7 +26,7 @@
 		"schinese" "传染病"
 		"tchinese" "傳染病"
 	}
-	"timeline_marker_updated" "1734633200"
+	"timeline_marker_updated" "1735052872"
 	"timeline_marker_svg" "99b2b85f734ca1946149b367f1f645eed62ad169/markers.svg"
 	"steam_deck_compatibility"
 	{
@@ -286,11 +286,11 @@
 		"12" "3878"
 		"13" "1662"
 		"14" "4191"
-		"15" "7368"
-		"16" "3841"
-		"17" "4166"
-		"18" "19"
-		"19" "3859"
+		"15" "19"
+		"16" "7368"
+		"17" "3841"
+		"18" "4166"
+		"19" "21"
 	}
 	"review_score" "6"
 	"review_percentage" "72"
@@ -399,9 +399,9 @@
 		{
 			"public"
 			{
-				"gid" "6135311309726756381"
-				"size" "151731408"
-				"download" "56169936"
+				"gid" "4308402171768788756"
+				"size" "153295419"
+				"download" "56270800"
 			}
 		}
 		"encryptedmanifests"
@@ -426,9 +426,9 @@
 			}
 			"quality_assurance"
 			{
-				"gid" "DF142AB982E9B6D0A3E66CD9D22F6425"
-				"size" "3B749B1625C424B3765DFD6B8189B968"
-				"download" "25CC8D6FE8605E42931896FC65E95653"
+				"gid" "F3164EC40ECE343B38ECE7DACAB0AA81"
+				"size" "359355732E7C063A4D7FBA993BA9F8AF"
+				"download" "0DF90D8950792602E7C24DD06007C40E"
 			}
 		}
 	}
@@ -438,18 +438,18 @@
 		{
 			"public"
 			{
-				"gid" "749514038641878989"
-				"size" "14845630307"
-				"download" "4804816272"
+				"gid" "1402772434927032571"
+				"size" "15026636200"
+				"download" "4845593648"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"quality_assurance"
 			{
-				"gid" "94082D925FCCC86864FEEEB83F251256"
-				"size" "97A4C84C4ED911E80B0A2F04DBD1AE3A"
-				"download" "2A5F846E291383781C333CB37D322DEB"
+				"gid" "42A60A3DB8FE3D1BB3C9B2B7F08B21FD"
+				"size" "562AFDB8504C51192EFC7A501BB43875"
+				"download" "E44B5014EDA9E80AF02204368F1DB0DC"
 			}
 		}
 	}
@@ -479,8 +479,8 @@
 	{
 		"public"
 		{
-			"buildid" "16794837"
-			"timeupdated" "1734633161"
+			"buildid" "16837989"
+			"timeupdated" "1735052866"
 		}
 		"2013-build"
 		{
@@ -502,9 +502,9 @@
 		}
 		"quality_assurance"
 		{
-			"buildid" "16794837"
+			"buildid" "16837989"
 			"pwdrequired" "1"
-			"timeupdated" "1734574221"
+			"timeupdated" "1734988935"
 		}
 	}
 }
@@ -514,6 +514,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26720369"
-"_sha" "1811f884c40b467c5d49b0e526761b54f17ef3b7"
-"_size" "10892"
+"_change_number" "26774802"
+"_sha" "40aba029a5b20aa2b8f23de2c1b62ab1a487adbd"
+"_size" "10891"
