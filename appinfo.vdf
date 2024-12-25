@@ -351,24 +351,24 @@
 		{
 			"public"
 			{
-				"gid" "3739991650919639914"
-				"size" "2134282902"
-				"download" "560190816"
+				"gid" "5113013254741431816"
+				"size" "2134152438"
+				"download" "560172976"
 			}
 			"betatesting"
 			{
-				"gid" "3739991650919639914"
-				"size" "2134282902"
-				"download" "560190816"
+				"gid" "5113013254741431816"
+				"size" "2134152438"
+				"download" "560172976"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devmode"
 			{
-				"gid" "FC37AB66E15391CF8025143FDF5F367C"
-				"size" "373025A4371A1E0D9D2F9DF8A52CEC62"
-				"download" "0141B510A4AAEE9267119A0B4697FC09"
+				"gid" "24711B496ED97E4876F158014D92E96C"
+				"size" "F9E4E701C40C8C4A739D66E306921E89"
+				"download" "1D2C7D0C61B4486126BAF7B3ECFEFEC4"
 			}
 		}
 	}
@@ -376,20 +376,20 @@
 	{
 		"public"
 		{
-			"buildid" "16843347"
-			"timeupdated" "1735047609"
+			"buildid" "16847661"
+			"timeupdated" "1735112499"
 		}
 		"betatesting"
 		{
-			"buildid" "16843333"
+			"buildid" "16847661"
 			"description" "Newest builds available here. may have some bugs."
-			"timeupdated" "1735047279"
+			"timeupdated" "1735112155"
 		}
 		"devmode"
 		{
-			"buildid" "16843332"
+			"buildid" "16847661"
 			"pwdrequired" "1"
-			"timeupdated" "1735047271"
+			"timeupdated" "1735112144"
 		}
 	}
 }
@@ -445,6 +445,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26773563"
-"_sha" "6e8e884010ae0c3824aa5d9ab7b99eb328ca76fa"
+"_change_number" "26779253"
+"_sha" "782d780b767b042aed4992e27532d71afaf90490"
 "_size" "7804"
