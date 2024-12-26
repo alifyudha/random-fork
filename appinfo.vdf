@@ -421,9 +421,9 @@
 		{
 			"public"
 			{
-				"gid" "7865304247346317355"
-				"size" "3571599576"
-				"download" "1105832640"
+				"gid" "502143533634260821"
+				"size" "3571762424"
+				"download" "1105832576"
 			}
 			"test"
 			{
@@ -454,9 +454,9 @@
 			}
 			"test4"
 			{
-				"gid" "7424C3C0B31EFCE3E59725F54740B560"
-				"size" "1F7EDB649935FC0C8583C78E7A5A39B2"
-				"download" "773465349FE0A260C40577EA0B238090"
+				"gid" "66A506E29A4F736CEEE25896FEBFA535"
+				"size" "22D02556413FE00C3EA31E144466B82C"
+				"download" "CC4D93ED4F500957FC418DA981248EC2"
 			}
 		}
 	}
@@ -523,9 +523,9 @@
 		{
 			"public"
 			{
-				"gid" "5952638000000679717"
-				"size" "3571599576"
-				"download" "1105827488"
+				"gid" "1870771566505855920"
+				"size" "2516721686"
+				"download" "1685641920"
 			}
 			"test"
 			{
@@ -566,8 +566,8 @@
 	{
 		"public"
 		{
-			"buildid" "16701742"
-			"timeupdated" "1733881406"
+			"buildid" "16841602"
+			"timeupdated" "1735180861"
 		}
 		"steam_chaina_test"
 		{
@@ -597,9 +597,9 @@
 		}
 		"test4"
 		{
-			"buildid" "16689571"
+			"buildid" "16841602"
 			"pwdrequired" "1"
-			"timeupdated" "1733808347"
+			"timeupdated" "1735029724"
 		}
 	}
 }
@@ -623,6 +623,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26585388"
-"_sha" "713aa3da0ecc44d4632b4eae582fe8c78822aaae"
-"_size" "12204"
+"_change_number" "26785032"
+"_sha" "7f061516a739717a7d9d440b8644e0073c3ab628"
+"_size" "12203"
