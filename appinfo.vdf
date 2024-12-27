@@ -344,15 +344,15 @@
 		{
 			"public"
 			{
-				"gid" "4861842355898849204"
-				"size" "27749055649"
-				"download" "26874819744"
+				"gid" "8820822663789822710"
+				"size" "27749762161"
+				"download" "26875420912"
 			}
 			"beta_test"
 			{
-				"gid" "4861842355898849204"
-				"size" "27749055649"
-				"download" "26874819744"
+				"gid" "8820822663789822710"
+				"size" "27749762161"
+				"download" "26875420912"
 			}
 		}
 		"encryptedmanifests"
@@ -370,8 +370,8 @@
 	{
 		"public"
 		{
-			"buildid" "16849787"
-			"timeupdated" "1735141713"
+			"buildid" "16856470"
+			"timeupdated" "1735248969"
 		}
 		"plugins_test"
 		{
@@ -381,9 +381,9 @@
 		}
 		"beta_test"
 		{
-			"buildid" "16849787"
+			"buildid" "16856470"
 			"description" "0.85 SDK"
-			"timeupdated" "1735141684"
+			"timeupdated" "1735248952"
 		}
 	}
 }
@@ -408,6 +408,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26782186"
-"_sha" "6301e55ab0ddc63af22de467897cdf7c05899f3a"
+"_change_number" "26791540"
+"_sha" "2fb66b1ee798050097551da5be1322444f170385"
 "_size" "7127"
