@@ -26,7 +26,7 @@
 		"schinese" "传染病"
 		"tchinese" "傳染病"
 	}
-	"timeline_marker_updated" "1735052872"
+	"timeline_marker_updated" "1735244812"
 	"timeline_marker_svg" "99b2b85f734ca1946149b367f1f645eed62ad169/markers.svg"
 	"steam_deck_compatibility"
 	{
@@ -399,9 +399,9 @@
 		{
 			"public"
 			{
-				"gid" "4308402171768788756"
-				"size" "153295419"
-				"download" "56270800"
+				"gid" "8110884578553841669"
+				"size" "153300539"
+				"download" "56267232"
 			}
 		}
 		"encryptedmanifests"
@@ -426,9 +426,9 @@
 			}
 			"quality_assurance"
 			{
-				"gid" "F3164EC40ECE343B38ECE7DACAB0AA81"
-				"size" "359355732E7C063A4D7FBA993BA9F8AF"
-				"download" "0DF90D8950792602E7C24DD06007C40E"
+				"gid" "61BFE49C8D7AF74C850BF59AF1C90A8D"
+				"size" "8A3D8F7CB5EF1FE7EB462E954EBDBF1D"
+				"download" "E510D1EF91E263686E38773A3A4CB051"
 			}
 		}
 	}
@@ -438,18 +438,18 @@
 		{
 			"public"
 			{
-				"gid" "1402772434927032571"
-				"size" "15026636200"
-				"download" "4845593648"
+				"gid" "3718980756810913430"
+				"size" "15026778309"
+				"download" "4845658000"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"quality_assurance"
 			{
-				"gid" "42A60A3DB8FE3D1BB3C9B2B7F08B21FD"
-				"size" "562AFDB8504C51192EFC7A501BB43875"
-				"download" "E44B5014EDA9E80AF02204368F1DB0DC"
+				"gid" "F452AD1F6D8D1BF28069250878647FF5"
+				"size" "8F313B4C0507C0EB9B7377674BE13618"
+				"download" "0E1C57894E813995B92489EC0C5D976E"
 			}
 		}
 	}
@@ -460,18 +460,18 @@
 		{
 			"public"
 			{
-				"gid" "8874425291611380811"
-				"size" "6264952"
-				"download" "4129536"
+				"gid" "718209926835744991"
+				"size" "314801345"
+				"download" "295345888"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"quality_assurance"
 			{
-				"gid" "EDA465696CBD3AC37F5A98D2357FA9B2"
-				"size" "409F54A84F9345A8502565B44F6FFB6F"
-				"download" "73169DDE1A607F4803C1801D268AED3A"
+				"gid" "0992A20D3F5C7A67A1739B33F3CEFEA6"
+				"size" "BA75E753F554800C54871A0DACDE4775"
+				"download" "315C23B58B3D94A95872C694C086BB73"
 			}
 		}
 	}
@@ -479,8 +479,8 @@
 	{
 		"public"
 		{
-			"buildid" "16837989"
-			"timeupdated" "1735052866"
+			"buildid" "16856134"
+			"timeupdated" "1735244603"
 		}
 		"2013-build"
 		{
@@ -502,9 +502,9 @@
 		}
 		"quality_assurance"
 		{
-			"buildid" "16837989"
+			"buildid" "16856134"
 			"pwdrequired" "1"
-			"timeupdated" "1734988935"
+			"timeupdated" "1735244320"
 		}
 	}
 }
@@ -514,6 +514,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26774802"
-"_sha" "40aba029a5b20aa2b8f23de2c1b62ab1a487adbd"
-"_size" "10891"
+"_change_number" "26791198"
+"_sha" "71ca0a49cccace60ca1409ebdca05b7e47e60504"
+"_size" "10894"
