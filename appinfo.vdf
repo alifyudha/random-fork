@@ -336,36 +336,36 @@
 		{
 			"public"
 			{
-				"gid" "8460035672507718230"
-				"size" "478075120"
-				"download" "311014608"
+				"gid" "6383426789951954541"
+				"size" "477978865"
+				"download" "310949488"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"playtest"
 			{
-				"gid" "FE3BE8A17A190F737704CC8802524CB8"
-				"size" "831CC3C386E38A53D2BEF523B74E7A8E"
-				"download" "924936C3DF676EB40CFCBDB74E516FB9"
+				"gid" "D7213A26D853A3512FDF227B8AB8A63D"
+				"size" "A3DC79465CCA6AAE387D8A8CEA6A9556"
+				"download" "2506CB29A8E3F2C6BAFB7224E6525162"
 			}
 			"qatest"
 			{
-				"gid" "08531E3D147ECA70D074CC30BD51E8F7"
-				"size" "37861C2D22F6544862A11EF5AC3484A1"
-				"download" "7818C38AAFF76680D68FC35786878031"
+				"gid" "2BC884417620C50355137A735F391D45"
+				"size" "D5F1C3BF233B8D71A4C1082084213E03"
+				"download" "5C5D9CE0780A8D92411347CABAB0E3AE"
 			}
 			"steam_china_only"
 			{
-				"gid" "5FCFB55B2C0446975201FFD9FA644B18"
-				"size" "1BD75F7B3BEE5C870D36C635BC3B88E2"
-				"download" "2D78CE099381B3F237002EC4A83F00E4"
+				"gid" "3F6DEA008A0049DA2AA6FAF23DD2ADD1"
+				"size" "AED25124B65A6C0C7D6DF56BEE3F5894"
+				"download" "72C324A5347C956B78A066D9CB1E5263"
 			}
 			"steam_china_qatest"
 			{
-				"gid" "C0359E13CC4A3C173FA48594DC483DA2"
-				"size" "3A9BCB131452616EA2DE5E4A56D90188"
-				"download" "B56D3B3D0545844CD1406131E0658872"
+				"gid" "7F5FD7C24E17D4A1926822AF2821B748"
+				"size" "CB0CD9306D6045763EB3CE0FF7459022"
+				"download" "BABCF3960C099EB9309727866B7B1B0F"
 			}
 			"ver.0.8.4"
 			{
@@ -437,36 +437,36 @@
 		{
 			"public"
 			{
-				"gid" "943751426490090799"
-				"size" "478076787"
-				"download" "311033024"
+				"gid" "1565480500102406166"
+				"size" "477955267"
+				"download" "310973888"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"playtest"
 			{
-				"gid" "9C9E285C46E9CD355F06F3758A247B4A"
-				"size" "4BC6D3339A920A00203A2ACDDEE9B847"
-				"download" "7F15565BA76007C24526E609CADEF3EA"
+				"gid" "57B7FED828C95B97B8207B0A83847CE7"
+				"size" "03F9597C757E03E22FBAADE8501889D4"
+				"download" "05396B98F277108B2B12A3427D8C663F"
 			}
 			"qatest"
 			{
-				"gid" "597C1CF09E5770B395A430B757BFDFE9"
-				"size" "0E1DE082855BEAC44903A244AC676B11"
-				"download" "B7B64FBCFA406E249CFD3A82A4602A54"
+				"gid" "4C36C886A432BB856C4A2368BB2C7BCD"
+				"size" "F41C986CBD3766D26ED3DEAEB9AE01AE"
+				"download" "2B36939C6B89F0151E1AA072E143F0E4"
 			}
 			"steam_china_only"
 			{
-				"gid" "16F3E014F98C0BFE4EF2EBAD11C3A96C"
-				"size" "EBEB26F77B1957C980D789F4BDAEC84C"
-				"download" "27B0A17FFA6749B8CE462F3DC8EEC3BC"
+				"gid" "2F1F3B19BDC0F2DC0E077E9F711CB691"
+				"size" "C98781E7C93FE994692E080B856F6B46"
+				"download" "5FFBC6E5185062D54F38CFC5FF6DBA32"
 			}
 			"steam_china_qatest"
 			{
-				"gid" "CEF21B1FA5500E46EF084A3CA32CDF9E"
-				"size" "FF78568C1E93063AA302AE0CB7F5B169"
-				"download" "90C4286588F6E14D777366EFD673FBDB"
+				"gid" "F0F9CB79245FDE3E1FFA4EB04AF767E3"
+				"size" "9F05A167E23FC2D2B2DA20292575C4BF"
+				"download" "58355F5887E452D493E3B37CF383A613"
 			}
 			"ver.0.8.4"
 			{
@@ -480,34 +480,34 @@
 	{
 		"public"
 		{
-			"buildid" "16854069"
-			"timeupdated" "1735229600"
+			"buildid" "16860531"
+			"timeupdated" "1735307674"
 		}
 		"playtest"
 		{
-			"buildid" "16833016"
+			"buildid" "16860531"
 			"pwdrequired" "1"
-			"timeupdated" "1734945932"
+			"timeupdated" "1735308115"
 		}
 		"qatest"
 		{
-			"buildid" "16854069"
+			"buildid" "16860531"
 			"pwdrequired" "1"
-			"timeupdated" "1735212709"
+			"timeupdated" "1735302850"
 		}
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "16854069"
+			"buildid" "16860531"
 			"pwdrequired" "1"
-			"timeupdated" "1735229257"
+			"timeupdated" "1735307626"
 		}
 		"steam_china_qatest"
 		{
 			"sc_schinese" "蒸汽测试"
-			"buildid" "16854069"
+			"buildid" "16860531"
 			"pwdrequired" "1"
-			"timeupdated" "1735212719"
+			"timeupdated" "1735302860"
 		}
 		"ver.0.8.4"
 		{
@@ -546,6 +546,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26789833"
-"_sha" "f5d511f48327ac6510246f9ab1a3b7228b5b7f96"
-"_size" "10682"
+"_change_number" "26797404"
+"_sha" "77fbd4079019ae21e1518ad026c0dcdfdce0aa64"
+"_size" "10683"
