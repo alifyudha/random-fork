@@ -1,18 +1,11 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-12-27 14:17:55
+## 更新时间：2024-12-27 16:28:32
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1546400 | GigaBash| Game |
-| 207930 | Sacred Citadel| Game |
-| 221001 | FTL: Faster Than Light - Soundtrack| Music |
-| 215 | Source SDK Base 2006| Tool |
-| 218 | Source SDK Base 2007| Tool |
-| 22380 | Fallout: New Vegas| game |
-| 240 | Counter-Strike: Source| game |
-| 2669360 | 神之天平外传：幻雾之洞窟| DLC |
-| 324160 | CLANNAD| Game |
-| 33770 | Drakensang The River of Time| game |
-| 34470 | Sid Meier's Civilization IV: Colonization| Config |
-| 625980 | Yomawari: Midnight Shadows| Game |
-| 917080 | This Is the Police 2 - Soundtrack| Music |
+| 577230 | 三国志汉末霸业| Game |
+| 222750 | Wargame: AirLand Battle| Game |
+| 320 | Half-Life 2: Deathmatch| game |
+| 720000 | Don't Panic!| Game |
+| 16810 | Sid Meier's Civilization IV: Colonization| game |
+| 22490 | Fallout: New Vegas PCR| game |
