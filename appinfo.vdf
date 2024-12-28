@@ -285,7 +285,7 @@
 	"publisher" "Fruitbat Factory"
 	"homepage" "http://fruitbatfactory.com/100orange/"
 	"gamemanualurl" "https://store.steampowered.com/manual/282800/"
-	"listofdlc" "327340,334080,338360,376200,388790,425360,465480,537330,573180,583640,619510,648980,704180,734740,775410,792420,869670,955130,995770,1050440,1101350,1151070,1180510,1210870,1290250,1338470,1439430,1500840,1610600,1672150,1761020,1850940,1974460,2144450,2242260,2456760,2585600,2727930,2989310"
+	"listofdlc" "327340,334080,338360,376200,388790,425360,465480,537330,573180,583640,619510,648980,704180,734740,775410,792420,869670,955130,995770,1050440,1101350,1151070,1180510,1210870,1290250,1338470,1439430,1500840,1610600,1672150,1761020,1850940,1974460,2144450,2242260,2456760,2585600,2727930,2989310,3414420"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -410,9 +410,9 @@
 		{
 			"public"
 			{
-				"gid" "3450925535508561902"
-				"size" "39223632"
-				"download" "12784560"
+				"gid" "9200428666384722747"
+				"size" "40034640"
+				"download" "13068656"
 			}
 			"legacy_3.23.1"
 			{
@@ -467,9 +467,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "573EFDA55F1CB47FAB5C6DF2B8600121"
-				"size" "26353E3959C501C9EA7CC0DE1E3BF998"
-				"download" "A0E2BC86A88EC19F02CFFEEBB7CC86DA"
+				"gid" "6D92F5BB44AD7B80B45FDE79A1FAF28F"
+				"size" "1AAC5725FD76B54BF9846DCCBE6809D2"
+				"download" "DAC6BB8E63929F7A3048C2FD81304BE0"
 			}
 			"temp_directx_backup"
 			{
@@ -501,9 +501,9 @@
 		{
 			"public"
 			{
-				"gid" "8625666391113432539"
-				"size" "33372568"
-				"download" "9996560"
+				"gid" "8883301622625643479"
+				"size" "34651608"
+				"download" "10367088"
 			}
 			"legacy_3.23.1"
 			{
@@ -534,9 +534,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "8602206D00E4C9E101FBA74F9042B2C2"
-				"size" "A2C8676962BCEC1CFEB2270736E803AA"
-				"download" "CAC2B2E5C8D941F48A0193FF3C4A9BDF"
+				"gid" "42B7E8D35172DE60F682D78F5EA0BFD0"
+				"size" "73CD3A8896E70BE165037FAD2401CE78"
+				"download" "28CFB86EA6EB4A03D567585D5425FB52"
 			}
 			"temp_directx_backup"
 			{
@@ -562,9 +562,9 @@
 		{
 			"public"
 			{
-				"gid" "4660949926239828708"
-				"size" "1594620849"
-				"download" "1602002528"
+				"gid" "6423527227914184789"
+				"size" "1623003006"
+				"download" "1629672752"
 			}
 			"legacy_3.23.1"
 			{
@@ -595,9 +595,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "6512448192A03FFB2AA57BD0C05191D3"
-				"size" "6ECD7E75C1EF90CBCD8642826EAA09F4"
-				"download" "91934DFE54C1F3921B9D36E24A34E421"
+				"gid" "307709E3C8BBAE91AF0AB0B7D726C94B"
+				"size" "8B951E76B15F3D4BEF0540E62FD0D289"
+				"download" "F92567E16E815C303F88D8533DFA4AD5"
 			}
 			"temp_directx_backup"
 			{
@@ -623,9 +623,9 @@
 		{
 			"public"
 			{
-				"gid" "283867763226300285"
-				"size" "1652788221"
-				"download" "1613650832"
+				"gid" "6541982009342054351"
+				"size" "1681140549"
+				"download" "1641881024"
 			}
 		}
 		"encryptedmanifests"
@@ -644,9 +644,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "65364FE3E5AF6F51C89AE20138C45CB2"
-				"size" "B21747731119D889422356DEFABAB208"
-				"download" "AEF90A55A7A15884878D6AE4BC44A0B8"
+				"gid" "E2A42B5350982D9F3AF807F2E176B149"
+				"size" "5EBAE78C43DC8E52D475BF9A11D63A4C"
+				"download" "55DF722F78F83E5D1C29C69DB5EB094E"
 			}
 			"temp_directx_backup"
 			{
@@ -666,8 +666,8 @@
 	{
 		"public"
 		{
-			"buildid" "16836963"
-			"timeupdated" "1734978035"
+			"buildid" "16862568"
+			"timeupdated" "1735345235"
 		}
 		"devs"
 		{
@@ -719,9 +719,9 @@
 		}
 		"release_candidate"
 		{
-			"buildid" "16836963"
+			"buildid" "16862568"
 			"pwdrequired" "1"
-			"timeupdated" "1734976955"
+			"timeupdated" "1735331296"
 		}
 		"temp_directx_backup"
 		{
@@ -776,6 +776,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26765413"
-"_sha" "dd907f87ebe533e8b086a3028c2d8ae179f6f2e8"
-"_size" "16051"
+"_change_number" "26801084"
+"_sha" "3003f427bb4fcafb3becf4e725900c42778ac492"
+"_size" "16061"
